@@ -1,12 +1,12 @@
-## Developer
+## getCoding 3-5
 
 ![coding](../images/developer-one.jpg)
 
-The developer series features project and product based curricula designed to introduce and reinforce applied learning in projects motivated by the product design cycle. The lessons in these units are couched in the context of an overarching product that the student is working on developing. Students will create games, apps, and collaborative worlds.
+The 3-5 series features project and product based curricula designed to introduce and reinforce applied learning in projects motivated by the product design cycle. The lessons in these units are couched in the context of an overarching product that the student is working on developing. Students will create games, apps, and collaborative worlds.
 
 ## Curriculum
-- [Level 1](../developer/level-1/index.html)
-- Level 2 (Coming Soon!)
+- [3rd Grade](../3-5/grade-3/index.html)
+- 4th Grade (Coming Soon!)
 
 ## Overview: Escape the Maze
 In this 27-lesson course, students master computational thinking skills and the fundamentals of coding to build an interactive maze game with multiple obstacles, enemies, and levels. These lessons incorporate unplugged and online activities that build connections between coding concepts and apply them to projects. Along with hard skills in coding, students learn the processes and mindsets of a computer programmer. Students learn to approach failure as an opportunity, collaborate with peers on writing and reviewing code, and tap into their own creativity without reservations. At the end of the course students apply their knowledge of the software design process to plan an unplugged event - a class-wide Arcade Day - in which they share their final maze projects and celebrate their development as a coder.

@@ -1,13 +1,12 @@
-# preCoder
+# getCoding K-2
 
 ![preCoder](../images/precoder-one.jpg)
 
-The preCoder series serves as an introduction to reading, writing, and debugging code for pre-readers. Beginning coders develop a foundational level of understanding of fundamental coding concepts through unplugged activities, games, and the [pixelBot][pixel-bot] platform.
+The K-2 series serves as an introduction to reading, writing, and debugging code for pre-readers. Beginning coders develop a foundational level of understanding of fundamental coding concepts through unplugged activities, games, and the [pixelBot][pixel-bot] platform.
 
 ## Curriculum
 
-- [Level 1](../precoder/level-1/index.html)
-
+- [Kindergarten](../k-2/kindergarten/index.html)
 
 ## Purpose
 1. Empower students to use computational practices to analyze problems, build solutions, and be creative.
