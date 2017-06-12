@@ -25,8 +25,8 @@ Students are introduced to the story of the first bug and practice using the deb
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: getCoding 3.3 | Code: ZND7W][ind-practice]
-- [ ] [Playlist: getCoding 3.3 Exit | Code: QPJJ5][exit-ticket]
+- [ ] [Playlist: getCoding 3.4 | Code: ZND7W][ind-practice]
+- [ ] [Playlist: getCoding 3.4 Exit | Code: QPJJ5][exit-ticket]
 
 </note>
 
