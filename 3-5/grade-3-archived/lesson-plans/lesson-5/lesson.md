@@ -53,13 +53,13 @@ In this lesson students explore and predict how they can use loops to more effic
 
 - [ ] **Review** how to read the turn clockwise/counter clockwise blocks with students.
 
-> > "There are 2 code blocks you will see today that tell Rover how to turn. When you see 'Turn left 90 degrees', Rover is turning a quarter turn to the left. When you see 'Turn right 90 degrees', Rover is turning a quarter turn to the right."
+> > "There are 2 code blocks you will see today that tell Rover how to turn. When you see 'Turn left 90 degrees,' Rover is turning a quarter turn to the left. When you see 'Turn right 90 degrees,' Rover is turning a quarter turn to the right."
 
 ![slides-rover](./images/slides-rover.png)
 
 - [ ] **Debugging:** Students move their rover around their paper maze to identify where in the given sequence there is a bug.
 
-> > "Move Rover around the maze as you read the sequence of code on your paper. Identify where in the sequence there is a bug (error) and how would you fix it."
+> > "Move Rover on the maze as you read the sequence of code on your paper. Identify where in the sequence there is a bug (error) and how would you fix it."
 
 <note title='Slides'>![slides-sequence](./images/slides-seq.png)
 </note>
@@ -82,9 +82,9 @@ In this lesson students explore and predict how they can use loops to more effic
 </note>
 
 <br/>
-- [ ] **Coders & Bots:** Assign a student to be the coder and read each line of code while another acts as the Bot and acts out the solution on the foam tiles.
+- [ ] **Coders & Bots:** Assign a student to be the coder and read each line of code and another student as the Bot to act out the code on the foam tiles.
 
-> > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act it out on the foam tiles."
+> > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act out the sequence on the foam tiles."
 
 <iconp type='question'> What did the code do before that wasn’t working? </iconp>
 <iconp type='answer'> Answer: At line 11 the hero moved 6 steps instead of 2 so it walked off the board. </iconp>
@@ -93,7 +93,7 @@ In this lesson students explore and predict how they can use loops to more effic
 
 ## 2. Explore: Discovering Loops (10 min)
 
-- [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
+- [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will purposefully not have enough move and turn blocks to finish the sequence.
 
 > > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
 ![move6](./images/move6.png)
@@ -104,30 +104,30 @@ In this lesson students explore and predict how they can use loops to more effic
 <iconp type="answer">Check that each pair has one Bot. They will be moving Rover and validating the code.</iconp>
 
 <note type='tip' title='Tip'>
-_Younger students may need to be told to write in 90 degrees on turn blocks._
+_Younger students may need to be told to write in 90 degrees on turn blocks or to write a "L" for left and "R" for right directly on Rover._
 ![slides-discover](./images/slides-discover.png)
 </note>
 
-- [ ] **Discover Loops:** Wait until students identify that there are not enough blocks before introducing loops.  Without introducing them verbally, place loop strips on each group’s table.
+- [ ] **Discover Loops:** Wait until students identify that there are not enough blocks before introducing the loop blocks.  Without introducing them verbally, place loop strips on each group’s table.
 
-- [ ] **Demo Code:** Call on one group to demo their code by bringing their felt up to the board and acting it out on the unplugged maze.
+- [ ] **Demo Code:** Call on one group to demo their code by bringing their code up to the board and acting it out on the unplugged maze.
 
-<iconp type='question' mb='1em'>Extension: Can you rewrite your code with fewer blocks</iconp>
+<iconp type='question' mb='1em'>Extension: Can you rewrite your code with fewer blocks?</iconp>
 ![extension](./images/extension.png)
 
 <note>![slides-loopsolution](./images/slides-loopsol.png)</note>
 
 ## 3. Explain: Loops (5 min)
 
-- [ ] **Predict Vocabulary Definitions:** Each group’s driver holds up each loop as you introduce it.
+- [ ] **Predict Vocabulary Definitions:** Each group’s Coder holds up each loop as you introduce it.
 
-<iconp type='question'>For each loop: What do you think this loop will do?</iconp>
+<iconp type='question'>For each loop type: What do you think this loop will do?</iconp>
 ![for-each](./images/for-each.png)
 <iconp type='answer'>Forever: Repeats the nested sequence forever</iconp>
 <iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
-<iconp type='answer'>Repeat __: Repeats the nested sequence that number of times</iconp>
+<iconp type='answer'>Repeat __: Repeats the nested sequence a specified number of times</iconp>
 
-> > "These structures are called loops. Loops make it so we don’t have to write a sequence of code over and over to make it repeat."
+> > "These code blocks are called loops. Loops help us so we don’t have to write a sequence of code over and over to make it repeat."
 
 <note>![slides-loops](./images/slides-loop.png)</note>
 
