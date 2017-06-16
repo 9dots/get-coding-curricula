@@ -53,9 +53,9 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 <iconp type="question">Is there another way to write this code? </iconp>
 <iconp type="answer"> Hint to last week’s lesson to get students to suggest using a repeat loop.</iconp>
-<iconp type="question">Do both set of instructions get Rover to the goal?  </iconp>
+<iconp type="question">Do both sets of instructions get Rover to the goal?  </iconp>
 <iconp type="answer">Yes </iconp>
-<iconp type="question">Then what is the benefit of using a loop to write this code?  </iconp>
+<iconp type="question">Then why would we use a loop to write this code?  </iconp>
 <iconp type="answer">A loop requires less lines of code. </iconp>
 
 <note>**Slides:** <br/>
@@ -68,7 +68,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 - [ ] **Making Connections:** Students see how loops apply to something they are familiar with: GIFs (an image format that repeats an animation).
 
-> > “Let’s look at some GIFs and see how loops are actually creating the animation we see.”
+> > “Let’s look at some GIFs and see how loops are creating the animation we see.”
 
 <iconp type="question">What might the code look like for this GIF?</iconp>
 <iconp type="answer">See code suggestions on slides. Students should nest the action they are seeing inside a loop block.</iconp>
@@ -88,7 +88,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 - [ ] **Model** the steps to read a chunk of code that contains a loop. Have students follow along on their handout. Uncover each line of code one at a time using an index card. Make a tally at the end of the sequence to keep track of how many times you’ve repeated the sequence.
 
-> > “Before we can write the code to make our enemies move like that, we need to know how to read the code. We are going to use Rover to practice reading loops. Today Rover understands a new instruction - Paint. When Rover sees a Paint block, he will color in the square he is on.”
+> > “Before we can write the code to make our enemies move in a loop, we need to know how to read the code. We are going to use Rover to practice reading loops. Today Rover understands a new instruction - Paint. When Rover sees a Paint block, he will color in the square he is on.”
 
 > > “Use your index card to uncover each line of code one block at a time.”
 Narrate what you’re doing at each step.
@@ -117,7 +117,7 @@ Narrate what you’re doing at each step.
 ![slides-p1](./images/slides-p1.png)
 </note>
 
-- [ ] **Coder & Bot:** Have one coder and bot read and act out the code on the unplugged platform to check their work on each practice problem.
+- [ ] **Coder & Bot:** Have one Coder and Bot read and act out the code on the unplugged platform to check their work on each practice problem.
 
 > > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act it out on the foam tiles."
 
@@ -126,7 +126,7 @@ Narrate what you’re doing at each step.
 ![slides-practice3](./images/slides-practice3.png)
 
 
-- [ ] **Evaluate:** Choose one problem that you do not go over as a class to collect for your exit challenge.
+- [ ] **Evaluate:** Choose one problem that you did not go over as a class to collect as your exit challenge.
 
 ## 5. Extension: Independent Coding (20-35 min)
 
