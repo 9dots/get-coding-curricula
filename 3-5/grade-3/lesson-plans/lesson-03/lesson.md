@@ -11,11 +11,11 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Rover Paints ( min)**
-1. **Explore: pixelBots Intro ( min)**
-1. **Explain: pixelBots 101 ( min)**
-1. **Elaborate: pixelBot Challenges ( min)**
-1. **Evaluate: Exit Challenge ( min)**
+1. **Engage: Rover Paints (10 min)**
+1. **Explore: pixelBots (10 min)**
+1. **Explain: pixelBots 101 (8 min)**
+1. **Elaborate: pixelBot Challenges (12 min)**
+1. **Evaluate: Exit Challenge (5 min)**
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -23,6 +23,7 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 - [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slides]
+- [ ] [Rover Code Blocks][commands]
 
 ###### Student Materials:
 - [ ] [Playlist: getCoding 3.3 | Code: ][]
@@ -34,6 +35,9 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Code:** A set of instructions designed to be carried out by a computer.
+- **Sequence:** A set of actions that must be performed in the order they are written.
+- **Editor:** A program designed for editing code.
 </note>
 
 <pagebreak/>

@@ -22,5 +22,9 @@ The K-2 series serves as an introduction to reading, writing, and debugging code
 ## Essential Questions
 1. When your code breaks or when you get stuck, what can you do?
 
+## Sequence
+
+
+
 
 [pixel-bot]: https://www.pixelbots.io/
