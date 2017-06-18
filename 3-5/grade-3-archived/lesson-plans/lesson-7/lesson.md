@@ -83,7 +83,7 @@ Students practice reading code by predicting, stepping through, and summarizing 
 
 - [ ] **Coders & Bots:** Students try the next two code examples on their paper, using their enemy character to act out the code. Then check both examples as a class.
 
-> > “Now it’s your turn! Acting as Coders & Bots, predict and step through the enemy code in the next two examples. We will check our work together after.”
+> > “Now it’s your turn! Acting as Coders & Bots, predict and step through the enemy code in the next two examples. We will check our work together afterward.”
 
 <iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
 <iconp type="answer">Check that each pair has one Coder. They will be reading the code, using the index card, and making tallies.</iconp>
@@ -122,5 +122,5 @@ Students practice reading code by predicting, stepping through, and summarizing 
 [slide-show]: https://docs.google.com/presentation/d/1xdeJXVRE1wMofw5KSin4iZzqNrtKwqJBOY-RtJPtnec/edit#slide=id.p
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPd1gtZFpYSUJIOWc/view
 [characters]: https://drive.google.com/file/d/0B2wBzr9vcXjPVTFKd3Z3bXhGUkU/view
-[salsa-cards]: https://drive.google.com/file/d/0B2wBzr9vcXjPYzBsV0tTZ21yTDA/view
+[salsa-cards]: https://drive.google.com/drive/u/0/folders/0B2wBzr9vcXjPd3dweGZvcnRzVUU
 [tps]: http://www.acpsk12.org/pl/coachs-cuts/think-pair-share/

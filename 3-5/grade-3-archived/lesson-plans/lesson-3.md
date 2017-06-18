@@ -28,7 +28,7 @@ Students are introduced to the importance of writing clear instructions. Student
 - [ ] Pencils
 - [ ] [Exit Challenges][exit]
 - [ ] [Optional Extension Handout][extension]
-- [ ] [Rover Tokens][cutouts]
+- [ ] [Rover Cutouts][cutouts]
 
 
 </note>
@@ -57,7 +57,7 @@ Students are introduced to the importance of writing clear instructions. Student
 
 <iconp type="answer">Volunteers share their instructions. Follow each step exactly, without using your human intuition to interpret a direction. For example, if a student says “put the peanut butter on the bread” then put the jar of peanut butter on the top of the bag of bread.</iconp>
 
-> > “Humans can interpret the meaning and intention behind a direction in a way computers cannot. You would have known that “put the peanut butter on the bread” meant that first you needed to get a knife and open the jar and put peanut butter on the knife, etc. But a computer cannot infer all of that. It only knows to follow the specific instructions we write. These instructions are called an algorithm. Today we are going to code an algorithm for a computer to follow.”
+> > “Humans can interpret the meaning and intention behind a direction in a way computers cannot. You would have known that “put the peanut butter on the bread” meant that first you needed to get a knife and open the jar and put peanut butter on the knife. But a computer takes things literally. It only knows to follow the specific instructions we write. These instructions are called an algorithm. Today we are going to code an algorithm that is clear enough for a computer to follow.”
 
 <note type="tip">
 Nut allergies are common. Sunflower butter is a safe alternative to peanut butter.
@@ -68,10 +68,10 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 - [ ] **Motivate:** Introduce Rover.
 
-> > “This is Rover. Rover is a robot so he can read code. Rover only understands 3 directions:
+> > “This is Rover. Rover is a robot so it can read code. Rover only understands 3 directions:"
 	- Move 1 Step: Rover moves 1 square in the direction it is facing (the direction its headlights are facing)
 	- Turn Left: Rover turns towards its left
-	- Turn Right: Rover turns towards its right”
+	- Turn Right: Rover turns towards its right
 
 <iconp type="question">Which way will Rover turn? Point with your fingers to show me.</iconp>
 <iconp type="answer">![CFU](./lesson-3/images/CFU.jpeg)</iconp>
@@ -85,14 +85,14 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 ![slide-rover6](./lesson-3/images/slides-rover6.jpeg)
 </note>
 
-- [ ] **Challenge:** Write an algorithm to navigate Rover to the goal on handout 1 and on the foam tiles by following these three steps: 1) plan 2) code 3) validate.
+- [ ] **Challenge:** Write an algorithm to navigate Rover to the goal on Handout 1 by following these three steps: (1) plan (2) code (3) validate.
 
-> > “Now that you’ve been introduced to Rover, we are going to use him to complete our first challenge today. We need to write an algorithm that will get Rover to the yellow goal. Find your Rover and place him on start on your worksheet.”
+> > “Now that know Rover the Bot, we are going to program Rover to complete our first challenge today. We need to write an algorithm that will get Rover to the yellow goal. Find your Rover and place him on start on your worksheet.”
 
 <note> ![slide-challenge1](./lesson-3/images/slides-challenge1.jpeg)</note>
 <br/>
 
-- [ ] **Plan:** There are multiple ways that Rover can get there so have the class vote on which plan they would like to use. Then have them trace the path on their grid.
+- [ ] **Plan:** There are multiple ways Rover can get there so have the class vote on which plan they would like to use. Then have them trace the path on their grid.
 
 > > “There are multiple paths that Rover could take to get to the goal. Let’s look at three of the options and vote as a class which path we will code. Then draw that path on your grid. This is the first step to writing good code: planning.”
 
@@ -106,9 +106,9 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 <br/>
 
-- [ ] **Validate:** After we write each line of code we will validate (check) that Rover is on its path and that our Bot is correctly following the code.
+- [ ] **Validate:** After we write each line of code we will validate (check) that Rover the Bot is on its path and that our it is correctly following the code.
 
-> > “Validate means to check that our code and Rover are doing what we want them to do. Everyone will help us validate each line of code as we go.”
+> > “Validate means to check that our code is doing what we want it to do. Everyone will help us validate each line of code as we go.”
 
 
 ## 3. Elaborate: Navigate Rover (15 min)
@@ -126,7 +126,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 - [ ] **Plan:** Give pairs one minute to plan their path.
 
-> > “There are multiple paths that Rover could take to get to the goal. With your partner decide on a path for Rover to get to the goal and draw it on your grid. You have 1 minute.”
+> > “There are multiple paths that Rover could take to get to the goal. With your partner decide which path will get Rover to the goal. Draw it on your grid. You have 1 minute.”
 
 <note> ![slide-challenge2plan](./lesson-3/images/slides-challenge2plan.jpeg)</note>
 <br/>
@@ -140,12 +140,12 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 - [ ] **Validate:** Ask one pair to share their code outloud and move Rover on the foam tiles.
 
-> > “Is there a group that would like to share their code? Remember that there are multiple paths Rover could have taken so we probably all have different code.”
+> > “Is there a group that would like to share their code? Remember, we might have different code that gets Rover to the goal.”
 
 ## 4. Evaluate: Exit Challenge (5 min)
 - [ ] **Challenge:** Students complete the exit challenge independently. When they are done, collect their work and note students who still need more help reading and writing a sequence.
 
-> > “I have a challenge for you. Complete this challenge independently. On your paper there are two grids. Examine each grid along with the code. Choose the missing block that would get Rover to the goal. Circle the block that you think goes in the blank space in his code.”
+> > “I have a challenge for you and Coders love challenges. Complete this challenge independently. On your paper there are two grids. Examine each grid along with the code. Choose the missing block that would get Rover to the goal. Circle the block that you think goes in the blank space in his code.”
 
 <note> ![slide-ec](./lesson-3/images/slides-ec.jpeg)</note>
 
@@ -153,7 +153,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 - [ ] **Challenge:** Students will work in pairs to write an algorithm to navigate Rover through a grid to reach each goal.
 
-> > “Let’s make it more challenging! Acting as Coders & Bots, your goal is to navigate Rover through the maze to reach as many of the goals as you can. You probably won’t have time to make it to all of the goals. That’s ok. But for each goal you reach there is a prize waiting.”
+> > “Let’s make it more challenging! As Coders & Bots, your goal is to navigate Rover through the maze to reach as many of the goals as you can. For each goal you reach there is a prize waiting.”
 
 <iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
 <iconp type="answer">Check that each pair has one Coder. They will be writing the code.</iconp>
@@ -164,7 +164,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 - [ ] **Plan:** Give pairs two minutes to plan their path.
 
-> > “There are multiple paths that Rover could take to get to the goal. With your partner decide on the path you will code to get Rover through the maze. You have 2 minutes.”
+> > “There are multiple paths that Rover could take to get to the goal. With your partner decide on the path you will code to get Rover through the maze. You only have 2 minutes, so you might not be able to get to ever goal.”
 
 <note> ![slide-extension1](./lesson-3/images/slides-extension1.jpeg)</note>
 <br/>

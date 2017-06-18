@@ -47,13 +47,13 @@ Students are introduced to the Escape the Maze project they will be working on t
 ## 1. Engage/Explore: Escape the Maze (5 min)
 Participation: Whole Class, Online
 
-- [ ] **Challenge:** Dramatically 💥 💃  reveal the project students will be working on this year - Escape the Maze. Call a student up to play the game.
+- [ ] **Challenge:** Dramatically 💥 reveal the project students will be working on this year - Escape the Maze. Call a student up to play the game.
 
-<iconp type="question"> Who here has done a maze before? </iconp>
+<iconp type="question"> Who has done a maze before? </iconp>
 <iconp type="question"> Who can tell me what a maze is? </iconp>
-<iconp type="answer"> A path you need to navigate to get to a goal, has a start and end, sometimes there are dead ends or obstacles </iconp>
+<iconp type="answer"> A path you need to navigate to get to a goal, has a start and end, sometimes there are dead ends or obstacles. </iconp>
 
-> > “There is so much powerful stuff that you can build as a coder: apps, websites, robots. Well this year as you develop your skills as coders, you are going to be working on coding your own video game. The game we will be working on is called Escape the Maze. Let’s open it in Scratch and take a look. I need a volunteer to come up and play the game.”
+> > “There is so much awesome stuff that you can build as a coder: apps, websites, robots. This year you are going to work on coding your own video game. The name of our game is "Escape the Maze." Let’s open it in Scratch and take a look. I need a volunteer to come up and play the game.”
 
 <iconp type="question"> What is happening in the game? </iconp>
 <iconp type="answer"> They are moving the ball through the maze. </iconp>
@@ -75,7 +75,7 @@ Participation: Whole Class, Online
 ## 2. Explain: Code Along (20 min)
 Participation: Whole Class, Online
 
-- [ ] **Code Along:** Play the code along videos one at a time to navigate students to the maze in Scratch. Between each video, pause to facilitate student discussion to the questions posed in the video. Encourage students to respond to eachother with "I agree because..." or "I disagree because..."
+- [ ] **Code Along:** Play the Code Along videos one at a time to navigate students to the maze in Scratch. Between each video, pause to facilitate student discussion to the questions posed in the video. Encourage students to respond to eachother with "I agree because..." or "I disagree because..."
 
 > > “Let’s login to Scratch and look at the code that makes this game work.”
 
@@ -88,13 +88,13 @@ Participation: Whole Class, Online
 ## 3. Elaborate: Brainstorm (5 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Brainstorm:** The game students played is just the bare bones. Help students brainstorm ideas to improve Escape the Maze that they can code as they build their coder skills.
+- [ ] **Brainstorm:** This version of the game is just the starter version. Help students brainstorm ideas to improve the game as students build their coding skills.
 
 <iconp type="question"> The game you just saw is just the starter version. As a coder, it will be your job to improve the game and make it your own. What features could we add to Escape the Maze to make it more fun to play? </iconp>
-<iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their workbooks. </iconp>
+<iconp type="answer"> Record student responses on the board as they share and encourage them to write the ideas they like in their workbooks. </iconp>
 
 Continue to prompt students with questions:
-<iconp type="question"> What could make the enemies more challenging? </iconp>
+<iconp type="question"> What could make the enemies more challenging to? </iconp>
 <iconp type="question"> What should happen when you get to the end of the maze? </iconp>
 <iconp type="question"> What should happen if the mouse runs into one of the enemies? </iconp>
 <iconp type="question"> Think about the games you enjoy playing. What features make them challenging? </iconp>
