@@ -71,7 +71,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="question">How could you represent the pattern using fewer cubes and code blocks?</iconp>
 <iconp type="answer">Put one of the pattern pieces inside a loop. </iconp>
 <iconp type="question">What number do I write as the argument in the repeat loop? How do you know?</iconp>
-<iconp type="answer">4 because the pattern repeated 4 times</iconp>
+<iconp type="answer">"4" because the pattern repeated 4 times</iconp>
 
 <note type="tip">The number in the loop block is called an argument.
 ![slides-cubes2](./images/slides-cubes2.png)
@@ -112,12 +112,14 @@ In this lesson students identify repeating patterns in a sequence and replace th
 2. Place the repeating section of code within the loop’s mouth.
 3. Place the number of times the pattern repeats as the loop’s argument.</iconp>
 
+<!--
 ![slides-translating1](./images/slides-translating1.png)
 ![slides-translating2](./images/slides-translating2.png)
 ![slides-translating3](./images/slides-translating3.png)
 ![slides-translating4](./images/slides-translating4.png)
 ![slides-translating5](./images/slides-translating5.png)
 ![slides-translating6](./images/slides-translating6.png)
+-->
 
 
 ## 3. Evaluate: Exit Challenge (10 min)
