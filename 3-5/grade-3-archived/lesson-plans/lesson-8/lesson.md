@@ -112,14 +112,12 @@ In this lesson students identify repeating patterns in a sequence and replace th
 2. Place the repeating section of code within the loop’s mouth.
 3. Place the number of times the pattern repeats as the loop’s argument.</iconp>
 
-<!--
 ![slides-translating1](./images/slides-translating1.png)
 ![slides-translating2](./images/slides-translating2.png)
 ![slides-translating3](./images/slides-translating3.png)
 ![slides-translating4](./images/slides-translating4.png)
 ![slides-translating5](./images/slides-translating5.png)
 ![slides-translating6](./images/slides-translating6.png)
--->
 
 
 ## 3. Evaluate: Exit Challenge (10 min)
