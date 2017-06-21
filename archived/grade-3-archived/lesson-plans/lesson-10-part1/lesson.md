@@ -51,7 +51,7 @@ Participation: Whole Class, Unplugged
 > > “I’m going to hand back your Independent Coding Challenges. When you get yours, celebrate the challenges you completed without any bugs. Together we can talk about any challenges you struggled with and try to debug your code. Celebrate how much you are learning just from debugging!”
 
 <br/>
-- [ ] **Exemplaries:** Select a few examples of ICC answers that are neatly and accurately completed to shout out to the class.  Do not include names.
+- [ ] **Exemplars:** Select a few examples of ICC answers that are neatly and accurately completed to shout out to the class.  Do not include names.
 
 > > “We saw a lot of great examples of code. Let’s look at some of these together.”
 

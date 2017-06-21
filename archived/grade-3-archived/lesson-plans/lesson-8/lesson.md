@@ -71,7 +71,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="question">How could you represent the pattern using fewer cubes and code blocks?</iconp>
 <iconp type="answer">Put one of the pattern pieces inside a loop. </iconp>
 <iconp type="question">What number do I write as the argument in the repeat loop? How do you know?</iconp>
-<iconp type="answer">4 because the pattern repeated 4 times</iconp>
+<iconp type="answer">"4" because the pattern repeated 4 times</iconp>
 
 <note type="tip">The number in the loop block is called an argument.
 ![slides-cubes2](./images/slides-cubes2.png)

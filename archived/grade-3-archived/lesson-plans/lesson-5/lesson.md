@@ -125,7 +125,7 @@ _Younger students may need to be told to write in 90 degrees on turn blocks or t
 ![for-each](./images/for-each.png)
 <iconp type='answer'>Forever: Repeats the nested sequence forever</iconp>
 <iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
-<iconp type='answer'>Repeat __: Repeats the nested sequence a specified number of times</iconp>
+<iconp type='answer'>Repeat ____: Repeats the nested sequence a specified number of times</iconp>
 
 > > "These code blocks are called loops. Loops help us so we don’t have to write a sequence of code over and over to make it repeat."
 

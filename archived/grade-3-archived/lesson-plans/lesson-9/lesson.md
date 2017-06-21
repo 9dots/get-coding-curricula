@@ -46,7 +46,7 @@ See all vocabulary from previous lessons.
 
 - [ ] **Motivate:** introduce our challenges for today.
 
-> > “You are coders! Coders love to challenge themselves. So today we are going to do a series of Coding Challenges. We want you to see how much you have learned about coding. Some of the challenges may feel easy. Some of the challenges may feel really challenging, which is good!
+> > “You are coders! Coders love to challenge themselves. So today we are going to do a series of Coding Challenges. We want you to see how much you have learned about coding. Some of the challenges may feel easy. Some of the challenges may feel really difficult, which is good!
 
 <note> **Slides:** ![slides-challenge](./images/slides-challenge.png)
 ![slides-set](./images/slides-set.png)</note>
