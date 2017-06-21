@@ -3,7 +3,7 @@
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Atudents explore and predict how they can use loops to more efficiently write code. Allow students to discover the need for loops in the explore activity. Encourage students to make connections between loops and the real world in the elaborate activity.
+Students explore and predict how they can use loops to more efficiently write code. Allow students to discover the need for loops in the explore activity. Encourage students to make connections between loops and the real world in the elaborate activity.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
@@ -16,7 +16,6 @@ Atudents explore and predict how they can use loops to more efficiently write co
 3. **Explain:** Loops (5 min)
 4. **Elaborate:** Loops in the Real World (10 min)
 5. **Evaluate:** Exit Challenge (15 min)
-
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -41,7 +40,6 @@ Atudents explore and predict how they can use loops to more efficiently write co
 
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
@@ -49,7 +47,14 @@ Atudents explore and predict how they can use loops to more efficiently write co
 <pagebreak/>
 
 ## 1. Engage: Debugging Life (5 min)
+- [ ] **Write:** Have students respond to the writing prompt.
+>> "Think of a time that you encountered a bug in your life and answer the following questions:"
 
+  <iconp type='question'>What were you trying to do?</iconp>
+  <iconp type='question'>What did you do to find the problem?</iconp>
+  <iconp type='question'>What did you do to try to fix the problem?</iconp>
+
+- [ ] **Share Out:** Students share their responses with the class.
 
 ## 2. Explore: Discovering Loops (10 min)
 
@@ -85,7 +90,7 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 ![for-each](./images/for-each.png)
 <iconp type='answer'>Forever: Repeats the nested sequence forever</iconp>
 <iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
-<iconp type='answer'>Repeat __: Repeats the nested sequence that number of times</iconp>
+<iconp type='answer'>Repeat ____: Repeats the nested sequence that number of times</iconp>
 
 > > "These structures are called loops. Loops make it so we don’t have to write a sequence of code over and over to make it repeat."
 

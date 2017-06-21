@@ -2,17 +2,16 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-This is an optional lesson for students who have not used Chromebooks before. It allows time for students to practice logging in, using the keyboard, and using drag and drop. You should complete this lesson prior to your 9 Dots learning coordinator or co-teacher’s first day with the students.
+This is an optional lesson for classes who have not used computers before. It allows time for students to practice logging in, using the trackpad, and using drag and drop. You should complete this lesson prior to your 9 Dots learning coordinator or co-teacher’s first day with the students.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Logging In (10 min)
-1. Drag Technique (5 min)
-1. Typing in a URL (5 min)
-1. Code.org Practice (20 min)
-1. Signing Out (5 min)
+1. Browsing the Web (10 min)
+1. Track Pads (10 min)
+1. Independent Practice (15 min)
 
 
 ##### Room Design
@@ -20,14 +19,18 @@ This is an optional lesson for students who have not used Chromebooks before. It
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
-- [ ] Logins
 - [ ] Computers
+- [ ] Student Logins
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **URL:** An address for a website.
+- **Browser:** A program used to view websites on the internet.
+- **Trackpad:**
 
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
