@@ -43,14 +43,14 @@ Students learn the interface of MinecraftEdu and write programs in Lua to move a
 #### 1. Engage: Flower Garden Project (3 minutes)
 
 - [ ] **Motivate:** Reveal the Flower Flower Garden Project over the projector. Show turtle building flower then show files of code. Click through the slide to see the files of code used for Flower Garden.
-    - Garden 
+    - Garden
     - Flower
     - Stem
     - Petals
     - Center
     - Leaf
 
-> > “In this class we are going to create flower gardens in Minecraft using turtles! Turtles in Minecraft can build for us. We code them using a programming language called Lua. We will also use pixelBots to plan what we want our turtle to build. Before we write programs in Lua for turtle, let’s read code in Lua.”
+> > “In this class we are going to create flower gardens in Minecraft using turtles! Turtles in Minecraft can build for us. We code them using a programming language called Lua. Before we write programs in Lua for turtle, let’s read code in Lua.”
 
 <note> **Slides:**
 ![slides-engage1](./images/slides-engage1.jpeg)
@@ -60,20 +60,20 @@ Students learn the interface of MinecraftEdu and write programs in Lua to move a
 
 #### 2. Explore: Turtle Actions (10 minutes)
 
-- [ ] **Group Exploration:** Students explore the different function calls of turtle in a whole class, unplugged activity. For each program, ask for a volunteer to be the robot and act out the code, then the class will be the computer and read the program one line at a time. Students will stand on the corresponding square. 
+- [ ] **Group Exploration:** Students explore the different function calls of turtle in a whole class, unplugged activity. For each program, ask for a volunteer to be the robot and act out the code, then the class will be the computer and read the program one line at a time. Students will stand on the corresponding square.
 
 > > “Let’s read code and predict what will happen. What will turtle do when we run these different programs?”
 
 ![programs](./images/programs.jpeg)
 
-<note> 
+<note>
 ![slides-explore1](./images/slides-explore1.jpeg)
 ![slides-explore2](./images/slides-explore2.jpeg)
 ![slides-explore3](./images/slides-explore3.jpeg)</note>
 
 #### 3. Explain: Minecraft (12 minutes)
 
-- [ ] **Code Along:**  Students follow along on their own computer as you walk through each step of logging onto MinecraftEdu. Before the end of the code along, review basic Minecraft player control keys. 
+- [ ] **Code Along:**  Students follow along on their own computer as you walk through each step of logging onto MinecraftEdu. Before the end of the code along, review basic Minecraft player control keys.
 
 > > “Open your computers and following along as we walk through the steps to log into Minecraft.”
 
@@ -107,7 +107,7 @@ Review: Review Minecraft basic player controls and how to use trackpad (2 finger
 
 <br/>
 
-- [ ] **Model** coding turtle in Minecraft and how to navigate the editor. Write and run Program #3 from above. Narrate each step you do when coding turtle. Highlight key features of Turtle menu: 
+- [ ] **Model** coding turtle in Minecraft and how to navigate the editor. Write and run Program #3 from above. Narrate each step you do when coding turtle. Highlight key features of Turtle menu:
 
 > > “Let’s check our predictions and see what turtle does in program #3”
 
@@ -117,18 +117,18 @@ Review: Review Minecraft basic player controls and how to use trackpad (2 finger
   1. Right click on turtle.
   2. Select editor and create a new file program.
   3. Type code for Program #3 from above, reference API on the right.
-      Tip: Teach autocomplete using right arrow or tab. 
-  4. Click on the Run Button. 
-  5. Observe turtle’s actions. 
+      Tip: Teach autocomplete using right arrow or tab.
+  4. Click on the Run Button.
+  5. Observe turtle’s actions.
       Tip: Exit turtle menu to back up from turtle to get a better view of turtle building.
-  6. Press ‘0’ (zero) to reopen turtle menu. Click undo to undo all building and reset turtle. 
-  7. Run program again. 
+  6. Press ‘0’ (zero) to reopen turtle menu. Click undo to undo all building and reset turtle.
+  7. Run program again.
 
 #### 4. Elaborate: Build Challenges (20 minutes)
 
-- [ ] **Guided Practice:** Together as a class, program turtle to build the first and second challenge in Minecraft | L1 playlist. Write code in pixelBots to complete the pixelBots challenge, then use that as a plan to write code for turtle in Minecraft.
+- [ ] **Guided Practice:** Together as a class, program turtle to build the first and second challenge in Minecraft | L1 playlist.
 
-> > “Now we know how turtle moves, let’s start building. We will use pixelBots to plan what we will build in Minecraft.”
+> > “Now we know how turtle moves, let’s start building in Minecraft.”
 
 **Steps:**
   1. Go to pixelBots.io, code link: V8LP4
@@ -147,10 +147,10 @@ Review: Review Minecraft basic player controls and how to use trackpad (2 finger
 
 **Solutions:**
 
-Guided Practice 1: 
+Guided Practice 1:
 ![GuidedPractice1](./images/guidedPractice1.jpeg)
 
-Guided Practice 2: 
+Guided Practice 2:
 ![GuidedPractice2](./images/guidedPractice2.jpeg)
 
 - [ ] **Independent Practice:** Students continue to program turtle to build in Minecraft. Students reference a playlist of challenges in pixelBots that they will build in Minecraft. Students will write code in pixelBots to complete a pixelBots challenge, then use that as a plan to write code for turtle in Minecraft.
@@ -176,7 +176,7 @@ Guided Practice 2:
 <note>![slides-exit](./images/slides-exit2.jpeg)</note>
 
 - [ ] **Evaluate:** Circulate and check students code to determine student’s understanding of moving turtle, focusing on placing a block to the right of another block.
-  - To move turtle to the right, similar to the movement of bots in pixelBots, students need to code turtle to turnRight, forward, then turnLeft. In the next lesson students will write a file “function” called moveRight. 
+  - To move turtle to the right, similar to the movement of bots in pixelBots, students need to code turtle to turnRight, forward, then turnLeft. In the next lesson students will write a file “function” called moveRight.
 
 <note>![slides-close](./images/slides-exit3.jpeg)</note>
 

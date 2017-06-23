@@ -52,7 +52,7 @@
     * [Lesson 24: Arcade](3-5/grade-3/lesson-plans/lesson-24/lesson.md)
 * [devY](devy/README.md)
   * [pixelBots](devy/pixelBots/README.MD)
-    * [Lesson 1: pixelBots Unplugged](devy/pixelBots/lesson-plans/lesson-1/lesson.md)
+    * [Lesson 1: PixelBots](devy/PixelBots/lesson-plans/lesson-1/lesson.md)
     * [Lesson 2: pixelBots Online](devy/pixelBots/lesson-plans/lesson-2/lesson.md)
     * [Lesson 3: Arguments - Numbers & Strings](devy/pixelBots/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Designing Pixel Emojis](devy/pixelBots/lesson-plans/lesson-4/lesson.md)
