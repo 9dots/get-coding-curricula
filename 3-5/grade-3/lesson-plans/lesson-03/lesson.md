@@ -116,6 +116,6 @@ Click go”
 
 [slides]: https://drive.google.com/open?id=1Nm1y7M6kpWZH8N49aUBgDF_4A7Vmc4Y2XefO9IbonPs
 [commands]: https://drive.google.com/open?id=0B48_2vIyABioU0FyTTNsR29WNUE
-[flower]: pixelbots.io/XPMEP
-[playlist-one]: pixelbots.io/V7G5R
-[playlist-two]: pixelbots.io/2BXPB
+[flower]: http://pixelbots.io/XPMEP
+[playlist-one]: http://pixelbots.io/V7G5R
+[playlist-two]: http://pixelbots.io/2BXPB
