@@ -11,8 +11,7 @@ Students explore and predict how they can use loops to more efficiently write co
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** Debugging Life (5 min)
-2. **Explore:** Discovering Loops (10 min)
+2. **Engage/Explore:** Discovering Loops (15 min)
 3. **Explain:** Loops (5 min)
 4. **Elaborate:** Loops in the Real World (10 min)
 5. **Evaluate:** Exit Challenge (15 min)
@@ -25,6 +24,7 @@ Students explore and predict how they can use loops to more efficiently write co
 - [ ] Projector
 - [ ] Unplugged Foam Tiles
 - [ ] Teacher Scratch Blocks
+- [ ] Loop code blocks for students in envelopes
 - [ ] [Socrative Quiz][soc]
 
 ###### Student Materials:
@@ -36,7 +36,7 @@ Students explore and predict how they can use loops to more efficiently write co
 
 </note>
 ## Room Design
-![room](/images/layout-maze.png)
+![room](/images/layout-grid.png)
 
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -45,7 +45,6 @@ Students explore and predict how they can use loops to more efficiently write co
 </note>
 
 <pagebreak/>
-
 ## 1. Engage: Debugging Life (5 min)
 - [ ] **Write:** Have students respond to the writing prompt.
 >> "Think of a time that you encountered a bug in your life and answer the following questions:"
@@ -57,11 +56,9 @@ Students explore and predict how they can use loops to more efficiently write co
 - [ ] **Share Out:** Students share their responses with the class.
 
 ## 2. Explore: Discovering Loops (10 min)
-
 - [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
-
 > > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
-![move6](./images/move6.png)
+![sequence](./images/move6.png)
 
 <iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
 <iconp type="answer">Check that each pair has one Coder. They will be writing the code.</iconp>
@@ -73,18 +70,25 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 ![slides-discover](./images/slides-discover.png)
 </note>
 
-- [ ] **Discover Loops:** Wait until students identify that there are not enough blocks before introducing loops.  Without introducing them verbally, place loop strips on each group’s table.
+- [ ] **Discover Loops:** Do not give students the loop blocks until their group comes to you and states  that they do not have enough code blocks.  Without introducing them verbally, give each group the loop blocks as they ask for them. Guide students through using the blocks by asking questions rather than showing. One way to prompt this is to say:
 
-- [ ] **Demo Code:** Call on one group to demo their code by bringing their felt up to the board and acting it out on the unplugged maze.
+>>"If you have the right question, I have the right answer."
 
-<iconp type='question' mb='1em'>Extension: Can you rewrite your code with fewer blocks</iconp>
+<br/>
+<note type="tip">A common misonception is that "Repeat 1" means that the sequence will be read twice. Correct students by telling them that "Repeat 2" will cause the sequence to be read twice.</note>
+
+- [ ] **Demo Code:** Call on one group to demo their code by bringing their code up to the board and acting it out on the unplugged maze.
+Possible solutions include:
+![solutions](./images/solutions.png)
+
+<iconp type='question' mb='1em'>Extension if students use Repeat 2: Can you rewrite your code with fewer blocks?</iconp>
 ![extension](./images/extension.png)
 
 <note>![slides-loopsolution](./images/slides-loopsol.png)</note>
 
-## 3. Explain: Loops (5 min)
+## 2. Explain: Loops (5 min)
 
-- [ ] **Predict Vocabulary Definitions:** Each group’s driver holds up each loop as you introduce it.
+- [ ] **Predict & Define:** Have each group hold up each loop as you introduce it. Ask students for their prediction of what each loop does before you reveal its purpose.
 
 <iconp type='question'>For each loop: What do you think this loop will do?</iconp>
 ![for-each](./images/for-each.png)
@@ -92,11 +96,11 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 <iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
 <iconp type='answer'>Repeat ____: Repeats the nested sequence that number of times</iconp>
 
-> > "These structures are called loops. Loops make it so we don’t have to write a sequence of code over and over to make it repeat."
+> > "These structures are called loops. Loops are powerful tools for coders! With loops we don’t have to write a sequence of code over and over to make it repeat. Everybody say 'loop'."
 
 <note>![slides-loops](./images/slides-loop.png)</note>
 
-## 4. Elaborate: Loops in the Real World (10 min)
+## 3. Elaborate: Loops in the Real World (10 min)
 
 - [ ] **Making Connections:** Have students identify the type of loop you would use for each of the examples below.
 
@@ -119,11 +123,11 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 
 <note>![slides-rw7](./images/slides-rw7.png.png)</note>
 
-## 5. Evaluate: Exit Challenge (15 min)
+## 4. Evaluate: Exit Challenge (15 min)
 
 - [ ] **Socrative:** Students independently complete an exit challenge on Socrative. Remember to give them the Room Name. If there is time, review the answers as a class.
 
-> > "I have a challenge for you. Login to Socrative to complete the challenge questions about Loops."
+> > "For our closing challenge today we are going to login to Socrative to complete some challenge questions about Loops."
 
 <note> ![slides-soc1](./images/slides-soc1.png)
 ![slides-soc2](./images/slides-soc2.png)
@@ -131,6 +135,6 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 
 </notable>
 
-[maze-handout]: https://drive.google.com/file/d/0BzHmgSOPbtkIWXdRWnZJNnhLVmM/view?usp=sharing
+[maze-handout]: https://drive.google.com/a/9-dots.org/file/d/0B2wBzr9vcXjPUEV0aHk4M0hMUVE/view?usp=sharing
 [slide-show]: https://docs.google.com/presentation/d/1bbWIFAN66jsNqsTDXqy4OG31CUGDuPw9bRMqtKDNU-4/edit#slide=id.g1612fbdbad_0_42
 [soc]: https://b.socrative.com/teacher/#import-quiz/28442633

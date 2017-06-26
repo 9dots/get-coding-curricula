@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid.
+Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide the Rover’s movements as it paints a grid.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through and act out code that contains a loop.
@@ -26,6 +26,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 - [ ] Foam Tiles
 - [ ] Construction Paper
 - [ ] [Large Rover][large-rover]
+- [ ] pixelBots Playlist ...
 
 ###### Student Materials:
 - [ ] [Lesson 6 Handout][lesson-6-handout]
@@ -84,7 +85,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 - [ ] **Model** the steps to read a chunk of code that contains a loop. Have students follow along on their handout. Uncover each line of code one at a time using an index card. Make a tally at the end of the sequence to keep track of how many times you’ve repeated the sequence.
 
-> > “Before we can write the code to make our enemies move like that, we need to know how to read the code. We are going to use Rover to practice reading loops. Today Rover understands a new instruction - Paint. When Rover sees a Paint block, he will color in the square he is on.”
+> > “Before we can write the code to make our enemies move like that, we need to know how to read the code. We are going to use our Rovers to practice reading loops. Today your Rover understands a new instruction - Paint. When your Rover sees a Paint block, it will color in the square it is on.”
 
 > > “Use your index card to uncover each line of code one block at a time.”
 Narrate what you’re doing at each step.
@@ -123,7 +124,10 @@ Narrate what you’re doing at each step.
 
 ## 5. Evaluate: pixelBots (20-35 min)
 
-   
+- [ ] **pixelBots:** Students continue to practice reading code with loops by completing a series of read challenges on pixelBots.
+
+>>"Let's login to pixelBots to continue practicing reading code with loops."
+
 
 </notable>
 

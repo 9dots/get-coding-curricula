@@ -53,7 +53,7 @@ In this lesson students explore and predict how they can use loops to more effic
 
 - [ ] **Review** how to read the turn clockwise/counter clockwise blocks with students.
 
-> > "There are 2 code blocks you will see today that tell Rover how to turn. When you see 'Turn left 90 degrees,' Rover is turning a quarter turn to the left. When you see 'Turn right 90 degrees,' Rover is turning a quarter turn to the right."
+> > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
 
 ![slides-rover](./images/slides-rover.png)
 
