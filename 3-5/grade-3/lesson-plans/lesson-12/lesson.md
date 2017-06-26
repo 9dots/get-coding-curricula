@@ -5,16 +5,15 @@
 Students are introduced to conditionals (if then), practice reading conditional statements in Scratch, and identify how boolean statements are related to conditionals. Students then practice identifying conditional statements in their daily lives.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can identify Boolean as true/false statements.
+- I can identify Boolean statements as ones that evaluate to true or false.
 - I can read an if-then statement to execute a sequence if a test is true.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Kids Code (5 min)
 1. Explore: If Then (5 min)
 1. Explain: Define (5 min)
-1. Elaborate: Practice (15 min)
-1. Elaborate: Conditionals in Your Life (10 min)
-1. Evaluate: Exit Challenge (5 min)
+1. Elaborate: Practice (20 min)
+1. Evaluate: Exit Challenge (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -25,10 +24,8 @@ Students are introduced to conditionals (if then), practice reading conditional 
 ###### Student Materials:
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
-- [ ] [True/False cards][boolean-cards]
-\- [ ] Pencils
-- [ ] Dry erase markers
-- [ ] [Lesson 14 Handouts][handouts]
+- [ ] Pencils
+- [ ] [Worksheets][handouts]
 
 </note>
 
@@ -120,7 +117,7 @@ Participation: Whole Class, Unplugged
 - Students may think a boolean is a conditional, but a boolean is just a part of a conditional.
 - Students may think 4+5 is a boolean because of the color and numbers, but a boolean block has points on the ends and can be answered with True or False.
 
-## 4. Elaborate: Practice (15 min)
+## 4. Elaborate: Practice (20 min)
 Participation: Whole Class, Unplugged
 
 - [ ] **Model** how to use the steps to read conditional statements to read the first few examples on the handout together:
@@ -138,14 +135,13 @@ Participation: Whole Class, Unplugged
 ![slides-read3](./images/slides-read3.png)
 ![slides-challenge](./images/slides-challenge.png)</note>
 
-**Extension Questions for Advanced Groups:**
-<iconp type="question">Which of these conditionals would change you to the next level if you touch the goal? </iconp>
-<iconp type="question">Which of these conditionals sends you back to the start if you touch an enemy?</iconp>
+- [ ] **Challenge** students to write their own conditionals and share them with the class.
 
-## 5. Elaborate: Conditionals in Your Life (10 min)
+>> "Your turn. Write your own conditional to go with the pictures given in #s 6 & 7. Then draw a picture and write a conditional to go with for #s 8 & 9. Try to write one Boolean that is false and one that is true."
 
+![Elaborate](./images/elaborate.png)
 
-## 6. Evaluate: Exit Challenge (5 min)
+## 5. Evaluate: Exit Challenge (10 min)
 Participation: Small Group, Independent, Unplugged
 
 - [ ] **Exit Challenge:** Students answer the [Exit Challenge][exit-challenge] on paper using pencil independently and turn it in.
