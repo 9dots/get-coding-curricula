@@ -29,6 +29,7 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
 - Projector
 - PixelBots.io
 - [Lesson 1 Slides][slides]
+- [Icon Playlists & Slides][icons]
 
 
 #### Student Materials
@@ -41,7 +42,6 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
 - **Sequence** - The idea that statements must be performed in the order they are written.
 - **Function call** - A programming element that tells the computer to do something. In the beginning, most function calls will cause the computer to perform an action.
 - **API** - stands for application program interface, API defines the correct way for a developer to write a program
-- **Editor** -
 - **Code** - instructions in a computer program
 
 </note>
@@ -54,26 +54,40 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
 
   >>“Code is everywhere. Everywhere we look computer programs are running code to run our world. Code is what creates the website or computer programs we use. Being a coder is about producing, not just consuming.”
 
+<note>**Slides**
+![slides](./images/engage1.png)
+![slides](./images/engage2.png)
+</note>
 
 - [ ] **Motivate:** Reveal the Emoji project over the projector. Show students the code and the bot painting the example emoji, [Math Eye Smiley (code:E6BJ9][mathemoji].
-
   >>“In this class you are going to design and create an Emoji with code! Using a coding language called JavaScript,  you will code a bot to paint your emoji on a platform called PixelBots. Here is an example of an emoji and the program. *Show emoji and code* Before you can design and code our own emoji, you will first need to learn a few fundamental coding concepts. Today we will be learning about sequencing.”
+
+<note>
+![slides](./images/engage3.png)
+</note>
 
 #### 2. Explore: PixelBots (15 minutes)
 - [ ] **Code Along:** Students follow along on their own computer as you walk through each step of logging onto PixelBots.
   >> “Open your computers and follow along as we walk through the steps of going to PixelBots.io and logging in to our accounts.”
 
-**Steps:**
-  1. Open Chrome and type ‘www.pixelbots.io’ in the address bar
-  1. Click on ‘Log In’  and ‘Sign in with Google’
-  1. Type in email and password.
-    - Email: firstlaststudent@9-dots.org
-    - Password: student5 or student6
-  1. Navigate to playlist: click ‘Code’, type playlist code: ‘WN5BN’, then click ‘go’ and ‘play’
+  - **Steps:**
+    1. Open Chrome and type ‘www.pixelbots.io’ in the address bar
+    1. Click on ‘Log In’  and ‘Sign in with Google’
+    1. Type in email and password.
+      - Email: firstlaststudent@9-dots.org
+      - Password: student5 or student6
+    1. Navigate to playlist: click ‘Code’, type playlist code: ‘WN5BN’, then click ‘go’ and ‘play’
 
-**Tip:** Uphold good classroom management on computers. When you give each step, students should have eyes on you and hands off computers.
+  - **Tip:** Uphold good classroom management on computers. When you give each step, students should have eyes on you and hands off computers.
 
-- [ ] **Group Exploration:** Together as a class explore the PixelBots.io interface by doing the first two challenges in the [Emoji | Sequence PixelBots playlist (code: WN5BN)][playlist]. For the Write Challenge, students will write instructions to move the bot and paint a picture. For the Read Challenge, students will be given code to read and will paint the picture the code produces. As you work through both challenges, ask guiding questions to get students thinking about how to use the interface.
+<note>
+![slides](./images/explore1.png)
+![slides](./images/explore2.png)
+![slides](./images/explore3.png)
+![slides](./images/explore4.png)
+</note>
+
+- [ ] **Group Exploration:** Together as a class explore the PixelBots.io interface by doing the first two challenges in the [Emoji | Sequence PixelBots playlist (code: WN5BN)][playlist]. For the Write Challenge, students will write instructions to move the bot and paint a picture. For the Read Challenge, students will be given code to read and will paint the picture the code produces. Ask guiding questions to get students thinking about how to use the interface.
 
   - **Write Challenge:**
     >> “We want to code the bot to paint this picture. We can do this by typing instructions the bot can understand.”  
@@ -89,7 +103,13 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
     <iconp type='question'>What specific instructions do we want to write?</iconp>
     <iconp type='answer'>Students suggest function calls in a particular order. </iconp>
 
-![write solution](./images/writesol.png)
+  - Possible Solutions:
+  ![write solution](./images/writesol.png)
+
+<note>
+![slides](./images/write.png)
+![slides](./images/read.png)
+</note>
 
   - **Read Challenge:**
     >> “Reading code is just as important as writing code. In Read Challenges, we are given code and we paint the picture that this program would produce. For each line of code we read, the bot does an action.”  
@@ -105,7 +125,7 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
     <iconp type='question'>What happens if we try to paint an incorrect square? Try it.</iconp>
     <iconp type='answer'>The bot shakes and a ‘Wrong Location’ error message appears.</iconp>
 
-
+<pagebreak/>
 #### 3. Explain: Sequence & Function Calls (15 minutes)
 - [ ] **Discuss & Define Sequence.** Guide students through a discussion of how code is performed in order using the previous write challenge as an example.
 
@@ -116,6 +136,10 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
 
   >>“In computer science, this is called sequencing. The code is performed in the order it is in. This means that line will be performed first then line two and, so on.”
 
+<note> **Slides:**
+![slides](./images/explain1.png)
+![slides](./images/explain2.png)
+</note>
 
 - [ ] **Identify & Define Function calls.** Students identify forward(), turnRight(), turnLeft(), and paint() as function calls and a definition of function calls is given.
 
@@ -126,6 +150,10 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
 
   >>“In computer science, these instructions with parenthesis at the end are called function calls. Function calls are programming elements that tell the computer to do something.”
 
+<note>
+![slides](./images/explain3.png)
+![slides](./images/explain4.png)
+</note>
 
 #### 4. Elaborate: PixelBots Challenges (20 minutes)
 - [ ] **Independent Practice:** Students work to complete challenges in Emoji| Sequence playlist.
@@ -133,21 +161,28 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
     1. Read - Students read given code and paint the picture the code would produce.
     1. Write - Students use code to move a bot to paint a given image.
     1. Debug - Students are given code to fix to paint a given image.
-
-  >>“We’ve learned about sequences and function calls and now we can code pixelbots to paint simple pictures. In these next challenges, we will continue to practice reading and writing code. There are also challenges where code is written for you, but there are a few mistakes, we call these bugs. I want you to debug the code, to find the mistakes and fix them.”
+  >>“We’ve learned about sequences and function calls and now we can code the bot to paint simple pictures. In these next challenges, we will continue to practice reading and writing code. There are also challenges where code is written for you, but there are a few mistakes, we call these bugs. I want you to debug the code, to find the mistakes and fix them.”
 
 #### 5. Evaluate: Exit Challenge (10  minutes)
 - [ ] **Call and Response:** teach students the call and response. Teacher says: “I have a challenge for you.” Students say: “Bring it, bring it.”
   >>“I’m going to teach you a call and response. Whenever you hear me say ‘I have a challenge for you’, you will respond as a class and say ‘Bring it, bring it’. Let’s try it. ‘I have a challenge for you’ … (students respond ‘Bring it, bring it.’)”
 
- - [ ] **Exit Challenge:** Students work independently to write a program to complete the Exit Challenge on the playlist.
+<note>**Slides:**
+![slides](./images/evaluate1.png)
+</note>
 
+- [ ] **Exit Challenge:** Students work independently to write a program to complete the Exit Challenge on the playlist.
   >>“Okay coders, I have a challenge for you. *pause for students’ response*   Use what we learned today to debug the Exit Challenge at the end of the playlist! You will work on this challenge independently to show me and yourself what you learned this lesson.”
+
+<note>
+![slides](./images/evaluate2.png)
+</note>
 
 - [ ] **Evaluate:** Circulate and check code to determine student’s understanding of sequences and debugging and writing code in PixelBots to paint a picture.
 
 
 </notable>
-[slides]: https://docs.google.com/presentation/d/1czhFgQIY2PxMHuMXXJ8VDN_ptlAiKKyuZ5dY5m0tL8s/edit#slide=id.g1f738ea399_0_233
+[icons]: https://docs.google.com/document/d/1ZE99zvzel6p8Q2DCoZUVXHnNSeB9ZCEiJlKeHWUtY4E/edit?usp=sharing
+[slides]: https://docs.google.com/presentation/d/1czhFgQIY2PxMHuMXXJ8VDN_ptlAiKKyuZ5dY5m0tL8s/edit?usp=sharing
 [playlist]: http://www.pixelbots.io/WN5BN
 [mathemoji]: http://wwww.pixelbots.io/E6BJ9
