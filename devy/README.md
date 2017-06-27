@@ -6,7 +6,7 @@ The devY series features project-based curricula designed to introduce and reinf
 
 ### Curriculum
 
-- [pixelBots](../devy/PixelBots/index.html)
+- [pixelBots](../devy/pixelBots/index.html)
 - [p5](../devy/p5/index.html)
 - [Minecraft](../devy/minecraft/index.html)
 - [Coder](../devy/coder/index.html)
