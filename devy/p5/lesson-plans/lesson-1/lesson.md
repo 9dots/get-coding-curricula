@@ -1,4 +1,4 @@
-<header title='Introducing P5.js & Mouse Input' subtitle='Lesson 1'/>
+<header title='Shapes & Mouse Input' subtitle='Lesson 1'/>
 
 <notable>
 
@@ -14,11 +14,11 @@ Students discover how code is used to create art. Students learn the basics of P
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 ###### Length: 60 minutes
-1. Explore: You can code art! (5 mins)
-2. Explain: Open Processing (20 mins)
-3. Engage: P5.js shapes and colors (30 mins)
-4. Elaborate: Mouse input (5 mins)
-5. Evaluate: Share project (5 mins)
+1. Engage: You can code art! (7 mins)
+2. Explore: Robot Sketch (10 mins)
+3. Explain: Open Processing Interface (13 mins)
+4. Elaborate: Create a Sketch (20 mins)
+5. Evaluate: Exit Ticket (10 mins)
 
 
 
@@ -30,31 +30,36 @@ Students discover how code is used to create art. Students learn the basics of P
 ###### Teacher materials
 - [ ] Projector
 - [ ] Computer
-- [ ] [Example Code][examplecode]
+- [ ] [Lesson 1 Slides][slides]
+- [ ] [Beat Machine Example][beatmachine]
+- [ ] [Robot Sketch][robot]
 
 ###### Student materials
 - [ ] Computer
-- [ ] P5.js zine
+- [ ] Open Processing Account
+- [ ] [Beat Machine Example][beatmachine]
+- [ ] [Robot Sketch][robot]
+- [ ] [P5.js reference zine][zine]
 - [ ] [Grid Paper][gridpaper]
 - [ ] pencil
 - [ ] coding journal
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-- see p5.js zine
 
 
 </note>
 <pagebreak/>
 
-#### Explore: You can code art! (5 minutes)
-- [ ] Lead a discussion about art.
+#### Engage: You can code art! (7 minutes)
+- [ ] **Engage** students in a discussion about art and how art can be created with code. Show patatap and processing connexions as examples of coded art.
   <iconp type='question'> What mediums do you like to use when creating art?</iconp>
   <iconp type='answer'> Colored pencils, paint, clay, etc. </iconp>
   <iconp type='question'> What is interactive art? Has anyone experienced interactive art?</iconp>
   <iconp type='answer'> Rain room, infinity mirror room, etc. </iconp>
+  >> “In this class we are going to learn to create interactive art with code! Before we start coding, let's take a look at what's possible.”
 
-  >> “In this class we are going to learn to create art with code!”
+  - [Patatap.com][example2]
 
 <note>
 Examples of interactive art rooms
@@ -62,81 +67,81 @@ Examples of interactive art rooms
 - [Random International’s Rain Room][rain] at LACMA
 </note>
 
-- [ ] Before we start coding, let’s look at what’s possible:
-  - [Processing Connexions][example]
-  - [Patatap.com][example2]
+- [ ] **Motivate:** Students see an example project by interacting with [visual beat machine project][beatmachine] on their computer. Ask for observations and introduce processing, a language to code for the visual arts.
+  >>“The coding language we will use is called p5.js. It’s a JavaScript library that starts with the original goal of Processing, to make coding accessible for artists and designers! Go to openprocessing.org and interact with this project.”
 
-- [ ] Introduce Processing, a language to code for the visual arts.
-
-  >>“The coding language we will use is called p5.js. It’s a JavaScript library that starts with the original goal of Processing, to make coding accessible for artists and designers!”
-
-- [ ] Show visual beat machine project
-- [ ] Ask for student observations.
-  <iconp type='question'> What is happening? </iconp>
+  <iconp type='question'> What is happens when I press a certain key or move my mouse? </iconp>
   <iconp type='question'> What do you hear and see? </iconp>
 
-<pagebreak/>
-#### Explain: Open Processing (20 minutes)
 
-- [ ] Distribute Processing zine
-  - This booklet will provide students with the code and concepts needed throughout the program.
+#### Explore: Robot Sketch (10 minutes)
+
+- [ ] **Explore:** Students explore [Robot Sketch][robot] by changing the arguments in the fill function calls. Students will reference the mini zine for specific colors.
+  >> "Here is a reference sheet of P5.js. Use this as a resource in this class. Turn to the RBG color page. Use this page to help guide how you change values for the fill function calls in this sketch."
+
+- [ ] **Discuss** how changing values in the code change/affected the sketch. Ask students the question and give them a minute to try changing values, then students share their observations.
+  <iconp type='question'> What happens if you change the numbers in the fill function calls?</iconp>
+  <iconp type='question'> What happens if you change the numbers in the rect function call and ellipse function call?</iconp>
+  <iconp type='question'> What happens if you change 'width/2' to 'mouseX' and 'height/2' with 'mouseY'?</iconp>
+
+
+
+#### Explain: Open Processing Interface (13 minutes)
 
 - [ ] **Explain** the Open Processing interface:
   - Play/Replay: Plays your sketch
   - function setup () { } : Sets up your canvas. Runs only once.  
   - function draw () { } : Animates and draws things onto your canvas. Runs in a loop.  
   - // : A comment is a line that gets ignored when the code is run. This is useful for adding notes.
-  - **Demonstrate** a bug/syntax error in your program by deleting a curly brace in one of the functions and pressing play.
+  >>"P5.js sketches have two functions. Function setup and function draw. The code is setup is run only once. The code in draw runs in a loop. You can create comments in your code by using two slashes."
 
-<note type="tip" title="Tip">
-- Log into your account before students log onto their Open Processing accounts.
-- Since this is the browser version of P5.js, errors (if any) will not show in the console, instead the play screen will turn gray.
+- [ ] **Demonstrate** a bug/syntax error in your program by deleting a curly brace in one of the functions and pressing play.
+  <iconp type='question'> What happens if I delete a curly brace and then run my code?</iconp>
+
+- [ ] **Model** logging into openprocessing account and how to start a sketch. Draw an ellipse with no outline and filled with color. Add comments of name and date at the beginning of sketch.
+<note type="reminder" title="Reminder">
+// Comment lines of code.
 </note>
+![ellipsecode](./images/ellipsecode.png)
 
-- [ ] Direct students to log onto their open processing accounts.
-
-- [ ] **Model** starting first sketch on open processing.
-  - Delete all code except "function setup () { }" and "function draw () { }"
-  - Add comments for titling project outlined in p5.js zine.
 
 - [ ] **Explain** canvas, coordinate system, and pixels
   - Canvas: Think of the canvas just like an art canvas and your code is your paint. What is the keyboard? (paintbrush)
   - Coordinate system: Unlike the Cartesian coordinate system, here (0,0) starts at the top left corner.
   - Pixels: Unit of measurement on a computer screen (tiny dots of RGB that make up your screen).
 
-<pagebreak/>
-- [ ] **Model** drawing ellipse with no outline and filled with color.
-<note type="reminder" title="Reminder">
-// Comment lines of code.
-</note>
 
 
-![ellipsecode](./images/ellipsecode.png)
 
-#### Engage: P5.js shapes and colors (30 minutes)
-
-- [ ] Students do mini challenge from zine.
- - Draw shapes in various sizes and colors.
- - Integer argument values determine color and shape size.
- - Example sketch of [9 Dots logo][logo]  
-
-#### Elaborate: Mouse Input (5 minutes)
-- [ ] Replace integer arguments with mouseX and mouseY to make your artwork animated and interactive.
+#### Elaborate: Create a Sketch (20 minutes)
+- [ ] **Independent Practice:** Students create a sketch consisting of:
+  - At least three shapes of various sizes and colors.
+  - Making sketch interactive by replacing integer arguments with mouseX and mouseY to make the sketch interactive.
+  - Example sketch of [9 Dots logo][logo]  
+  >>"Now that we've explored openprocessing, take the next 20 minutes to practice drawing shapes and using MouseX and MouseY to create a sketch with at least three shapes and uses MouseX and MouseY."
 
 
-#### Evaluate (5 minutes)
-- [ ] **Reflect:** Students respond to the following questions in coding journal.
-  - What did you learn? Greatest challenges? Successes?
+#### Evaluate: Exit Ticket (10 minutes)
+- [ ] **Call and Response:** teach students the call and response. Teacher says: “I have a challenge for you.” Students say: “Bring it, bring it.”
+  >> “Before we get started I’m going to teach you a call and response. Whenever you hear me say ‘I have a challenge for you’, you will respond ‘Bring it, bring it’. Let’s try it. ‘I have a challenge for you’ … (students respond ‘Bring it, bring it.’)”
 
-- [ ] **Share Out:**  3-4 students volunteer to share their project with the class if time allows.
+- [ ] **Exit Challenge:** Students work independently to write a program to draw a blue square and a red circle with a yellow background.
+  >> “Okay coders, I have a challenge for you. *pause for students’ response*   Use what we learned today draw a circle that changes size with when you move the mouse and a square that follows the mouse pointer.”
+
+
+- [ ] **Evaluate:** Circulate and check students code to determine student’s understanding of drawing shapes of different colors and setting a background color.
+
 
 
 
 </notable>
+[slides]:https://docs.google.com/presentation/d/1oCB6il3OnvJ9YKfD9wNR-lnLKRE-nlKYSZdZ81K3UEA/edit?usp=sharing
+[zine]:https://docs.google.com/document/d/1_S-nlYJVSYOe-gK_cARrc4L6jT_rAmfIuofJ0rvoQpY/edit
+[beatmachine]:https://www.openprocessing.org/sketch/406443
 [infinity]: http://www.thebroad.org/art/exhibitions/yayoi-kusama-infinity-mirrored-room
 [rain]: http://www.lacma.org/rainroom#about
 [gridpaper]: ../../worksheets/gridpaper.pdf
 [example]: https://vimeo.com/24930344
 [example2]: http://patatap.com/
 [logo]: https://www.openprocessing.org/sketch/398615
-[examplecode]: https://docs.google.com/document/d/15q7Fc4VpcTd--i7clFKvmVy3GBWp6B8cfGgEZm1w-2w/edit
+[robot]: https://www.openprocessing.org/sketch/436173
