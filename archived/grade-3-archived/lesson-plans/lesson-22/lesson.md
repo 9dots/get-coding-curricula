@@ -68,6 +68,6 @@ Participation: Independent, Online
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1XD_MyZ350fmlR0n61mbOm8lVVDXjy-ymguw_Afn8lbc/edit?usp=sharing
-[bug]: https://docs.google.com/document/d/1nsZKA0Pq9K1XtSI7n0oyUqLmY5HV9E9t4LU_wkDZJYA/edit?usp=sharing
+[bug]: https://drive.google.com/file/d/0B0vHZaW27O0KZkJfX2VrU3FuTU0/view?usp=sharing
 [plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view
 [zine]: https://tinyurl.com/scratch-zine
