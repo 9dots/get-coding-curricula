@@ -48,7 +48,7 @@ Students continue working on their flower garden project. If students get stuck 
   >>“Today you are going to work on your flower garden projects on Minecraft. If you need help debugging, follow these three steps and ask the class for help. Let’s practice using these debugging steps with this example bug. *read through slides*”
 
 
-#### Elaborate/Evaluate: Project Time (50-55 minutes)
+#### 2. Elaborate/Evaluate: Project Time (50-55 minutes)
 
 - [ ] **Project Time:** Students continue coding their final projects. If students finish their flower design, students can begin their garden. Their garden will consists of multiple builds of their flower.
   >>“Today you will continue coding your final project. After you have finished your design, you can create a new file to code turtle to build multiple flowers, just like we saw in the debugging challenge.”

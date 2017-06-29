@@ -69,13 +69,12 @@ Students learn the interface of MinecraftEdu and write programs in Lua to move a
   3. Click on “Start MinecraftEdu”.
   4. Login Mode: MinecraftEdu, click Launch.
   5. Type in username: firstlaststudent. This will be your username for the class.
-  6. Click Multiplayer, then Add server.
-  7. Type _______ into Server Address then click done.
-  8. Select Server, then click Join Server.
-  9. Choose a minecraft skin, click ‘Connect’, then tilt screen down.
+  6. Click Multiplayer, then direct connect.
+  7. Type Server Address then click Join Server.
+  8. Choose a minecraft skin, click ‘Connect’, then tilt screen down.
         - When all students are logged in, give remote to all and give turtle to all.  
         - Preview the next step before students do: Show students how to place turtle and hold remote. Students should have laptops halfway closed during this preview.
-  10. Students open laptop, place turtle, and hold remote. Turtles are placed using ‘control’ click or 2 finger click on trackpad. To use a remote, hold their remote and use ‘control click’ or 2 finger on turtle to use remote.
+  9. Students open laptop, place turtle, and hold remote. Turtles are placed using ‘control’ click or 2 finger click on trackpad. To use a remote, hold their remote and use ‘control click’ or 2 finger on turtle to use remote.
 
 Review: Review Minecraft basic player controls and how to use trackpad (2 finger click and ‘control’ click)
 
