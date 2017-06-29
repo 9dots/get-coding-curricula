@@ -94,4 +94,4 @@ Participation: Independent, unplugged
 
 [slide-show]: https://docs.google.com/presentation/d/1kKCYVByGbSVvYtuD-5ouoDigk_Pkk02B6KxkGSm1cs8/edit?usp=sharing
 [icc]: https://docs.google.com/document/d/1VM59rXH8pka5aOIWp2_4Of1dShGx-BRnXlMQbWkbyGc/edit?usp=sharing
-[solutions]: https://drive.google.com/file/d/0B2wBzr9vcXjPRWhIV3lYaXBYMGM/view?usp=sharing
+[solutions]: https://drive.google.com/file/d/0B0vHZaW27O0KWGpKQjJ6aGNab1U/view?usp=sharing

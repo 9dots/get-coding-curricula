@@ -11,7 +11,7 @@ Students explore and predict how they can use loops to more efficiently write co
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-2. **Engage/Explore:** Discovering Loops (15 min)
+1. **Engage/Explore:** Discovering Loops (15 min)
 3. **Explain:** Loops (5 min)
 4. **Elaborate:** Loops in the Real World (10 min)
 5. **Evaluate:** Exit Challenge (15 min)
@@ -45,17 +45,10 @@ Students explore and predict how they can use loops to more efficiently write co
 </note>
 
 <pagebreak/>
-## 1. Engage: Debugging Life (5 min)
-- [ ] **Write:** Have students respond to the writing prompt.
->> "Think of a time that you encountered a bug in your life and answer the following questions:"
+## 1. Engage/Explore: Discovering Loops (15 min)
+- [ ] **Introduce** new code blocks.
+>>"Today we are going to use a different set of code blocks to code our rover's movements. The turn blocks works just like the ones in pixelBot to turn the rover left and right. The move __ steps tells the rover how many steps it should move. The when green flag clicked block tells our code to run when we press the green flag. It is a way to tell our code to run just like when we press the green run button on pixelBots."
 
-  <iconp type='question'>What were you trying to do?</iconp>
-  <iconp type='question'>What did you do to find the problem?</iconp>
-  <iconp type='question'>What did you do to try to fix the problem?</iconp>
-
-- [ ] **Share Out:** Students share their responses with the class.
-
-## 2. Explore: Discovering Loops (10 min)
 - [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
 > > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
 ![sequence](./images/move6.png)
