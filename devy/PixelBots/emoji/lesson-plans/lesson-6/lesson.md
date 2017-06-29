@@ -35,7 +35,7 @@ Students will continue to code their Emoji Projects using all the coding concept
 - Computer
 - PixelBots Account
 - Student PixelBots Account
-- [Emoji | Project (code: OE3K4)][project]
+- [Emoji | Project (code: 9JJ5Q)][project]
 
 
 
@@ -64,4 +64,4 @@ Students will continue to code their Emoji Projects using all the coding concept
 
 </notable>
 [slides]:https://docs.google.com/a/9-dots.org/presentation/d/1hzgWZTAIqDM-28eE0vu7tkJpJ33UUfC9lqK-ORc9lJc/edit?usp=sharing
-[project]: http://www.pixelbots.io/OE3K4
+[project]: http://www.pixelbots.io/9JJ5Q

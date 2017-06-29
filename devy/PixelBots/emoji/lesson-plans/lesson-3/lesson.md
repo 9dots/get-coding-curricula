@@ -34,7 +34,8 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 #### Student Materials
 - Computer
 - PixelBots Account
-- [Emoji | Project (code: OE3K4)][project]
+- [Emoji | Project (code: 9JJ5Q)][project]
+- [Design Thinking Handout][handout]
 - [Emoji | Debug playlist (code: GD9QD)][playlist]
 
 
@@ -82,7 +83,7 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 - [ ] **Model:** Show the prototype of math face emoji on PixelBots (code: OE3K4). Demonstrate using the paint and eraser tool on PixelBots to paint their prototype.
   >>“I decided for this project to create the math face emoji. Here is what my prototype looks like. A prototype is your first model, or draft, of what you will create. Watch as I show you how to create your own prototype on PixelBots.”
 
-- [ ] **Independent Exploration:** Students prototype their favorite pixel emoji idea on [Emoji | Project][project] challenge on PixelBots. Guide students how to get to the emoji prototype challenge (code: OE3K4).
+- [ ] **Independent Exploration:** Students prototype their favorite pixel emoji idea on [Emoji | Project][project] challenge on PixelBots. Guide students how to get to the emoji prototype challenge (code: 9JJ5Q).
   >>“Your turn. Choose which of your emojis you will design for your project and create your own prototype on pixelBots.”
 
 **DECOMPOSITION:** (10 minutes) Students will break down the main parts of their prototype so that they are ready to code their project in purposeful parts.
@@ -111,5 +112,6 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 
 </notable>
 [slides]: https://docs.google.com/a/9-dots.org/presentation/d/1QjO5L17g8m1kTZF2ZQ0mkZlNn0H43KGw44xqLX9FFzI/edit?usp=sharing
-[project]: http://www.pixelbots.io/OE3K4
+[project]: http://www.pixelbots.io/9JJ5Q
 [playlist]: http://www.pixelbots.io/GD9QD
+[handout]:https://docs.google.com/document/d/1siGIj923FjdGBMQF3Skqs6eu0-JnPNS4rGuYP3fYOpI/edit?usp=sharing

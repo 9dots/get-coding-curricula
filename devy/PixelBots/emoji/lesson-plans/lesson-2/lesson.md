@@ -60,7 +60,7 @@ Students learn to pass numbers and strings as arguments to function calls forwar
   <iconp type='answer'>Students using the stepper can see the action of each line. The bug can be found by stepping through the code and as soon as an action is not what the coder wanted, that is where the error/bug is located.</iconp>
   <iconp type='question'>How did you try to fix them?</iconp>
   <iconp type='answer'>Line 7 - change 9 to 6 </iconp>
-  <iconp type='answer'>Line 11 - add quotes around red</iconp>
+  <iconp type='answer'>Line 11 - add quotes around pink</iconp>
   <iconp type='answer'>Line 13 - change 3 to 6</iconp>
   <iconp type='answer'>Line 14 - g needs to be capitalized, ‘lightGreen’</iconp>
   <iconp type='question'>How is this challenge different than other challenge you’ve seen? What was different about the types of instructions you could give the pixelBot?</iconp>

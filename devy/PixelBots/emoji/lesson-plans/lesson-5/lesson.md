@@ -36,7 +36,7 @@ Students will start coding their Emoji Projects using all the coding concepts le
 - PixelBots Account
 - Student PixelBots Account
 - [Emoji | Debug | Heart (code(GD9QD)][debug]
-- [Emoji | Project (code: OE3K4)][project]
+- [Emoji | Project (code: 9JJ5Q)][project]
 
 
 
@@ -121,5 +121,5 @@ Students will start coding their Emoji Projects using all the coding concepts le
 
 </notable>
 [slides]: https://docs.google.com/a/9-dots.org/presentation/d/1nzXJqbH86IA619utclC2uM911ud9mMWYB407GXcfhJE/edit?usp=sharing
-[project]: http://www.pixelbots.io/OE3K4
+[project]: http://www.pixelbots.io/9JJ5Q
 [debug]: http://www.pixelbots.io/GD9QD

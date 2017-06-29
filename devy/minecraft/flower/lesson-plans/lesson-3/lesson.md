@@ -87,4 +87,4 @@ Students are introduced to loops in Lua on Minecraft. Students will be able to u
 
 
 </notable>
-[slides]:https://docs.google.com/document/d/1JPOQtD8r3tYMww-JLYrjcihE49IVFEytzmlv9377hig/edit?usp=sharing
+[slides]:https://docs.google.com/presentation/d/1aSpEfUBepKf-4fATAkEloyfIOq_bMXbGCH-jevyK3xQ/edit?usp=sharing

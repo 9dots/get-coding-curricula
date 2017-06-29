@@ -26,7 +26,7 @@ Students continue working on their flower garden project. If students get stuck 
 - Computer
 - Projector
 - MinecraftEdu
-- [Lesson 5 Slides][slides]
+- [Lesson 6 Slides][slides]
 
 
 #### Student Materials

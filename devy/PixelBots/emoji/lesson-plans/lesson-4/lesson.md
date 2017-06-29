@@ -37,7 +37,7 @@ Students are introduced to loops in javascript on PixelBots.io. Students will be
 #### Student Materials
 - Computer
 - PixelBots Account
-- [Emoji | Project (code: OE3K4)][project]
+- [Emoji | Project (code: 9JJ5Q)][project]
 - [Emoji | Looops playlist (code: B3NK3)][playlist]
 
 
@@ -129,5 +129,5 @@ Playlist consists of three types of challenges:
 
 </notable>
 [slides]: https://docs.google.com/a/9-dots.org/presentation/d/1kEAih_upTPe4XaAs59pspFQbhX310u9IL_yWT4BOyqE/edit?usp=sharing
-[project]: http://www.pixelbots.io/OE3K4
+[project]: http://www.pixelbots.io/9JJ5Q
 [playlist]: http://www.pixelbots.io/B3NK3
