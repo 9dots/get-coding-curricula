@@ -1,21 +1,21 @@
-<header title='Variables, Operators, and Loops' subtitle='Lesson 2'/>
+<header title='Variables, Operators, and Random' subtitle='Lesson 2'/>
 
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students learn and use variables, operators, and for loops to create interesting patterns in Processing.
+Students learn and use variables, operators, and random to create interesting sketches in Processing.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - Students will be able to declare variables and use them to manipulate objects.
 - Students will be able to use operators to manipulate variables.
-- Students will be able to replace a repeating sequence with a for loop to write less lines of code.
+- Students will be able to use random to create random sized shapes in random locations.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 ###### Length: 65 minutes
 1. **Review:** Drawing a shape (5 minutes)
 1. **Engage:** mouseX & mouseY (5 minutes)
-1. **Explain:** Variables, operators & loops (25 minutes)
-1. **Explore:** Coding with variables, operators & loops (25 minutes)
+1. **Explain:** Variables, operators & random (25 minutes)
+1. **Explore:** Coding with variables, operators & random (25 minutes)
 1. **Evaluate:** Share sketches (5 minutes)
 
 <note>
@@ -29,7 +29,7 @@ Students learn and use variables, operators, and for loops to create interesting
 
 ###### Student materials
 - [ ] Computer
-- [ ] P5.js zine
+- [ ] [P5.js zine][zine]
 - [ ] [Grid Paper][gridpaper]
 - [ ] pencil
 - [ ] coding journal
@@ -57,7 +57,7 @@ Students learn and use variables, operators, and for loops to create interesting
 - [ ] Students make sketch interactive by replacing number arguments with mouseX and mouseY.
 - [ ] **Turn and talk:** Students share their sketches to their neighbor.
 
-#### Explain: Variables, operators & loops (25 minutes)
+#### Explain: Variables, operators & loops (20 minutes)
 - [ ] **Introduce** Variables:
   - What is a variable?
     - A variable stores a value in memory so that you can use it later in a program.
@@ -88,35 +88,21 @@ Students learn and use variables, operators, and for loops to create interesting
       ellipse (275, a, b, b)
 
 
-- [ ] Students work through mini challenge in zine, P. 17  #1-4
-
 - [ ] **Introduce** Operators:
   - What is an operator?
     - Symbols like +, -, and * are operators.
     - When placed between two values, they create an expression.
 - [ ] Review example from above and change size of ellipses using operators.
 
-- [ ] **Introduce** Loops.
-  - Show example of sketch without using a for loop and the sketch with a for loop.
-  - [Code without for loop][sketch1]
-  - [Code with for loop][sketch2]
+- [ ] **Introduce** Random:
+  - Type example of using random from zine. // ellipse(random(width),random(height),100,100)
+  - Explain how to use the random function call: for example, random(width) returns a random x-coordinate and random(height) returns a random y-coordinate.  
 
-  >> “We can replace repeating sequences with a for loop.”
+  >> “We can use random to draw things in random locations, which will be useful in our beat machine project.”
 
-- [ ] **Explain** braces {} and code inside loop.
-  - The code between the braces is called a block. This is the code that will repeat each time the for loop is run.
 
-- [ ] **Explain** the 4 parts of a for loop:
-  - The initialization: declares a new variable (usually i is used)
-  - The test: evaluates the value of this variable
-  - The update: changes the variables value
-  - The statements: the code that is run  
-
-  >>“The initialization, test and update work together to control how many times the statement will run. “
-
-#### Explore: Coding with variables, operators & loops (25 minutes)
-- [ ] Students do mini challenges from zine P. 17-18.
-- [ ] **Independent Exploration:** Students create their own sketch using variables, operators, and loops.
+#### Explore: Coding with variables, operators & random (25 minutes)
+- [ ] **Independent Exploration:** Students create their own sketch using variables, operators, and random.
 
 #### Elaborate:  Share sketches (5 minutes)
 - [ ] **Turn and Talk:** Students turn in pairs and share their project for the day.
@@ -125,6 +111,7 @@ Students learn and use variables, operators, and for loops to create interesting
 
 
 </notable>
+[zine]:https://docs.google.com/document/d/1_S-nlYJVSYOe-gK_cARrc4L6jT_rAmfIuofJ0rvoQpY/edit
 [mouseX&Y]: https://www.openprocessing.org/sketch/398856
 [gridpaper]: ../../worksheets/gridworksheet.pdf
 [examplecode]: https://docs.google.com/document/d/15q7Fc4VpcTd--i7clFKvmVy3GBWp6B8cfGgEZm1w-2w/edit

@@ -72,7 +72,7 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
 
 
 
-#### 2. Reusable Code (10 minutes)
+#### 2. Explore: Reusable Code (10 minutes)
 - [ ] **Read Code:** Students individually read and step through each line of code in a program using omnifix cubes.
 
   >>“Now let’s read code. During this activity I want you to think about how rewriting lyrics can relate to code. Everyone needs 2 cube nets each for this activity. You are a robot that knows three function calls: pickUpNet(), fold(), and connectCubes(). Step through the program line by line to build the structure according to the code.”
@@ -85,7 +85,7 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
   <iconp type="question">How are these two ways of writing code like the two versions of the song lyrics we saw earlier?</iconp>
 
 
-#### 3. Explain Functions
+#### 3. Explain: Functions (5 minutes)
 - [ ] **Define & Identify** Functions. Students write definition of function in coding journals. Functions are a reusable chunk of code that performs a task. Students then identify what code is reused and what to name the function.
   - **Tip:** Collect the omnifix cubes
 
@@ -127,10 +127,10 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
 - [ ] **Code Along:** Together as a class, create a function called line in PixelBots and refactor the code in the challenge.
   >>“We can define a function named line and refactor the code using the function call line. Do these steps with me.”
 
-		- Steps:
-      1. Define a function and name it line. We do this by writing ‘function’ and then the name. In our cause it would be ‘function line()’. A function name is always followed by open and closed parentheses.
-      1. Next, we write the body of the function: paint(), forward(),... We write the body of the code inside these curly braces. Like this. And that’s how how you define a function.
-      1. Above the function definition, is where we write the program using line.
+  - Steps:
+    1. Define a function and name it line. We do this by writing ‘function’ and then the name. In our cause it would be ‘function line()’. A function name is always followed by open and closed parentheses.
+    1. Next, we write the body of the function: paint(), forward(),... We write the body of the code inside these curly braces. Like this. And that’s how how you define a function.
+    1. Above the function definition, is where we write the program using line.
 
 - [ ] **Independent Practice:** Students complete a PixelBot challenge by defining a function called square and calling the square function in a program.
   >> “Now it’s your turn. Define a function and complete the challenge using your function.”
