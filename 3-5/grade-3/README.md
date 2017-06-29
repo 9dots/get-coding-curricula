@@ -20,7 +20,7 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 11: Boolean](3-5/grade-3/lesson-plans/lesson-11/lesson.html)
 - [Lesson 12: Conditionals](3-5/grade-3/lesson-plans/lesson-12/lesson.html)
 - [Lesson 13: Build-a-Bot](3-5/grade-3/lesson-plans/lesson-13/lesson.html)
-- [Lesson 14: Write Conditionals](3-5/grade-3/lesson-plans/lesson-14/lesson.html)html√
+- [Lesson 14: Write Conditionals](3-5/grade-3/lesson-plans/lesson-14/lesson.html)
 - [Lesson 15: Debugging Challenges](3-5/grade-3/lesson-plans/lesson-15/lesson.html)
 - [Lesson 16: I Have a Challenge for You](3-5/grade-3/lesson-plans/lesson-16/lesson.html)
 - [Lesson 17: Independent Coding Challenge](3-5/grade-3/lesson-plans/lesson-17/lesson.html)
