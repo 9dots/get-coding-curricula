@@ -46,6 +46,7 @@ Students review sequencing, arguments, and loops in JavaScript on the PixelBots.
 - **Argument:** specific value supplied to a function call
 - **String:** a sequence of characters or words
 - **Loop*:** A sequence of instructions that is repeated a set number of times.
+- **Comment:** A note in the code that makes the program more readable and is ignored by the computer
 
 </note>
 <pagebreak/>
@@ -65,7 +66,7 @@ Students review sequencing, arguments, and loops in JavaScript on the PixelBots.
     1. Open Chrome and type ‘www.pixelbots.io’ in the address bar
     1. Click on ‘Log In’  and ‘Sign in with Google’
     1. Type in email and password.
-             Email: firstlaststudent@9-dots.org
+             Email: firstlaststudent@9dots.org
              Password: student5 or student6
     1. Navigate to playlist: click ‘Code’, type playlist code: ‘8QX8D’, and click ‘go’
 
