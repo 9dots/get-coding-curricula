@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/7.0.0/bin/node /Users/Oscar/Documents/get-coding-curricula/node_modules/.bin/firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     darwin
+[debug] Node Version: v7.0.0
+[debug] Time:         Thu Jun 29 2017 00:55:05 GMT-0700 (PDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/teach-get-coding 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/teach-get-coding/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'teach-get-coding'...
+[info] 
+[info] i  deploying database, hosting
+[info] ✔  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/teach-get-coding/uploads/-KnmqAhuI5FqpOvfyagj?fileCount=1543&message= 
+[debug] Error: write EPIPE
+    at exports._errnoException (util.js:1026:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:804:14)
+[error] 
+[error] Error: Server Error. write EPIPE
