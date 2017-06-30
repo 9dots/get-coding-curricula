@@ -127,7 +127,7 @@ Narrate what you’re doing at each step.
 - [ ] **pixelBots:** Students continue to practice reading code with loops by completing a series of read challenges on pixelBots.
 
 >>"Let's login to pixelBots to continue practicing reading code with loops."
-   
+
 
 </notable>
 

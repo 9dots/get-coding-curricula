@@ -111,8 +111,6 @@ The conditional to program the space bar is
 
 - [ ] **Extension:** Students can program more keys to trigger shapes.
 
-
-<pagebreak/>
 #### Evaluate: Exit Challenge (15 minutes)
 - [ ] **Exit Challenge:** Students code a shape to be drawn in a random position on the window when the first letter of their name is pressed. (slide 14)
   - Instructor circulates room to check sketches. Create a list of students who were not able to complete this. Assistant instructor will work with this group of students in the next class.
@@ -122,6 +120,6 @@ The conditional to program the space bar is
 
 </notable>
 [starter]: https://www.openprocessing.org/sketch/403487
-[slides]: https://docs.google.com/presentation/d/15LZEx0puLgVSdcXEVtb9v6nyYqvDswPg2tOO9rNHbtc/edit?usp=sharing
+[slides]:https://drive.google.com/open?id=10LJ0aV8XPUwWIwq_xx15vjPUEwbDbL-6MzMQ0geH8hk
 [w3sketch]: https://www.openprocessing.org/sketch/403720
 [challenge]: https://www.openprocessing.org/sketch/403278

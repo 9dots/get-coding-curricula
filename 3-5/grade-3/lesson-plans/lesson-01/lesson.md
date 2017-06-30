@@ -8,11 +8,11 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 - I know that making mistakes is part of being a coder. I learn when I understand my mistakes and try again.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Introductions (optional)
-1. Engage: What is Code (5 min)
-1. Explore: River Crossing (25 min)
-1. Explain: Solution Sharing (5 min)
-1. Elaborate: Debrief (10 min)
+1. **Introductions** (optional)
+1. **Engage:** What is Code? (5 min)
+1. **Explore:** River Crossing (25 min)
+1. **Explain:** Solution Sharing (5 min)
+1. **Elaborate:** Debrief (10 min)
 
 ##### Room Design
 ![room](/images/layout-groups.png)
@@ -34,7 +34,7 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 - [ ] [Character Handout][characters]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Code** - A set of instructions designed to be carried out by a computer.
+- **Code:** A set of instructions designed to be carried out by a computer.
 
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>

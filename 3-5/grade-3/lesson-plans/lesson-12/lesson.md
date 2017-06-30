@@ -61,7 +61,7 @@ Participation: Whole Class Unplugged
 
 <br/>
 
-- [ ] **Connecting Prior Knowledge:** Review question #3 from Lesson 13 Exit Challenge.
+- [ ] **Connecting Prior Knowledge:** Review question 3 from Lesson 13 Exit Challenge.
 
 <iconp type="question"> A lot of coders made this error on their exit challenge last week. When coders get a problem wrong they debug! What was the error here?</iconp>
 

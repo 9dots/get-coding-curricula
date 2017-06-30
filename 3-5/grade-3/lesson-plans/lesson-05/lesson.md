@@ -11,11 +11,10 @@ Students explore and predict how they can use loops to more efficiently write co
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-2. **Engage/Explore:** Discovering Loops (15 min)
+1. **Engage/Explore:** Discovering Loops (15 min)
 3. **Explain:** Loops (5 min)
 4. **Elaborate:** Loops in the Real World (10 min)
 5. **Evaluate:** Exit Challenge (15 min)
-
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -25,7 +24,7 @@ Students explore and predict how they can use loops to more efficiently write co
 - [ ] Projector
 - [ ] Unplugged Foam Tiles
 - [ ] Teacher Scratch Blocks
-- [ ] Loop code blocks for students in envelopes 
+- [ ] Loop code blocks for students in envelopes
 - [ ] [Socrative Quiz][soc]
 
 ###### Student Materials:
@@ -41,18 +40,18 @@ Students explore and predict how they can use loops to more efficiently write co
 
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
 
 <pagebreak/>
-
 ## 1. Engage/Explore: Discovering Loops (15 min)
+- [ ] **Introduce** new code blocks.
+>>"Today we are going to use a different set of code blocks to code our rover's movements. The turn blocks works just like the ones in pixelBot to turn the rover left and right. The move __ steps tells the rover how many steps it should move. The when green flag clicked block tells our code to run when we press the green flag. It is a way to tell our code to run just like when we press the green run button on pixelBots."
 
-- [ ] **Coders & Bots:** In pairs, challenge students to code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence. Students should only have 2 Move blocks, 2 Turn blocks, and 1 When Green Flag Clicked block to work with.
-
-> > “Your first challenge today: With your table partner navigate your Rover around the outside of the grid. Your code should have it start and end on the same square. First decide who will be the Coder (write the code) and who will be the Bot (moves the Rover and validates the code).”
+- [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
+> > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
+![sequence](./images/move6.png)
 
 <iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
 <iconp type="answer">Check that each pair has one Coder. They will be writing the code.</iconp>
@@ -64,7 +63,7 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 ![slides-discover](./images/slides-discover.png)
 </note>
 
-- [ ] **Discover Loops:** Do not give students the loop blocks until their group comes to you and states  that they do not have enough code blocks.  Without introducing them verbally, give each group the loop blocks as they ask for them. Guide students through using the blocks by asking questions rather than showing. One way to prompt this is to say: 
+- [ ] **Discover Loops:** Do not give students the loop blocks until their group comes to you and states  that they do not have enough code blocks.  Without introducing them verbally, give each group the loop blocks as they ask for them. Guide students through using the blocks by asking questions rather than showing. One way to prompt this is to say:
 
 >>"If you have the right question, I have the right answer."
 
@@ -72,7 +71,7 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 <note type="tip">A common misonception is that "Repeat 1" means that the sequence will be read twice. Correct students by telling them that "Repeat 2" will cause the sequence to be read twice.</note>
 
 - [ ] **Demo Code:** Call on one group to demo their code by bringing their code up to the board and acting it out on the unplugged maze.
-Possible solutions include: 
+Possible solutions include:
 ![solutions](./images/solutions.png)
 
 <iconp type='question' mb='1em'>Extension if students use Repeat 2: Can you rewrite your code with fewer blocks?</iconp>
@@ -88,7 +87,7 @@ Possible solutions include:
 ![for-each](./images/for-each.png)
 <iconp type='answer'>Forever: Repeats the nested sequence forever</iconp>
 <iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
-<iconp type='answer'>Repeat __: Repeats the nested sequence that number of times</iconp>
+<iconp type='answer'>Repeat ____: Repeats the nested sequence that number of times</iconp>
 
 > > "These structures are called loops. Loops are powerful tools for coders! With loops we don’t have to write a sequence of code over and over to make it repeat. Everybody say 'loop'."
 
