@@ -12,7 +12,7 @@ Students learn and use variables, operators, and random to create interesting sk
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 ###### Length: 65 minutes
-1. **Review:** Drawing a shape (5 minutes)
+1. **Review:** Drawing A Shape (5 minutes)
 1. **Engage:** mouseX & mouseY (5 minutes)
 1. **Explain:** Variables, operators & random (25 minutes)
 1. **Explore:** Coding with variables, operators & random (25 minutes)
@@ -25,62 +25,51 @@ Students learn and use variables, operators, and random to create interesting sk
 ###### Teacher materials
 - [ ] Projector
 - [ ] Computer
-- [ ] [Example Code][examplecode]
+- [ ] [Print Out for Box Activity][print]
+- [ ] Boxes
 
 ###### Student materials
 - [ ] Computer
-- [ ] [P5.js zine][zine]
 - [ ] [Grid Paper][gridpaper]
 - [ ] pencil
 - [ ] coding journal
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-- see p5.js zine
 
 
 </note>
 <pagebreak/>
 
-#### Review: Drawing a shape (5 minutes)
-- [ ] **Guided Practice:** Review creating a canvas and setting the background color.
-  - Students follow along on their computer.
-- [ ] **Guided Practice:** Review writing a shape function by choosing one from p.10 or p.32 of zine.
-  - Direct students to use p.10 or p.32 of zine to write a shape function in function draw.
-- [ ] **Model:** Show how to fill a shape with color using fill(r,g,b).
+#### Review: Drawing A Shape (8 minutes)
+- [ ] **Guided Practice:** Review creating a canvas, setting the background color, and drawing a shape by choosing one from the zine and using fill. Ask the class questions, students give a response, and then code together as a class.
+  <iconp type='question'> Let's start a new sketch. How do we set the background color to blue?</iconp>
+  <iconp type='answer'> Change the three numbers in background() </iconp>
+  <iconp type='question'> How do we draw a rectangle with the top left corner at x = 250 and y = 250 of width 200 and height 300? </iconp>
+  <iconp type='answer'> Use the rect() function call. Pass four numbers to the rect function call, rect(250,250,200,300) </iconp>
+  <iconp type='question'> How do we color the rectangle yellow? </iconp>
+  <iconp type='answer'> How can we change our sketch to have the rectangle draw at the mouse pointer?</iconp>
+  <iconp type='answer'> change the first 250 to mouseX and the other 250 to mouseY </iconp>
+  <iconp type='question'> What happens if we place the background function in draw instead of setup? </iconp>
+  <iconp type='answer'> The a new background is placed and then an ellipse is drawn and this repeats in a loop. We don't see a trail of rectangles following the mouse.</iconp>
 
-#### Engage: mouseX & mouseY (5 minutes)
-- [ ] **Model:** Replace integer arguments with mouseX and mouseY to make sketch interactive.
-- [ ] Show [Example using mouseX & mouseY][mouseX&Y]
-  - By placing the background function in draw instead of setup, a new background is placed before each change to the ellipse.
-  - Show how the sketch changes by placing the background function in setup.
-- [ ] Students make sketch interactive by replacing number arguments with mouseX and mouseY.
-- [ ] **Turn and talk:** Students share their sketches to their neighbor.
+#### Engage/Explore: Box Activity (7 minutes)
+- [ ] **Explore:** In this activity, students will learn how variables, operators, and random works through an unplugged activity. Code will be displayed on the board and boxes will be in the front that act at variables, 'named storage for data'. The code expressions will use operators and students will do arithmetic with variables. For each program read line by line and update variables. For the 2nd program, place a dice in box a for random(1,6).
+  >> "We are going to read code and act out how information is stored in a computer's memory. Let's read this first program together. 'var a' this creates a box of storage name 'a' and the same for 'var b' and 'var c'. Next line, 'a = 100'. This looks like a = 100, but in code we read it as store the number 100 in the variable box 'a' *Place paper with 100 in box a*"
 
-#### Explain: Variables, operators & loops (20 minutes)
-- [ ] **Introduce** Variables:
-  - What is a variable?
-    - A variable stores a value in memory so that you can use it later in a program.
-  - Why do we use variables?
-    - To avoid repeating ourselves in our code.
-    - So that we can easily change values while the program is running.
-    - To write clear and effective code.
+Continue reading code and placing correct values in each variable box.
 
-- [ ] **Explain:** mouseX and mouseY are variables.
-  - mouseX stores the x coordinate value of our mouse pointer.
-  - mouseY stores the y coordinate value of our mouse pointer.
+#### Explain: Variables, Operators & Random (15 minutes)
+- [ ] **Define** Variable: Named storage for data.
+  >> "A variable stores a value in memory so that you can use it later in a program."
 
->>"When creating variables, you determine the name, the data type, and the value and you declare them at the top of your sketch. "
+  <iconp type='question'>Why do we use variables?</iconp>
+  <iconp type='answer'>To avoid repeating ourselves in our code.</iconp>
+  <iconp type='answer'>So that we can easily change values.</iconp>
+  <iconp type='answer'>To write clear and effective code.</iconp>
 
-- [ ] **Define** parts of variable: Name, Data Type, Values
-  - **Name:** what you decide to call the variable (choose a name that is informative and clear)
-  - **Data type:** Defines the type of values that can be stored in the variable (integers, floating-point (decimal numbers, characters, words, images, fonts, etc.)
-  - **Values:** a number, word, image, etc.
+- [ ] **Demonstrate** using variables. Create a new sketch and type the following code. Then change the value of a and b to see how the sketch is altered.
 
-- [ ] **Demonstrate** using variables.
-  - Change the value of a and b to see how the sketch is altered.
-
-      createCanvas(480,120)
       var a = 60
       var b = 80
       ellipse (75, a, b, b)
@@ -88,23 +77,26 @@ Students learn and use variables, operators, and random to create interesting sk
       ellipse (275, a, b, b)
 
 
-- [ ] **Introduce** Operators:
-  - What is an operator?
-    - Symbols like +, -, and * are operators.
-    - When placed between two values, they create an expression.
-- [ ] Review example from above and change size of ellipses using operators.
+- [ ] **Define** Operator: a character that represents an action.
+  >> "An operator are symbols like +, -, and * are operators. When an operator is placed between two values, an expression is created."
 
-- [ ] **Introduce** Random:
-  - Type example of using random from zine. // ellipse(random(width),random(height),100,100)
-  - Explain how to use the random function call: for example, random(width) returns a random x-coordinate and random(height) returns a random y-coordinate.  
+- [ ] **Demonstrate** using operators in the example from above and change size of ellipses.
+
+- [ ] **Demonstrate** random in the example from above. Explain how to use the random function call: for example, random(width) returns a random x-coordinate and random(height) returns a random y-coordinate.
+
+      var a = random(width)
+      var b = random(height)
+      ellipse (a, b, b, b)
+      ellipse (a, b, b, b)
+      ellipse (a, b, b, b)
 
   >> “We can use random to draw things in random locations, which will be useful in our beat machine project.”
 
 
-#### Explore: Coding with variables, operators & random (25 minutes)
-- [ ] **Independent Exploration:** Students create their own sketch using variables, operators, and random.
+#### Elaborate: Coding with variables, operators & random (25 minutes)
+- [ ] **Independent Practice:** Students create their own sketch using variables, operators, and random.
 
-#### Elaborate:  Share sketches (5 minutes)
+#### Evaluate: Share Sketches (5 minutes)
 - [ ] **Turn and Talk:** Students turn in pairs and share their project for the day.
 - [ ] **Share Out:** 3-4 students share their project to the whole class over projector.
 
@@ -117,3 +109,4 @@ Students learn and use variables, operators, and random to create interesting sk
 [examplecode]: https://docs.google.com/document/d/15q7Fc4VpcTd--i7clFKvmVy3GBWp6B8cfGgEZm1w-2w/edit
 [sketch1]:https://www.openprocessing.org/sketch/400530
 [sketch2]: https://www.openprocessing.org/sketch/400531
+[print]: https://docs.google.com/document/d/1NJwGG_D-wPXyZLP0GGBJkGj9R8M_DVtiGrX6YUFA788/edit?usp=sharing

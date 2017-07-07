@@ -37,7 +37,7 @@ Prep: Build Teleporters Before Lesson
 - Computer
 - MinecraftEdu
 - PixelBots Account Login
-- [Minecraft Project | Prototype (code: BK3NA)][prototype]
+- [Minecraft Project | Prototype (code: JR4Y3)][prototype]
 
 
 
@@ -98,5 +98,5 @@ Prep: Build Teleporters Before Lesson
 
 </notable>
 [slides]: https://docs.google.com/presentation/d/1mQqxwMzKzxqfQ8trjjY4E8X9oLTxDp81FZWf8ySIS-s/edit?usp=sharing
-[prototype]: https://www.pixelbots.io/BK3NA
+[prototype]: https://www.pixelbots.io/JR4Y3
 [teleporter]: https://docs.google.com/presentation/d/17xUs40XmNJts3DqpUoEbXx3iEVmsl6-KeVmi4FNtK8o/edit?usp=sharing
