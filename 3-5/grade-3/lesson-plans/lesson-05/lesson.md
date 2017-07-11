@@ -47,7 +47,12 @@ Students explore and predict how they can use loops to more efficiently write co
 <pagebreak/>
 ## 1. Engage/Explore: Discovering Loops (15 min)
 - [ ] **Introduce** new code blocks.
->>"Today we are going to use a different set of code blocks to code our rover's movements. The turn blocks works just like the ones in pixelBot to turn the rover left and right. The move __ steps tells the rover how many steps it should move. The when green flag clicked block tells our code to run when we press the green flag. It is a way to tell our code to run just like when we press the green run button on pixelBots."
+>>"Today we are going to use a different set of code blocks to code our rover's movements. 
+>> - The turn blocks works just like the ones in pixelBot to turn the rover left and right. 
+>> - The move __ steps tells the rover how many steps it should move. 
+>> - The when green flag clicked block tells our code to run when we press the green flag. It is a way to tell our code to run just like when we press the green run button on pixelBots."
+
+<note> **Slides:** ![slides-newcode](./images/slides-newcode.jpeg)</note>
 
 - [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
 > > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
@@ -59,7 +64,7 @@ Students explore and predict how they can use loops to more efficiently write co
 <iconp type="answer">Check that each pair has one Bot. They will be moving Rover and validating the code.</iconp>
 
 <note type='tip' title='Tip'>
-_Younger students may need to be told to write in 90 degrees on turn blocks._
+Younger students may need to be told to write in 90 degrees on turn blocks.
 ![slides-discover](./images/slides-discover.png)
 </note>
 
@@ -123,11 +128,10 @@ Possible solutions include:
 > > "For our closing challenge today we are going to login to Socrative to complete some challenge questions about Loops."
 
 <note> ![slides-soc1](./images/slides-soc1.png)
-![slides-soc2](./images/slides-soc2.png)
 </note>
 
 </notable>
 
 [maze-handout]: https://drive.google.com/a/9-dots.org/file/d/0B2wBzr9vcXjPUEV0aHk4M0hMUVE/view?usp=sharing
-[slide-show]: https://docs.google.com/presentation/d/1bbWIFAN66jsNqsTDXqy4OG31CUGDuPw9bRMqtKDNU-4/edit#slide=id.g1612fbdbad_0_42
+[slide-show]: https://docs.google.com/presentation/d/1jL7NYRgsPv6lLfbZWlGXswVTtAdwRlEmuKTKH4vvKok/edit?usp=sharing
 [soc]: https://b.socrative.com/teacher/#import-quiz/28442633

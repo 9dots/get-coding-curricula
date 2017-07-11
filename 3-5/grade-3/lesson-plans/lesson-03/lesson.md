@@ -45,21 +45,18 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 <pagebreak/>
 
 ## 1. Engage: Painting with Rover (10 min)
-- [ ] **Model** the new paint block in two unplugged Rover challenges using magnetic code blocks and having a student move the rover on the tarp.
+- [ ] **Model** the new paint code block in two unplugged Rover challenges using magnetic code blocks and having a student move the rover on the tarp.
 >>“Last lesson we wrote code to move our rover around the grid. Today we have a new block of code - paint. In our first challenge the rover has to paint the square it is standing next to. We can tell the rover to paint the square it is standing on by using our new paint block. Let’s tell the rover to move to that square and paint that square.”
 
 <iconp type='question'>What instructions should we code for the rover to follow?</iconp>
-<iconp type='answer'>Move 1 step, paint</iconp>
-<iconp type='question'>In the second challenge what instructions should we code for the rover to follow?</iconp>
-<iconp type='answer'>turn right, move 1 step, paint, move 1 step, paint</iconp>
+<iconp type='answer'>Move 1 step, paint (put this code on the board and have a student act it out on the tarp)</iconp>
+<iconp type='question'>In the second challenge what instructions should we code for the rover to follow? </iconp>
+<iconp type='answer'>turn right, move 1 step, paint, move 1 step, paint (put this code on the board and have a student act it out on the tarp)</iconp>
 
-- [ ] **Motivate** students by introducing the pixelBots platform using the flower demo link and running the code.
+- [ ] **Motivate** students by introducing the pixelBots platform using the Playlist: Flower Demo link in Teacher Materials and running the code.
 >>“In today’s lesson we are going to code characters to move on a grid just like we did with the rover in our previous lesson. This time we are going to code on computers using a program called pixelBots where we can paint images by coloring squares. Here’s an example of the types of things we can do on pixelBots.”
 
 ## 2. Explore: pixelBots (10 min)
-<note type="tip">
-Younger students with no prior experience on computers may take longer getting started. If that is the case it is ok if they just get through the guided practice in this lesson.
-</note>
 
 - [ ] **Challenge** the class to explore their first pixelBots challenge.
  >>“Before I show you exactly how it works, I’m going to let you play with the pixelBots editor first. Everyone say editor. An editor is a program designed for writing code. Some things you need to know first:
@@ -72,10 +69,14 @@ Type pixelbots.io into the address bar in your browser.
 Click the code icon on the bottom left of the screen and type the code you see on the board.
 Click go”
 
+<note type="tip">
+Younger students with no prior experience on computers may take longer getting started. If that is the case it is ok if they just get through the guided practice in this lesson.
+</note>
+
 - [ ] **Debrief:** Students share what they discovered about pixelBots.
 >>“Ok let’s close our computers and talk about what you discovered in your challenge.”
 
-<iconp type='question'>How did you add code the sequence you wrote?</iconp>
+<iconp type='question'>How did you add code to the sequence you wrote?</iconp>
 <iconp type='question'>How did you make the pixelBot act out the code?</iconp>
 <iconp type='question'>What does the submit button do?</iconp>
 <iconp type='question'>How do you reset the pixelBot?</iconp>
@@ -98,13 +99,14 @@ Click go”
   <iconp type='question'>How do I submit the code?</iconp>
 
 ## 4. Elaborate: pixelBots Challenges (15 min)
-- [ ] *Guided Practice:* Students complete pixelBot challenge 3 independently using the plan, code, validate protocol. After a few minutes ask students to come up and share their answer to each question.
+- [ ] **Guided Practice:** Students complete pixelBot challenge 3 independently using the plan, code, validate protocol. After a few minutes ask students to come up and share their answer to each question.
 >>“Now it’s your turn, coders. Try challenge 3 independently. I will ask you to share your process and solution in 3 minutes.”
 
 <iconp type='question'>*Plan:* What path did you make your pixelBot travel?</iconp>
 <iconp type='question'>*Code:* What did you code?</iconp>
 <iconp type='question'>*Validate:* How do you know your code works?</iconp>
 
+<br/>
 - [ ] **Independent Practice:** Students work independently through the remaining challenges on the playlist.
 >>“Keep coding. There are 10 more challenges for you to code in pixelBots.”
 
@@ -114,7 +116,7 @@ Click go”
 
 </notable>
 
-[slides]: https://drive.google.com/open?id=1Nm1y7M6kpWZH8N49aUBgDF_4A7Vmc4Y2XefO9IbonPs
+[slides]: https://docs.google.com/presentation/d/1Nm1y7M6kpWZH8N49aUBgDF_4A7Vmc4Y2XefO9IbonPs/edit?usp=sharing
 [commands]: https://drive.google.com/open?id=0B48_2vIyABioU0FyTTNsR29WNUE
 [flower]: http://pixelbots.io/XPMEP
 [playlist-one]: http://pixelbots.io/V7G5R

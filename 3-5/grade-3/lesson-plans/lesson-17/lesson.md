@@ -101,4 +101,4 @@ Participation: Independent, unplugged
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1kKCYVByGbSVvYtuD-5ouoDigk_Pkk02B6KxkGSm1cs8/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1X5TqFZZdFq0J41yVsawCvSV3hAGMUnEq4m0XpSPjUzU/edit?usp=sharing

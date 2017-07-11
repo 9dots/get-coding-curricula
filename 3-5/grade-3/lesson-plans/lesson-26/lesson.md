@@ -103,7 +103,7 @@ Students are introduced to giving constructive feedback on user experience. They
 <note>![Zine](./images/zine.png)</note>
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1ocZZQSVxaP8DneUVH-qfys1Z5ecJ3qUUnrktrOnZGKo/edit#slide=id.g212b6187de_0_12
+[slide-show]: https://docs.google.com/presentation/d/1A2eo7sY1FWvoaYWPg_0wWsuvTfGINSUgjNmJ8B6jziw/edit?usp=sharing
 [bug]: https://docs.google.com/document/d/1nsZKA0Pq9K1XtSI7n0oyUqLmY5HV9E9t4LU_wkDZJYA/edit?usp=sharing
 [plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view
 [zine]: https://tinyurl.com/scratch-zine

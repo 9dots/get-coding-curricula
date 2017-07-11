@@ -103,6 +103,6 @@ Participation: Independent, Online
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1uJD-NpNnVgcb0qX0Hv_3LYX14yf1aRKRQzzB9PJgbCM/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1rtBp0v4Hz3oKIwJ0mnpa_1nuG9cHa8mbFAVmuLX1A3A/edit?usp=sharing
 [scratch]: https://scratch.mit.edu/studios/3448945/
 [tutorial]: https://scratch.mit.edu/help/videos/#IntroductoryTutorials

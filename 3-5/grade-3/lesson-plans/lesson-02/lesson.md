@@ -179,7 +179,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/14h8F-A34JqlIF53ZXV2t0l3eunX5blb6184AuwBKZhk/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/103U6Lu_6_KLPb2_JE_eC1U3nOMfyfcuJ1U5rjG4UTkE/edit?usp=sharing
 [targets]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view?usp=sharing
 [code]: https://drive.google.com/file/d/0B48_2vIyABioU0FyTTNsR29WNUE/view?usp=sharing
 [handout]: https://drive.google.com/file/d/0B48_2vIyABiodlhwdFRiRDJXckU/view?usp=sharing

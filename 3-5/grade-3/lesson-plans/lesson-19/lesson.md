@@ -123,6 +123,6 @@ Participation: Partners, Online
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1cR3e-XiSHqI6O8H01ng_IoglktZefa-hRPKNsuhlyW8/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1YG5gk-ugM3XRPnZ1BcDnKJtCXztaq0s3i3sL-2gDesY/edit?usp=sharing
 [socrative]: https://b.socrative.com/teacher/#import-quiz/28414624
 [tutorial]: https://drive.google.com/file/d/0B2wBzr9vcXjPcGJsRDhHSWZWbW8/view?usp=sharing

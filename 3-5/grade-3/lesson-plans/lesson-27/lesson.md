@@ -105,6 +105,6 @@ Use the timer slide that is right for your class length: 10 minute groups or 15 
 <note> ![slides-survey](./images/slides-survey.jpeg)</note>
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1NI9Jst2IYmRjq8FABORGLZBQwcLKkk7WBTRY9j6Ylgw/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1try4VzBOpct-FJ3SCWl0yTsj6cUqUZ6S1YkLz8EieHg/edit?usp=sharing
 [survey]: http://tinyurl.com/getcoding7
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPeFNYMm5kdkotR2c/view?usp=sharing

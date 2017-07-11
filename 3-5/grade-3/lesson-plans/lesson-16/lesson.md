@@ -93,7 +93,7 @@ Participation: Partners, online
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1uH8It9FzN_5pCnyS5y0HeGN8lIVjiX9nRlDUsWvF1Mo/edit#slide=id.g1d1d70c4b2_0_11
+[slide-show]: https://docs.google.com/presentation/d/1ykBVyE4sWhcRYTb2vEP9SqCJnLXWWM-8ymIB_EhZNFE/edit?usp=sharing
 [socrative]: https://b.socrative.com/teacher/#import-quiz/27188219
 [rover]: https://docs.google.com/document/d/11BepTZnwHYCglzDXS88IdRC2exZBVqrUj1pQlbOtCzU/edit?usp=sharing
 [socrative2]: https://b.socrative.com/teacher/#import-quiz/27546630

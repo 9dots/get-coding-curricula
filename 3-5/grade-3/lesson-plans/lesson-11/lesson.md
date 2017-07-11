@@ -80,7 +80,6 @@ Participation: Small Group Unplugged
 - You like to draw.
 - The sun is green.
 - Kittens grow up to be cats
-- Italy is a candy.
 
 - [ ] **Contrasting Cases:** Students come up with their own definition of boolean by looking at the two lists of statements.
 
@@ -166,7 +165,7 @@ Participation: Small Group, Independent, Unplugged
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1fwufcIayqgfsEaQF5h9J3KRzOMAnN1lbgIPTAhyKGOc/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1akpYkWZAeBG7ST5nwDbH_Zkdtlbtg7hloeHyeZeLkCo/edit?usp=sharing
 [answer-key]: https://docs.google.com/document/d/1VCO5Z0fPzbgoiQgkzvngx9JP_BMw0xfmHmjADoLOyaY/edit?usp=sharing
 [exit-challenge]: https://docs.google.com/document/d/1Ep32lyMTvf5f5oCggVSgyIqNUWsAeefzj6zFtGm04J4/edit
 [boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
