@@ -21,7 +21,7 @@ We want to establish a coding learning culture where students identify as coders
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Lesson 9 Slides][slide-show]
+- [ ] [Slides][slide-show]
 - [ ] Projector
 
 ###### Student Materials:
@@ -87,4 +87,4 @@ See all vocabulary from previous lessons.
 </notable>
 
 [icc]: https://docs.google.com/document/d/1Yf3NHLkcZu8F6c9p7GSH7QXo0dGf6nhD9HzYe7cweHE/edit?usp=sharing
-[slide-show]: https://docs.google.com/presentation/d/1ax85reMF15nwSKkqzXcIT0DgWmPmchZaS9igx2uQwDE/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1wWEfQnDRTIRlo-bpjPrwkYIFHtrMS0tMUeSxnWW3MKw/edit?usp=sharing

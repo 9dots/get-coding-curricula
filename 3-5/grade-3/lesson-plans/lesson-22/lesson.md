@@ -127,6 +127,6 @@ Participation: Independent Online
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1Eec7LHx-FHCNuWsjHybv7zEyPI2Zl4VURQbbhiTS3SU/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1X7nsmOWKC4WNmOLLsztP5A3eUJZqiTFlFoFbO1X83aE/edit?usp=sharing
 [soc]: https://b.socrative.com/teacher/#import-quiz/26868660
 [scratch]: https://scratch.mit.edu/studios/3755751/

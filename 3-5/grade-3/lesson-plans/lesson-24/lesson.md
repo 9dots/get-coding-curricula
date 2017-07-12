@@ -148,6 +148,6 @@ Participation: Whole Class Online
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1M_YWoWbDw0JhgFS17fq_8e73WQdM5363brbsHQYjtVM/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/12cH6iuACxsk9N07qeWw1ne8vn2crR3YGqhlqoI5321E/edit?usp=sharing
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view?usp=sharing
 [studio]: https://scratch.mit.edu/studios/3833131/

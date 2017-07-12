@@ -38,7 +38,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 </note>
 
 ## Room Design
-![room](/images/layout-grid.png)
+![room](/images/layout-rows.png)
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -134,4 +134,4 @@ Narrate what you’re doing at each step.
 [large-rover]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view
 [lesson-6-handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPYjM5MUhtdkxrc0U/view
 [rover-cutouts]: https://drive.google.com/file/d/0B48_2vIyABioNG8tTWZNYmZocFE/view
-[slides]: https://docs.google.com/presentation/d/1JaiKYd3o56fOmnQyJ9it6fcgsgpiF_LsjjBf0aCzoUM/edit?usp=sharing
+[slides]: https://docs.google.com/presentation/d/1k6bOri7DmqbrOy0RGKw3d-xcHLy2ehlLis0xi5iJ4e8/edit?usp=sharing

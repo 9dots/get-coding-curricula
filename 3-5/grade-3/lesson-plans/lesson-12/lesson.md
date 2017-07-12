@@ -160,4 +160,4 @@ Participation: Small Group, Independent, Unplugged
 [handouts]: https://docs.google.com/document/d/16Khyb7j2r6JYH7o_7oU9ViYkkjBUosblMvIE5l0k5mw/edit?usp=sharing
 [exit-challenge]: https://docs.google.com/document/d/1W62TkE9xkMoGnFAeSZI7Uk-FSAP9WaWX5RVsS4w-4wM/edit?usp=sharing
 [boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
-[slide-show]: https://docs.google.com/presentation/d/1O5q0HkabIMtdP2OXq1G49SF_l6rh687KUs2Opn4u08Q/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1c8PWGq12PW2MdI4H1yah2yhEw-ZZQUeNWZZ3zOlRYN8/edit?usp=sharing

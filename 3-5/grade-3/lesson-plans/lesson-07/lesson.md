@@ -132,7 +132,7 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1qY2UHzrIAYHKvO47l1gtxVDtr68lObRKzMVWHIrS888/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1fZDfHDFEXsVilp4-Nxg4H_rs11rrtYyypJ6SL9wX0g4/edit?usp=sharing
 [code-handouts]: https://drive.google.com/file/d/0B2wBzr9vcXjPbmZZRHVNVTcwM2M/view?usp=sharing
 [exit]: https://docs.google.com/document/d/1k9AYX0KrK5j_oFu8y_4v9PnsfO3S0LQ8MS3sIPczh5g/edit?usp=sharing
 [key]: https://docs.google.com/document/d/1Eel9rcTmbQe1LNmE-eDgkXc0HIuCDb04WqPVG0akogA/edit?usp=sharing
