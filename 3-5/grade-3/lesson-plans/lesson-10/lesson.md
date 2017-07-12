@@ -21,8 +21,8 @@ We want to establish a coding learning culture where students identify as coders
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Slides][slide-show]
 - [ ] Projector
+- [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
 - [ ] Pencil
