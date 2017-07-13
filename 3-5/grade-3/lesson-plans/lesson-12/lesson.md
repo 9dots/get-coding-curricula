@@ -132,14 +132,16 @@ Participation: Whole Class, Unplugged
 > > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
 
 <note> ![slides-read2](./images/slides-read2.png)
-![slides-read3](./images/slides-read3.png)
-![slides-challenge](./images/slides-challenge.png)</note>
+![slides-read3](./images/slides-read3.png)</note>
 
 - [ ] **Challenge** students to write their own conditionals and share them with the class.
 
 >> "Your turn. Write your own conditional to go with the pictures given in #s 6 & 7. Then draw a picture and write a conditional to go with for #s 8 & 9. Try to write one Boolean that is false and one that is true."
 
 ![Elaborate](./images/elaborate.png)
+
+<note type="tip">Students responses to the challenges will vary. Look for proper use of an If-Then statement with a boolean in the If box and clear directions inside the block. ![slides-elaborate](./images/slides-challenge1.png)
+![slides-elaborate](./images/slides-challenge1.png)</note>
 
 ## 5. Evaluate: Exit Challenge (10 min)
 Participation: Small Group, Independent, Unplugged
@@ -150,10 +152,6 @@ Participation: Small Group, Independent, Unplugged
 
 <note>![slides-Exit](./images/slides-Exit.png)
 </note>
-
-## 6. Extension: Independent Coding(15-30 min)
-
-- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Lesson 13: Bee Conditionals
 
 
 </notable>

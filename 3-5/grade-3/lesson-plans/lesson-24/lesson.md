@@ -116,18 +116,6 @@ Participation: Whole Class Online
 ![debugC1-slides](./images/dc9-3.png)
 ![debugC1-slides](./images/dc9-4.png)</note>
 <pagebreak/>
-- [ ]**Challenge 10:**
-
-<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
-	<iconp type="answer">“I want my bat to go back to its original size when I press the reset key, but it doesn’t work.”</iconp>
-<br/><iconp type="question"> Find: Where is the bug in their code? </iconp>
-	<iconp type="answer">The enemy’s code -> missing reset code</iconp>
-<br/><iconp type="question">Fix: How did you fix the bug? </iconp>
-	Solution: Add the reset code, you can look at the other enemy to see what it should look like, but you will have to change the coordinates
-
-<note>![debugC1-slides](./images/dc10-1.png)
-![debugC1-slides](./images/dc10-2.png)
-</note>
 
 ## 4. Elaborate: Plan Your Conditionals (10 min)
 
