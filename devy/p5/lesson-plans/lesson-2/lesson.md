@@ -25,6 +25,7 @@ Students learn and use variables, operators, and random to create interesting sk
 ###### Teacher materials
 - [ ] Projector
 - [ ] Computer
+- [ ] [Lesson 2 Slideshow][slides]
 - [ ] [Print Out for Box Activity][print]
 - [ ] Boxes
 
@@ -57,7 +58,7 @@ Students learn and use variables, operators, and random to create interesting sk
 - [ ] **Explore:** In this activity, students will learn how variables, operators, and random works through an unplugged activity. Code will be displayed on the board and boxes will be in the front that act at variables, 'named storage for data'. The code expressions will use operators and students will do arithmetic with variables. For each program read line by line and update variables. For the 2nd program, place a dice in box a for random(1,6).
   >> "We are going to read code and act out how information is stored in a computer's memory. Let's read this first program together. 'var a' this creates a box of storage name 'a' and the same for 'var b' and 'var c'. Next line, 'a = 100'. This looks like a = 100, but in code we read it as store the number 100 in the variable box 'a' *Place paper with 100 in box a*"
 
-Continue reading code and placing correct values in each variable box.
+  - Continue reading code and placing correct values in each variable box.
 
 #### Explain: Variables, Operators & Random (15 minutes)
 - [ ] **Define** Variable: Named storage for data.
@@ -110,3 +111,4 @@ Continue reading code and placing correct values in each variable box.
 [sketch1]:https://www.openprocessing.org/sketch/400530
 [sketch2]: https://www.openprocessing.org/sketch/400531
 [print]: https://docs.google.com/document/d/1NJwGG_D-wPXyZLP0GGBJkGj9R8M_DVtiGrX6YUFA788/edit?usp=sharing
+[slides]: https://docs.google.com/presentation/d/1oa7TFJV8VybztwuhC2jlXXqTXI6jWkKbX7wCfu3jHIg/edit?usp=sharing
