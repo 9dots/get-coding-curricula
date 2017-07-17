@@ -17,11 +17,11 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 #### Length: 60 minutes
-1. Engage: Less is More (5 minutes)
-1. Explore: Reusable Code (10 minutes)
-1. Explain: Functions (5 minutes)
-1. Elaborate: Line & Rectangle Functions (25 minutes)
-1. Evaluate: Exit Challenge (15 minutes)
+1. **Engage:** Less is More (5 minutes)
+1. **Explore:** Reusable Code (10 minutes)
+1. **Explain:** Functions (5 minutes)
+1. **Elaborate:** Line & Rectangle Functions (25 minutes)
+1. **Evaluate:** Exit Challenge (15 minutes)
 
 
 
@@ -44,6 +44,7 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
 - Pencils
 - [Lyrics][lyrics]
 - [Cubism | Lesson 2 PixelBots playlist (code: OQ92Q)][playlist]
+- [Tetris Paints Playlist (code: 6K7WN)][tetris]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -132,9 +133,10 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
     1. Next, we write the body of the function: paint(), forward(),... We write the body of the code inside these curly braces. Like this. And that’s how how you define a function.
     1. Above the function definition, is where we write the program using line.
 
-- [ ] **Independent Practice:** Students complete a PixelBot challenge by defining a function called square and calling the square function in a program.
-  >> “Now it’s your turn. Define a function and complete the challenge using your function.”
+- [ ] **Independent Practice:** Students complete PixelBot challenges by defining a function called square & rectangle and calling these functions in a program.
+  >> “Now it’s your turn. Define a function and complete the challenges using your functions.”
 
+- [ ] **Extension:** If students finish Cubism | L2 Playlist, students can work on [Tetris Paints playlist][tetris]. New types of paint function calls allow the bot to paint multiple squares at a time.
 
 #### 5. Evaluate: Exit Challenge (10  minutes)
 
@@ -152,3 +154,4 @@ Students learn to write functions for reuse in JavaScript to code the bot in Pix
 [playlist]: http://www.pixelbots.io/OQ92Q
 [dog]: http://www.pixelbots.io/5MR48
 [lyrics]:https://docs.google.com/a/9-dots.org/document/d/1f2d6wwGzlskh8VYAssr5SnCYNCL6WfafAZIyQ5l1GgM/edit?usp=sharing
+[tetris]: http://www.pixelbots.io/6K7WN

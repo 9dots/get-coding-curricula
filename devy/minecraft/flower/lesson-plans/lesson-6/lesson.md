@@ -33,7 +33,7 @@ Students continue working on their flower garden project. If students get stuck 
 - Computer
 - MinecraftEdu
 - PixelBots Account Login
-- [Minecraft Project | Prototype (code: BK3NA)][prototype]
+- [Minecraft Project | Prototype (code: JR4Y3)][prototype]
 
 
 
@@ -62,4 +62,4 @@ Students continue working on their flower garden project. If students get stuck 
 
 </notable>
 [slides]:https://docs.google.com/presentation/d/1zCOMkljR4CE0u3WQj285s_ZvF37J4UvSo5oCXVI1QgU/edit?usp=sharing
-[prototype]: https://www.pixelbots.io/BK3NA
+[prototype]: https://www.pixelbots.io/JR4Y3

@@ -3,7 +3,7 @@
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students are introduced to functions and variables and practice using them to draw an image with multiple shapes. Students will continue using if-then conditional statements and practice using them to draw shapes when a key is pressed.
+Students are introduced to functions and practice using them to draw an image with multiple shapes. Students will continue using if-then conditional statements and practice using them to draw shapes when a key is pressed.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - Students will be able to use variables and functions to draw a picture with more than one shape at a random position when a key is pressed in a P5.js sketch.
@@ -17,7 +17,7 @@ Two Group Lesson (groups switch half way into lesson):
   1. Practice using if-then conditionals in P5.js
 1. **Group Instruction** (30 minutes)
   1. **Engage/Explore:** Functions! Functions! Functions! P5.js Sketch (10 minutes)
-  1. **Explain:** Functions & Variables (7 minutes)
+  1. **Explain:** Functions (7 minutes)
   1. **Elaborate:** Practice writing functions (13 minutes)
 
 <note>
@@ -90,10 +90,6 @@ After pressing play, students need to click on canvas for function keyPressed() 
     >
     - “We can draw more than one shape at a time. A function is a reusable chuck of code that performs a task.”
     - "When I press 'd' the 9 dots logo is drawn. We are drawing 9 circles with one line of code."
-
-- [ ] **Define** Variables
-  - Students write definition of variables in coding journals.
-  >>"We can use variables to store random x & y coordinates."
 
 
 - [ ] **Model** writing a sketch that draws two circles when 'a' key is pressed using [function starter sketch][starterfunctions] (sketch: 405693)
