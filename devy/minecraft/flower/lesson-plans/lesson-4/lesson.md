@@ -32,6 +32,7 @@ Students begin their Minecraft Flower Garden Project by prototyping their design
 #### Student Materials
 - Computer
 - MinecraftEdu
+- [Minecraft Project | Prototype (code: JR4Y3)][prototype]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -66,7 +67,7 @@ Students begin their Minecraft Flower Garden Project by prototyping their design
 
 #### 3. Elaborate: Prototype (45 minutes)
 
-- [ ] **Prototype:** Guide students to log into PixelBots. Students prototype their flower on PixelBots challenge Minecraft | Prototype (code: BK3NA).
+- [ ] **Prototype:** Guide students to log into PixelBots. Students prototype their flower on PixelBots challenge Minecraft | Prototype (code: JR4Y3).
  >>“Now it’s your turn, take your ideas and prototype a flower design on PixelBots.”
 
  - Example Flower prototype in PixelBots and build in Minecraft:

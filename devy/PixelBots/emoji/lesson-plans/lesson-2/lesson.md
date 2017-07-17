@@ -91,6 +91,22 @@ Students learn to pass numbers and strings as arguments to function calls forwar
   <iconp type='question'>How did we do? Does our definition match?”</iconp>
   <iconp type='answer'>Allow students to discuss this. They may need help understanding the words in the definition. They should be allowed to add to or modify their definition.</iconp>
 
+- [ ] **Think Pair Share:** Show students a new PixelBots write challenge over the projector (code: POZZN). This challenge can be solved in four lines of code using arguments. Students think individually of how to solve this challenge, then turn in pairs and share their ideas. After students have shared, students can try the challenge.
+  >>“Now that we know what an argument is, let’s see if we can figure out why we would want to use them. Take a look at this challenge on pixelBots. Think about how you would solve this challenge in four lines of code. Then turn to your partner and share.”
+
+  <iconp type='question'>What makes arguments so powerful in programming? Why should we use them?</iconp>
+  <iconp type='answer'>Allow students to come to the conclusion that arguments allow them to write fewer lines and have more options in their function calls.</iconp>
+
+
+- [ ] **Define** strings. Students write definition in their coding journal.
+
+  <iconp type='question'>What are the arguments used in this challenge?</iconp>
+  <iconp type='answer'>5, 4, ‘lightBlue’</iconp>
+  <iconp type='question'>What is different between the arguments 5 and 4 vs. ‘lightBlue’? What is different about how you need to write color names? </iconp>
+  <iconp type='answer'>5 and 4 are numbers and lightBlue is a word. You need quotes around colors.</iconp>
+
+  >>“Paint function call takes a specific type of arguments called a string. A string is a sequence of characters or words. And strings need quotes. We can specify what color we want the bot to paint.”
+
 
 #### 4. Elaborate: PixelBots Challenges (25 minutes)
 - [ ] **Independent Practice:** Students work to complete challenges in playlist using arguments.

@@ -31,7 +31,7 @@ Students learn to define functions with parameters to generalize bot’s actions
 - Computer
 - Projector
 - PixelBots.io
-- [Lesson 2 Slides][slides]
+- [Lesson 3 Slides][slides]
 
 
 
@@ -88,7 +88,7 @@ Students learn to define functions with parameters to generalize bot’s actions
 
 #### 3. Explain: Parameters & Arguments (10 minutes)
 
-- [ ] **Summarize** parameters and arguments. Have students come up to point to their answers on the board of challenge 3.
+- [ ] **Define & Summarize** parameters and arguments. Students write the definition of parameter & arguments in their coding journals. Then have students come up to point to their answers on the board of challenge 3.
   >>“When defining a function, you can specify additional information to customize what the function does, we call this a parameter. A parameter stores and uses information that is passed to a function. Let’s take a look back at our pixelBots code and point out the parameters. Remember not to confuse parameters and arguments. When we give a specific value to a function call, we call this an argument.”
 
   <iconp type="question">What are the parameters here?</iconp>
@@ -98,7 +98,7 @@ Students learn to define functions with parameters to generalize bot’s actions
   <iconp type="question">What are the functions here?</iconp>
   <iconp type="answer">forward(), turnRight(), turnLeft()</iconp>
 
-- [ ] Model defining line function with a parameter called color and length.
+- [ ] **Model** defining line function with a parameter called color and length.
 	>>“Here is how we define function line with a color and a length parameter.”
 
   - Steps:
@@ -109,8 +109,10 @@ Students learn to define functions with parameters to generalize bot’s actions
     1. We can use color in place of a specific color name when we use paint().
     1. We can also create another parameter, called length. We write this in the parentheses and separate it from the other parameters with a comma.
     1. If we repeat paint and forward four times, we get a line of 4 squares, if we repeat paint and forward 10 times, we get a line of 10 squares. If we want a line if any length, we can put the word length instead of an exact number.
+    1. Together as a class, rewrite main function to use function line with parameters.
 
-  >>“When we call line in a program, we can pass arguments in the order we wrote the parameters in our function definition. For example, to draw a blue line that is 7 squares long, we would write line(‘blue’, 7). In our definition if we wrote length then color, we would write line(7, ‘blue’).
+  >>“When we call line in a program, we can pass arguments in the order we wrote the parameters in our function definition. For example, to draw a blue line that is 7 squares long, we would write line(‘blue’, 7). In our definition if we wrote length then color, we would write line(7, ‘blue’). Let's go back to the main program and call our line function with parameters."
+
 
 #### 4. Elaborate: Functions with Multiple Parameters (25 minutes)
 
@@ -128,8 +130,8 @@ Students learn to define functions with parameters to generalize bot’s actions
   >>“Rectangles are fundamental shapes in coding art. Let’s create a rectangle function in PixelBots with a height, width, and color parameter.”
 
 
-- [ ] **Independent Practice:** Guide students to Cubism | Lesson 3 playlist where they will create a function for a rectangle.
-  >>“The first challenge is to create a rectangle function, and then to solve the following challenges calling the rectangle function you defined.”
+- [ ] **Guided Practice:** Guide students to Cubism | Lesson 3 playlist, challenge Rectangle and together as a class create a function for a rectangle.
+  >>“The first challenge is to create a rectangle function, and then to solve the following challenges calling the rectangle function we defined.”
 
 - [ ] **Extension:** Students who finish early can write a function for triangles.
 <pagebreak/>

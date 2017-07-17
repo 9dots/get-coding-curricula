@@ -48,11 +48,11 @@ Students continue to practice coding turtle to build simple structures in Minecr
 
 - [ ] **Discuss** as a class the differences in the programs, one using turtle.place() and the other using turtle.placeDown(). As a whole class, students will predict what turtle.placeDown() will do.
 
-  <iconp type='question'>What are the differences you found?</iconp>
+  <iconp type='question'>What are the differences you found? Notice the difference in turtle's position. What does this tell us about where the blocks are placed?</iconp>
   <iconp type='answer'>Students should find that one program uses turtle.place() and the other uses turtle.placeDown()</iconp>
   <iconp type='question'>Are there any similarities between these two programs?</iconp>
   <iconp type='answer'>Students should notice they build the same structure, a vertical line.</iconp>
-  <iconp type='question'>We know what turtle.place does, what do you think turtle.placeDown will do? </iconp>
+  <iconp type='question'>We know what turtle.place does, what do you think turtle.placeDown will do? What does placeDown tell us about how the block was placed. </iconp>
   <iconp type='answer'>On the board, write students’ prediction of what turtle.placeDown will do.</iconp>
 
 

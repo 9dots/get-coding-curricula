@@ -93,6 +93,8 @@
     * [Lesson 1: Review PixelBots](devy/pixelBots/cubism/lesson-plans/lesson-1/lesson.md)
     * [Lesson 2: Functions](devy/pixelBots/cubism/lesson-plans/lesson-2/lesson.md)
     * [Lesson 3: Parameters](devy/pixelBots/cubism/lesson-plans/lesson-3/lesson.md)
+    * [Lesson 4: Designing Cubism Animal](devy/pixelBots/cubism/lesson-plans/lesson-4/lesson.md)
+
   * [Minecraft](devy/minecraft/README.md)
     * [Lesson 1: Turtles & Minecraft](devy/minecraft/flower/lesson-plans/lesson-1/lesson.md)
     * [Lesson 2: Build Challenges](devy/minecraft/flower/lesson-plans/lesson-2/lesson.md)

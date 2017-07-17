@@ -17,11 +17,11 @@ Students review sequencing, arguments, and loops in JavaScript on the PixelBots.
 
 #### Length: 60 minutes
 
-1. Engage: Animal Cubism Project (5 minutes)
-1. Explore: Read. Write. Debug. (16 minutes)
-1. Explain: Platform (10 minutes)
-1. Elaborate: PixelBots Playlist (19 minutes)
-1. Evaluate: Exit Challenge (10 minutes)
+1. **Engage:** Animal Cubism Project (5 minutes)
+1. **Explore:** Read. Write. Debug. (16 minutes)
+1. **Explain:** Platform (10 minutes)
+1. **Elaborate:** PixelBots Playlist (19 minutes)
+1. **Evaluate:** Exit Challenge (10 minutes)
 
 
 <note>
@@ -52,7 +52,7 @@ Students review sequencing, arguments, and loops in JavaScript on the PixelBots.
 <pagebreak/>
 
 #### 1. Engage: Animal Cubism Project (5 minutes)
-- [ ] **Motivate:** Reveal the Animal Cubism project over the projector. Show students the code and the bot painting the example animal cubism dog (code: 5MR48).
+- [ ] **Motivate:** Discuss Cubism Art and then reveal the Animal Cubism project over the projector. Show students the code and the bot painting the example animal cubism dog (code: 5MR48).
   >>“In this class you are going to design and paint an animal with code! Using JavaScript,  you will code a bot to paint your animal project on PixelBots. Here is an example of a dog and the program.”
   *Show dog and code.*
   “Before we can begin a project like this, we need to know the fundamental coding concepts: sequencing, arguments, and loops. Today we will review and practice these concepts through PixelBot Challenges. ”
