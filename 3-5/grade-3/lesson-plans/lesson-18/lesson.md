@@ -100,6 +100,7 @@ Participation: Independent, Online
 
 - [ ] **Extension:** If you want to give your students more practice in Scratch, use the Introductory Tutorials. Play each tutorial video at least twice. The first time have them just watch, the second time have them follow along. Start with “Make your sprite move forward” and go from there depending on how much time you have.
 
+<note>![slides-extension](./images/slides-extension.png)</note>
 
 </notable>
 
