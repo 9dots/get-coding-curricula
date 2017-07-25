@@ -1,26 +1,38 @@
 # getCoding K-2
-
 ![preCoder](../images/precoder-one.jpg)
 
 The K-2 series serves as an introduction to reading, writing, and debugging code for pre-readers. Beginning coders develop a foundational level of understanding of fundamental coding concepts through unplugged activities, games, and the [pixelBot][pixel-bot] platform.
 
 ## Curriculum
-
 - [Kindergarten](../k-2/kindergarten/index.html)
 
 ## Purpose
-1. Empower students to use computational practices to analyze problems, build solutions, and be creative.
-2. Empower students to apply computational practices to understand and change the world.
+1. Empower students to use computational thinking practices to analyze problems, build solutions, and be creative.
+2. Empower teachers to teach coding / best practices in computational thinking instruction.
+3. Empowering students to share code to communicate their thinking , open their thinking up to critique, and revise their thinking.
+
 
 ## Big Goals
-1. Students will utilize computational thinking to read their world and will utilize their coding skills to write their world.
-2. Students will experience failure as a learning opportunity to master core concepts and the process of creation.
+- Students will identify as coders.
+- Students will experience mistakes as learning opportunities.
+- Students will apply core computational thinking concepts (algorithms, pattern recognition, control, and abstraction) to problem solving.
+- Students will be fluent in reading, writing, and debugging code.
+- Students will share, defend, and revise their thinking based on evidence.
 
-## Big Ideas
-1. When code breaks, we fearlessly, creatively, and systematically debug it.
+## Understandings
+Students will understand that...
+
+1. Programs can be shared, discuss, critiqued, and revised.
+2. Programs are built iteratively and collaboratively through a cycle of planning, coding, and validating.
+3. Bugs in programs are inevitable and can be fixed
+systematically by comparing, finding, and fixing.
+4. Coders fearlessly take on problems and challenges and view mistakes as opportunities for reflection and learning.
 
 ## Essential Questions
-1. When your code breaks or when you get stuck, what can you do?
+1. How are algorithms, patterns and loops used to solve problems?
+2. What is the most efficient way to fix a bug in my code?
+4. How do I learn from a mistake?
+
 
 ## Sequence
 
