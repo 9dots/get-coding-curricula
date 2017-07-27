@@ -11,7 +11,8 @@ Students explore and predict how they can use loops to more efficiently write co
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage/Explore:** Discovering Loops (15 min)
+1. **Engage:** Multiple Solutions (3 min)
+2. **Explore:** Discovering Loops (12 min)
 3. **Explain:** Loops (5 min)
 4. **Elaborate:** Loops in the Real World (10 min)
 5. **Evaluate:** Exit Challenge (15 min)
@@ -22,17 +23,12 @@ Students explore and predict how they can use loops to more efficiently write co
 ###### Teacher Materials:
 - [ ] [Slide Show][slide-show]
 - [ ] Projector
-- [ ] Unplugged Foam Tiles
-- [ ] Teacher Scratch Blocks
-- [ ] Loop code blocks for students in envelopes
+- [ ] Floor Grid
 - [ ] [Socrative Quiz][soc]
 
 ###### Student Materials:
-- [ ] [Maze Handout][maze-handout]
-- [ ] Scratch blocks
-- [ ] Pencil
-- [ ] Rovers
 - [ ] Computers
+- [ ] [Playlist: getCoding 3.5 | Code: YZOWD][playlist]
 
 </note>
 ## Room Design
@@ -45,46 +41,32 @@ Students explore and predict how they can use loops to more efficiently write co
 </note>
 
 <pagebreak/>
-## 1. Engage/Explore: Discovering Loops (15 min)
-- [ ] **Introduce** new code blocks.
->>"Today we are going to use a different set of code blocks to code our rover's movements. 
->> - The turn blocks works just like the ones in pixelBot to turn the rover left and right. 
->> - The move __ steps tells the rover how many steps it should move. 
->> - The when green flag clicked block tells our code to run when we press the green flag. It is a way to tell our code to run just like when we press the green run button on pixelBots."
+## 1. Engage: Multiple Solutions (5 min)
+- [ ] **Challenge** the class to complete the first pixelBot challenge in the playlist.
+>> “In today’s opening challenge we are going to code a sequence that paints the image you see on the board. You will have 1 minute to try to code your solution.”
 
-<note> **Slides:** ![slides-newcode](./images/slides-newcode.jpeg)</note>
+<note>![challenge](./images/challenge.png)</note>
 
-- [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
-> > “Now it is your turn. With your table partner navigate Rover along the dotted path on the grid. First decide who will be the Coder (write the code) and who will be the Bot (moves Rover and validates the code).”
-![sequence](./images/move6.png)
+- [ ] **Share:** Have a volunteer share his/her solution verbally and code it as he/she shares. Run the code to check if it is valid.
 
-<iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
-<iconp type="answer">Check that each pair has one Coder. They will be writing the code.</iconp>
-<iconp type="question">Raise your hand if you are the Bot. What is your job as Bot?</iconp>
-<iconp type="answer">Check that each pair has one Bot. They will be moving Rover and validating the code.</iconp>
+## 2. Explore: Discovering Loops (10 min)
+- [ ] **Challenge** the class to solve the same coding challenge with only 4 lines of code.
+>> “There are multiple ways to solve the same coding challenge. Try solving the same challenge you just solved using only 4 lines of code."
 
-<note type='tip' title='Tip'>
-Younger students may need to be told to write in 90 degrees on turn blocks.
-![slides-discover](./images/slides-discover.png)
-</note>
+- [ ] **Share:** Students share problems they encountered while trying to come up with a solution.
 
-- [ ] **Discover Loops:** Do not give students the loop blocks until their group comes to you and states  that they do not have enough code blocks.  Without introducing them verbally, give each group the loop blocks as they ask for them. Guide students through using the blocks by asking questions rather than showing. One way to prompt this is to say:
+<iconp type='question'>What problems did you have while trying to complete the challenge with only 4 lines of code?</iconp>
 
->>"If you have the right question, I have the right answer."
+- [ ] **Challenge** the class again to solve the challenge with only 4 lines of code. This time have them click *Next* to challenge number 2. Make no reference to the loop block found in this challenge. Students should discover this on their own and explore what it does.
+>>"We are going to try to solve this challenge again using only 4 lines of code. Click *Next* to get to challenge number 2 and try to code a solution there."
 
-<br/>
-<note type="tip">A common misonception is that "Repeat 1" means that the sequence will be read twice. Correct students by telling them that "Repeat 2" will cause the sequence to be read twice.</note>
+- [ ] **Turn and Talk:** Students discuss the approach they took to solve the challenge.
 
-- [ ] **Demo Code:** Call on one group to demo their code by bringing their code up to the board and acting it out on the unplugged maze.
-Possible solutions include:
-![solutions](./images/solutions.png)
+<iconp type='question'>Were you able to find a solution? What did you try this time?</iconp>
 
-<iconp type='question' mb='1em'>Extension if students use Repeat 2: Can you rewrite your code with fewer blocks?</iconp>
-![extension](./images/extension.png)
+- [ ] **Share:** Volunteers share what they discussed during the Turn and Talk along with their code. Write the code that is shared in the pixelBot editor in order to validate it.
 
-<note>![slides-loopsolution](./images/slides-loopsol.png)</note>
-
-## 2. Explain: Loops (5 min)
+## 3. Explain: Loops (5 min)
 
 - [ ] **Predict & Define:** Have each group hold up each loop as you introduce it. Ask students for their prediction of what each loop does before you reveal its purpose.
 
@@ -93,10 +75,9 @@ Possible solutions include:
 <iconp type='answer'>Forever: Repeats the nested sequence forever</iconp>
 <iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
 <iconp type='answer'>Repeat ____: Repeats the nested sequence that number of times</iconp>
-
 > > "These structures are called loops. Loops are powerful tools for coders! With loops we don’t have to write a sequence of code over and over to make it repeat. Everybody say 'loop'."
 
-<note>![slides-loops](./images/slides-loop.png)</note>
+<note>![slides-loops](./images/loop.png)</note>
 
 ## 3. Elaborate: Loops in the Real World (10 min)
 
@@ -104,22 +85,17 @@ Possible solutions include:
 
 > > "Loops are everywhere. Let's look at some examples from our life and identify which type of loop you could use to code each example."
 
-<iconp type='question'>The School Week <iconp ml='1em' type='answer'>Repeat Until Summer Break</iconp></iconp>
-<iconp type='question'>The Seasons <iconp ml='1em' type='answer'>Forever</iconp></iconp>
-<iconp type='question'>Washing Dishes <iconp ml='1em' type='answer'>Repeat Until No More Dirty Dishes</iconp></iconp>
-<iconp type='question'>Riding The Tower of Terror 5 Times <iconp ml='1em' type='answer'>Repeat 5</iconp></iconp>
-<iconp type='question'>Riding The Tower of Terror Until the Park Closes <iconp type='answer' mb='1em'>Repeat Until Park Closes</iconp></iconp>
+| Example                                          | Loop                              |
+| -------------------------------------------------|-----------------------------------|
+| The School Week                                  | Repeat Until Summer Break         |
+| The Seasons                                      | Forever                           |
+| Washing Dishes                                   | Repeat Until No More Dirty Dishes |
+| Riding the Tower of Terror 5 Times               | Repeat 5                          |
+| Riding The Tower of Terror Until the Park Closes | Repeat Until Park Closes          |
 
-<note>![slides-rw1](./images/slides-rw1.png)
-![slides-rw2](./images/slides-rw2.png)
-![slides-rw3](./images/slides-rw3.png.png)
-![slides-rw4](./images/slides-rw4.png.png)
-![slides-rw5](./images/slides-rw5.png.png)
-![slides-rw6](./images/slides-rw6.png.png)</note>
+<note>![slides](./images/slide.png)</note>
 
 - [ ] **Think Pair Share:** What other examples of loops can you come up with?
-
-<note>![slides-rw7](./images/slides-rw7.png.png)</note>
 
 ## 4. Evaluate: Exit Challenge (15 min)
 
@@ -132,6 +108,7 @@ Possible solutions include:
 
 </notable>
 
-[maze-handout]: https://drive.google.com/a/9-dots.org/file/d/0B2wBzr9vcXjPUEV0aHk4M0hMUVE/view?usp=sharing
+
 [slide-show]: https://docs.google.com/presentation/d/1jL7NYRgsPv6lLfbZWlGXswVTtAdwRlEmuKTKH4vvKok/edit?usp=sharing
+[playlist]: http://www.pixelbots.io/YZOWD
 [soc]: https://b.socrative.com/teacher/#import-quiz/28442633

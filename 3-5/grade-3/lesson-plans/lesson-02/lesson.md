@@ -8,11 +8,11 @@ Students are introduced to the importance of writing clear instructions. Student
 - I can code a sequence of actions in the order I want them performed.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Explore: Peanut Butter Jelly Time (5 min)
-1. Explain: Meet Rover (15 min)
-1. Elaborate: Navigate Rover (15 min)
-1. Evaluate: Exit Challenge (5 min)
-1. Optional Extension: Scavenger Hunt (30 min)
+1. **Engage/Explore:** Peanut Butter Jelly Time (5 min)
+1. **Explain:** Meet Rover (15 min)
+1. **Elaborate:** Navigate Rover (15 min)
+1. **Evaluate:** Exit Challenge (5 min)
+1. **Optional Extension:** Scavenger Hunt (30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
