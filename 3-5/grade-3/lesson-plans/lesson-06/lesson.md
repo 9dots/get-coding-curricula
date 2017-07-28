@@ -22,17 +22,17 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slide Show][slides]
 - [ ] Floor Grid
 - [ ] Construction Paper
 - [ ] [Large Rover][large-rover]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] [Lesson 6 Handout][lesson-6-handout]
 - [ ] Index Cards
-- [ ] [Rover Cutouts][rover-cutouts]
 - [ ] Pencils
 - [ ] Computers
+- [ ] [Lesson 6 Handout][lesson-6-handout]
+- [ ] [Rover Cutouts][rover-cutouts]
 - [ ] [Playlist: pixelBots 3.6 | Code: XP5KQ][playlist]
 
 </note>
