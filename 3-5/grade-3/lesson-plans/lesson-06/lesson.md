@@ -22,18 +22,18 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slide Show][slides]
-- [ ] Foam Tiles
+- [ ] Floor Grid
 - [ ] Construction Paper
 - [ ] [Large Rover][large-rover]
-- [ ] pixelBots Playlist ...
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] [Lesson 6 Handout][lesson-6-handout]
 - [ ] Index Cards
-- [ ] [Rover Cutouts][rover-cutouts]
 - [ ] Pencils
 - [ ] Computers
+- [ ] [Lesson 6 Handout][lesson-6-handout]
+- [ ] [Rover Cutouts][rover-cutouts]
+- [ ] [Playlist: pixelBots 3.6 | Code: XP5KQ][playlist]
 
 </note>
 
@@ -60,9 +60,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 <iconp type="answer">A loop requires less lines of code. </iconp>
 
 <note>**Slides:** <br/>
-![slides-why1](./images/slides-why1.png)
-![slides-why2](./images/slides-why2.png)
-![slides-why3](./images/slides-why3.png)
+![slides](./images/slides-one.png)
 </note>
 
 ## 2. Explore: Loops in GIFs (5 min)
@@ -74,12 +72,8 @@ Students learn to read code with loops by stepping through one block at a time. 
 <iconp type="question">What might the code look like for this GIF?</iconp>
 <iconp type="answer">See code suggestions on slides. Students should nest the action they are seeing inside a loop block.</iconp>
 
-![slides-gifs1](./images/slides-gifs1.png)
-![slides-gifs2](./images/slides-gifs2.png)
+![slides](./images/slides-two.png)
 
-
-<note>
-![slides-gif5](./images/slides-gif5.png)</note>
 
 ## 3. Explain: Rover Paints (5 min)
 
@@ -98,29 +92,20 @@ Narrate what you’re doing at each step.
 <iconp type="question">Am I done? </iconp>
 <iconp type="answer">yes/no.</iconp>
 
-
-![loop-code](./images/explain-read-loops.png)
+![loop](./images/read-loops.png)
 
 <note>
-![slides-paint1](./images/slides-paint1.png)
-![slides-paint2](./images/slides-paint2.png)
-![slides-paint3](./images/slides-paint3.png)</note>
+![slides](./images/slides-three.png)</note>
 
 ## 4. Elaborate: Practice (10 min)
 
 - [ ] **Independent Practice:** Students step through the remaining chunks of code on their paper using the steps you modeled.
 
-<note>
-![slides-p1](./images/slides-p1.png)
-</note>
-
 - [ ] **Coder & Bot:** Have one coder and bot read and act out the code on the unplugged platform to check their work on each practice problem.
 
 > > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act it out on the foam tiles."
 
-![slides-practice1](./images/slides-practice1.png)
-![slides-practice2](./images/slides-practice2.png)
-![slides-practice3](./images/slides-practice3.png)
+![slides](./images/slides-four.png)
 
 ## 5. Evaluate: pixelBots (20-35 min)
 
@@ -135,3 +120,4 @@ Narrate what you’re doing at each step.
 [lesson-6-handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPYjM5MUhtdkxrc0U/view
 [rover-cutouts]: https://drive.google.com/file/d/0B48_2vIyABioNG8tTWZNYmZocFE/view
 [slides]: https://docs.google.com/presentation/d/1k6bOri7DmqbrOy0RGKw3d-xcHLy2ehlLis0xi5iJ4e8/edit?usp=sharing
+[playlist]: http://www.pixelbots.io/XP5KQ

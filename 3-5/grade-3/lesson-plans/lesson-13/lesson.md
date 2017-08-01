@@ -17,18 +17,18 @@ Students practice reading code written with conditionals to navigate Rover on th
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slide Show][slide-show]
 - [ ] Rover (large)
-- [ ] Foam Tiles (with numbers to match the handout)
+- [ ] Floor Grid
+- [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
-- [ ] [Bots Code Handout][handout2]
-- [ ] [Bots Picture Handout][handout3]
 - [ ] Pencils
-- [ ] Playing Cards (min 6 per student)
-- [ ] [Where's Rover Handout][handout]
 - [ ] Index Cards
 - [ ] Rovers
+- [ ] Playing Cards (min 6 per student)
+- [ ] [Where's Rover Handout][handout]
+- [ ] [Bots Code Handout][handout2]
+- [ ] [Bots Picture Handout][handout3]
 - [ ] [Exit Challenge][exit]
 
 </note>
@@ -57,27 +57,23 @@ Students practice reading code written with conditionals to navigate Rover on th
 > > 	1. ✔ if the Boolean is true, read and execute what is inside the conditional
 > > 	1. ✘ if the Boolean is false, skip what is inside the conditional"
 
-<note>![Wheres Rover](./images/wr1.png)</note>
+<note>![Wheres Rover](./images/slides-one.png)</note>
 
 - [ ] **Arugmentation** Have students argue their answer by stepping through the code and moving Rover on the large foam tiles. The discussion should be student led. Provide sentence starters for students to respond to answers they believe are not correct:
 - “I disagree with your answer because…”
 - “Can you show me how you got…”
 - “What line of code shows that…”
 
-![handout1](./images/WheresRover.jpeg)
+![handout](./images/worksheet-one.png)
 <note>
-![Wheres Rover](./images/wr2.png)
-![Wheres Rover](./images/wr3.png)
-![Wheres Rover](./images/wr4.png)
-![Wheres Rover](./images/wr5.png)
+![Wheres Rover](./images/rover-slides.png)
 </note>
 <br/>
 
 - [ ] **Optional If Time**: On the back of the handout students use the debugging protocol to determine what error was made while reading the code.
 
-![handout2](./images/FindtheBug.jpeg)
-<note> ![Find the Bug](./images/bug1.png)
-![Find the Bug](./images/bug2.png)
+![handout](./images/worksheet-two.png)
+<note> ![Find the Bug](./images/bug-slides.png)
 </note>
 
 ## 2. Explain: Conditionals (5 min)
@@ -90,9 +86,8 @@ Students practice reading code written with conditionals to navigate Rover on th
 <iconp type="answer">Uncover each line of code one at a time as we read.</iconp>
 <iconp type="question"> Look at the yellow blocks of code on your paper that start with “If”. What do we call code that starts with “If”?</iconp>
 <iconp type="answer">Conditionals. Bonus if they can identify the triangular Boolean statement as well.</iconp>
-<note>![slides-BB2](./images/BB2.jpeg)
-![slides-BB3](./images/BB3.jpeg)
-</note>
+<note>![slides](./images/slide-conditionals.png)</note>
+
 - [ ] **Model** the steps to reading conditionals as you complete your own bot on the board. When you read each Boolean statement read it “... is true”.
 
 	Steps for reading code with conditionals:
@@ -101,9 +96,7 @@ Students practice reading code written with conditionals to navigate Rover on th
 	1. ✔ if the Boolean is true, read and execute what is inside the conditional
 	1. ✘ if the Boolean is false, skip what is inside the conditional
 
-<note>![slides-BB4](./images/BB4.jpeg)
-![slides-BB5](./images/BB5.jpeg)
-</note>
+<note>![slides-BB4](./images/slide-read.png)</note>
 
 ## 3. Elaborate: Build-a-Bot (15 min)
 
@@ -122,15 +115,14 @@ Students practice reading code written with conditionals to navigate Rover on th
 > > “Try these challenges independently to test your knowledge of reading conditionals!”
 
 <note> **Slides:**
-![exit challenge](./images/slides-ec.jpeg)
+![exit challenge](./images/final-slides.png)
 </note>
 
 
 </notable>
-
+[handout]: https://drive.google.com/open?id=0B48_2vIyABioSjZWWGgyOXg0cTg
 [handout1]: https://docs.google.com/document/d/1fSpf8pCcVZ0IOAqMHoqblKPumZ1YzYSHaOhpN-_yHrU/edit?usp=sharing
-[handout2]: https://drive.google.com/file/d/0B2wBzr9vcXjPQmdYWE1BZ2dTN2M/view?usp=sharing
+[handout2]: https://drive.google.com/open?id=0B48_2vIyABioNlNYaDRFX2VaZ1k
 [handout3]: https://drive.google.com/file/d/0B48_2vIyABiobmdhS2wxWjctSGs/view?usp=sharing
 [slide-show]: https://docs.google.com/a/9-dots.org/presentation/d/1OkEuFk7Qopa0cu3UrYUt3vPblmwtja9Fdx8f1W2epGw/edit?usp=sharing
-[handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPaFhWVG83TEhaMjg/view?usp=sharing
-[exit]: https://drive.google.com/file/d/0B2wBzr9vcXjPUkFOajdHbHhlQTg/view?usp=sharing
+[exit]: https://drive.google.com/open?id=0B48_2vIyABioSjZWWGgyOXg0cTg
