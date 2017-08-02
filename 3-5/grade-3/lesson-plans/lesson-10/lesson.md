@@ -86,5 +86,5 @@ See all vocabulary from previous lessons.
 
 </notable>
 
-[icc]: https://docs.google.com/document/d/1Yf3NHLkcZu8F6c9p7GSH7QXo0dGf6nhD9HzYe7cweHE/edit?usp=sharing
+[icc]: https://drive.google.com/open?id=1AAGj8i51Nk8TlI_5u_6t25sw8kAVKqp9LaQyyPCFyec
 [slide-show]: https://docs.google.com/presentation/d/1wWEfQnDRTIRlo-bpjPrwkYIFHtrMS0tMUeSxnWW3MKw/edit?usp=sharing

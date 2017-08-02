@@ -13,8 +13,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 1. Engage: Why Loops (5 min)
 1. Explore: Loops in GIFS (5 min)
 1. Explain: Rover Paint (5 min)
-1. Elaborate: Practice (10 min)
-1. Evaluate: pixelBots (20-35 min)
+1. Elaborate: Practice (30 min)
 
 
 <note>
@@ -107,12 +106,20 @@ Narrate what you’re doing at each step.
 
 ![slides](./images/slides-four.png)
 
-## 5. Evaluate: pixelBots (20-35 min)
-
-- [ ] **pixelBots:** Students continue to practice reading code with loops by completing a series of read challenges on pixelBots.
+- [ ] **Introduce** students to pixelBots reading challenges in order to continue to practicing stepping through code.
 
 >>"Let's login to pixelBots to continue practicing reading code with loops."
 
+- [ ] **Point out** various parts of the platform for students:
+>> “Take a look at the code that has already been provided for you. You’re going to use this 	to follow directions. Make sure to read through the number of times the code loops and the code inside the loop. Use your mouse to move the bot through the grid to follow and show the code.”
+
+- [ ] **Show** where to paint a block and where to turn the bot.
+
+- [ ] **Model** how to move the robot through the program using the slideshow. The slideshow will run through the entire first challenge for students.
+
+![elaborate](./images/elaborate-slides.png)
+
+- [ ] **Independent Practice:** Students practice stepping through code on pixelBots.
 
 </notable>
 

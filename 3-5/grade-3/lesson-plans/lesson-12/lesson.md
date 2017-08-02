@@ -23,9 +23,9 @@ Students are introduced to conditionals (if then), practice reading conditional 
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Exit Challenges][exit-challenge]
 - [ ] Pencils
 - [ ] [Worksheets][handouts]
+- [ ] [Exit Challenges][exit-challenge]
 
 </note>
 
@@ -50,25 +50,6 @@ Participation: Whole Class Unplugged
 
 > > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
-<br/>
-<note>**Slides:** ![slides-showcase](./images/slides-showcase.png)</note>
-
-- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
-
-> > “In Lesson 12 when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
-
-<note>![slides-motivate](./images/slides-motivate.png)</note>
-
-<br/>
-
-- [ ] **Connecting Prior Knowledge:** Review question 3 from Lesson 13 Exit Challenge.
-
-<iconp type="question"> A lot of coders made this error on their exit challenge last week. When coders get a problem wrong they debug! What was the error here?</iconp>
-
-<iconp type="answer">7 + 3 is not a boolean, it is not a true/false statement and does not have pointed ends</iconp>
-
-<note>![slides-review](./images/slides-review.png)</note>
-
 <pagebreak/>
 
 ## 2. Explore: If Then (5 min)
@@ -79,11 +60,8 @@ Participation: Whole Class, Unplugged
 - If it is raining, then _____________.
 - If it is Saturday, then ____________.
 - If the light is green, then ______________.
-- If the enemy is touching the hero, then _________________.
-- If the hero is touching the goal, then ___________________.
-
-<note>![slides-IfThen](./images/slides-IfThen.png)
-</note>
+- If the pixelBot is touching the color red, then _________________.
+- If the pixelBot is touching the color blue, then ___________________.
 
 - [ ] **Classification:** Ask students to identify what all of the statements had in common.
 
@@ -97,25 +75,20 @@ Participation: Whole Class, Unplugged
 ## 3. Explain: Define (5 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Define** conditionals - students write it in their idea journals
+- [ ] **Define** conditionals - students write the definition
 
 > > “On a blank page in your idea journal let’s write the definition of conditional. Conditional - Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.”
 
 - [ ] **Check for understanding** -
 
-<iconp type="question"> Which of these blocks are examples of conditionals? </iconp>
+<iconp type="question"> Which of these blocks are examples of conditionals?</iconp>
 <iconp type="answer">The if-then block</iconp>
 
-<iconp type="question"> Which of these blocks are examples of boolean? </iconp>
-<iconp type="answer"> 4 is less than 5 </iconp>
-
-<note>![slides-Define2](./images/slides-Define2.png)
+<note>![slides-Define2](./images/slide-blocks.png)
 </note>
 
 **Possible Misconceptions:**
 - Students may think a loop is a conditional because of the shape, however a conditional does not repeat on its own.
-- Students may think a boolean is a conditional, but a boolean is just a part of a conditional.
-- Students may think 4+5 is a boolean because of the color and numbers, but a boolean block has points on the ends and can be answered with True or False.
 
 ## 4. Elaborate: Practice (20 min)
 Participation: Whole Class, Unplugged
@@ -125,23 +98,19 @@ Participation: Whole Class, Unplugged
 1. ✔ if the Boolean is true, read and execute what is inside the conditional
 1. ✘ if the Boolean is false, skip what is inside the conditional
 
-<note> ![slides-read1](./images/slides-read1.png)</note>
+<note> ![slides-read1](./images/worksheet-slides.png)</note>
 
 - [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done.
 
 > > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
 
-<note> ![slides-read2](./images/slides-read2.png)
-![slides-read3](./images/slides-read3.png)</note>
-
 - [ ] **Challenge** students to write their own conditionals and share them with the class.
 
 >> "Your turn. Write your own conditional to go with the pictures given in #s 6 & 7. Then draw a picture and write a conditional to go with for #s 8 & 9. Try to write one Boolean that is false and one that is true."
 
-![Elaborate](./images/elaborate.png)
+![Elaborate](./images/worksheet-two.png)
 
-<note type="tip">Students responses to the challenges will vary. Look for proper use of an If-Then statement with a boolean in the If box and clear directions inside the block. ![slides-elaborate](./images/slides-challenge1.png)
-![slides-elaborate](./images/slides-challenge1.png)</note>
+<note type="tip">Students responses to the challenges will vary. Look for proper use of an If-Then statement with a boolean in the If box and clear directions inside the block. ![slides-elaborate](./images/slide-worksheet-two.png)</note>
 
 ## 5. Evaluate: Exit Challenge (10 min)
 Participation: Small Group, Independent, Unplugged
@@ -155,7 +124,6 @@ Participation: Small Group, Independent, Unplugged
 
 
 </notable>
-[handouts]: https://docs.google.com/document/d/16Khyb7j2r6JYH7o_7oU9ViYkkjBUosblMvIE5l0k5mw/edit?usp=sharing
-[exit-challenge]: https://docs.google.com/document/d/1W62TkE9xkMoGnFAeSZI7Uk-FSAP9WaWX5RVsS4w-4wM/edit?usp=sharing
-[boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
+[handouts]: https://drive.google.com/open?id=0B48_2vIyABioRWJyRV9iVWV5RlE
+[exit-challenge]: https://drive.google.com/open?id=1bB_ga7Z4cczVddSfX4gG_rn_RUDpfet7pL5a2oXgOOY
 [slide-show]: https://docs.google.com/presentation/d/1c8PWGq12PW2MdI4H1yah2yhEw-ZZQUeNWZZ3zOlRYN8/edit?usp=sharing
