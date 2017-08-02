@@ -28,9 +28,7 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 ###### Student Materials:
 - [ ] Name Tents & Markers
 - [ ] Sticky Notes, 2 Colors
-- [ ] [River Crossing Handouts][handout]
 - [ ] [Code Blocks][code-blocks]
-- [ ] Felt Strip
 - [ ] [Character Handout][characters]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -103,7 +101,7 @@ Participation: Whole Class ->  Small Group, Unplugged
 	- Hint 2: A character can cross the river more than once.
 	- Hint 3: The farmer has to take either the chicken or the other item back across the river on his fourth trip.
 
-<note type="tip">The felt is provided for students to stick their code. This also allows you to clip the felt on the board when groups share out their solutions.
+<note>
 ![slides-river4](./images/slides-river4.jpeg)</note>
 
 <pagebreak/>
