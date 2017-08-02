@@ -1,11 +1,11 @@
-<header class='header' title='turtleMove Part I' subtitle='Lesson 02'/>
+<header class='header' title='pixelBotGo' subtitle='Lesson 02'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out.
+In lesson 2 students develop a set of commands to communicate with their pixelBot. The commands are then used to code solutions for a series of navigation challenges that require a single line of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can use a set of instructions to direct my turtle bot’s movement.
+- I can develop and use a set of commands to direct my pixelBot’s movements.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 

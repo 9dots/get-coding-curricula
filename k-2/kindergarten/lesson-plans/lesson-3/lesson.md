@@ -1,13 +1,14 @@
-<header class='header' title='turtleMove Part II' subtitle='Lesson 03'/>
+<header class='header' title='Multiple Steps' subtitle='Lesson 03'/>
 
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 3 students continue to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that simple commands can be used multiple times to complete a task.
+In lesson 3 students use multiple commands to direct their pixelBot’s movement.
+
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-- I can use multiple instructions to control my turtle’s movements.
+- I can use more than one command to move my pixelBot.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 

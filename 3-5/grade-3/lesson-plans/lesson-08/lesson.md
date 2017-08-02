@@ -78,7 +78,7 @@ Categorize: Ask students to look at the strategies written on the board and cate
 <iconp type='question'>What do we want our program to do?</iconp>
 <iconp type='answer'>We wanted it to paint the 4 gray squares to make one big square.</iconp>
 <iconp type='question'>What does it do instead?</iconp>
-<iconp type='answer'>It painted 4 squares to make a larger square in the wrong spot.</iconp>
+<iconp type='answer'>It painted 4 squares to make a square in the wrong spot.</iconp>
 
 >>"Step two, Find: We can use the yellow stepper tool to find where the bug might be."
 
