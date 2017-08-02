@@ -16,16 +16,15 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Slide Show][slide-show]
 - [ ] Projector
-- [ ] [Exit Challenge Answer Key][key]
+- [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
 - [ ] Pencils
-- [ ] [Code Handouts][code-handouts]
-- [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits
 - [ ] Computers
 - [ ] Unifix Cubes
+- [ ] [Loops Handout][loops]
+- [ ] [Code Handouts][code-handouts]
 - [ ] [Exit Challenge][exit]
 
 </note>
@@ -64,15 +63,15 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 
 <br/>
 
-- [ ] **Build:** Students use the code blocks to build a loop that describes the pattern.
+- [ ] **Build:** Students use the loops handout and cubes to build a loop that describes the pattern.
 
-<iconp type="question">How could you represent the pattern using fewer cubes and code blocks?</iconp>
+<iconp type="question">How could you represent the pattern using fewer cubes and a loop block?</iconp>
 <iconp type="answer">Put one of the pattern pieces inside a loop. </iconp>
 <iconp type="question">What number do I write as the argument in the repeat loop? How do you know?</iconp>
 <iconp type="answer">4 because the pattern repeated 4 times</iconp>
 
 <note type="tip">The number in the loop block is called an argument.
-![slides-cubes2](./images/slides-cubes2.png)
+![slide](./images/slide-one.png)
 </note>
 
 <iconp type="question">Why do I put just one piece of the pattern inside the loop?</iconp>
@@ -83,8 +82,8 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 
 ![pattern2](./images/unifix-cubes-pattern2.jpeg)
 <note>
-![slides-cubes3](./images/slides-cubes3.png)
-![slides-cubes4](./images/slides-cubes4.png)
+![slides-two](./images/slide-two.png)
+![slides-three](./images/slide-three.png)
 </note>
 
 ## 2. Explain: Translating Patterns to Loops (15 min)
@@ -97,10 +96,10 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 <iconp type="answer">See slides </iconp>
 
 <iconp type="question">How many times does the section of code repeat itself?</iconp>
-<iconp type="answer">16 times                  4 times                    3 times</iconp>
+<iconp type="answer">10 times                  4 times                    3 times</iconp>
 
 <iconp type="question">How would you rewrite this as a loop? Use the code blocks at your table to build your loop.</iconp>
-<iconp type="answer">![solutions](./images/solutions.jpeg)</iconp>
+<iconp type="answer">![solutions](./images/loop-slides.png)</iconp>
 
 - [ ] **Summarize:** students summarize the process they just followed in 3 steps to write code using a loop.
 
@@ -110,10 +109,7 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 2. Place the repeating section of code within the loop’s mouth.
 3. Place the number of times the pattern repeats as the loop’s argument.</iconp>
 
-![slides-translating1](./images/slides-translating1.png)
-![slides-translating2](./images/slides-translating2.png)
-![slides-translating3](./images/slides-translating3.png)
-![slides-translating4](./images/slides-translating4.png)
+![explain](./images/explain-slides.png)
 
 ## 4. Elaborate: Practice (10 min)
 
@@ -121,8 +117,7 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 
 > > "Your turn! Work independently to rewrite the three sequences on the otherside as loops."
 
-![slides-translating5](./images/slides-translating5.png)
-![slides-translating6](./images/slides-translating6.png)
+![slides-elaborate](./images/elaborate-slides.png)
 
 ## 4. Evaluate: Exit Challenge (10 min)
 
@@ -133,6 +128,6 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1fZDfHDFEXsVilp4-Nxg4H_rs11rrtYyypJ6SL9wX0g4/edit?usp=sharing
-[code-handouts]: https://drive.google.com/file/d/0B2wBzr9vcXjPbmZZRHVNVTcwM2M/view?usp=sharing
-[exit]: https://docs.google.com/document/d/1k9AYX0KrK5j_oFu8y_4v9PnsfO3S0LQ8MS3sIPczh5g/edit?usp=sharing
-[key]: https://docs.google.com/document/d/1Eel9rcTmbQe1LNmE-eDgkXc0HIuCDb04WqPVG0akogA/edit?usp=sharing
+[loops]: https://drive.google.com/open?id=0B48_2vIyABioXy1ZcXFKZXk2X3M
+[code-handouts]: https://drive.google.com/open?id=0B48_2vIyABioSlRwNlFnSVluQWM
+[exit]: https://drive.google.com/open?id=0B48_2vIyABioSzFNSnRiaWdaV0k
