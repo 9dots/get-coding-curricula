@@ -106,5 +106,5 @@ Students apply the debugging protocol to debug conditionals online and unplugged
 </notable>
 
 [slides]: https://drive.google.com/open?id=161qjVHW5KRd2BE-oSWuvw1XX-JbvZUU98Xzqqt6tlTI
-[practice]: www.pixelbots.io/RJRJO
-[exit]: www.pixelbots.io/DXOPA
+[practice]: http://www.pixelbots.io/RJRJO
+[exit]: http://www.pixelbots.io/DXOPA

@@ -107,13 +107,13 @@ Participation: Small Group Unplugged
 
 > > “On a blank page in your idea journal let’s write the definition of Boolean. Boolean - A statement that can either be "true" or "false".”
 
-<note>![slides-define1](./images/slides-define1.png)</note>
+<note>![slides-one](./images/slides-define1.png)</note>
 
 - [ ] **Contrasting Cases:** Review the contrasting cases from above.
 
 > > “You answered each of the statements on the left with “True” or “False”. It doesn’t make sense to answer the non-boolean statements with true/false. If I say “Draw a circle”, you would respond by drawing a circle. If you responded “false”, I would be very confused.”
 
-<note>![slides-define2](./images/slides-define2.png)</note>
+<note>![slides-two](./images/slides-define2.png)</note>
 <br/>
 - [ ] **Popcorn:** Students hold up Boolean or Not Boolean cards to respond to questions. Pop around the room to different students asking them to explain if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term.
 

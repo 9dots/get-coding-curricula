@@ -82,4 +82,4 @@ Students review the computational thinking concepts and skills they have built o
 
 [slides]: https://drive.google.com/open?id=1giOni1U3aCiUpmqPtT5mnBEIrf2ddMP-nhxPlKkczwM
 [worksheet]: https://drive.google.com/open?id=19hSoJ19WjF9kyBnx8Y_eK-eeFL3ULXjIc3_haWuVGkU
-[playlist]: www.pixelbots.io/8R2OM
+[playlist]: https://www.pixelbots.io/8R2OM
