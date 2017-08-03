@@ -82,7 +82,7 @@ Students are introduced to the story of the first bug and practice using the deb
 
 ## 3. Explain: Debugging Protocol (10 min)
 
-- [ ] **Model** the debugging protocol and teach students the hand gestures for each step. 
+- [ ] **Model** the debugging protocol and teach students the hand gestures for each step.
 
 >> “When we debug code we follow three basic steps: (1) Compare (2) Find (3) Try. Let's try it with this challenge. First Compare:"
 

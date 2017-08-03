@@ -68,13 +68,13 @@ Students explore and predict how they can use loops to more efficiently write co
 
 ## 3. Explain: Loops (5 min)
 
-- [ ] **Predict & Define:** Have each group hold up each loop as you introduce it. Ask students for their prediction of what each loop does before you reveal its purpose.
+- [ ] **Predict & Define:** Ask students for their prediction of what each loop does before you reveal its purpose.
 
 <iconp type='question'>For each loop: What do you think this loop will do?</iconp>
 ![for-each](./images/for-each.png)
-<iconp type='answer'>Forever: Repeats the nested sequence forever</iconp>
-<iconp type='answer'>Repeat Until _____: Repeats the nested sequence until an action happens</iconp>
-<iconp type='answer'>Repeat ____: Repeats the nested sequence that number of times</iconp>
+<iconp type='answer'>Loop Forever: Repeats the nested sequence forever</iconp>
+<iconp type='answer'>Loop Until _____: Repeats the nested sequence until an action happens</iconp>
+<iconp type='answer'>Loop ____: Repeats the nested sequence that number of times</iconp>
 > > "These structures are called loops. Loops are powerful tools for coders! With loops we don’t have to write a sequence of code over and over to make it repeat. Everybody say 'loop'."
 
 <note>![slides-loops](./images/loop.png)</note>
