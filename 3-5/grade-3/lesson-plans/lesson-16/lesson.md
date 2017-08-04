@@ -18,17 +18,17 @@ This lesson reviews the objectives from Lessons 1-15.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slide Show][slide-show]
-- [ ] [Socrative Quiz (SOC-27546630)][socrative2]
-- [ ] Foam Tiles
+- [ ] Floor Grid
 - [ ] Large Rover
 - [ ] Construction Paper to mark the foam tiles
+- [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
 - [ ] Computers
 - [ ] Pencils
 - [ ] Rovers
 - [ ] [Rover Handout][rover]
+- [ ] [Playlist: getCoding 3.16 | Code: 5GD2F][playlist]
 
 </note>
 
@@ -68,32 +68,30 @@ Participation: Partners, unplugged
 <note>![slides-rover1](./images/slides-rover1.jpeg)
 </note>
 <br/>
-- [ ] **Argumentation:** Use the foam tiles to have students act out code. You can add and subtract foam tiles to match the grid in each problem on the handout. Encourage academic discourse:
+- [ ] **Argumentation:** Use the floor grid to have students act out code. Encourage academic discourse:
 	- “I disagree because…”
 	- “Show me how you got…”
 	- “What line of code…”
 
-**Solutions:**
-![Rover-answers](./images/rover3-answers.jpeg)
+![worksheet](./images/worksheet.png)
 
 <note type="tip">#5 is optional if you have time
-![slides-rover2](./images/slides-rover2.jpeg)
-![slides-rover3](./images/slides-rover3.jpeg)
-![slides-rover4](./images/slides-rover4.jpeg)
-![slides-rover5](./images/slides-rover5.jpeg)</note>
+![slides-rover2](./images/slides-rover2.png)
+![slides-rover3](./images/slides-rover3.png)
+![slides-rover4](./images/slides-rover4.png)
+![slides-rover5](./images/slides-rover5.png)</note>
 
 ## 3. Elaborate: Socrative (20 min)
 Participation: Partners, online
 
-- [ ] **Challenge:** Students login to Socrative to complete a series of challenges similar to the ones they will complete independently on the ICC next week. This is not a test and there is no final score. Run this “Teacher Paced” so that you can display and discuss the classes’ answers after each question. Allow students to work in pairs on this challenge and encourage academic discourse.
+- [ ] **Challenge:** Students login to PixelBots to complete a series of challenges similar to the ones they will complete independently on the ICC next week. This is not a test and there is no final score.
 
-> > "Your second challenge today is on Socrative. As you answer the challenges today, focus on activating all of your new coding super powers. As a class we will wait until everyone has answered each question before looking at the answer and going onto the next one."
-
-<note type="tip">Budget 1 minute per question. You can use a timer to help keep students on track. ![slides-socrative1](./images/slides-socrative1.jpeg) </note>
+> > "Your second challenge today is on PixelBots. As you solve the challenges today, focus on activating all of your new coding super powers.
 
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1ykBVyE4sWhcRYTb2vEP9SqCJnLXWWM-8ymIB_EhZNFE/edit?usp=sharing
 [socrative]: https://b.socrative.com/teacher/#import-quiz/27188219
+[playlist]: http://www.pixelbots.io/5GD2F
 [rover]: https://docs.google.com/document/d/11BepTZnwHYCglzDXS88IdRC2exZBVqrUj1pQlbOtCzU/edit?usp=sharing
 [socrative2]: https://b.socrative.com/teacher/#import-quiz/27546630

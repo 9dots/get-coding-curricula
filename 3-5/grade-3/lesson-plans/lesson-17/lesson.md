@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-We want to establish a coding learning culture where students identify as coders. They enjoy challenging themselves, learning new things, and addressing weaknesses in their understanding. Students complete an Independent Coding Challenge to see their progress in the learning objectives from lessons 1-20.
+We want to establish a coding learning culture where students identify as coders. They enjoy challenging themselves, learning new things, and addressing weaknesses in their understanding. Students complete an Independent Coding Challenge to see their progress in the learning objectives from lessons 1-16.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I know that making mistakes is part of being a coder. I learn from my mistakes and am not afraid to try again.
@@ -25,15 +25,14 @@ We want to establish a coding learning culture where students identify as coders
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
-- [ ] [Answer Key][solutions]
 
 ###### Student Materials:
 - [ ] Pencils
+- [ ] Computers
 - [ ] Rovers
 - [ ] Index Cards
-- [ ] Bug Erasers
-- [ ] [Independent Coding Challenges][icc]
-- [ ] Computers
+- [ ] [Independent Coding Challenge][icc]
+- [ ] [Playlist: getCoding 3.17 ICC | Code: B9XJN][icc-online]
 
 </note>
 
@@ -59,25 +58,13 @@ Participation: Whole class, unplugged
 
 > > “You are coders! Coders love to challenge themselves. So today we are going to do a series of Coding Challenges. We want you to see how much you have learned about coding. Some of the challenges may feel easy. Some of the challenges may feel really challenging, which is good! So coders, I have a challenge for you (pause for students to respond “bring it bring it”).”
 
-<note> **Slides:** ![slides-motivate](./images/slides-engage.jpeg)</note>
-<br/>
+<note> **Slides:** ![slides-motivate](./images/slides-engage.png)</note>
 
-- [ ] **Bugs:** introduce the bug erasers.
-
-> > “For your final challenge today, instead of using a bean like we did last week, I have these bug erasers for you. Use them to complete your challenge and then they are yours to keep and remind yourself of all the challenging bugs you will take on as coders."
-
-![bug-placement](./images/bug-placement.jpeg)
-
-<note>![slides-bug](./images/slides-bugs.jpeg)</note>
 
 ## 2. Evaluate: Challenges (43 min)
 Participation: Independent, unplugged
 
-- [ ] **Bonus**: Tell students #10 is a bonus and should be done last.
-
-> > "Let's look at the challenges. Number 10 is a bonus question so complete the first 9 challenges first before starting on number 10.”
-
-<note> **Slides:** ![slides-bonus](./images/slides-icc1.jpeg)</note>
+<note> **Slides:** ![slides-bonus](./images/slides-materials.png)</note>
 
 - [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves.
 
@@ -86,11 +73,11 @@ Participation: Independent, unplugged
 > > - Coding takes a lot of brainpower, so keep the room silent for your fellow coders to concentrate.
 > > - If you have a question or don’t understand a challenge, ask your teacher with a silent hand.
 
-<note> ![slides-expectations](./images/slides-icc2.jpeg)</note>
+<note> ![slides-expectations](./images/slides-icc2.png)</note>
 
-- [ ] **Independent Coding Challenge:** Students work independently on the challenges. When students are finished encourage them to review and validate their answers. They can then work on their Final Projects or go to Code.org. If a student is stuck you can help them by:
-    - Read the question out loud.
-    - Ask guiding questions without giving away an answer:
+- [ ] **Independent Coding Challenge:** Students work independently on the challenges. When students are finished encourage them to review and validate their answers. If a student is stuck you can help them by:
+    - Reading the question out loud.
+    - Asking guiding questions without giving away an answer:
 	    - Do you remember when we painted with Rover?
 	    - Did you validate your code to make sure there are no bugs?
 	    - Did you use the index card to read each line of code one at a time?
@@ -101,4 +88,6 @@ Participation: Independent, unplugged
 
 </notable>
 
+[icc]: https://drive.google.com/open?id=0B48_2vIyABioYU1RT3JKNGNqUVk
+[icc-online]: http://www.pixelbots.io/B9XJN
 [slide-show]: https://docs.google.com/presentation/d/1X5TqFZZdFq0J41yVsawCvSV3hAGMUnEq4m0XpSPjUzU/edit?usp=sharing

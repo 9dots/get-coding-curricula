@@ -75,9 +75,6 @@ Students practice writing code with conditionals, first unplugged by choreograph
 
 - [ ] **Code Along:** Play the code along video to show students how to solve challenge number 1 with the writing protocol. Have students code while following the steps in the video.
 
-- [ ] **Model** how to complete a conditionals challenge by solving pixelBot challenge number 1.
->>“To write a solution for this challenge I will use the plan, code, validate protocol.”
-
 ## 4. Elaborate: pixelBots Challenges (15 min)
 - [ ] **Guided Practice:** Have the class use the plan, code, validate protocol to solve challenge number 2.
 
