@@ -124,7 +124,7 @@ Narrate what you’re doing at each step.
 </notable>
 
 [large-rover]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view
-[lesson-6-handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPYjM5MUhtdkxrc0U/view
+[lesson-6-handout]: https://drive.google.com/open?id=0B48_2vIyABioVnNiZHFBNzFNWG8
 [rover-cutouts]: https://drive.google.com/file/d/0B48_2vIyABioNG8tTWZNYmZocFE/view
 [slides]: https://docs.google.com/presentation/d/1k6bOri7DmqbrOy0RGKw3d-xcHLy2ehlLis0xi5iJ4e8/edit?usp=sharing
 [playlist]: http://www.pixelbots.io/XP5KQ
