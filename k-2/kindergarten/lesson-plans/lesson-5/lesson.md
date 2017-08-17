@@ -1,33 +1,33 @@
-<header class='header' title='pixelBot' subtitle='Lesson 05'/>
+<header class='header' title='PixelBots' subtitle='Lesson 05'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 5 introduces students to writing code on the pixelBot platform. Students explore the platform and solve a series of painting challenges by writing 2-5 line sequences.
+In lesson 5 students begin writing code on the the PixelBot platform.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-I can write a 2-5 block sequence of code.
+ - I can control the actions of my PixelBot with code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 
-1. Engage: pixelBot Predictions (5 min)
-1. Explore: Challenge (2 min)
-1. Explain: pixelBot 101 (5 min)
-1. Elaborate: pixelBot Playlist (15 min)
-1. Evaluate: Debrief (3 min)
+1. Engage: PixelBot Predictions (5 min)
+1. Explore: Challenge (5 min)
+1. Explain: PixelBot 101 (5 min)
+1. Elaborate: PixelBot Playlist (10 min)
+1. Evaluate: Debrief (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Engage Link][engage-link]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: Intro to Writing Code][ind-practice]
+- [ ] [Playlist: getCoding K.05 | Code: ZOMOP][ind-practice]
+- [ ] [Playlist: getCoding K.05 Ext. | Code: QBRWI][extension]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -54,67 +54,66 @@ I can write a 2-5 block sequence of code.
 
 <pagebreak/>
 
-## 1. Engage: Predictions (4 min)
-- [ ] **Show** the pixelBot sequence.
-- [ ] **Turn and Talk:** Student predict what the pixelBot would do if it followed the directions in the sequence.
+## 1. Engage: Predictions (5 min)
+- [ ] **Show** the PixelBot sequence.
+- [ ] **Turn and Talk:** Student predict what the PixelBot would do if it followed the directions in the sequence.
 
-<iconp type='question'>If our pixelBot followed the directions in the sequence in order, where would it stop?</iconp>
+<iconp type='question'>If our PixelBot followed the directions in the sequence in order, where would it stop?</iconp>
 
 - [ ] **Share Out:** Students share their predictions with the class. As they share out, challenge them explain their thinking with the question below.
 
 <iconp type='question'>Why do you think that would happen?</iconp>
 
-- [ ] **Show** the class the result of running the code in pixelBot.
+- [ ] **Show** the class the result of running the code in PixelBot.
 
 - [ ] **Explain** that in this lesson our goal is to learn how to write code in pixelBot.
 
-## 2. Explore: Challenge (4 min)
-- [ ] **Show** the class the first challenge.
-
+## 2. Explore: Challenge (5 min)
 - [ ] **Explain** the goal of the challenge.
->> “In this challenge our goal is to move our pixelBot to the last square at the bottom of the grid and then we want to paint it. Your job is to try to do that by creating a sequence of code. During this challenge you will try to do this on your own. It is ok if you can’t do it because we will discuss it and solve it together after you give it a try.”
+>> “In this challenge our goal is to move our PixelBot to the square above and paint it. Your job is to try to do that by writing a sequence of code.”
+
+- [ ] **Explain and demonstrate** how to write and delete code in PixelBots using challenge 1 from the student playlist.
+>>"To write your code you can just point and click on the code you want to add. If you make a mistake you can delete your code by clicking the trash can next to it."
+
+- [ ] **Independent Exploration:** Have students attempt to complete the first challenge in the playlist.
 
 - [ ] **Discuss** the different strategies that students tried during the challenge.
 
 <iconp type='question'>What are some things you tried to complete the challenge?</iconp>
 
 - [ ] **Model** how to solve the challenge.
->> “I will select a down arrow block because my pixelBot needs to move down to get closer to the square it needs to color. Next I will click the green run button to make my pixelBot do what I wrote. My pixelBot moved down just like I wanted it to so I will keep this code. My pixelBot needs to move one more step down to get to the square. This means that I need to select the down arrow block again. I run my code to see what it does from the beginning if it follows this code. The last thing I need to add to my code is a paintbrush so that my pixelBot knows to color the last square. Finally, I will run my code one more time to complete the challenge.”
+>> “I will select an up arrow block because my PixelBot needs to move up to get to the square. Then I will click the paint block to paint the square. To make my PixelBot act out my code I will press the green run button.”
 
-## 3. Explain: pixelBot 101 (7 min)
-- [ ] **Explain** how to add code in the pixelBot editor.
->> “I can add code by selecting blocks of code on the left. The code I can add includes arrows that make the pixelBot move and the paintbrush that makes it paint.”
+## 3. Explain: pixelBot 101 (5 min)
+- [ ] **Review and demonstrate** how to add code in the pixelBot editor using challenge 2.
+>> “I can add code by selecting blocks of code on the left. The code I can add includes arrows that make the PixelBot move and the paintbrush that makes it paint.”
 
-- [ ] **Demonstrate** how to add code in the pixelBot editor.
-
-- [ ] **Explain** what running code means and how to do it.
+- [ ] **Explain and demonstrate** what running code means and how to do it.
 >> “When we run code we are simply telling the computer to follow the directions we wrote. To run the code we wrote we press the big green button.”
 
-- [ ] **Demonstrate** how to run code.
-
-- [ ] **Explain** how to delete code in the pixelBot editor.
+- [ ] **Explain and demonstrate** how to delete code in the pixelBot editor.
 >> “Sometimes when we write code we make mistakes. We may add code that we don’t want. To delete the code we can click the trash can next to the block of code we don’t want.”
 
-- [ ] Demonstrate how to delete code in the pixelBot editor.
+- [ ] **Guided Practice:** Have students navigate to challenge 2 help you solve it by sharing their thoughts.
+>> “My goal is to make my PixelBot paint the square on the right. What should I do?”
 
-- [ ] **Show** the next pixelBot challenge.
-
-- [ ] **Guided Practice:** Students help the teacher solve the pixelBot challenge by sharing their thoughts.
->> “My goal is to make my pixelBot paint the square on the left.”
+- [ ] **Share Out:** Students share out ideas as you code and test them out in the PixelBots editor.
 
 ## 4. Elaborate: pixelBot Playlist (10 min)
-- [ ] **Independent Coding:** Students work through a series of challenges in a pixelBot Intro to Writing Code playlist.
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-## 5. Evaluate: Review & Debrief (3 min)
-- [ ] **Review** 1-2 challenges from the stepping worksheet with the class.
+## 5. Evaluate: Review & Debrief (5 min)
+- [ ] **Review** 1-2 challenges from the Playlist with the class.
+- [ ] **Debrief** the lesson with the class.
 
-- [ ] **Debrief** the lesson as a class.
+<iconp type='question'>What was challenging about today's lesson?</iconp>
 
 </notable>
 
 [slides]: https://drive.google.com/open?id=1ean8naFUkfNz0ntGLzHQzfmtFkctSoI8hKEruMHbujQ
-[engage-link]: https://artbot-26016.firebaseapp.com/VY518
-[ind-practice]: https://artbot-26016.firebaseapp.com/J42DG
+[ind-practice]: http://www.pixelbots.io/ZOMOP
+[extension]: http://www.pixelbots.io/QBRWI
 [assess]: https://artbot-26016.firebaseapp.com/V3ZP3

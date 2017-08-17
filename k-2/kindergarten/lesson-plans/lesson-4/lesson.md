@@ -1,8 +1,8 @@
-<header class='header' title='Turtle Steps' subtitle='Lesson 04'/>
+<header class='header' title='Step-By-Step' subtitle='Lesson 04'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 4 students are introduced to sequences and begin developing an understanding of how to read code. Students learn how to step through sequences of 2-5 lines of code with the aid of a token.
+In lesson 4 students practice reading code by stepping one line at a time in an unplugged space.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through a 2-5 line sequence of code.
