@@ -1,20 +1,19 @@
-<header class='header' title='Directional Moves' subtitle='Lesson 07'/>
+<header class='header' title='Find the Bug' subtitle='Lesson 07'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 7 students are introduced to sequences with increasing complexity. Complexity arises from the addition of directional moves and increasing length. Students practice reading code by stepping through it one line at a time.
-
+In lesson 7 students are introduced to the concept of debugging. Students use the stepping skills practiced in a previous lesson to find and remove unwanted lines of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-I can read a 2-10 block sequence with directional moves.
+- I can find and remove a bug in a 2-5 line sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: Introduction to Directional Moves (3 min)
-1. Explore: Stepping  with Directional Moves (5 min)
-1. Explain: Stepping with Directional Moves (7 min)
-1. Elaborate: Letter Stepping (10 min)
+1. Engage: What is a Bug? (5 min)
+1. Explore: Debugging (5 min)
+1. Explain: Debugging Protocol (5 min)
+1. Elaborate: PixelBots Practice (10 min)
 1. Evaluate: Exit Ticket (5 min)
 
 <note>
@@ -24,15 +23,13 @@ I can read a 2-10 block sequence with directional moves.
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Pencils
-- [ ] [Stepping Tokens][token]
-- [ ] [Practice Worksheets][prac-worksheet]
-- [ ] [Extension Worksheets][ext-worksheet]
-- [ ] [Exit Tickets][exit-ticket]
+- [ ] [Playlist: getCoding K.07 | Code: 7O6O6][practice]
+- [ ] [Playlist: getCoding K.07 Ext | Code: ][extension]
+- [ ] [Playlist: getCoding K.07 Exit | Code: KY3Z2][exit]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
-- **Sequence** - A set of actions that must be performed in the order they are written.
+- **Bug** - An error in code.
+- **Debugging** - Finding and fixing errors in code
 
 </note>
 
@@ -40,7 +37,7 @@ I can read a 2-10 block sequence with directional moves.
 
 ## Room Design
 
-![room](/images/layout-rows.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -52,73 +49,65 @@ I can read a 2-10 block sequence with directional moves.
 
 <pagebreak/>
 
-## 1. Engage: Introduction to Directional Moves (2 min)
+## 1. Engage: What is a Bug? (5 min)
+- [ ] **Read** the story of the first bug.
+<iconp type='question'>Why was it important for the computer scientists not to give up?</iconp>
 
-- [ ] **Introduce** students to a sequence with directional moves. (1 min)
-<iconp type='question'>What stands out in this sequence?</iconp>
-<iconp type='question'>Which line of code is different than the others?</iconp>
-- [ ] **Turn and Talk:** Students make predictions about the turtle’s location. (1 min)
-<iconp type='question'>Where do you think the turtle will end up after following the directions in the sequence?</iconp>
-- [ ] **Share Out:** Volunteers share their predictions with the class. (1 min)
+- [ ] **Define** bug and debugging.
+>> "A bug is an error found in code. Debugging is what we do when we find and fix bugs in our code."
 
-![engage](./images/engage.png)
+- [ ] **Explain** the importance of debugging.
+>> "Bugs happen all of the time when we code. Even the best coders in the world have bugs in their code. That means that to become good coders we have to be good at debugging. The most important thing to remember when we debug is not to give up just like the computer scientists didn't give up in the story."
 
-## 2. Explore: Stepping with Directional Moves (8 min)
+## 2. Explore: Debugging (5 min)
+- [ ] **Introduce** students to the first debugging challenge in the playlist.
+>>"In our first challenge today you can see that we already have code written for us, but we don't know if it works. Your challenge is to fix the code of it does not work. You should start by checking of the code works."
 
-- [ ] **Independent Exploration:** Students attempt to step through the sequence from the Engage activity. (3 min)
-	- Pass out a practice worksheet, token and pencil to each student.
-	- Have students place the turtle on the number 4 in practice problem number one.
-	- Give the class 2 minutes to determine the final location of the turtle using the materials.
+- [ ] **Independent Exploration:** Have students try to determine if the code has a bug using their computers. If the code is not valid students should try to debug it.
 
-- [ ] **Discuss** what the code did as a class. (2 min)
+- [ ] **Review** the code's objective.
+<iconp type='question'>What does the bot have to do?</iconp>
+<iconp type='answer'>The code is supposed to make the PixelBot move up 3 spaces and paint a square.</iconp>
 
-<iconp type='question'>Where did the turtle stop?</iconp>
+- [ ] **Discuss** what the code did as a class.
+<iconp type='question'>What did the code do?</iconp>
+
+- [ ] **Turn and Talk:** Have students discuss in pairs how they attempted to fix the code.
+<iconp type='question'>What did you do to figure it out?</iconp>
+
+- [ ] **Share Out:** Have volunteers share what they discuss with their partner.
 
 
-## 3. Explain: Stepping with Directional Moves (7 min)
-- [ ] **Model** using the push, check, move protocol to step through the sequence from the Engage activity. (2 min)
-	1. *Push* the line of code.
-> > “First I push the line of code that I’m on.”
-	1. *Check* the line using your pencil.  
-> > “Next I write a check on the line of code I read.”
-	1. *Move* the turtle.
-> > “Then I move the turtle. I keep repeating these three steps until I finish reading the sequence.”
-- [ ] **Guided Practice:** Students step through two sequences by following along with the teacher. (5 min)
+## 3. Explain: Debugging Protocol (5 min)
+- [ ] **Explain** that a common bug in PixelBots is having an extra line of code that isn't needed.
+>>"In today's challenges we will debugging code that has extra lines that we don't need."
 
-![explain](./images/explain.png)
+- [ ] **Model:** Using the same problem from the Explore activity, model the debugging protocol.
+1. Compare what the code is supposed to do to what it actually does.
+	>>"When I debug the first thing I do is ask myself what do I want the code to do? Then I ask myself, what does it do instead? The code is supposed to make the PixelBot go up 3 spaces and paint the square. Right now it goes up 4 spaces and paints a square. It goes too far.”
+2. Find the bug.
+	>>“Then second thing I do is try to find the bug. I can find the bug by using the stepper tool to find where the code does something I don't want it to do. As I check this code one line at a time I can see that the up arrow on line 4 needs to be deleted because it makes the bot go too far.
+3. Try deleting the line of code and run the code to see if it works.
+	>>“To fix the code I am going to try deleting the extra arrow on line 4. This should make the PixelBot move 3 spaces and then paint the block just like we wanted it to. Now if I click run it paints the correct square.”
 
-## 4. Elaborate: Letter Stepping (10 min)
+## 4. Elaborate: PixelBot Practice (10 min)
+- [ ] **Explain** that the goal of each challenge is to debug the code by finding and removing the extra line of code that makes the PixelBot do something we don't want.
+>>"Each of our next challenges has a bug. The bug in each challenge is an extra line of code that makes the PixelBot do something we don't want. Our goal is to debug the code by finding and deleting the extra line of code.
 
-- [ ] **Independent Practice:** Students step through sequences independently using the practice worksheet and token. (8 min)
 
-Worksheet Directions
-- The goal is to determine the letter or number the turtle stops on after stepping through each sequence.
-- The turtle starts on the star for each sequence.
-- Students must write the letter or number in the blank box above the sequence.
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
-![elaborate](./images/elaborate.png)
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-- [ ] **Review** problem 3 using the stepping protocol. (2 min)
-	1. *Push* the line of code.
-	2. *Check* the line using your pencil.  
-	3. *Move* the turtle.
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-- [ ] **Extension:** Students identify sequences with matching objectives. (if time allows)
+## 5. Evaluate: Exit Challenge (5 min)
 
-## 5. Evaluate: Exit Ticket (5 min)
-- [ ] **Assess** for mastery by having students complete the exit ticket. (5 min)
-
-Exit Ticket Directions
-- The goal is to determine the letter or number the turtle stops on after stepping through each sequence.
-- The turtle starts on the star for each sequence.
-- Students must write the letter or number in the blank box above the sequence.
-
-![evaluate](./images/evaluate.png)
+- [ ] **Exit Challenge:** Have students complete the exit challenge playlist on PixelBots.
 
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1W-ehnZViCMxEJnQFkLCtYbKpLUmcZkpdNC4pOARmUjo/edit
-[token]: https://drive.google.com/file/d/0B48_2vIyABiobmRPbGJMN2s2VUU/view
-[prac-worksheet]: https://drive.google.com/file/d/0B48_2vIyABiobWF2QWYxVW95akk/view
-[ext-worksheet]: https://drive.google.com/file/d/0B48_2vIyABiodEkxMHp0QjhFUE0/view
-[exit-ticket]: https://drive.google.com/file/d/0B48_2vIyABioM1VJTGxnZmJ0T3c/view
+[slides]: https://drive.google.com/open?id=1FCEnq0twinc7a30fRQPYCOOzMa9k9AXN_uJkPSGSuq0
+[practice]:http://www.pixelbots.io/7O6O6
+[extension]:
+[exit]:http://www.pixelbots.io/KY3Z2

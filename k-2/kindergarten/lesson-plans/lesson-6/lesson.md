@@ -1,35 +1,39 @@
-<header class='header' title='Debugging' subtitle='Lesson 06'/>
+<header class='header' title='Code Your PixelBot' subtitle='Lesson 06'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 6 students are introduced to the concept of debugging. Through a series of debugging challenges, students unearth the debugging protocol and learn what it means to have a debugging mindset.
+In lesson 6 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-I can debug a 2-5 block sequence.
+- I can write a 2-5 line sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: What is a bug? (5 min)
-1. Explore: Unearth Debugging Protocol (6 min)
-1. Explain: Debugging Protocol (8 min)
-1. Elaborate: Independent Practice (11 min)
+1. Engage: Code a Friend (5 min)
+1. Explore: Challenge (3 min)
+1. Explain: Writing Code (7 min)
+1. Elaborate: PixelBot Practice (10 min)
+1. Evaluate: Exit Challenge (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
+- [ ] Floor Grid
+- [ ] [Playlist: getCoding K.06 Demo | Code: 3DPGY][demonstration]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Pixel Bot Playlist][playlist]
+- [ ] [Playlist: getCoding K.06 | Code: QD8W6][playlist]
+- [ ] [Playlist: getCoding K.06 Extension | Code: NQOW7][extension]
+- [ ] [Playlist: getCoding K.06 Exit | Code: MJ282][exit]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
-- **Bug** - An error in code.
-- **Debugging** - Finding and fixing errors in code
+- **Sequence** - A set of actions that must be performed in the order they are written.
+- **Code:** A set of instructions designed to be carried out by a computer.
 
 </note>
 
@@ -49,73 +53,51 @@ I can debug a 2-5 block sequence.
 
 <pagebreak/>
 
-## 1. Engage: What is a Bug? (5 min)
-- [ ] **Read** the story of the first bug. (3 min)
+## 1. Engage: Code a Friend (5 min)
+- [ ] **Introduce** the coding challenge in the demo playlist and invite a student to play the role of the PixelBot on the floor grid.
+>> "Today we are going to continue to practice writing code on PixelBots. In our first challenge we need to move our PixelBot to the last square on right. We are going to complete this challenge as a class. I need a volunteer to come up to the rug and pretend to be our PixelBot. Would anyone like to be our PixelBot today?"
 
-<iconp type='question'>Why was it important for the computer scientists not to give up?</iconp>
+- [ ] **Share Out:** Have students help you write the code by volunteering to share one line at a time.
 
-- [ ] **Define** bug and debugging. (1 min)
-	- A bug is an error found in code.
-	- Debugging is the process of finding and fixing bugs.
+- [ ] **Stepping:** Have the student on the grid act out the code as you direct the class in reading the code out loud one line at a time.
 
-- [ ] **Explain** the importance of debugging. (1 min)
-	- Bugs are common.
-	- Even the best coders make mistakes.
-	- Becoming a good coder means becoming good at debugging.
-	- The most important part of debugging is not giving up like the computer scientists in the story.
-	<note>![bug](./images/first-bug.png)</note>
+- [ ] **Validate** the code by running it on PixelBots.
 
-## 2. Explore: Unearth Debugging Protocol (6 min)
+## 2. Explore: Challenge (3 min)
+- [ ] **Introduce** PixelBot challenge 1 from the practice playlist to the class.
+>> "In our next challenge we need to paint the square in the middle of the grid. You are going to try to solve this challenge on your own."
 
-- [ ] **Introduce** students to the [first debugging challenge][challenge]. (1 min)
-	- The code is supposed to make the zebra move up 4 spaces and paint a square.
+- [ ] **Independent Exploration:** Have students attempt to code a solution to challenge 1.
 
-- [ ] **Independent Exploration:** Have students try to determine if the code is valid using their computers. If the code is not valid students should try to fix it. (2 min)
-- [ ] **Review** the code's objective.
-- [ ] **Discuss** what the code did as a class. (1 min)
+- [ ] **Monitor** the class to select two students who will share their code. Try to select two students with different solutions. If only one solution is found in the class prepare to share a different solution during the explain activity.
 
-<iconp type='question'>What did the code do?</iconp>
-<iconp type='question'>What did you do to figure it out?</iconp>
+## 3. Explain: Writing Code (7 min)
+- [ ] **Share Out:** Have students selected share their code. As they share, write the code in the editor and run it in order to validate the solution. If only one solution was found in the group share a different solution of your own.
 
-- [ ] **Turn and Talk:** Have students discuss in pairs how they attempted to fix the code. (1 min)
+- [ ] **Explain** that challenges usually have more than one solution and that it is important to know how you want to try to solve a challenge before beginning to code.
+>> "Most of the challenges we will write code for have more than one solution. This is why it is important to plan which solution you are going to try before beginning to write code."
 
-- [ ] **Share Out:** Have volunteers share what they discuss with their partner. (1 min)
+- [ ] **Demonstrate** how to plan a path by tracing an imaginary line with your finger on the grid to solve challenge 2 in the playlist. Have students repeat after you.
+>> "One way I like to plan my code is by tracing the path I want my PixelBot to take with my finger before I write my code. In challenge 2 our goal is to paint the square that is above on the left. I can trace a path with my finger that goes up one space and then left one space."
 
-## 3. Explain: Debugging Protocol (8 min)
-- [ ] **Model:** Using the same problem from the Explore activity, model the debugging protocol. (3 min)
-	1. *Compare* the code’s objective to what it actually does.
-> > “The code is supposed to make the zebra go up 4 spaces and paint the square. Right now it goes up 3 spaces and paints a square. It doesn’t go far enough.”
-	1. *Find* the bug(s).
-> > “The code needs 4 up arrow blocks. It only has 3.”
-	1. *Fix* the code.
-> > “I will add another up arrow block before the paint brush block. This will make the zebra move 4 spaces and then paint the block just like we wanted it to.”
+- [ ] **Model** how to solve the challenge after tracing out the path with your finger.
+>>"Now that I chose my path, I can start to write my code. First I need to move up one space. Then I need to move one space to the left. Finally, I should have my PixelBot paint the square."
 
-- [ ] **Code Along:** Using the first problem in the debugging playlist, perform a code along with the class. (5 min)
+## 4. Elaborate: PixelBot Practice (10 min)
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
-- *Compare* the code's objective to what it actually does and have students run the code.
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-<iconp type='question'>What does the code make the zebra do?</iconp>
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-- *Find* the bug(s).
+## 5. Evaluate: Exit Challenge (5 min)
 
-<iconp type='question'>Which line of code starts to move the zebra in the wrong direction?</iconp>
-
-- *Fix* the code.
-
-<iconp type='question'>What should we replace these lines with?</iconp>
-
-- [ ] **Code Along II** (If time allows)
-	- Follow the same debugging protocol used in the previous code along to debug the second problem in the debugging playlist.
-
-## 4. Elaborate: Pixel Bot Practice (11 min)
-- [ ] **Independent Practice:** Have students work on the independent practice [debugging playlist][playlist] and monitor the class for students in need of additional assistance. (8 min)
-- [ ] **Review** 2-3 problems using the debugging protocol. (3 min)
-	1. **Compare** the code’s objective to what it actually does.
-	2. **Find** the bug(s).
-	3. **Fix** the code.
+- [ ] **Exit Challenge:** Have students complete the exit challenge playlist on PixelBots.
 
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1wrmh9mI0GCt2xP7HzF8BW4FHuOdEOKr-L3STjKc-WC8/edit
-[playlist]: http://artbot-26016.firebaseapp.com/XG3Y5
-[challenge]: https://artbot-26016.firebaseapp.com/JO527
+[demonstration]: http://www.pixelbots.io/3DPGY
+[slides]: https://drive.google.com/open?id=1q2RgAFOG3bWN9o-oXZkFt4wCwmYTKUkRtgD4Wiife9c
+[playlist]: http://www.pixelbots.io/QD8W6
+[extension]:http://www.pixelbots.io/NQOW7
+[exit]: http://www.pixelbots.io/MJ282
