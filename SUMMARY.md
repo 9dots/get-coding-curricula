@@ -10,7 +10,7 @@
     * [Lesson 05: PixelBots](k-2/kindergarten/lesson-plans/lesson-5/lesson.md)
     * [Lesson 06: Code Your PixelBot](k-2/kindergarten/lesson-plans/lesson-6/lesson.md)
     * [Lesson 07: Find the Bug](k-2/kindergarten/lesson-plans/lesson-7/lesson.md)
-    * [Lesson 08: Pixel Artists](k-2/kindergarten/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 08: Invisible Bugs](k-2/kindergarten/lesson-plans/lesson-8/lesson.md)
     * [Lesson 09: Bug Catchers](k-2/kindergarten/lesson-plans/lesson-9/lesson.md)
     * [Lesson 10: Review](k-2/kindergarten/lesson-plans/lesson-10/lesson.md)
     * [Lesson 11: Summarizing I](k-2/kindergarten/lesson-plans/lesson-11/lesson.md)

@@ -94,7 +94,6 @@ In lesson 7 students are introduced to the concept of debugging. Students use th
 - [ ] **Explain** that the goal of each challenge is to debug the code by finding and removing the extra line of code that makes the PixelBot do something we don't want.
 >>"Each of our next challenges has a bug. The bug in each challenge is an extra line of code that makes the PixelBot do something we don't want. Our goal is to debug the code by finding and deleting the extra line of code.
 
-
 - [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
 - [ ] **Monitor** the class for students in need of additional assistance.

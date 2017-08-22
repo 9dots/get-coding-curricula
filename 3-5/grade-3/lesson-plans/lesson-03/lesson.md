@@ -53,6 +53,8 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 <iconp type='question'>In the second challenge what instructions should we code for the rover to follow? </iconp>
 <iconp type='answer'>turn right, move 1 step, paint, move 1 step, paint (put this code on the board and have a student act it out on the tarp)</iconp>
 
+<note>![engage](./images/engage.png)</note>
+
 - [ ] **Motivate** students by introducing the pixelBots platform using the Playlist: Flower Demo link in Teacher Materials and running the code.
 >>“In today’s lesson we are going to code characters to move on a grid just like we did with the rover in our previous lesson. This time we are going to code on computers using a program called pixelBots where we can paint images by coloring squares. Here’s an example of the types of things we can do on pixelBots.”
 
@@ -98,6 +100,8 @@ Younger students with no prior experience on computers may take longer getting s
   <iconp type='question'>How do I make the pixelBot act out the code? Did it work or do I need to debug?</iconp>
   <iconp type='question'>How do I submit the code?</iconp>
 
+  <note>![explain](./images/explain.png)</note>
+
 ## 4. Elaborate: pixelBots Challenges (15 min)
 - [ ] **Guided Practice:** Students complete pixelBot challenge 3 independently using the plan, code, validate protocol. After a few minutes ask students to come up and share their answer to each question.
 >>“Now it’s your turn, coders. Try challenge 3 independently. I will ask you to share your process and solution in 3 minutes.”
@@ -105,6 +109,8 @@ Younger students with no prior experience on computers may take longer getting s
 <iconp type='question'>*Plan:* What path did you make your pixelBot travel?</iconp>
 <iconp type='question'>*Code:* What did you code?</iconp>
 <iconp type='question'>*Validate:* How do you know your code works?</iconp>
+
+<note>![elaborate](./images/elaborate.png)</note>
 
 <br/>
 - [ ] **Independent Practice:** Students work independently through the remaining challenges on the playlist.

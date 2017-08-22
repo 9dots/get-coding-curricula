@@ -53,7 +53,6 @@ In lesson 5 students begin writing code on the the PixelBot platform.
 </note>
 
 <pagebreak/>
-
 ## 1. Engage: Predictions (5 min)
 - [ ] **Show** the PixelBot sequence.
 - [ ] **Turn and Talk:** Student predict what the PixelBot would do if it followed the directions in the sequence.
@@ -63,6 +62,8 @@ In lesson 5 students begin writing code on the the PixelBot platform.
 - [ ] **Share Out:** Students share their predictions with the class. As they share out, challenge them explain their thinking with the question below.
 
 <iconp type='question'>Why do you think that would happen?</iconp>
+
+<note>![challenge](./images/engage-one.png)</note>
 
 - [ ] **Show** the class the result of running the code in PixelBot.
 
