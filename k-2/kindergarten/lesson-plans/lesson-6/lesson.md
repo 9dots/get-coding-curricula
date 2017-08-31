@@ -22,14 +22,14 @@ In lesson 6 students continue writing code. The complexity of the challenges is 
 - [ ] Computer
 - [ ] Projector
 - [ ] Floor Grid
-- [ ] [Playlist: getCoding K.06 Demo | Code: 3DPGY][demonstration]
+- [ ] [Playlist: K.06 Demo | Code: 3DPGY][demonstration]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: getCoding K.06 | Code: QD8W6][playlist]
-- [ ] [Playlist: getCoding K.06 Extension | Code: NQOW7][extension]
-- [ ] [Playlist: getCoding K.06 Exit | Code: MJ282][exit]
+- [ ] [Playlist: K.06 Practice | Code: QD8W6][playlist]
+- [ ] [Playlist: K.06 Bonus | Code: NQOW7][extension]
+- [ ] [Playlist: K.06 Exit Ticket | Code: MJ282][exit]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Sequence** - A set of actions that must be performed in the order they are written.

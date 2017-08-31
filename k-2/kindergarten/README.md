@@ -27,7 +27,7 @@ systematically by comparing, finding, and fixing.
 ## Essential Questions
 1. How are algorithms, patterns and loops used to solve problems?
 2. What is the most efficient way to fix a bug in my code?
-4. How do I learn from a mistake?
+3. How do I learn from a mistake?
 
 
 ## Sequence

@@ -7,11 +7,11 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I know that making mistakes is part of being a coder. I learn when I understand my mistakes and try again.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. **Introductions** (optional)
+<iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
+1. **Introductions** (5 min optional)
 1. **Engage:** What is Code? (5 min)
-1. **Explore:** River Crossing (25 min)
-1. **Explain:** Solution Sharing (5 min)
+1. **Explore:** River Crossing (30 min)
+1. **Explain:** Solution Sharing (10 min)
 1. **Elaborate:** Debrief (10 min)
 
 ##### Room Design
@@ -40,7 +40,7 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 </note>
 
 <pagebreak/>
-## 1. Introductions (optional)
+## 1. Introductions (5 min optional)
 
 - [ ] **Introductions:** students write their name on one side of their name tent and on the other side they draw or write “When I grow up I want to be a(n) _______________.”
 
@@ -65,7 +65,7 @@ Participation: Whole Class, Unplugged
 ![slides-code3](./images/slides-code3.jpeg)</note>
 <pagebreak/>
 
-## 3. Explore: River Crossing (25 min)
+## 3. Explore: River Crossing (30 min)
 Participation: Whole Class ->  Small Group, Unplugged
 
 - [ ] **Challenge** students to tackle the problems today with a productive failure mindset.
@@ -106,7 +106,7 @@ Participation: Whole Class ->  Small Group, Unplugged
 
 <pagebreak/>
 
-## 4. Explain: Solution Sharing (5 min)
+## 4. Explain: Solution Sharing (10 min)
 Participation: Whole Class
 
 - [ ] **Solution Sharing:** Call up a group to share out their solution while acting out the code with the magnetic characters on the board.

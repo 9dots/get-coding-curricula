@@ -133,7 +133,7 @@ Students are introduced to the story of the first bug and practice using the deb
 ## 4. Elaborate: Independent Debugging (20 min)
 - [ ] **Independent Practice:** Students apply the debugging protocol to a series of challenges. During this time circulate to assist students in need of additional help.
 
-> > "Alright coders, now it your turn. Continue to use our 3 steps to debug the remaining challenges."
+> > "Alright coders, now it's your turn. Continue to use our 3 steps to debug the remaining challenges."
 
 <note>![Independent Practice](./images/independent.png)</note>
 <br/>
@@ -146,7 +146,7 @@ Students are introduced to the story of the first bug and practice using the deb
 <br/>
 - [ ] **Closing:** Review the three steps to the debugging protocol with the hand gestures.
 
->>"As a coder you can follow those 3 steps anytime you find a bug. Bugs are a fact of being a coder. You probably run into bugs in your life all the time. For our next lesson I will ask you to share when you have had to debug a situation in your everyday life."
+>>"As a coder you can follow those 3 steps anytime you find a bug. Bugs are a fact of being a coder. You probably run into bugs in your life all the time."
 
 </notable>
 

@@ -5,5 +5,6 @@ The K-2 series serves as an introduction to reading, writing, and debugging code
 
 ## Curriculum
 - [Kindergarten](../k-2/kindergarten/index.html)
+- [1st Grade](../k-2/grade-1/index.html)
 
 [pixelBot]: www.pixelbot.io

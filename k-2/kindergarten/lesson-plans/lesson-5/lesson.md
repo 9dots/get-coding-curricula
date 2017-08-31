@@ -26,8 +26,8 @@ In lesson 5 students begin writing code on the the PixelBot platform.
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: getCoding K.05 | Code: ZOMOP][ind-practice]
-- [ ] [Playlist: getCoding K.05 Ext. | Code: QBRWI][extension]
+- [ ] [Playlist: K.05 Practice | Code: ZOMOP][ind-practice]
+- [ ] [Playlist: K.05 Bonus | Code: QBRWI][extension]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
