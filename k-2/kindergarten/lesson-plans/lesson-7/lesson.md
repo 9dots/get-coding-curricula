@@ -25,7 +25,6 @@ In lesson 7 students are introduced to the concept of debugging. Students use th
 ###### Student Materials:
 - [ ] [Playlist: K.07 Practice | Code: 7O6O6][practice]
 - [ ] [Playlist: K.07 Bonus | Code: QK96M][extension]
-- [ ] [Playlist: K.07 Exit Ticket | Code: KY3Z2][exit]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Bug** - An error in code.
@@ -107,4 +106,3 @@ In lesson 7 students are introduced to the concept of debugging. Students use th
 [slides]: https://drive.google.com/open?id=1FCEnq0twinc7a30fRQPYCOOzMa9k9AXN_uJkPSGSuq0
 [practice]:http://www.pixelbots.io/7O6O6
 [extension]:  http://www.pixelbots.io/QK96M
-[exit]:http://www.pixelbots.io/KY3Z2

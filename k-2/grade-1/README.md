@@ -31,5 +31,5 @@ Students will understand that...
 
 | Title             | Description        | Objectives |Practice|
 | ------------------|--------------------| -----------|--------|
-| [Lesson 01: Move Forward & Turn](../first-grade/lesson-plans/lesson-1/lesson.html)| In lesson 1 students learn to sequence with a more limited set of commands. Students transition from coding with directional moves to coding with turns and forward moves.| I can write a PixelBot program with turns and forward moves. |Write |
+| [Lesson 01: Move Forward & Turn](../grade-1/lesson-plans/lesson-1/lesson.html)| In lesson 1 students learn to sequence with a more limited set of commands. Students transition from coding with directional moves to coding with turns and forward moves.| I can write a PixelBot program with turns and forward moves. |Write |
 | Lesson 02: Multiple Solutions | In lesson 2 students learn to write multiple solutions to solve a challenge. | I can write more than one solution to solve a challenge. | Write |
