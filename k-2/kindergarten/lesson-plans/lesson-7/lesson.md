@@ -8,13 +8,12 @@ In lesson 7 students are introduced to the concept of debugging. Students use th
 
 - I can find and remove a bug in a 2-5 line sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: What is a Bug? (5 min)
-1. Explore: Debugging (5 min)
-1. Explain: Debugging Protocol (5 min)
-1. Elaborate: PixelBots Practice (10 min)
-1. Evaluate: Exit Ticket (5 min)
+1. Explore: Try It Out (2 min)
+1. Explain: Debugging (8 min)
+1. Elaborate/Evaluate: PixelBots Practice (15 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -59,7 +58,7 @@ In lesson 7 students are introduced to the concept of debugging. Students use th
 - [ ] **Explain** the importance of debugging.
 >> "Bugs happen all of the time when we code. Even the best coders in the world have bugs in their code. That means that to become good coders we have to be good at debugging. The most important thing to remember when we debug is not to give up just like the computer scientists didn't give up in the story."
 
-## 2. Explore: Debugging (5 min)
+## 2. Explore: Try It Out (2 min)
 **Location:** Desks
 - [ ] **Introduce** students to the first debugging challenge in the playlist.
 >>"In our first challenge today our PixelBot is supposed to paint the square above it. This challenge already has code. When I run the code it paints the wrong square. That means it has a bug in it.
@@ -90,7 +89,7 @@ In lesson 7 students are introduced to the concept of debugging. Students use th
 - [ ] **Model** debugging challenge 2 in the playlist by using the stepper tool to find the extra line of code.
 >>"This code is supposed to make the PixelBot paint 1 square to the right. When I run the code the PixelBot paints a square above the one it is supposed to paint. I can reset my PixelBot and use the yellow stepper button to step through my code one line at a time. It looks like each step works but there is an extra up block that we do not need before the paint block. If I delete that line and run the code the PixelBot paints the correct block."
 
-## 4. Elaborate/Evaluate: PixelBot Playlist (12 min)
+## 4. Elaborate/Evaluate: PixelBot Playlist (15 min)
 **Location:** Desks
 - [ ] **Challenge** the class to debug the code in the playlist by removing only the extra lines of code.
 >>"Your challenge is to debug the code in each challenge by only deleting the line of code that is not needed. You should not delete all of the code and start over again."

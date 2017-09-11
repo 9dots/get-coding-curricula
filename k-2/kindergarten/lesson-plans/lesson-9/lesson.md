@@ -1,35 +1,34 @@
-<header class='header' title='Bug Catchers' subtitle='Lesson 09'/>
+<header class='header' title='Code-A-Thon' subtitle='Lesson 09'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 9 students apply the debugging protocol to increasingly complex sequences similar to the ones seen in lessons 7 and 8.
+In lesson 9 students tackle increasingly complex coding challenges that require writing longer solutions.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-I can debug a 2-10 block sequence with more than one directional move.
+- I can write a 6-10 line sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Debugging Analogy (3 min)
-1. Explore: Bug Catching (6 min)
-1. Explain: Debug the Bot (8 min)
-1. Elaborate: Independent Coding (10 min)
-1. Evaluate: Exit Ticket (3 min)
+1. Engage: Choose a Path (10 min)
+1. Explore: Code It (2 min)
+1. Explain: Share Your Code (8 min)
+1. Elaborate/Evaluate: PixelBot Practice (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Pixel Bot Token][token]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Lesson 9 Playlist][playlist]
+- [ ] [Playlist: K.09 Practice | Code: 8QQJY][playlist]
+- [ ] [Playlist: K.09 Bonus | Code: 45BNQ][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Bug** - An error in code.
-- **Debugging** - Finding and fixing errors in code.
+- **Code:** A set of instructions designed to be carried out by a computer.
+- **Sequence:** A set of actions that must be performed in the order they are written.
 
 </note>
 
@@ -49,127 +48,58 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## 1. Engage: Debugging Analogies (3 min)
-- [ ] **Analogy:** Introduce the broken car and debugging scenarios. (1 min)
+## 1. Engage: Choose a Path (10 min)
+- [ ] **Introduce** challenge number one.
+>>"Alright coders, today we are going to continue practicing our coding skills by solving some challenges. Our first challenge of the day is on the board. Take the next 20 seconds to do your best to observe the grid, PixelBot and code."
 
-“I’m going to share two quick stories with you. Your job is to try to find out how they are similar.”
+- [ ] **Unpack** the challenge as a class.
 
-- [ ] **Read** slide two to the class.
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the squares?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>What else do you notice?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
 
-- [ ] **Discuss** how fixing a broken car is analogous to debugging code. (2 min)
+<note type='tip'>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make the types of relevant observations they should make every time they approach a challenge. By the end of this activity students should be aware of the:
+  - goal of the challenge
+  - position of the PixelBot
+  - orientation of the PixelBot
+  - code blocks available to complete the challenge</note>
 
-<iconp type='question'>What did the man notice about his car? What did the woman notice about her code?</iconp>
-<iconp type='question'>What did the man and woman do after noticing there was a problem?
-</iconp>
-<iconp type='question'>When the man and woman thought they knew what was wrong, they each tried to do something to fix the problem. How did they each test if their solution was correct?</iconp>
-<iconp type='question'>How is fixing a car similar to debugging code?</iconp>
+- [ ] **Plan** a route that the PixelBot will take to complete the challenge as a class. Using a marker have the class help you trace out a path on the slide.
 
-![slide](./images/slide-two.png)
+## 2. Explore: Code It (2 min)
+- [ ] **Challenge** the class to code their PixelBot to follow the path that the class decided on.
 
-## 2. Explore: Bug Catchers (6 min)
+- [ ] **Independent Exploration:** Have students attempt to code the solution.
 
-- [ ] **Review** the debugging protocol with the class using problem number one in the Pixel Bot playlist. (4 min)
+- [ ] **Monitor** the class to find a student that can be called on to share their strategies in the next activity. Once a student has been identified let them know that they will share with the class.
 
-- *Compare* the code's objective to what it actually does.
+## 3. Explain: Share Your Code (8 min)
+- [ ] **Think, Pair, Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
 
-“The code is supposed to make the bot move one space to the right and paint the square. The bot should then move down one space, move one space to the left, and paint the square.”
+<iconp type='question'>What was hard about coding your solution?</iconp>
 
+- [ ] **Code Share:** Invite a student to share their code with the class.
 
-- [ ] Click run to show class what the code currently does.
+- [ ] **Explain** how to plan a path before starting to code a solution using challenge two in the playlist. Students should be made aware that there are multiple ways to solve a challenge that are all valid.
+>>"Take a look at our next challenge. There are many ways to solve this challenge. I can..."
 
-<iconp type='question'>Does the code do what we want it to do?</iconp>
-<iconp type='question'>What does it do incorrectly?</iconp>
+## 4. Elaborate/Evaluate: PixelBot Practice (10 min)
 
+- [ ] **Challenge** the class to code solutions for the all of the challenges in the playlist.
+>>"Alright coders, now it's your turn to solve some challenges. Your goal is to find a path for your PixelBot and code a solution in each challenge. Let's begin!"
 
-- *Find* the bug(s).
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
-“Let’s step through the code to find what went wrong. Raise your hand when you notice a mistake and be ready to share out what you think the mistake is.”
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-- Using the Pixel Bot token, step through the code one block at a time.
-- Call on a student to share out the mistake he/she noticed.
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-
-- *Fix* the code.
-
-<iconp type='question'>What should we change in the code?</iconp>
-
-- Make the necessary changes and run the code.
-
-<iconp type='question'>Did the changes fix the problem?
-</iconp>
-
-- [ ] **Independent Exploration:** Students attempt to find and repair the bugs in a program. (2 min)
-
-- Have students attempt to use the debugging protocol to fix the second problem in the Pixel Bot playlist.
-
-## 3. Explain: Debug the Bot (8 min)
-
--  [ ] **Share Out:** Students share the bug they found in the code and how they tried to fix it. (2 min)
-
--  [ ] **Model** using the debugging protocol to fix the code in the independent exploration activity. (2 min)
-
-- *Compare* the code’s objective to what it actually does.
-
-“The code is supposed to move the bot one space to the right and paint the square. The bot should then move down one space, left one space, and paint the square.”
-
-- *Find* the bug(s).
-
-
-- Step through the code and have students raise their hands when they notice the program do something unexpected.
-
-- *Fix* the code.
-
-<iconp type='question'>The code doesn’t direct our bot to color the first square it moves to. What should we change so that it paints the square?</iconp>
-<iconp type='answer'>We should add a paint block after line 1.</iconp>
-
-- Make the necessary change and run the code.
-
-- [ ] **Code Along:** Perform a code along with the class using problem number 3 in the lesson 9 playlist. (4 min)
-
-- *Compare* the code’s objective to what it actually does.
-
-“The code is supposed to move the bot one space to the left and paint a square 3 times. Then it should move down one space and paint the final square.”
-
-- Have students run the code.
-
-<iconp type='question'>What does the code make the bot do?</iconp>
-
-- *Find* the bug(s).
-
-“The bot moves up instead of down.”
-
-<iconp type='question'>Which line of code makes the bot move in the wrong direction?</iconp>
-
-- *Fix* the code.
-
-“The code directs the bot to move up instead of down at line 9. Let’s delete the up arrow block from that line.”
-
-- Delete the incorrect block.
-
-<iconp type='question'>What should we replace this line with?</iconp>
-
-- Try out the ideas students share and have students do the same.
-- Continue until the class comes up with a solution.
-
-![problem](./images/L10.03 Explain.png)
-
-## 4. Elaborate: Independent Coding (8 min)
-
-- [ ] **Independent Coding:** Have students practice using the debugging protocol on the lesson 9 playlist and monitor the class for students in need of additional assistance. (7 min)
-
-- [ ] **Review** problem number 9 using the debugging protocol. (3 min)
-
-1. *Compare* the code’s objective to what it actually does.
-2. *Find* the bug(s).
-3. *Fix* the code.
-
-## 5. Evaluate: Exit Ticket (3 min)
-
-- [ ] **Assess:** Have students complete the exit ticket problem in the playlist. (2 min)
-
-- [ ] **Debrief:** Review the answer to the exit ticket problem. (1 min)
 </notable>
 
-[token]: https://drive.google.com/open?id=0B48_2vIyABiocXFmZ0pDdjczaUE
-[slides]: https://docs.google.com/presentation/d/1eOMB0H9RWLkP3c9yzgT251OvLwqoauNgk93UhlAHr8c/edit
-[playlist]: http://www.pixelbots.io/VP632
+[slides]:
+[playlist]: http://www.pixelbots.io/8QQJY
+[extension]: http://www.pixelbots.io/45BNQ

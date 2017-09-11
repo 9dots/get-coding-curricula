@@ -8,7 +8,7 @@ In lesson 6 students continue writing code. The complexity of the challenges is 
 
 - I can write a 2-5 line sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Code a Friend (5 min)
 1. Explore: Challenge (3 min)

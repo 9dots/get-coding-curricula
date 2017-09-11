@@ -1,4 +1,4 @@
-<header class='header' title='Decomposition II' subtitle='Lesson 14'/>
+<header class='header' title='Independent Coding Challenge' subtitle='Lesson 14'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>

@@ -10,7 +10,7 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 
 - I can use more than one command to move my pixelBot.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Review (3 min)
 1. Explore: Turtle Chase Video Game (8 min)

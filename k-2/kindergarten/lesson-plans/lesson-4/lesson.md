@@ -7,7 +7,7 @@ In lesson 4 students practice reading code by stepping one line at a time in an 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through a 2-5 line sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Review (3 min)
 1. Explore: Sequences (4 min)

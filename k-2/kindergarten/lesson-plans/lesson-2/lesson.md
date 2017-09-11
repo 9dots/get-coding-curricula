@@ -7,7 +7,7 @@ In lesson 2 students develop a set of commands to communicate with their pixelBo
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can develop and use a set of commands to direct my pixelBot’s movements.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Toothbrushing (5 min)
 1. Explore: Navigation (7 min)

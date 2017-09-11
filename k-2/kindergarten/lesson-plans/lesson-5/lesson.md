@@ -8,7 +8,7 @@ In lesson 5 students begin writing code on the the PixelBot platform.
 
  - I can control the actions of my PixelBot with code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 
 1. Engage: PixelBot Predictions (5 min)

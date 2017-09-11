@@ -10,10 +10,9 @@ In lesson 8 students continue debugging by identifying locations where code is m
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 1. Engage: Observations (10 min)
-1. Explore: Debug the Code (2 min)
-1. Explain: Invisible Bugs (5 min)
-1. Elaborate: PixelBot Practice (10 min)
-1. Evaluate: Debrief (3 min)
+1. Explore: Try It Out (2 min)
+1. Explain: Invisible Bugs (8 min)
+1. Elaborate/Evaluate: PixelBot Practice (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -24,8 +23,8 @@ In lesson 8 students continue debugging by identifying locations where code is m
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: K.08 Practice | Code: ][playlist]
-- [ ] [Playlist: K.08 Bonus | Code: ][extension]
+- [ ] [Playlist: K.08 Practice | Code: D936H][playlist]
+- [ ] [Playlist: K.08 Bonus | Code: 4J3K9][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Bug** - A mistake in code.
@@ -64,9 +63,10 @@ In lesson 8 students continue debugging by identifying locations where code is m
 - [ ] **Unpack** the challenge as a class by having students share out their observations about the goal and starting conditions of the grid.
 >> "Take a moment to observe the PixelBot, grid and code."
 
-<iconp type='question'>How many squares does the PixelBot have to paint?</iconp>
-<iconp type='question'>Which square on the grid needs to be painted?</iconp>
-<iconp type='question'>Which square is the PixelBot standing on?</iconp>
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>How many squares does the PixelBot have to paint?</iconp>
+  <iconp type='question'>Which square on the grid needs to be painted?</iconp>
+  <iconp type='question'>Which square is the PixelBot standing on?</iconp>
 
 - [ ] **Execute** the code by clicking the run button and have students observe the PixelBot's actions.
 >>"I am going to run the code. When I click run I want you to do your best to observe what the PixelBot does. I am going to ask a few coders to share out what they saw."
@@ -77,7 +77,7 @@ In lesson 8 students continue debugging by identifying locations where code is m
 <iconp type='question'>Did the PixelBot paint the correct square?</iconp>
 <iconp type='question'>Does this code contain a bug? How do you know?</iconp>
 
-## 2. Explore: Debug the Code (2 min)
+## 2. Explore: Try It Out (2 min)
 **Location:** Desks
 
 - [ ] **Explain** that the goal of the challenge is to fix the bug without deleting the whole sequence and starting from the beginning.
@@ -95,13 +95,13 @@ In lesson 8 students continue debugging by identifying locations where code is m
 <iconp type='question'>Why did you try that?</iconp>
 
 - [ ] **Explain** that missing lines of code are bugs.
->>"In this challenge the bug was that a line of code was missing. The PixelBot was supposed to move up 3 times and paint, but it only moved up 2 times. To fix it we simply had to add another up block before the paint block at the end. Missing lines of code are a common bug we will find in our PixelBot code."
+>>"In this challenge the bug was that a line of code was missing. The PixelBot was supposed to move up 2 times and paint, but it moved up 2 times and didn't paint the square. To fix it we had to add another paint block at the end. Missing lines of code are a common bug we will find in our PixelBot code."
 
 - [ ] **Introduce** the PixelBot Playlist.
 >>"In today's challenges we are going to debug by adding code that is missing. Just like you did in this first challenge."
 
 - [ ] **Model** debugging challenge 2 in the playlist by using the stepper tool to find the spot where code is missing.
->>"This code is supposed to make the PixelBot paint a square 3 spaces to the right. When I run the code the PixelBot paints a square 2 spaces to the right. I can reset my PixelBot and use the yellow stepper button to step through my code one line at a time. It looks like each step works but there is a missing step to the right before the square it needs to paint. I can add a line of code by putting my cursor before the paint block and adding a right move."
+>>"This code is supposed to make the PixelBot paint a square 2 spaces to the right. When I run the code the PixelBot moves 2 spaces to the right but it does not paint. I can reset my PixelBot and use the yellow stepper button to step through my code one line at a time. It looks like each step works but there is a missing paint block at the end. To fix it I put my cursor at the end and add the paint block."
 
 ## 4. Elaborate/Evaluate: PixelBot Playlist (10 min)
 **Location:** Desks
@@ -117,3 +117,5 @@ In lesson 8 students continue debugging by identifying locations where code is m
 </notable>
 
 [slides]: https://drive.google.com/open?id=1IwVOHMYVf70ufkcV6VDYb_3zTMmmD_tub-2dxD98avY
+[playlist]: http://www.pixelbots.io/D936H
+[extension]: http://www.pixelbots.io/4J3K9
