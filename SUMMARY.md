@@ -57,6 +57,7 @@
       * [Lesson 27: Arcade](3-5/grade-3/lesson-plans/lesson-27/lesson.md)
   * [4th Grade](3-5/grade-4/README.md)
       * [Lesson 01: Writing Sequences](3-5/grade-4/lesson-plans/lesson-1/lesson.md)
+      * [Lesson 02: Reading Sequences](3-5/grade-4/lesson-plans/lesson-2/lesson.md)
 * [Archived](archived/README.md)
   * [2016-2017 3rd Grade](archived/grade-3-archived/README.md)
       * [Lesson 1: I am a Coder](archived/grade-3-archived/lesson-plans/lesson-1.md)
