@@ -8,7 +8,7 @@ In lesson 10 students solidify their understanding of debugging code by reviewin
 I can debug a 2-10 block sequence with more than one directional move.
 
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Paper Block Coding (5 min)
 1. Explore: Paper Block Debugging (3 min)

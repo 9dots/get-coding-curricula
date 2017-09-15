@@ -19,7 +19,6 @@ Where the last lesson gave students a new method for navigating the grid, Lesson
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Large PixelBot L/R Token][large]
 - [ ] [Code Along Video][video]
 - [ ] [Slide Show][slides]
 
@@ -27,10 +26,8 @@ Where the last lesson gave students a new method for navigating the grid, Lesson
 - [ ] Computers
 - [ ] Colored Pencils (3 different colors per student)
 - [ ] [Worksheet: Grid Challenge (1 per student)][worksheet]
-- [ ] [PixelBot Left/Right Tokens (1 per student)][tokens]
 - [ ] [Playlist: 1.02 Practice | Code: Z86ZH][practice]
 - [ ] [Playlist: 1.02 Bonus | Code: Z4Y87][extension]
-- [ ] [Playlist: 1.02 Exit Ticket | Code: OXNPC][exit]
 
 </note>
 
@@ -38,6 +35,7 @@ Where the last lesson gave students a new method for navigating the grid, Lesson
 ![room](/images/layout-grid.png)
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Code:** A set of instructions designed to be carried out by a computer.
 </note>
 
 <pagebreak/>

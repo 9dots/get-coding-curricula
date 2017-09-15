@@ -7,7 +7,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can decompose an object.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Intro to Decomposition (8 min)
 1. Explore: Decomposing T's (2 min)

@@ -7,7 +7,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can loop a sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Jumping Robot (5 min)
 1. Explore: Find the Pattern (10 min)

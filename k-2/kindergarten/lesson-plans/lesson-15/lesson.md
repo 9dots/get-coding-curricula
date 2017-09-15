@@ -1,4 +1,4 @@
-<header class='header' title='Identifying Patterns' subtitle='Lesson 15'/>
+<header class='header' title='Patterns' subtitle='Lesson 15'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,7 +9,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 - I can complete a pattern.
 - I can identify the core of a pattern.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Pat-terns (2 min)
 1. Explore: What are Patterns? (5 min)

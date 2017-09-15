@@ -7,7 +7,7 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can code a decomposed image.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Decomposition Review (5 min)
 1. Explain: Decompose to Code (10 min)

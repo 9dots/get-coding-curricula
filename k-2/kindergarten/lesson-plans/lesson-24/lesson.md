@@ -8,7 +8,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can summarize a chunk of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Story Time (5 min)
 1. Explore: Step and Paint Summaries (3 min)

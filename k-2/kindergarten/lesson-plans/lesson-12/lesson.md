@@ -8,7 +8,7 @@ In lesson 12 students practice debugging code by adding missing lines of code.
 
 - I can add a missing line of code to fix a 6-10 line sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Unpacking (10 min)
 1. Explore: Debug the Code (2 min)

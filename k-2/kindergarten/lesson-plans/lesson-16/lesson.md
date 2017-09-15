@@ -7,7 +7,7 @@ In lesson 16  students learn to identify the number of times the core repeats wi
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can decompose a pattern to identify the number of times its core repeats.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Patterns Review (6 min)
 1. Explore: Decomposing Patterns (4 min)

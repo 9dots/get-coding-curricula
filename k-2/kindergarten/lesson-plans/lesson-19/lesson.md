@@ -7,7 +7,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through a loop.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
 1. Engage: Writing Review (3 min)
 1. Explore: Loops (7 min)

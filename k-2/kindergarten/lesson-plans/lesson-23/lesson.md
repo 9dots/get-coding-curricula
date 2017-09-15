@@ -7,7 +7,7 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can summarize my code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 1. Engage: Story Time (5 min)
 1. Explore: Pixel Bot Summary (2 min)
 1. Explain: Summaries (8 min)
