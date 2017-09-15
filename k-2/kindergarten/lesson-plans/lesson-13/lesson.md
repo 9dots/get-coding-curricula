@@ -9,10 +9,8 @@ In lesson 13 students review in preparation for Independent Coding Challenge I.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: 
-1. Explore:
-1. Explain:
-1. Elaborate/Evaluate:
+1. Engage: I Have a Challenge for You (4 min)
+1. Elaborate/Evaluate: Practice ICC (26 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -23,13 +21,15 @@ In lesson 13 students review in preparation for Independent Coding Challenge I.
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: 1.13 Practice | Code: ][playlist]
-- [ ] [Playlist: 1.13 Bonus | Code: ][bonus]
+- [ ] Playlist: 1.13 Practice | Code:
+- [ ] Playlist: 1.13 Bonus | Code: 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
+- **Code:** A set of instructions designed to be carried out by a computer.
+- **Sequence:** A set of actions that must be performed in the order they are written.
+- **Bug:** An error in code.
+- **Debugging:** Finding and fixing errors in code
 </note>
-
 <pagebreak/>
 
 ## Room Design
@@ -46,16 +46,19 @@ In lesson 13 students review in preparation for Independent Coding Challenge I.
 
 <pagebreak/>
 
-## 1. Engage: ( min)
+## 1. Engage: I Have a Challenge for You (4 min)
+-  [ ] **Call and Response:** Teach students the call and response. Teacher says: “I have a challenge for you.” Students say: “Bring it, bring it.”
+>>“Before we get started I’m going to teach you a call and response. Whenever you hear me say ‘I have a challenge for you’, you will respond ‘Bring it, bring it’. Let’s try it. ‘I have a challenge for you’ … (students respond ‘Bring it, bring it.’)”
 
-## 2. Explore: ( min)
+- [ ] **Motivate:** introduce our challenges for today.
+>>“You have learned so much as coders since we started our coding lessons. Today you get a chance to apply all of your coding skills to tackle a series of challenges."
 
-## 3. Explain: ( min)
+## 2. Elaborate/Evaluate: Practice ICC (26 min)
+- [ ] **Practice:** Have students take the practice Independent Coding Challenge.
 
-## 4. Elaborate/Evaluate: ( min)
+- [ ] **Monitor** the class for students in need of additional assistance.
 
+- [ ] **Small Group Practice:** If necessary pull a small group of students to work with you on the practice ICC.
+
+- [ ] **Extension:** Have students who finish early work on the bonus playlist.
 </notable>
-
-[slides]:
-[playlist]:
-[bonus]:

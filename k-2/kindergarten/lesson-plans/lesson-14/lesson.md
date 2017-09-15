@@ -2,15 +2,15 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 14 students take the Independent Coding Challenge I.
+In lesson 14 students take the Independent Coding Challenge.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - All objectives from lessons 1-12.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Motivate ( min)
-1. Evaluate: ICC I ( min)
+1. Engage: I Have a Challenge for You (2 min)
+1. Evaluate: ICC I (28 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -21,12 +21,13 @@ In lesson 14 students take the Independent Coding Challenge I.
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: Independent Coding Challenge I | Code: ][icc]
+- [ ] Playlist: Independent Coding Challenge I | Code:
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
-</note>
-
+- **Code:** A set of instructions designed to be carried out by a computer.</note>
+- **Sequence:** A set of actions that must be performed in the order they are written.
+- **Bug:** An error in code.
+- **Debugging:** Finding and fixing errors in code
 <pagebreak/>
 
 ## Room Design
@@ -43,11 +44,17 @@ In lesson 14 students take the Independent Coding Challenge I.
 
 <pagebreak/>
 
-## 1. Engage: Motivate ( min)
+## 1. Engage: I Have a Challenge for You (2 min)
+- [ ] **Call and Response:** Have students do the "I Have a Challenge for You" call and response from the review lesson.
 
-## 2. Evaluate: ICC I ( min)
+- [ ] **Challenge** the class to do their best during the Independent Coding Challenge.
+"Coders, today we get to use our new coding skills during the Independent Coding Challenge! Let's do our best to show off everything we learned during our first 13 lessons. Let's get coding!"
+
+## 2. Evaluate: ICC I (28 min)
+- [ ] **Assess:** Have students take the Independent Coding Challenge.
+
+- [ ] **Monitor** the class for students with clarifying questions.
+
+- [ ] **Extension:** Have students who finish early work on the bonus playlist.
 
 </notable>
-
-[slides]:
-[icc]:
