@@ -25,6 +25,7 @@
   * [1st Grade](k-2/grade-1/README.md)
     * [Lesson 01: Move Forward & Turn](k-2/grade-1/lesson-plans/lesson-1/lesson.md)
     * [Lesson 02: Multiple Solutions](k-2/grade-1/lesson-plans/lesson-2/lesson.md)
+    * [Lesson 03: Step It Up](k-2/grade-1/lesson-plans/lesson-3/lesson.md)
 * [Grades 3-5](3-5/README.md)
   * [3rd Grade](3-5/grade-3/README.md)
       * [Lesson 00: Digital Literacy](3-5/grade-3/lesson-plans/lesson-00/lesson.md)

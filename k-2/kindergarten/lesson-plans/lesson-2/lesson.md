@@ -5,10 +5,9 @@
 In lesson 2 students develop a set of commands to communicate with their PixelBot. The commands are then used to code solutions for a series of navigation challenges that require a single line of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can develop and use a set of commands to direct my PixelBot’s movements.
+- I can use a command to direct my PixelBot’s movements.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
-
 1. Engage: Toothbrushing (5 min)
 1. Explore: Navigation (8 min)
 1. Explain: pixelBotGo (5 min)
@@ -28,7 +27,7 @@ In lesson 2 students develop a set of commands to communicate with their PixelBo
 
 ###### Student Materials:
 - [ ] [Game Controllers][paper-controllers]
-- [ ] [Navigation Cards][direction-cards]
+- [ ] [Navigation Cards (Double Sided)][direction-cards]
 - [ ] [Navigation Worksheet][worksheet]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -124,8 +123,11 @@ In lesson 2 students develop a set of commands to communicate with their PixelBo
 
 - [ ] **Monitor** the class for students in need of additional assistance.
 
-- [ ] **Review** 2-3 challenges from the navigation worksheet with the class.
+- [ ] **Review** challenges 3 and 4 from the navigation worksheet with the class.
 ![room](./images/worksheet.png)
+
+<note type='tip'>Collect worksheets and grade challenges 5-7 to check for understanding.</note>
+
 
 ## 5. Evaluate: Debrief (5 min)
 **Location:** Desks
