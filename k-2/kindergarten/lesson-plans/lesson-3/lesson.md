@@ -30,9 +30,9 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 
 ###### Student Materials:
 
-- [ ] [Game Controllers][controller]
-- [ ] [Navigation Worksheet][worksheet]
-- [ ] [Exit Tickets][exit-ticket]
+- [ ] [Game Controllers (1 per student)][controller]
+- [ ] [Navigation Worksheet (1 per student)][worksheet]
+- [ ] [Exit Tickets (1/2 sheet per student)][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 

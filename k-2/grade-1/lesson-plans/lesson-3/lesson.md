@@ -19,10 +19,14 @@ Lesson 3 builds on lesson two by introducing the skill of reading code with navi
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
+- [ ] [Code Along Video][video]
+- [ ] [Large PixelBot L/R Token Magnet][large]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
+- [ ] [PixelBot L/R Token (1 per student)][token]
+- [ ] [Worksheet: Treasure Map (1 per student)][worksheet]
 - [ ] [Playlist: 1.03 Practice | Code: NMQ5X][practice]
 - [ ] [Playlist: 1.03 Bonus | Code: 54Q3P][extension]
 </note>
@@ -88,6 +92,10 @@ Lesson 3 builds on lesson two by introducing the skill of reading code with navi
 
 </notable>
 
+[video]: https://vimeo.com/234701592
+[large]: https://drive.google.com/open?id=1Hg-lNz9Vy5af6qyXeXBa4qykGP6WK3fOeFLBYNImRl0
 [slides]: https://drive.google.com/open?id=1eCarOgWoCSeZjmsYR3661XJfu56UQYYHq1tHMKdxCiM
+[token]: https://drive.google.com/open?id=1E0kqihIfiAbHrQLFTbQjNC5wxrP_DdGYuptqznrnjqA
+[worksheet]: https://drive.google.com/open?id=1-p2eqj4ZC7Z4q__IoMOG-ovtwWKM5M-fPUP-Ly7eaAI
 [practice]:http://www.pixelbots.io/NMQ5X
 [extension]: http://www.pixelbots.io/54Q3P

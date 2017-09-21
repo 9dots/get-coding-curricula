@@ -23,7 +23,8 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 - [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slides]
-- [ ] [Rover Code Blocks][commands]
+- [ ] [Large Rover][rover]
+- [ ] [Rover Code Blocks Magnets (2 sets)][commands]
 - [ ] [Playlist: Flower Demo | Code: XPMEP][flower]
 
 ###### Student Materials:
@@ -122,6 +123,7 @@ Younger students with no prior experience on computers may take longer getting s
 
 </notable>
 
+[rover]: https://drive.google.com/open?id=0B48_2vIyABioRExsb0JxVlktTkk
 [slides]: https://docs.google.com/presentation/d/1Nm1y7M6kpWZH8N49aUBgDF_4A7Vmc4Y2XefO9IbonPs/edit?usp=sharing
 [commands]: https://drive.google.com/open?id=0B48_2vIyABioU0FyTTNsR29WNUE
 [flower]: http://pixelbots.io/XPMEP
