@@ -22,6 +22,7 @@ Students are introduced to writing code in the pixelBot editor. Students explore
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
+- [ ] Floor Grid
 - [ ] [Slide Show][slides]
 - [ ] [Large Rover][rover]
 - [ ] [Rover Code Blocks Magnets (2 sets)][commands]

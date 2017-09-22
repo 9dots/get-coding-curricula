@@ -7,16 +7,15 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-
 - I can use more than one command to move my pixelBot.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Review (3 min)
-1. Explore: Turtle Chase Video Game (8 min)
-1. Explain: Multiple Commands (6 min)
-1. Elaborate: turtleMove II (9 min)
-1. Evaluate: Exit Ticket (4 min)
+1. Engage: Review (5 min)
+1. Explore: Turtle Chase Video Game (7 min)
+1. Explain: Multiple Commands (5 min)
+1. Elaborate: turtleMove II (10 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -35,9 +34,7 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 - [ ] [Exit Tickets (1/2 sheet per student)][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
 - **Code:** A set of instructions designed to be carried out by a computer.
-
 </note>
 
 <pagebreak/>
@@ -56,58 +53,53 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 
 <pagebreak/>
 
+## 1. Engage: Review (5 min)
+**Location:** Rug
 
-## 1. Engage: Review (3 min)
-- [ ] **Review** the previous lesson by standing on a square on the floor grid and placing the paper star in an adjacent square. Using the paper game controller have students press and hold the button they would use to direct you to the star.
+- [ ] **Review** using arrow commands by standing on a square on the floor grid and placing the paper star in an adjacent square.
 
+- [ ] **Share Out:** Have students share their responses to the question below.
 <iconp type='question'>Which button would you press to direct me to the star?</iconp>
 
-- [ ] **Share Out:** Students share their responses with the class.
+## 2. Explore: Turtle Chase Game (7 min)
+**Location:** Rug
 
-- [ ] **Review** the previous lesson by continuing to move the paper star to adjacent squares and having students share the arrow button they would use to direct you to the star.
+**How to Play:**
+- Divide the class into two teams, team turtle and team rabbit.
+- Select two volunteers to play the role of the turtle and the rabbit in the game.
+- Have the turtle and the rabbit stand on opposite corners of the floor grid.
+- The goal of the game is for the turtle to "catch" the rabbit by standing in the same square with the rabbit.
+- Players from each team take turns directing their character on the grid by sharing out the control they want to press. The character then moves in the direction that matches the button selected.
+- Teams continue taking turns until the turtle catches the rabbit.
 
-## 2. Explore: Turtle Chase  Game (8 min)
 - [ ] **Introduce** the turtle chase game.
->> “In our first activity we are going to play a video game using our game controllers. In this video game instead of controller characters on a computer screen we are going to control some of our characters on the floor grid.”
+>> “We are going to play a video game using our game controllers. In this game instead of controlling characters on a computer screen we are going to control characters on the floor grid.”
 
 <note>![controller](./images/game-controller.png)</note>
 
 - [ ] **Explain** how to play the turtle chase video game, choose two volunteers to play, and divide the class into two teams, team turtle and team rabbit.
->> “In this game we will have two volunteers play different characters, one will be a turtle and the other will be a rabbit. The goal of the game is for the turtle to catch the rabbit by standing in the same square with it. We will have two teams in charge of controlling the characters on the grid. Team Rabbit will try to make the rabbit get away from the turtle by directing it with their controllers. When it is the rabbit’s turn to move you will press the button you would like to use to move the rabbit. Then I will choose someone who is raising their hand to share out the button they chose and the rabbit will move in that direction. Team turtle will then do the same to try to catch the rabbit.  We will keep taking turns to see if the turtle can catch the rabbit.”
+>> “We will have two volunteers pretend to be a turtle and a rabbit. The goal of the game is for the turtle to catch the rabbit by standing in the same square with it. Those of us that are not on the grid will get to control the players on the grid using the arrow buttons we used last class. Half of the class will control the rabbit with their controller. The other half of the class will control the turtle.”
 
 - [ ] **Play** the turtle chase video game as a class.
 
-## 3. Explain: Multiple Commands (6 min.)
+## 3. Explain: Multiple Commands (5 min)
+**Location:** Desks
+
 - [ ] **Show** the first multiple commands challenge in the slide show.
 
-![room](./images/challenge.png)
+- [ ] **Model** solving a multiple commands challenge.
+>> “In this challenge my turtle needs to move to the star. I'm going to circle the green arrow that is pointing down because my turtle needs to move down to get to the star. If I press the down arrow button once my turtle will only move once. My turtle needs to move more than one time, so I should count the number of times my turtle needs to move. 1, 2, 3. It looks like my turtle should move down 3 times, so I will write a 3 in the space below.”
 
-- [ ] **Turn and Talk:** Students discuss how the multiple commands challenge is different from the challenges that were solved in the previous lesson.
-
-<iconp type='question'>What do you notice that is different between this challenge and the challenges that we solved in our last lesson?</iconp>
-
-- [ ] **Share Out:** Students share their responses to the turn and talk question with the class.
-
-- [ ] **Model** solving the multiple commands challenge.
->> “In this challenge I want to give my turtle instructions to get to the star on the right. The arrow that I need to get my turtle there is the yellow arrow because it makes my turtle move to the right. Next I have to figure out how many times I have to tell my turtle to move to the right by checking the number of times I have to press the button. If I press it once it makes it move one square to the right. If I press it a second time it will move one step closer. But it is still not there. If I press it a third time the turtle will make it to the star. That means I have to tell the turtle to move to the right 3 times. I will show that by writing a 3 in the square below the buttons.”
-
-- [ ] **Guided Practice:** Have students work as a class to solve the next multiple commands challenge.
->> “Let’s look at the next challenge.”
-
-<iconp type='question'>Which direction does the turtle have to move to get closer to the star?</iconp>
-
-<iconp type='question'>Which arrow should I press to make it move in that direction?</iconp>
-<iconp type='question'>How many times would I have to push that button to make my turtle get to the star?</iconp>
-
+<note>![challenge](./images/challenge.png)</note>
 
 - [ ] **Guided Practice:** Pass out the navigation worksheet and complete the first challenge as a class.
->> “Let’s look at the next challenge.”
 
-<iconp type='question'>Which direction does the turtle have to move to get closer to the star?</iconp>
-<iconp type='question'>Which arrow should I press to make it move in that direction?</iconp>
-<iconp type='question'>How many times would I have to push that button to make my turtle get to the star?</iconp>
+<iconp type='question'>Which arrow should we press to move the turtle to the star?</iconp>
+<iconp type='question'>How many times should we press the button to get the turtle to the star?</iconp>
 
-## 4. Elaborate: turtleMove II (9 min)
+## 4. Elaborate: turtleMove II (10 min)
+**Location:** Desks
+
 - [ ] **Independent Practice:** Students complete the navigation worksheet independently.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
@@ -115,15 +107,11 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 - [ ] **Review** 2-3 challenges from the navigation worksheet with the class.
 
 ## 5. Exit Ticket (3 min)
-- [ ] **Exit Ticket:** Students complete the exit ticket independently.
+**Location:** Desks
+
+- [ ] **Exit Ticket:** Have students complete the exit ticket independently.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
-
-- [ ] **Debrief** the lesson as a class.
-
-<iconp type='question'>What was different about the way we solved our practice challenges in this lesson compared to our last lesson?</iconp>
-<iconp type='question'>Why do you think it is useful to be able to give your turtle more than one instruction?</iconp>
-
 </notable>
 
 [star]: https://drive.google.com/open?id=0B48_2vIyABioYThreXZIU3d5ckU
