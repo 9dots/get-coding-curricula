@@ -1,41 +1,42 @@
-<header class='header' title='Decomposition II' subtitle='Lesson 14'/>
+<header class='header' title='Loops II' subtitle='Lesson 22'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 13 students learned how to decompose grid images into their simpler elements, lines and dots. Lesson 14 builds on this skill by teaching students its usefulness in coding increasingly complex images. Students use their decompositions from lesson 13 to code images of the letters they originally composed.
+In lesson 22 students learn how to read loops and practice stepping through them.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can code a decomposed image.
+- I can step through a loop of code.
+
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Decomposition Review (5 min)
-1. Explain: Decompose to Code (10 min)
-1. Elaborate: Independent Practice (15 min)
+1. Engage: Observe & Predict (5 min)
+1. Explore: Try It Out (2 min)
+1. Explain: Reading Challenge (5 min)
+1. Elaborate/Evaluate: PixelBot Practice (18 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [The Letter L Playlist][letter]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Computers
-- [ ] [Decomposed Letters Sheet][sheets]
-- [ ] [Decomposition Playlist II][playlist]
+- Computers
+- [ ] [Playlist: K.22 Practice | Code: ][playlist]
+- [ ] [Playlist: K.22 Bonus | Code: ][extension]
+
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Decompose** - To break something apart into smaller pieces.
-
+- **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 </note>
 
 <pagebreak/>
 
 ## Room Design
 
-![room](/images/layout-online.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -47,54 +48,65 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 
 <pagebreak/>
 
-## 1. Engage: Decomposition Review (5 min)
-- [ ] **Review** how to pronounce the word decompose. Slides 2-7
+## 1. Engage: Observe & Predict (5 min)
+**Location:** Rug
 
-- [ ] **Review** the decomposition hand gesture and have the class practice using it.
+- [ ] **Introduce** the challenge number 1 from the practice playlist.
 
-<iconp type='question'>Can someone show me what the hand gesture for the word decompose looks like?
-</iconp>
+- [ ] **Unpack** the challenge as a class.
 
-- [ ] **Show** examples of decomposition. Slides 8-10
+<iconp type='question'>What do you notice about this challenge?</iconp>
 
-- [ ] **Turn and Talk:** Students discuss the definition of the word decompose.
-<iconp type='question'>Can someone remind us what the word decompose means?</iconp>
+Follow up questions:
+  <iconp type='question'>What kinds of blocks are in the code?</iconp>
+  <iconp type='question'>How many lines of code do you see?</iconp>
+  <iconp type='question'>Where is the PixelBot on the grid?</iconp>
+  <iconp type='question'>How many times does this code repeat?</iconp>
 
-- [ ] **Share Out:** Partner pairs share out their definition of the word decompose.
-- [ ] **Define** decompose.
->> “Decompose means to break something apart into smaller pieces. Each of the images we just saw shows something being broken into smaller pieces.”
+<note type='tip'>
+  By the end of this activity students should be aware of the:
+  - the types of blocks found in the code
+  - the number of lines of code in the editor
+  - location of the PixelBot on the grid
+  - the number of times the code should repeat</note>
 
-- [ ] **Connect** the previous lesson to today's lesson.
->> “Last week we learned how to decompose letters into lines and dots. Today we are going to see why it’s helpful to decompose things we want to code.”
+## 2. Explore: Try It Out (2 min)
+**Location:** Desks
 
-- [ ] **Demonstrate** how a complex coding challenge can be made easier through decomposition. Slide 11-13
->> "In this example someone coded a happy face by decomposing it. They first coded the eyes. Then they coded the smile and the outline of the head. Decomposing makes it easier to code because it lets you turn one big coding challenge into a group of smaller challenges."
+- [ ] **Challenge** the class to complete challenge number 1.
 
-![smiley](./images/smiley-face.png)
+- [ ] **Independent Exploration:** Have students try completing challenge number 1.
 
-## 2. Explain: Decompose to Code (10 min)
-- [ ] **Model** decomposing letters with the letter L. Slides 14-17
->>"It is easier to code the letter L if we decompose it into lines and dots. Just like we did last week, we'll look for as many lines as possible. In the letter L we have two lines."
+## 3. Explain: Reading Challenge (5 min)
+**Location:** Desks
 
-![letter](./images/letter-l.png)
+- [ ] **Share Out:** Have students share out what they found the code directs the PixelBot to paint.
 
-- [ ] **Model** coding the letter L one piece at a time. Slides 18-19
->> "Once we have decomposed the letter we can code it one piece at a time. We should always start by coding the line that is closest to the bot."
+<iconp type='question'>What did the PixelBot paint?</iconp>
 
-- [ ] **Guided Practice:** The class works together to code the letter T using the [decomposed letters sheet][sheets].
-  - [ ] **Show** that the first decomposition on the decomposed letters sheet is labeled with the number 1 at the top of the grid. Then point out the comment in playlist problem 1. Explain that the comment is simply there to show where the code for decomposition 1 should go.
-  - [ ] **Group Coding:** Have volunteers suggest lines of code that will complete decomposition 1 of the letter T.
-  - [ ] **Repeat** the same process for decomposition 2 in playlist problem 2.
-  - [ ] **Group Coding:** Combine the code to complete the letter T in problem 3. Code for decomposition 1 should be written below comment 1 and code for decomposition 2 should be written below comment 2.
+- [ ] **Model** solving challenge number 1.
+>>"Let's see what the PixelBot paints. ________________________________"
 
-## 3. Elaborate: Independent Practice (15 min)
-- [ ] **Independent Practice:** Students code the letters T, H, C, and Y on the Decomposition II Playlist.
-- [ ] **Monitor** the room for students in need of additional assistance.
-- [ ] **Review** how to code the letter H.
+- [ ] **Unpack** the challenge 2 as a class.
 
+<iconp type='question'>What do you notice about this challenge?</iconp>
+
+Follow up questions:
+  <iconp type='question'>What kinds of blocks are in the code?</iconp>
+  <iconp type='question'>How many lines of code do you see?</iconp>
+  <iconp type='question'>Where is the PixelBot on the grid?</iconp>
+  <iconp type='question'>How many times does this code repeat?</iconp>
+
+- [ ] **Challenge** the class to complete challenge 2 and the rest of the PixelBot playlist.
+
+## 4. Elaborate: Independent Practice (12 min)
+**Location:** Desks
+
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
+
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/10L6IRJjHOPYSiIRTujcMV1cagxx6txOwYXWI66qK3_4/edit#slide=id.p
-[letter]: http://www.pixelbots.io/X2LPG
-[sheets]: https://drive.google.com/open?id=0B48_2vIyABioVkxvUm1fb2RVYVU
-[playlist]: http://www.pixelbots.io/JD7Y8
+[slides]:

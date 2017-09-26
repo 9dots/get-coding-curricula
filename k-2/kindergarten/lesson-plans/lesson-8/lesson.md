@@ -1,35 +1,38 @@
-<header class='header' title='Invisible Bugs' subtitle='Lesson 08'/>
+<header class='header' title='Code Your PixelBot II' subtitle='Lesson 08'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 8 students continue debugging by identifying locations where code is missing. Students step through the sequence of code, identify where a line of code is missing, and add the missing code.
-
+In lesson 6 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can add a missing line of code to debug a 2-5 line sequence of code.
+
+- I can write a 2-5 line sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
-1. Engage: Observations (10 min)
-1. Explore: Try It Out (2 min)
-1. Explain: Invisible Bugs (8 min)
-1. Elaborate/Evaluate: PixelBot Practice (10 min)
+
+1. Engage: Code a Friend (5 min)
+1. Explore: Challenge (3 min)
+1. Explain: Writing Code (7 min)
+1. Elaborate: PixelBot Practice (10 min)
+1. Evaluate: Exit Challenge (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
+- [ ] Floor Grid
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: K.08 Practice | Code: D936H][playlist]
-- [ ] [Playlist: K.08 Bonus | Code: 4J3K9][extension]
+- [ ] [Playlist: K.08 Practice | Code: QD8W6][playlist]
+- [ ] [Playlist: K.08 Bonus | Code: NQOW7][extension]
+- [ ] [Playlist: K.08 Exit Ticket | Code: MJ282][exit]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Bug** - A mistake in code.
-- **Debugging** - Finding and fixing mistakes in code.
-
+- **Sequence** - A set of actions that must be performed in the order they are written.
+- **Code:** A set of instructions designed to be carried out by a computer.
 </note>
 
 <pagebreak/>
@@ -48,74 +51,51 @@ In lesson 8 students continue debugging by identifying locations where code is m
 
 <pagebreak/>
 
-## 1. Engage: Observations (10 min)
-**Location:** Rug
+## 1. Engage: Code a Friend (5 min)
+- [ ] **Introduce** the coding challenge in the demo playlist and invite a student to play the role of the PixelBot on the floor grid.
+>> "Today we are going to continue to practice writing code on PixelBots. In our first challenge we need to move our PixelBot to the last square on right. We are going to complete this challenge as a class. I need a volunteer to come up to the rug and pretend to be our PixelBot. Would anyone like to be our PixelBot today?"
 
-- [ ] **Review** debugging by having students share what they remember from the previous lesson.
->>"In our last lesson we learned about bugs and debugging. I'm looking for some coders to share what they remember from that lesson."
+- [ ] **Share Out:** Have students help you write the code by volunteering to share one line at a time.
 
-<iconp type='question'>What is a bug?</iconp>
-<iconp type='question'>What does it mean to debug code?</iconp>
+- [ ] **Stepping:** Have the student on the grid act out the code as you direct the class in reading the code out loud one line at a time.
 
-- [ ] **Introduce** the first challenge of the day.
->>"In our first challenge of the day we are going to practice our debugging skills."
+- [ ] **Validate** the code by running it on PixelBots.
 
-- [ ] **Unpack** the challenge as a class by having students share out their observations about the goal and starting conditions of the grid.
->> "Take a moment to observe the PixelBot, grid and code."
+## 2. Explore: Challenge (3 min)
+- [ ] **Introduce** PixelBot challenge 1 from the practice playlist to the class.
+>> "In our next challenge we need to paint the square in the middle of the grid. You are going to try to solve this challenge on your own."
 
-<iconp type='question'>**What do you notice about this challenge?**</iconp>
-  <iconp type='question'>How many squares does the PixelBot have to paint?</iconp>
-  <iconp type='question'>Which square on the grid needs to be painted?</iconp>
-  <iconp type='question'>Which square is the PixelBot standing on?</iconp>
+- [ ] **Independent Exploration:** Have students attempt to code a solution to challenge 1.
 
-- [ ] **Execute** the code by clicking the run button and have students observe the PixelBot's actions.
->>"I am going to run the code. When I click run I want you to do your best to observe what the PixelBot does. I am going to ask a few coders to share out what they saw."
+- [ ] **Monitor** the class to select two students who will share their code. Try to select two students with different solutions. If only one solution is found in the class prepare to share a different solution during the explain activity.
 
-- [ ] **Share Out:** Have students share out their observations.
+## 3. Explain: Writing Code (7 min)
+- [ ] **Share Out:** Have students selected share their code. As they share, write the code in the editor and run it in order to validate the solution. If only one solution was found in the group share a different solution of your own.
 
-<iconp type='question'>What did the PixelBot do?</iconp>
-<iconp type='question'>Did the PixelBot paint the correct square?</iconp>
-<iconp type='question'>Does this code contain a bug? How do you know?</iconp>
+- [ ] **Explain** that challenges usually have more than one solution and that it is important to know how you want to try to solve a challenge before beginning to code.
+>> "Most of the challenges we will write code for have more than one solution. This is why it is important to plan which solution you are going to try before beginning to write code."
 
-## 2. Explore: Try It Out (2 min)
-**Location:** Desks
+- [ ] **Demonstrate** how to plan a path by tracing an imaginary line with your finger on the grid to solve challenge 2 in the playlist. Have students repeat after you.
+>> "One way I like to plan my code is by tracing the path I want my PixelBot to take with my finger before I write my code. In challenge 2 our goal is to paint the square that is above on the left. I can trace a path with my finger that goes up one space and then left one space."
 
-- [ ] **Explain** that the goal of the challenge is to fix the bug without deleting the whole sequence and starting from the beginning.
-- [ ] **Independent Exploration:** Have students attempt to debug the code independently.
-- [ ] **Monitor** the class for students you can call on to share out their solution.
+- [ ] **Model** how to solve the challenge after tracing out the path with your finger.
+>>"Now that I chose my path, I can start to write my code. First I need to move up one space. Then I need to move one space to the left. Finally, I should have my PixelBot paint the square."
 
-## 3. Explain: Invisible Bugs (8 min)
-**Location:** Desks
-
-- [ ] **Turn and Talk:** Have students discuss the question below with a classmate.
-<iconp type='question'>What did you do to fix your code?</iconp>
-
-- [ ] **Share Out:** Have students share out what they did to fix their code.
-<iconp type='question'>What did you do to fix your code?</iconp>
-<iconp type='question'>Why did you try that?</iconp>
-
-- [ ] **Explain** that missing lines of code are bugs.
->>"In this challenge the bug was that a line of code was missing. The PixelBot was supposed to move up 2 times and paint, but it moved up 2 times and didn't paint the square. To fix it we had to add another paint block at the end. Missing lines of code are a common bug we will find in our PixelBot code."
-
-- [ ] **Introduce** the PixelBot Playlist.
->>"In today's challenges we are going to debug by adding code that is missing. Just like you did in this first challenge."
-
-- [ ] **Model** debugging challenge 2 in the playlist by using the stepper tool to find the spot where code is missing.
->>"This code is supposed to make the PixelBot paint a square 2 spaces to the right. When I run the code the PixelBot moves 2 spaces to the right but it does not paint. I can reset my PixelBot and use the yellow stepper button to step through my code one line at a time. It looks like each step works but there is a missing paint block at the end. To fix it I put my cursor at the end and add the paint block."
-
-## 4. Elaborate/Evaluate: PixelBot Playlist (10 min)
-**Location:** Desks
-
-- [ ] **Challenge** the class to debug the code in the playlist by adding the missing line of code in each challenge.
->>"Your challenge is to debug the code in each challenge by only adding the line of code that is missing. You should not delete all of the code and start over again."
-
-- [ ] **Independent Coding:** Have students work through the challenges in the PixelBot playlist.
+## 4. Elaborate: PixelBot Practice (10 min)
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
 
 - [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
+
+## 5. Evaluate: Exit Challenge (5 min)
+
+- [ ] **Exit Challenge:** Have students complete the exit challenge playlist on PixelBots.
+
 </notable>
 
-[slides]: https://drive.google.com/open?id=1IwVOHMYVf70ufkcV6VDYb_3zTMmmD_tub-2dxD98avY
-[playlist]: http://www.pixelbots.io/D936H
-[extension]: http://www.pixelbots.io/4J3K9
+[demonstration]: http://www.pixelbots.io/3DPGY
+[slides]: https://drive.google.com/open?id=1q2RgAFOG3bWN9o-oXZkFt4wCwmYTKUkRtgD4Wiife9c
+[playlist]: http://www.pixelbots.io/QD8W6
+[extension]:http://www.pixelbots.io/NQOW7
+[exit]: http://www.pixelbots.io/MJ282

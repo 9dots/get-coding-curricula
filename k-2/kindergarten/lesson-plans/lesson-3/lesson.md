@@ -23,13 +23,14 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 - [ ] Computer
 - [ ] Projector
 - [ ] Floor Grid
+- [ ] [Floor Arrow Pad][arrows]
 - [ ] [Paper Star][star]
 - [ ] [Slide Show][slides]
 
 
 ###### Student Materials:
 
-- [ ] [Game Controllers (1 per student)][controller]
+- [ ] [Turtle & Rabbit Tags (1 of each for student volunteers)][turtle]
 - [ ] [Navigation Worksheet (1 per student)][worksheet]
 - [ ] [Exit Tickets (1/2 sheet per student)][exit-ticket]
 
@@ -114,8 +115,8 @@ In lesson 3 students use multiple commands to direct their pixelBot’s movement
 - [ ] **Monitor** the class for students in need of additional assistance.
 </notable>
 
+[turtle]: https://drive.google.com/open?id=0B48_2vIyABioRHFIWElPSlF6bWM
 [star]: https://drive.google.com/open?id=0B48_2vIyABioYThreXZIU3d5ckU
 [slides]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
-[controller]: https://drive.google.com/open?id=0B48_2vIyABioZ0Mzd3J5aURHMTg
 [worksheet]: https://drive.google.com/open?id=0B48_2vIyABioVXY5UVFGYkJWNjA
 [exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioaFVIRkxLeEstZEk

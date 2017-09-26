@@ -1,38 +1,39 @@
-<header class='header' title='Code Your PixelBot' subtitle='Lesson 06'/>
+<header class='header' title='PixelBots' subtitle='Lesson 06'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 6 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.
+In lesson 5 students begin writing code on the the PixelBot platform.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-- I can write a 2-5 line sequence of code.
+ - I can control the actions of my PixelBot with code.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Code a Friend (5 min)
-1. Explore: Challenge (3 min)
-1. Explain: Writing Code (7 min)
-1. Elaborate: PixelBot Practice (10 min)
-1. Evaluate: Exit Challenge (5 min)
+
+1. Engage: PixelBot Predictions (5 min)
+1. Explore: Challenge (5 min)
+1. Explain: PixelBot 101 (5 min)
+1. Elaborate: PixelBot Playlist (10 min)
+1. Evaluate: Debrief (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] Floor Grid
-- [ ] [Playlist: K.06 Demo | Code: 3DPGY][demonstration]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: K.06 Practice | Code: QD8W6][playlist]
-- [ ] [Playlist: K.06 Bonus | Code: NQOW7][extension]
-- [ ] [Playlist: K.06 Exit Ticket | Code: MJ282][exit]
+- [ ] [Playlist: K.05 Practice | Code: ZOMOP][ind-practice]
+- [ ] [Playlist: K.05 Bonus | Code: QBRWI][extension]
+
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+
 - **Sequence** - A set of actions that must be performed in the order they are written.
+
 - **Code:** A set of instructions designed to be carried out by a computer.
 
 </note>
@@ -52,52 +53,68 @@ In lesson 6 students continue writing code. The complexity of the challenges is 
 </note>
 
 <pagebreak/>
+## 1. Engage: Predictions (5 min)
+- [ ] **Show** the PixelBot sequence.
+- [ ] **Turn and Talk:** Student predict what the PixelBot would do if it followed the directions in the sequence.
 
-## 1. Engage: Code a Friend (5 min)
-- [ ] **Introduce** the coding challenge in the demo playlist and invite a student to play the role of the PixelBot on the floor grid.
->> "Today we are going to continue to practice writing code on PixelBots. In our first challenge we need to move our PixelBot to the last square on right. We are going to complete this challenge as a class. I need a volunteer to come up to the rug and pretend to be our PixelBot. Would anyone like to be our PixelBot today?"
+<iconp type='question'>If our PixelBot followed the directions in the sequence in order, where would it stop?</iconp>
 
-- [ ] **Share Out:** Have students help you write the code by volunteering to share one line at a time.
+- [ ] **Share Out:** Students share their predictions with the class. As they share out, challenge them explain their thinking with the question below.
 
-- [ ] **Stepping:** Have the student on the grid act out the code as you direct the class in reading the code out loud one line at a time.
+<iconp type='question'>Why do you think that would happen?</iconp>
 
-- [ ] **Validate** the code by running it on PixelBots.
+<note>![challenge](./images/engage-one.png)</note>
 
-## 2. Explore: Challenge (3 min)
-- [ ] **Introduce** PixelBot challenge 1 from the practice playlist to the class.
->> "In our next challenge we need to paint the square in the middle of the grid. You are going to try to solve this challenge on your own."
+- [ ] **Show** the class the result of running the code in PixelBot.
 
-- [ ] **Independent Exploration:** Have students attempt to code a solution to challenge 1.
+- [ ] **Explain** that in this lesson our goal is to learn how to write code in pixelBot.
 
-- [ ] **Monitor** the class to select two students who will share their code. Try to select two students with different solutions. If only one solution is found in the class prepare to share a different solution during the explain activity.
+## 2. Explore: Challenge (5 min)
+- [ ] **Explain** the goal of the challenge.
+>> “In this challenge our goal is to move our PixelBot to the square above and paint it. Your job is to try to do that by writing a sequence of code.”
 
-## 3. Explain: Writing Code (7 min)
-- [ ] **Share Out:** Have students selected share their code. As they share, write the code in the editor and run it in order to validate the solution. If only one solution was found in the group share a different solution of your own.
+- [ ] **Explain and demonstrate** how to write and delete code in PixelBots using challenge 1 from the student playlist.
+>>"To write your code you can just point and click on the code you want to add. If you make a mistake you can delete your code by clicking the trash can next to it."
 
-- [ ] **Explain** that challenges usually have more than one solution and that it is important to know how you want to try to solve a challenge before beginning to code.
->> "Most of the challenges we will write code for have more than one solution. This is why it is important to plan which solution you are going to try before beginning to write code."
+- [ ] **Independent Exploration:** Have students attempt to complete the first challenge in the playlist.
 
-- [ ] **Demonstrate** how to plan a path by tracing an imaginary line with your finger on the grid to solve challenge 2 in the playlist. Have students repeat after you.
->> "One way I like to plan my code is by tracing the path I want my PixelBot to take with my finger before I write my code. In challenge 2 our goal is to paint the square that is above on the left. I can trace a path with my finger that goes up one space and then left one space."
+- [ ] **Discuss** the different strategies that students tried during the challenge.
 
-- [ ] **Model** how to solve the challenge after tracing out the path with your finger.
->>"Now that I chose my path, I can start to write my code. First I need to move up one space. Then I need to move one space to the left. Finally, I should have my PixelBot paint the square."
+<iconp type='question'>What are some things you tried to complete the challenge?</iconp>
 
-## 4. Elaborate: PixelBot Practice (10 min)
+- [ ] **Model** how to solve the challenge.
+>> “I will select an up arrow block because my PixelBot needs to move up to get to the square. Then I will click the paint block to paint the square. To make my PixelBot act out my code I will press the green run button.”
+
+## 3. Explain: pixelBot 101 (5 min)
+- [ ] **Review and demonstrate** how to add code in the pixelBot editor using challenge 2.
+>> “I can add code by selecting blocks of code on the left. The code I can add includes arrows that make the PixelBot move and the paintbrush that makes it paint.”
+
+- [ ] **Explain and demonstrate** what running code means and how to do it.
+>> “When we run code we are simply telling the computer to follow the directions we wrote. To run the code we wrote we press the big green button.”
+
+- [ ] **Explain and demonstrate** how to delete code in the pixelBot editor.
+>> “Sometimes when we write code we make mistakes. We may add code that we don’t want. To delete the code we can click the trash can next to the block of code we don’t want.”
+
+- [ ] **Guided Practice:** Have students navigate to challenge 2 help you solve it by sharing their thoughts.
+>> “My goal is to make my PixelBot paint the square on the right. What should I do?”
+
+- [ ] **Share Out:** Students share out ideas as you code and test them out in the PixelBots editor.
+
+## 4. Elaborate: pixelBot Playlist (10 min)
 - [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
-
 - [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-## 5. Evaluate: Exit Challenge (5 min)
+## 5. Evaluate: Review & Debrief (5 min)
+- [ ] **Review** 1-2 challenges from the Playlist with the class.
+- [ ] **Debrief** the lesson with the class.
 
-- [ ] **Exit Challenge:** Have students complete the exit challenge playlist on PixelBots.
+<iconp type='question'>What was challenging about today's lesson?</iconp>
 
 </notable>
 
-[demonstration]: http://www.pixelbots.io/3DPGY
-[slides]: https://drive.google.com/open?id=1q2RgAFOG3bWN9o-oXZkFt4wCwmYTKUkRtgD4Wiife9c
-[playlist]: http://www.pixelbots.io/QD8W6
-[extension]:http://www.pixelbots.io/NQOW7
-[exit]: http://www.pixelbots.io/MJ282
+[slides]: https://drive.google.com/open?id=1ean8naFUkfNz0ntGLzHQzfmtFkctSoI8hKEruMHbujQ
+[ind-practice]: http://www.pixelbots.io/ZOMOP
+[extension]: http://www.pixelbots.io/QBRWI
+[assess]: https://artbot-26016.firebaseapp.com/V3ZP3

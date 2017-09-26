@@ -1,19 +1,20 @@
-<header class='header' title='Repeating Patterns' subtitle='Lesson 16'/>
+<header class='header' title='Patterns' subtitle='Lesson 16'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 16  students learn to identify the number of times the core repeats within a pattern through decomposition. The lesson begins with a review of identifying the core of a pattern. Students then explore decomposing color patterns with omnifix cubes and practice with a worksheet.
+Lesson 15 introduces students to patterns in preparation to learn how to loop code. Through exploration students develop their own definition of a pattern and learn to identify the core of a pattern.
+
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can decompose a pattern to identify the number of times its core repeats.
+- I can complete a pattern.
+- I can identify the core of a pattern.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Patterns Review (6 min)
-1. Explore: Decomposing Patterns (4 min)
-1. Explain: Repeating Patterns (8 min)
-1. Elaborate: Independent Practice (12 min)
-1. Extension: Writing Patterns
+1. Engage: Pat-terns (2 min)
+1. Explore: What are Patterns? (5 min)
+1. Explain: Identify the Pattern (10 min)
+1. Elaborate: Independent Practice (13 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -24,7 +25,7 @@ In lesson 16  students learn to identify the number of times the core repeats wi
 
 ###### Student Materials:
 - [ ] [Patterns Worksheet][worksheet]
-- [ ] Omnifix Cubes
+- [ ] Color Pencils
 - [ ] Pencils
 </note>
 
@@ -38,95 +39,81 @@ In lesson 16  students learn to identify the number of times the core repeats wi
 
 <pagebreak/>
 
-## 1. Engage: Patterns Review (6 min)
-- [ ] **Review** the word pattern by having students repeat the word while doing the pattern hand signal.
+## 1. Engage: Pat-terns (2 min)
+- [ ] **Introduce** the word pattern and have students practice pronouncing it.
+>> "Today we are learning about patterns. Repeat after me, pat-terns."
 
-- [ ] **Turn and Talk:** Show students examples of patterns and have them discuss what a pattern is with a partner.
+## 2. Explore: What are Patterns? (5 min)
+- [ ] **Present** examples of patterns.
+>> “Each of the following pictures is an example of a pattern. See if you can find what they all have in common.”
 
-<iconp type='question'>What is a pattern?</iconp>
+![patterns](./images/patterns.png)
 
-- [ ] **Share Out:** Students share their definition of the word pattern.
+- [ ] **Turn and Talk:** Pairs discuss the commonalities among the examples.
+<iconp type='question'>What do all of the examples have in common?</iconp>
 
-- [ ] **Show** a pattern and have students help complete it.
->> “I need help completing this pattern. The pattern goes red, red, yellow, red, red, yellow.”
+- [ ] **Share Out:** Volunteers share out their observations.
 
-<iconp type='question'>What should come next in the pattern?</iconp>
+- [ ] **Turn and Talk:** Pairs define the word pattern based on their observations.
+<iconp type='question'>What do you think a pattern is?</iconp>
 
-- [ ] **Challenge** the class to help you identify the core of the pattern.
->> “I need your help finding the core of this pattern.”
+- [ ] **Share Out:** Pairs share out their definition of the word pattern.
 
-<iconp type='question'>Where does the core begin?</iconp>
-<iconp type='question'>Where does the core end?</iconp>
+## 3. Explain: Identify the Pattern (10 min)
+- [ ] **Define** pattern.
+>> “In each of the examples you just saw something was repeating. A pattern is a sequence that repeats.”
 
-## 2. Explore: Decomposing Patterns (4 min)
-- [ ] **Demonstrate** how to build a pattern using omnifix cubes and have students copy the pattern you create.
+- [ ] **Demonstrate** the pattern hand signal.
 
-![decomposing](./images/decompose-one.png)
+![hand](./images/hand-gesture.png)
 
-- [ ] **Challenge** the class to identify the core of the pattern by breaking it off from the rest of the omnifix cube sequence.
+- [ ] **Practice:** Have students practice repeating the hand signal while saying the word.
 
-- [ ] **Share Out:** Have volunteers share the core they identified with the class.
+- [ ] **Model** completing a color pattern by saying the colors out loud rhythmically.
+>> “I have to complete the pattern by coloring in the final two circles. To find out which colors they should be I will look for a pattern. The colors are red, blue, red, blue, red, blue. So the next two circles are red and blue.”
 
-- [ ] **Challenge** the class to decompose the rest of the omnifix cube sequence into its core units.
+![nineteen](./images/slide-19.png)
 
-- [ ] **Turn and Talk:** Students discuss the number of times the core repeats in the pattern and how they figured it out.
+- [ ] **Guided Practice:** The class works together to complete a set of patterns.
+>> “Let’s say the colors we see in order out loud. Yellow, purple, yellow, purple, yellow, purple.”
 
-<iconp type='question'>How many times does the core repeat in the pattern we created?</iconp>
-<iconp type='question'>How do you know?</iconp>
+![twenty](./images/slide-20.png)
 
-- [ ] **Share Out:** Students share their answers with the rest of the class.
+<iconp type='question'>What colors should the next two circles be?</iconp>
 
-## 3. Explain: Repeating Patterns (8 min)
-- [ ] **Model** decomposing patterns and counting the number of times the core repeats.
->> “To decompose this pattern I first want to try to identify the core. The pattern goes blue, yellow, blue, yellow, blue, yellow. The part that repeats includes one blue block and one yellow block. Now I can break my pattern apart into its core units that have one blue block connected to one yellow block. To see how many times the core repeats I simply count the number of pieces I’m left with. This sequence repeats 3 times in the pattern because there are 3 pieces left.”
+- [ ] **Model** completing the pattern and identifying the repeating sequence.
+>> “In order to find the repeating sequence of the pattern, I want to look for the beginning and end of the sequence. We can call the repeating sequence in the pattern the core. This example shows red, red, blue, red, red, blue. So the core begins at red and ends with blue. To show this I will box the three circles beginning with the first red circle and end with the blue one.”
 
-![decompose](./images/decomposing.png)
+![twenty-one](./images/slide-21.png)
 
-- [ ] **Guided Practice:** Have the class practice identifying the core.
->> “Build the pattern you see on the board. Let’s say the colors we see in the pattern starting with the color yellow. Yellow, blue, blue, yellow, blue, blue”
+- [ ] **Guided Practice:** Students complete the pattern and identify the core.
+>> “Let’s try one together. Say the colors with me. Red, yellow, blue, red, yellow, blue. “
 
-<iconp type='question'>What is the core of the pattern?</iconp>
-<iconp type='answer'>The core of the pattern is yellow, blue, blue.</iconp>
+![twenty-two](./images/slide-22.png)
 
-- [ ] **Guided Practice:** Have the class practice decomposing the pattern.
->> “Now let’s decompose our pattern into its core units. Break off the pieces that have a yellow block connected to two blue blocks.”
+<iconp type='question'>What colors should come next to complete the pattern?</iconp>
+<iconp type='question'>Where does the core of the pattern begin and where does it end?</iconp>
 
-- [ ] **Guided Practice:** Have the class practice identifying the number of times the core repeats.
->> “To find the number of times the core repeats, let’s count the number of pieces we are left with.”
+## 4. Elaborate: Independent Practice (13 min)
+- [ ] **Explain** how to complete the patterns worksheet with challenge number one.
+>> “In each of the challenges on the worksheet we are going to (1) complete the pattern and (2) circle the core. Challenge number one shows the pattern blue, red, blue, red.”
 
-![decompose-two](./images/decomposing-two.png)
+<iconp type='question'>What colors should the next two circles be?</iconp>
 
-<iconp type='question'>How many pieces are we left with?</iconp>
+- [ ] **Demonstrate** how to complete the patterns worksheet.
+>> “Since the next two colors should be blue and red, I will color them in with my color pencils and circle the core.”
 
-## 4. Elaborate: Independent Practice (12 min)
-- [ ] **Explain** how to complete side one of the patterns worksheet.
->> “Let’s practice finding the number of times a core repeats. To complete the first side of the worksheet we are going to circle each time the core repeats in the pattern. Then we will count the number of circles we made and write that number above the pattern.”
+<iconp type='question'>Where does the core begin and where does it end?</iconp>
 
-- [ ] **Demonstrate** how to complete side one of the patterns worksheet.
->> “The pattern in problem one shows the colors blue, green, blue, green, blue, green. The core of this pattern is blue and green. I will circle the each blue and green core. Then I count the number of circles I have. One, two, three. Since the core repeats 3 times I will write the number 3 above the pattern.”
-
-- [ ] **Independent Practice:** Students work on side one of the patterns worksheet.
-
+- [ ] **Independent Practice:** Students complete the patterns worksheet.
 - [ ] **Monitor** the room for students in need of additional assistance.
-
-- [ ] **Review** 1-3 problems on the board.
-
+- [ ] **Review** examples 3, 8 and 12 with the class.
 - [ ] **Debrief** the lesson.
 
-<iconp type='question'>What did we learn to do today?</iconp>
-<iconp type='answer'>Today we learned how to identify the number of times the core repeats in a pattern.</iconp>
-
-## 5. Extension: Writing Patterns
-- [ ] **Explain** how to complete side two of the patterns worksheet.
->> “On side two of the worksheet we are doing the opposite of what we did on side one. This time we are given a core and the number of times it should repeat. We will use that information to continue the pattern.”
-
-- [ ] **Demonstrate** how to complete side two of the patterns worksheet.
->> “Problem nine shows a core of two blocks. One is blue and one is green. It also shows that the pattern should repeat two times. If I draw and color the blue and green core one more time I will have a pattern that repeats two times.”
-
-- [ ] **Independent Practice:** Students work on side two of the patterns worksheet.
-
-- [ ] **Monitor** the room for students in need of additional assistance.
+<iconp type='question'>What two things did we learn to do today?</iconp>
+<iconp type='answer'>Today we learned how to (1) complete a pattern and (2) identify its core.</iconp>
 
 </notable>
-[slides]: https://docs.google.com/presentation/d/1kCH_UCJlKYdp3ves1yejJwh4Te6zCLs5IL9cxq3mJxE/edit#slide=id.p
-[worksheet]: https://drive.google.com/file/d/0B48_2vIyABioTzBjM0xHZERVdnc/view
+
+[slides]: https://docs.google.com/presentation/d/1WesquT9S_aw8CzzoQCw0iuu6xflkTiF4zAyBxLB6RN4/edit#slide=id.p
+[worksheet]: https://drive.google.com/file/d/0B48_2vIyABioWjJyc0Z1c2dRelk/view

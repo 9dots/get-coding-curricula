@@ -1,144 +1,151 @@
-<header class='header' title='Reading Loops' subtitle='Lesson 19'/>
+<header class='header' title='Repeat It' subtitle='Lesson 19'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 19 students learn to read loops by stepping through sequences of code in an unplugged grid.
+In lesson 18 students learn to write loops on the pixelBot platform. Students use their ability to identify the core of a pattern and the number of times it repeats to refactor sequences of code with loops.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can step through a loop.
+- I can loop a sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Writing Review (3 min)
-1. Explore: Loops (7 min)
-1. Explain: Reading Loops (8 min)
-1. Elaborate: Independent Practice (12 min)
+1. Engage: Jumping Robot (5 min)
+1. Explore: Find the Pattern (10 min)
+1. Explain: Repeat the Pattern (5 min)
+1. Elaborate: pixelBot Loops (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
+- [ ] [Playlist: Intro to Loops][loops]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Index Cards
-- [ ] Pencils
-- [ ] [Penguin Tokens][penguin]
-- [ ] [Reading Loops Worksheet][reading]
-
-
-<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Loop** - A sequence of actions that is repeated.
-
+- [ ] Computers
+- [ ] [Playlist: Writing Loops][writing]
 </note>
-
-<pagebreak/>
 
 ## Room Design
-
 ![room](/images/layout-online.png)
 
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
+<note>
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Loop** - A sequence of actions that is repeated.
 </note>
 
 <pagebreak/>
 
-## 1. Engage: Writing Review (3 min)
-- [ ] **Show** the class a sequence of pixelBot code and click run to show what it does.
+## 1. Engage: Jumping Robot (5 min)
+- [ ] **Introduce** the jumping robot activity and ask for a volunteer to play the role of the jumping robot.
+>> “We are going to play a game called jumping robot. In this game I will be a coder who will code a robot that can jump. The robot will follow the directions I have coded on the board. Would anyone like to volunteer to be the jumping robot?”
 
-<iconp type='question'>What can we do to make this code shorter?</iconp>
-<iconp type='answer'>Remind students of the steps that were followed to rewrite code using loops.</iconp>
+- [ ] **Show** the first two sequences of code. Then have the jumping robot act them out.
 
-- _*Find*_ the core of a pattern and the number of times it repeats.
-- _*Repeat*_ the core of the pattern.
-
-- [ ] **Review** finding the core of the pattern and the number of times it repeats with the help of students.
-
-<iconp type='question'>Is there a pattern in the sequence of code?</iconp>
-<iconp type='answer'>Yes.</iconp>
+![engage-one](./images/engage-one.png)
 
 
-<iconp type='question'>What is the core of the pattern?</iconp>
-<iconp type='answer'>The core of the pattern is left, up.</iconp>
+- [ ] **Explain** that in the next sequence of code you want the jumping robot to jump 50 times, but writing the direction 50 times will take too long.
 
-<iconp type='question'>How many times does the core of the pattern repeat?</iconp>
-<iconp type='answer'>The core of the pattern repeats 3 times.</iconp>
+- [ ] **Challenge** the class to try to think of a different way to tell the jumping robot to jump.
 
+<iconp type='question'>What is another way we can make the robot jump 50 times without having to say jump 50 times?</iconp>
 
-- [ ] **Review** how to repeat the core of the pattern on the pixelBots platform with the help of students.
+- [ ] **Explain** that instead of writing the jump direction 50 times it is possible to simply tell the jumping robot to repeat the jump command 50 times.
 
-<iconp type='question'>What is the first thing we should do to repeat the core?</iconp>
-<iconp type='answer'>Check the blocks in the core.</iconp>
+![engage-two](./images/engage-two.png)
 
+- [ ] **Show** that the sequence of code with 50 jump commands is the same as the sequence of code that tells the robot to repeat the jump command 50 times.
 
-<iconp type='question'>What is the second thing we should do?</iconp>
-<iconp type='answer'>We should click the repeat button.</iconp>
+## 2. Explore: Find the Pattern (10 min)
+- [ ] **Show** pixelBot challenge number one and have the class help you write the code.
+ >>“In this challenge we want to get our pixelBot to the square that the arrow is pointing to.”
 
+<iconp type='question'>What directions should we code?</iconp>
 
-<iconp type='question'>What is the last thing we should do?</iconp>
-<iconp type='answer'>We should get rid of the code we are not going to use.</iconp>
+![explore-one](./images/explore-one.png)
 
+- [ ] **Challenge** the class to identify what is repeating in the code and the number of times it repeats?
 
-## 2. Explore: Loops (7 min)
-- [ ] **Introduce** the loop game and call on a volunteer to model how to play.
+<iconp type='question'>What direction is being repeated in this code?
+How many times does it repeat?</iconp>
 
-- [ ] **Explain** how the game is played and show the first sequence of code that will be read.
->> “In the loop game I will pretend to be a computer and read a sequence of code. Our volunteer will act out the code I read. The code I read is like the code we wrote last week in class. It repeats a certain number of times.”
+- [ ] **Explain** that just like in the robot game it is possible to repeat directions.
+>>“Just like in our jumping robot game, we can tell our computer to repeat code instead of writing same line or lines of code over and over again.”
 
-- [ ] **Demonstrate** how to play the game with the volunteer and model reading the loop using a paper to cover the code and a dry erase marker to draw tick marks each time you loop through the code.
-  - Show one line of code at a time.
-  - Read each line out loud in order for the volunteer to act it out.
-  - Draw a tick mark at the bottom of the loop.
-  - Continue this process until the number of tick marks at the bottom of the loop matches the number of times the code should be repeated.
+- [ ] **Demonstrate** how to repeat code using the loop block.
+ >>“To tell our computer to repeat code we write it in a loop. First we select the code we want to repeat. Then we click the loop block and select the number of times we want the computer to repeat it.”
 
-- [ ] **Show** the next loop and have rest of the class join the game. Each time you loop through the code, ask the class if you should loop through it again.
->> “Let’s all play together now. This time instead of just having one person act out the code I read, everyone will act it out. I’ll also need your help to figure out when I should stop reading the code.”
+![explore-two](./images/explore-two.png)
 
-- [ ] **Play** one round of the game while modeling how to read the code.
+- [ ] **Show** challenge number two and have the class help you write the code.
+>>“In this challenge we want our pixelBot to paint a line of 3 squares.”
 
-- [ ] **Show** the arrow graphic that summarizes how the code was read.
+<iconp type='question'>What directions should we code?</iconp>
 
-- [ ] **Define** the word loop.
->> “A loop is a sequence of actions that is repeated.”
+![explore-three](./images/explore-three.png)
 
-- [ ] **Show** the GIFs in the slides and explain that they are examples of loops.
+- [ ] **Challenge** the class to identify the portion of the code that is repeating and the number of times it repeats on the board.
 
-- [ ] **Demonstrate** the loop hand gesture and have the class practice.
+<iconp type='question'>What direction in this code can be repeated?
+How many times does it repeat?</iconp>
 
-## 3. Explain: Reading Loops (8 min)
-- [ ] **Model** stepping through a loop.
-- [ ] **Explain** the process of stepping through a loop while modeling.
-  1. Cover the code inside the loop with an index card.
-  2. Show one line of code at a time.
-  3. Read each line out loud in order for the volunteer to act it out.
-  4. Draw a tick mark at the bottom of the loop.
-  5. Continue this process until the number of tick marks at the bottom of the loop matches the number of times the code should be repeated.
+- [ ] **Record** student responses by circling the core of the pattern and writing down the number of times it repeats.
 
-- [ ] **Guided Practice:** The class works together to step through a loop.
+- [ ] **Challenge** the class repeat the code the correct number of times with the loop block.
 
-<iconp type='question'>How many times will the sequence of code repeat?</iconp>
-<iconp type='answer'>The sequence will repeat 3 times.</iconp>
-  1. Have students cover the code inside the loop with their index cards.
-  1. Have students slide the index card to show the first line of code.
-  1. Have the class move their token according to the line of code that was read.
-  1. Continue steps 2 and 4 until the bottom of the loop is reached.
-  1. Have students draw a tick mark at the bottom of the loop.
-  1. Have students continue steps 1-5 until they have 3 tick marks at the bottom of the loop.
+- [ ] **Turn and Talk:** Students share what they did to repeat the code with a partner.
 
-## 4. Elaborate: Independent Practice (12 min)
-- [ ] **Independent Practice:** Students complete a series of stepping challenges on the Reading Loops Worksheet.
+<iconp type='question'>What did you do to repeat the code?</iconp>
+
+- [ ] **Share Out:** Students share out what they did to repeat the code.
+
+![explore-four](./images/explore-four.png)
+
+## 3. Explain: Repeat the Pattern (5 min)
+- [ ] **Explain** the sequence of steps students should follow to write a loop.
+	1. *Write* a sequence of code.
+	2. *Find* the number of times the pattern repeats.
+	3. *Repeat* the core of the pattern.
+
+- [ ] **Model** how to follow the series of steps to write a loop using pixelBot challenge number three.
+
+- *Write* a sequence of code.
+>> “To solve this challenge my pixelBot needs to move right, paint, right, paint, right, paint.”
+
+- *Find* the number of times the core of the pattern repeats.
+>> “The core of the pattern is move right and paint and it repeats 3 times."
+
+- *Repeat* the core of the pattern.
+>>“Instead of coding move right and paint three times I can tell the computer to repeat those two lines of code 3 times. To repeat my code I will select the lines I want repeated and then click the loop block. The loop block tells the computer to repeat the code. Next I will select the number 3 to show that the code inside of the loop repeats 3 times. The last thing I will do is delete the code that I no longer need.”
+
+- [ ] **Guided Practice:** Have the class work together to solve pixelBot challenge number four.
+
+- *Write* a sequence of code.
+>> “To solve this challenge we have to paint two squares."
+
+ <iconp type='question'>What should I code?</iconp>
+
+- *Find* the number of times the core of the pattern repeats.
+>>"Next we have to find the core of the pattern we coded."
+
+<iconp type='question'>What is the core of the pattern we coded?</iconp>
+
+- *Repeat* the core of the pattern.
+
+	<iconp type='question'>How many times does the core of the pattern repeat?</iconp>
+	<iconp type='answer'>The core of the pattern repeats 2 times.</iconp>
+>>“Next we select the lines of code that make up the core of the pattern and click the loop block. Finally we write the number two in the blank space to show that the code will be repeated twice and delete the remaining blocks.”
+
+## 4. Elaborate: pixelBot Loops (10 min)
+- [ ] **Independent Practice:** Students complete a series of coding challenges on pixelBot.
 - [ ] **Monitor** the room for students in need of additional assistance.
-- [ ] **Review** 1-2 challenges with the whole class.
+- [ ] **Review** 2-3 challenges whole group.
 - [ ] **Debrief** the lesson.  
 
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1fyhNJyW7KJsMDRCxObDNIAMg-v4OquUcaIyGvq0Gluw/edit#slide=id.p
-[penguin]: https://drive.google.com/file/d/0B48_2vIyABiocFdQY0xaaGVTaVU/view
-[reading]: https://drive.google.com/open?id=0B48_2vIyABioRkVuZl9mS3IxY2M
+[slides]: https://docs.google.com/presentation/d/1f2ClHjwH3Iabu3DuI8YCBb9mKYMQmzznpzofZ9wG5II/edit#slide=id.p
+[loops]: http://www.pixelbots.io/XBPDG
+[writing]: http://www.pixelbots.io/V86L9

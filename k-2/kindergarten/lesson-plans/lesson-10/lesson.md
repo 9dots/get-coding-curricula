@@ -1,40 +1,33 @@
-<header class='header' title='Step It Up' subtitle='Lesson 10'/>
+<header class='header' title='Where is the Bug?' subtitle='Lesson 10'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 10 students solidify their understanding of debugging code by reviewing the compare, find, fix protocol. Students engage in hands-on practice using paper coding blocks and a pixelBots playlist.
+In lesson 11 students practice debugging code by removing unwanted lines of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-I can debug a 2-10 block sequence with more than one directional move.
 
+- I can find and remove a bug in a 6-10 line sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Paper Block Coding (5 min)
-1. Explore: Paper Block Debugging (3 min)
-1. Explain: Debugging Protocol (5 min)
-1. Elaborate: Independent Practice (17 min)
+1. Engage: Unpacking (10 min)
+1. Explore: Where is the Bug? (2 min)
+1. Explain: Debugging Code (8 min)
+1. Elaborate/Evaluate: PixelBots Playlist (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] Computer
 - [ ] Projector
-- [ ] [Engage Link][engage]
-- [ ] [Explore Link][explore]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Computers
-- [ ] Dry Erase Marker
-- [ ] [Paper Coding Blocks][blocks]
-- [ ] [Tokens][token]
-- [ ] [Paper Grids][grid]
-- [ ] [Debugging Review Playlist][playlist]
+- [ ] [Playlist: K.11 Practice | Code: ][practice]
+- [ ] [Playlist: K.11 Bonus | Code: ][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Bug** - An error in code.
-- **Debugging** - Finding and fixing errors in code.
+- **Debugging** - Finding and fixing errors in code
 
 </note>
 
@@ -42,7 +35,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ## Room Design
 
-![room](/images/layout-rows.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -54,50 +47,82 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## 1. Engage: Paper Block Coding (8 min)
-- [ ] **Motivate:** Students code in pairs using paper blocks to complete a challenge. (3 min)
-	- [ ] Distribute paper coding blocks and display the coding challenge on slide 2.
-	- [ ] Direct students to write code with a partner using the paper coding blocks.
+## 1. Engage: Unpacking (10 min)
+**Location:** Rug
 
-- [ ] **Share Out:** Students share out their code. (2 min)
-	- [ ] Invite a student to code his/her answer on your computer.
-	- [ ] Run the code and have the class assist in debugging by sharing suggestions if necessary.
+- [ ] **Introduce** the first debugging challenge of the day.
+>> "Alright coders, today we are going to practice our debugging skills! Our first challenge of the day is on the board. Take the next 20 seconds to do your best to observe the grid, PixelBot and code."
 
-## 2. Explore: Paper Block Debugging (3 min)
-- [ ] **Partner Exploration:** Pairs attempt to debug paper block code. (3 min)
-	- [ ] Display slide 3 and have students arrange their paper blocks to match the sequence on the board.
-	- [ ] Display slide 4 and have each student step through the code using the token.
-	- [ ] **Turn and Talk:** Do we need to debug this code? Why?
-	- [ ] Have partner pairs attempt to find the bug in the code by stepping through the sequence. After each step have students ask “Is this what I want the bot to do?”.
+- [ ] **Unpack** the challenge as a class.
 
-## 3. Explain: Debugging Protocol (5 min)
--  [ ] **Discussion:** Students discuss what they did to debug the code. (2 min)
-	- [ ] As students share their answers click to the matching animation in slide 5.
+<iconp type='question'>What do you notice about this challenge?</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the square?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
+  <iconp type='question'>What else do you notice?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
 
-<iconp type='question'>What was the first thing we did to solve this challenge?</iconp>
-<iconp type='answer'>We checked if the code worked.</iconp>
+<note>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make the types of relevant observations they should make every time they approach a challenge. By the end of this activity students should be aware of the:
+  - goal of the challenge
+  - position of the PixelBot
+  - orientation of the PixelBot
+  - presence of starter code</note>
 
-<iconp type='question'>What did we do after we found out the code didn’t work?</iconp>
-<iconp type='answer'>We tried to find why it didn’t work.</iconp>
+## 2. Explore: Where is the Bug? (2 min)
+**Location:** Desks
 
-<iconp type='question'>What did we do after we found where the bug was?</iconp>
-<iconp type='answer'>We made changes to the code to fix it.</iconp>
+- [ ] **Challenge** the class to fix the code without deleting everything and rewriting it.
+>>“Your challenge in this activity is to fix the code by only changing the part that doesn’t work. You should not delete all of the code and rewrite it.”
 
--  [ ] **Review** the debugging protocol. (3 min)
-1. *Compare:*  “It sounds like the first thing we all did was compare what we wanted the code to do to what it actually did. This is how we learn if the code has a bug in it.
-2. *Find:* “Next, we step through the code one line at a time to find where the bug is. After we step through a line we asked “Is this what we want the bot to do?”
-3. *Fix:* “Once we find where the bug is we make changes to fix the code and we run the code to see if it works. If it does work we fixed the problem. If it doesn’t work we need to try to find and fix the problem again.”
+- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
 
-## 4. Elaborate: Independent Practice (17 min)
-- [ ] **Independent Practice:** Students work on a pixelBot playlist. (12 min)
-- [ ] **Review** practice problems 1, 4, and 7 with the class. (5 min)
+- [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity.
+
+<note>Beginning coders tend to debug by deleting all of their code and starting all over again. Emphasis should be put on motivating students to fix the source of the issue rather than rewriting all of their code.</note>
+
+## 3. Explain: Debugging Code (8 min)
+**Location:** Desks
+
+- [ ] **Think, Pair, Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
+
+<iconp type='question'>What changes did you make?</iconp>
+<iconp type='question'>How did you know to make those changes?</iconp>
+
+- [ ] **Remind** students that one type of bug they will continue to encounter are extra lines of unwanted code.
+
+- [ ] **Introduce** challenge number two.
+>>"Here is our second challenge today. Take the next 20 seconds to observe the grid, PixelBot and the code."
+
+- [ ] **Unpack** challenge number two as a class.
+
+<iconp type='question'>What do you notice about this challenge?</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the square?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
+  <iconp type='question'>What else do you notice?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
+
+  - [ ] **Model** debugging challenge number two.
+
+  ***>>"add scripting here after the playlist has been created"****
+
+## 4. Elaborate/Evaluate: PixelBot Playlist (10 min)
+**Location:** Desks
+- [ ] **Challenge** the class to debug the code in the playlist by removing only the extra lines of code.
+>>"Your challenge is to debug the code in each challenge by only deleting the line of code that is not needed. You should not delete all of the code and start over again."
+
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
+
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1_loL8vpzDlTFb531Nrc6AjHoR1abMu_rNoAMCcK-NX8/edit#slide=id.p
-[engage]: http://www.pixelbots.io/VP56W
-[explore]: http://www.pixelbots.io/JM5DL
-[blocks]: https://drive.google.com/open?id=0B48_2vIyABioeFViZ3Y4UGFqMkU
-[token]: https://drive.google.com/open?id=0B48_2vIyABioc1JwYXoyeG8wZzQ
-[grid]: https://drive.google.com/open?id=0B48_2vIyABiodXQxMVJZdXNVVlk
-[playlist]: http://www.pixelbots.io/V5MM3
+[slides]:
+[practice]:
+[extension]:

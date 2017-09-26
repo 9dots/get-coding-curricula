@@ -1,151 +1,139 @@
-<header class='header' title='Writing Loops' subtitle='Lesson 18'/>
+<header class='header' title='Patterns in Code' subtitle='Lesson 18'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 18 students learn to write loops on the pixelBot platform. Students use their ability to identify the core of a pattern and the number of times it repeats to refactor sequences of code with loops.
+In lesson 17 students learn to identify patterns and the number of times their core repeats in the context of pixelBot code. The lesson begins with the class making connections between a pattern in the movements of a pixelBot and a pattern in its corresponding code. Students then learn to identify the core of a pattern and the number of times it repeats in a sequence of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can loop a sequence of code.
+- I can identify a pattern in my code.
+- I can identify the number of times the core of a pattern repeats in my code.
+
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Jumping Robot (5 min)
-1. Explore: Find the Pattern (10 min)
-1. Explain: Repeat the Pattern (5 min)
-1. Elaborate: pixelBot Loops (10 min)
+1. Engage: Patterns Review (4 min)
+1. Explore: pixelBot Patterns (4 min)
+1. Explain: Patterns in Code (10 min)
+1. Elaborate: Independent Practice (12 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Playlist: Intro to Loops][loops]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Computers
-- [ ] [Playlist: Writing Loops][writing]
-</note>
+- [ ] [Patterns Worksheet][work]
 
-## Room Design
-![room](/images/layout-online.png)
 
-<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Loop** - A sequence of actions that is repeated.
+- **Pattern** - A sequence that repeats more than once.
+
 </note>
 
 <pagebreak/>
 
-## 1. Engage: Jumping Robot (5 min)
-- [ ] **Introduce** the jumping robot activity and ask for a volunteer to play the role of the jumping robot.
->> “We are going to play a game called jumping robot. In this game I will be a coder who will code a robot that can jump. The robot will follow the directions I have coded on the board. Would anyone like to volunteer to be the jumping robot?”
+## Room Design
 
-- [ ] **Show** the first two sequences of code. Then have the jumping robot act them out.
+![room](/images/layout-rows.png)
 
-![engage-one](./images/engage-one.png)
+<note borderLeft='2px solid green' mt='2em'>
+###### Symbols Key
 
+<iconp ml='1.65em' type='question'>question</iconp>
+<iconp ml='1.65em' type='answer'>answer</iconp>
+- [ ] action item
+</note>
 
-- [ ] **Explain** that in the next sequence of code you want the jumping robot to jump 50 times, but writing the direction 50 times will take too long.
+<pagebreak/>
 
-- [ ] **Challenge** the class to try to think of a different way to tell the jumping robot to jump.
+## 1. Engage: Patterns Review (4 min)
+- [ ] **Present** the review problem.
 
-<iconp type='question'>What is another way we can make the robot jump 50 times without having to say jump 50 times?</iconp>
+- [ ] **Turn and Talk:** Students examine a pattern and attempt to identify its core.
 
-- [ ] **Explain** that instead of writing the jump direction 50 times it is possible to simply tell the jumping robot to repeat the jump command 50 times.
+<iconp type='question'>What pattern do you see?</iconp>
 
-![engage-two](./images/engage-two.png)
+- [ ] **Share Out:** Students share the core they identified.
+- [ ] **Challenge** the class to identify the number of times the core repeats in the pattern.
 
-- [ ] **Show** that the sequence of code with 50 jump commands is the same as the sequence of code that tells the robot to repeat the jump command 50 times.
+<iconp type='question'>How many times does the core repeat?</iconp>
 
-## 2. Explore: Find the Pattern (10 min)
-- [ ] **Show** pixelBot challenge number one and have the class help you write the code.
- >>“In this challenge we want to get our pixelBot to the square that the arrow is pointing to.”
+- [ ] **Share Out:** Students share the number of times the core repeats.
 
-<iconp type='question'>What directions should we code?</iconp>
+![engage](./images/engage.png)
 
-![explore-one](./images/explore-one.png)
+## 2. Explore: pixelBot Patterns (4 min)
+- [ ] **Challenge** the class to identify a pattern in the pixelBot video.
 
-- [ ] **Challenge** the class to identify what is repeating in the code and the number of times it repeats?
+- [ ] **Show** the pixelBot video.
 
-<iconp type='question'>What direction is being repeated in this code?
-How many times does it repeat?</iconp>
+- [ ] **Turn and Talk:** Students discuss the pattern they identified in the video.
 
-- [ ] **Explain** that just like in the robot game it is possible to repeat directions.
->>“Just like in our jumping robot game, we can tell our computer to repeat code instead of writing same line or lines of code over and over again.”
+<iconp type='question'>What pattern did you see in the video?</iconp>
 
-- [ ] **Demonstrate** how to repeat code using the loop block.
- >>“To tell our computer to repeat code we write it in a loop. First we select the code we want to repeat. Then we click the loop block and select the number of times we want the computer to repeat it.”
+- [ ] **Share Out:** Students share the pattern they identified in the video.
 
-![explore-two](./images/explore-two.png)
+- [ ] **Show** students the sequence of code that directed the bot’s movement in the video.
+- [ ] **Challenge** the class to identify a pattern in the sequence of code.
 
-- [ ] **Show** challenge number two and have the class help you write the code.
->>“In this challenge we want our pixelBot to paint a line of 3 squares.”
+![explore](./images/explore.png)
 
-<iconp type='question'>What directions should we code?</iconp>
+<iconp type='question'>What pattern do you see in the code?</iconp>
 
-![explore-three](./images/explore-three.png)
+## 3. Explain: Patterns in Code (10 min)
+- [ ] **Explain** that the images the bot colored are a representation of patterns in the code.
+>> “In pixelBot we can create patterns in our bot's actions by coding patterns in the directions we give it. In the last video we saw a pattern that our bot painted because someone coded a pattern in its directions."
 
-- [ ] **Challenge** the class to identify the portion of the code that is repeating and the number of times it repeats on the board.
+- [ ] **Challenge** the class to identify a pattern in the next video.
+>> “In the next video we are going to try to find a pattern in the bot's actions. Then we are going to try to find a matching pattern in the code.”
 
-<iconp type='question'>What direction in this code can be repeated?
-How many times does it repeat?</iconp>
+- [ ] **Show** the pixelBot video.
 
-- [ ] **Record** student responses by circling the core of the pattern and writing down the number of times it repeats.
+- [ ] **Discuss** the patterns that students saw in the video.
 
-- [ ] **Challenge** the class repeat the code the correct number of times with the loop block.
+![explain](./images/explain.png)
 
-- [ ] **Turn and Talk:** Students share what they did to repeat the code with a partner.
+<iconp type='question'>What was the pattern in the way the bot moved?</iconp>
+<iconp type='question'>How many times did the bot repeat that pattern?</iconp>
 
-<iconp type='question'>What did you do to repeat the code?</iconp>
+- [ ] **Show** the class the the code the bot acted out.
 
-- [ ] **Share Out:** Students share out what they did to repeat the code.
+- [ ] **Discuss** the patterns that students see in the code.
 
-![explore-four](./images/explore-four.png)
+<iconp type='question'>What pattern do you see in the code?</iconp>
+<iconp type='question'>How many times does the core of the pattern repeat?</iconp>
 
-## 3. Explain: Repeat the Pattern (5 min)
-- [ ] **Explain** the sequence of steps students should follow to write a loop.
-	1. *Write* a sequence of code.
-	2. *Find* the number of times the pattern repeats.
-	3. *Repeat* the core of the pattern.
+- [ ] **Model** completing problem number one on the patterns worksheet and have students copy the answer.
+>> “The directions in this code are up, left, up, left. It looks like the core is up, left. To show that this is the repeating sequence I am going to box it. Then I will box the next two blocks that continue the pattern. Now that I’ve boxed them all, I will count the number of boxes I made to show the number of times the core repeats and write the number at the top.”
 
-- [ ] **Model** how to follow the series of steps to write a loop using pixelBot challenge number three.
+- [ ] **Guided Practice:** The class works together to identify the core in problem number two.
+>> “Let’s say the directions we see in this sequence out loud together. Right, down, right, down, right, down.”
 
-- *Write* a sequence of code.
->> “To solve this challenge my pixelBot needs to move right, paint, right, paint, right, paint.”
+<iconp type='question'>What is the core of this pattern?</iconp>
 
-- *Find* the number of times the core of the pattern repeats.
->> “The core of the pattern is move right and paint and it repeats 3 times."
+- [ ] **Guided Practice:** The class works together to find the number of times the core repeats in the code.
+>> “Let’s put a box around the first sequence that shows right and left and then do the same for all of the following right-down sequences.”
 
-- *Repeat* the core of the pattern.
->>“Instead of coding move right and paint three times I can tell the computer to repeat those two lines of code 3 times. To repeat my code I will select the lines I want repeated and then click the loop block. The loop block tells the computer to repeat the code. Next I will select the number 3 to show that the code inside of the loop repeats 3 times. The last thing I will do is delete the code that I no longer need.”
+![explaining](./images/explain-two.png)
 
-- [ ] **Guided Practice:** Have the class work together to solve pixelBot challenge number four.
+<iconp type='question'>How many times does the core repeat?</iconp>
 
-- *Write* a sequence of code.
->> “To solve this challenge we have to paint two squares."
+## 4. Elaborate: Independent Practice (12 min)
+- [ ] **Independent Practice:** Students work on the patterns worksheet independently.
 
- <iconp type='question'>What should I code?</iconp>
-
-- *Find* the number of times the core of the pattern repeats.
->>"Next we have to find the core of the pattern we coded."
-
-<iconp type='question'>What is the core of the pattern we coded?</iconp>
-
-- *Repeat* the core of the pattern.
-
-	<iconp type='question'>How many times does the core of the pattern repeat?</iconp>
-	<iconp type='answer'>The core of the pattern repeats 2 times.</iconp>
->>“Next we select the lines of code that make up the core of the pattern and click the loop block. Finally we write the number two in the blank space to show that the code will be repeated twice and delete the remaining blocks.”
-
-## 4. Elaborate: pixelBot Loops (10 min)
-- [ ] **Independent Practice:** Students complete a series of coding challenges on pixelBot.
 - [ ] **Monitor** the room for students in need of additional assistance.
-- [ ] **Review** 2-3 challenges whole group.
-- [ ] **Debrief** the lesson.  
+
+- [ ] **Review** 2-3 problems from the worksheet.
+
+- [ ] **Debrief** the lesson.
+
+<iconp type='question'>What did we learn to do today?</iconp>
+<iconp type='answer'>Today we learned how to find patterns in our code and identify the number of times they repeat.</iconp>
+
 
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1f2ClHjwH3Iabu3DuI8YCBb9mKYMQmzznpzofZ9wG5II/edit#slide=id.p
-[loops]: http://www.pixelbots.io/XBPDG
-[writing]: http://www.pixelbots.io/V86L9
+[slides]:https://docs.google.com/presentation/d/1IF7LIc89084H5o6ADTDlLF7wa-EL0sVVGyAVNJMAKIU/edit#slide=id.g1ef20f4d27_0_37
+[work]: https://drive.google.com/file/d/0B48_2vIyABioWTBQbFJ1em15MjQ/view

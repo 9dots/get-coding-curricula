@@ -1,16 +1,16 @@
-<header class='header' title='Independent Coding Challenge' subtitle='Lesson 14'/>
+<header class='header' title='Review' subtitle='Lesson 14'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 14 students take the Independent Coding Challenge.
+In lesson 13 students review in preparation for Independent Coding Challenge I.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - All objectives from lessons 1-12.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: I Have a Challenge for You (2 min)
-1. Evaluate: ICC I (28 min)
+1. Engage: I Have a Challenge for You (4 min)
+1. Elaborate/Evaluate: Practice ICC (26 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -21,13 +21,15 @@ In lesson 14 students take the Independent Coding Challenge.
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] Playlist: Independent Coding Challenge I | Code:
+- [ ] Playlist: 1.13 Practice | Code:
+- [ ] Playlist: 1.13 Bonus | Code:
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Code:** A set of instructions designed to be carried out by a computer.</note>
+- **Code:** A set of instructions designed to be carried out by a computer.
 - **Sequence:** A set of actions that must be performed in the order they are written.
 - **Bug:** An error in code.
 - **Debugging:** Finding and fixing errors in code
+</note>
 <pagebreak/>
 
 ## Room Design
@@ -44,17 +46,19 @@ In lesson 14 students take the Independent Coding Challenge.
 
 <pagebreak/>
 
-## 1. Engage: I Have a Challenge for You (2 min)
-- [ ] **Call and Response:** Have students do the "I Have a Challenge for You" call and response from the review lesson.
+## 1. Engage: I Have a Challenge for You (4 min)
+-  [ ] **Call and Response:** Teach students the call and response. Teacher says: “I have a challenge for you.” Students say: “Bring it, bring it.”
+>>“Before we get started I’m going to teach you a call and response. Whenever you hear me say ‘I have a challenge for you’, you will respond ‘Bring it, bring it’. Let’s try it. ‘I have a challenge for you’ … (students respond ‘Bring it, bring it.’)”
 
-- [ ] **Challenge** the class to do their best during the Independent Coding Challenge.
-"Coders, today we get to use our new coding skills during the Independent Coding Challenge! Let's do our best to show off everything we learned during our first 13 lessons. Let's get coding!"
+- [ ] **Motivate:** introduce our challenges for today.
+>>“You have learned so much as coders since we started our coding lessons. Today you get a chance to apply all of your coding skills to tackle a series of challenges."
 
-## 2. Evaluate: ICC I (28 min)
-- [ ] **Assess:** Have students take the Independent Coding Challenge.
+## 2. Elaborate/Evaluate: Practice ICC (26 min)
+- [ ] **Practice:** Have students take the practice Independent Coding Challenge.
 
-- [ ] **Monitor** the class for students with clarifying questions.
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Small Group Practice:** If necessary pull a small group of students to work with you on the practice ICC.
 
 - [ ] **Extension:** Have students who finish early work on the bonus playlist.
-
 </notable>
