@@ -8,11 +8,11 @@ Lesson 3 builds on lesson two by introducing the skill of reading code with navi
 - I can step through a sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda (45 min)</iconp>
-1. **Engage:** Challenge (5 mins)
-1. **Explore:** Treasure Map (10 mins)
-1. **Explain:** Stepping Through (5 mins)
-1. **Elaborate:** PixelBot Practice (20 mins)
-1. **Evaluate:** Debrief (5 mins)
+1. Engage: Challenge (5 mins)
+1. Explore: Treasure Map (10 mins)
+1. Explain: Stepping Through (5 mins)
+1. Elaborate: PixelBot Practice (20 mins)
+1. Evaluate: Debrief (5 mins)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
