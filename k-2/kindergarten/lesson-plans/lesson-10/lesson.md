@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 11 students practice debugging code by removing unwanted lines of code.
+In lesson 10 students practice debugging code by removing unwanted lines of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 

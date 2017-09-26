@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 12 students practice debugging code by adding missing lines of code.
+In lesson 13 students practice debugging code by adding missing lines of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 

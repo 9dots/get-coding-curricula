@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 13 students review in preparation for Independent Coding Challenge I.
+In lesson 25 students review in preparation for Independent Coding Challenge I.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - All objectives from lessons 1-24.

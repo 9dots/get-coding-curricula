@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 8 students continue debugging by identifying locations where code is missing. Students step through the sequence of code, identify where a line of code is missing, and add the missing code.
+In lesson 12 students continue debugging by identifying locations where code is missing. Students step through the sequence of code, identify where a line of code is missing, and add the missing code.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>

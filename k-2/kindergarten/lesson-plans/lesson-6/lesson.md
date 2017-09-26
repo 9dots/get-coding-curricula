@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 5 students begin writing code on the the PixelBot platform.
+In lesson 6 students begin writing code on the the PixelBot platform.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 

@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 9 students tackle increasingly complex coding challenges that require writing longer solutions.
+In lesson 11 students tackle increasingly complex coding challenges that require writing longer solutions.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can write a 6-10 line sequence of code.

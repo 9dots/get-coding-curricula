@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn that in addition to summarizing a sequence of code as a whole, smaller chunks of code within that sequence can also be summarized.
+Lesson 24 builds on lesson 11’s introduction to summarizing. Students learn that in addition to summarizing a sequence of code as a whole, smaller chunks of code within that sequence can also be summarized.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>

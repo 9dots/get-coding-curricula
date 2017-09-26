@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 6 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.
+In lesson 7 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 

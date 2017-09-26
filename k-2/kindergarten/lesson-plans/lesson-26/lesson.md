@@ -2,10 +2,10 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 14 students take the Independent Coding Challenge.
+In lesson 26 students take the Independent Coding Challenge.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- All objectives from lessons 1-25.
+- All objectives from lessons 1-24.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
@@ -21,7 +21,7 @@ In lesson 14 students take the Independent Coding Challenge.
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] Playlist: Independent Coding Challenge I | Code: 
+- [ ] Playlist: Independent Coding Challenge I | Code:
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Code:** A set of instructions designed to be carried out by a computer.</note>

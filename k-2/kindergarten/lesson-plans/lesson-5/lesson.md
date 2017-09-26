@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 4 students practice reading code by stepping through it one line at a time on PixelBots.
+In lesson 5 students practice reading code by stepping through it one line at a time on PixelBots.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through a 6-10 line sequence of code.

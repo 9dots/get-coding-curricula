@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 11 students are introduced to summaries. Students practice summarizing code by stepping through pixelBot sequences that produce images on a grid. Students use the images and summarize them verbally using sentence stems.
+In lesson 23 students are introduced to summaries. Students practice summarizing code by stepping through pixelBot sequences that produce images on a grid. Students use the images and summarize them verbally using sentence stems.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can summarize my code.

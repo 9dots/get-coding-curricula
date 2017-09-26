@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 18 students learn to write loops on the pixelBot platform. Students use their ability to identify the core of a pattern and the number of times it repeats to refactor sequences of code with loops.
+In lesson 19 students learn to write loops on the pixelBot platform. Students use their ability to identify the core of a pattern and the number of times it repeats to refactor sequences of code with loops.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can loop a sequence of code.

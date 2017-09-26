@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 17 students learn to identify patterns and the number of times their core repeats in the context of pixelBot code. The lesson begins with the class making connections between a pattern in the movements of a pixelBot and a pattern in its corresponding code. Students then learn to identify the core of a pattern and the number of times it repeats in a sequence of code.
+In lesson 18 students learn to identify patterns and the number of times their core repeats in the context of pixelBot code. The lesson begins with the class making connections between a pattern in the movements of a pixelBot and a pattern in its corresponding code. Students then learn to identify the core of a pattern and the number of times it repeats in a sequence of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can identify a pattern in my code.

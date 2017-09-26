@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 16  students learn to identify the number of times the core repeats within a pattern through decomposition. The lesson begins with a review of identifying the core of a pattern. Students then explore decomposing color patterns with omnifix cubes and practice with a worksheet.
+In lesson 17  students learn to identify the number of times the core repeats within a pattern through decomposition. The lesson begins with a review of identifying the core of a pattern. Students then explore decomposing color patterns with omnifix cubes and practice with a worksheet.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can decompose a pattern to identify the number of times its core repeats.
