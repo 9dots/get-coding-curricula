@@ -75,7 +75,7 @@ Follow up questions:
 >>"The blue code block with the square tells the PixelBot to paint a square. Whenever you see that block it means the PixelBot has to paint the square it is standing on. We can do this by clicking the paint bucket underneath the grid."
 
  - [ ] **Model** solving the demo challenge for the class.
- >>"Let's see what the PixelBot paints. ________________________________"
+ >>"Let's see what the PixelBot paints. The code says to move up first, so I'll click the up arrow on the purple buttons. The code says that the second thing the PixelBot should do is move right, so I'll click the right arrow. The last thing the code says I should do is paint the square the PixelBot is standing on. To paint I will click the green paint bucket button."
 
 ## 2. Explore: Try It Out (5 min)
 **Location:** Desks
@@ -102,7 +102,7 @@ Follow up questions:
 <iconp type='question'>What did the PixelBot paint?</iconp>
 
 - [ ] **Model** solving challenge number 1.
->>"Let's see what the PixelBot paints. ________________________________"
+ >>"Let's see what the PixelBot paints. The code says to move to the right first. I'll click the right arrow  button to make the PixelBot move to the right. The next line of code says to do the same thing again, so I will click the same button to move my PixelBot. The last thing the code tells my PixelBot to do is paint, so I will click the paint bucket button to paint the square black."
 
 ## 4. Elaborate/Evaluate: PixelBot Practice (12 min)
 **Location:** Desks
@@ -115,6 +115,6 @@ Follow up questions:
 </notable>
 
 [demo]: http://www.pixelbots.io/4JGMN
-[slides]:
+[slides]: https://drive.google.com/open?id=1-TZrMNiB66d6qanLWJz9y5yP-KKYO4D3rH5J5hUt4C4
 [playlist]: http://www.pixelbots.io/QD3N7
 [extension]: http://www.pixelbots.io/8RYD5
