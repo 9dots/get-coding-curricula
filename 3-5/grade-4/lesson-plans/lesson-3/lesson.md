@@ -30,8 +30,8 @@ In this lesson, students will become more proficient in debugging code. They wil
 - [ ] [Worksheet: Penguin Debugging][worksheet]
 - [ ] [Worksheet: Types of Bugs][bugs]
 - [ ] [Playlist: 4.03 Practice | Code: 4J2P6][practice]
-- [ ] [Playlist: 4.03 Exit Ticket | Code: R64DD][exit]
-- [ ] [Playlist: 4.03 Bonus | Code: 4JO27][extension]
+- [ ] [Playlist: 4.03 Exit Ticket | Code: 4JO27][exit]
+- [ ] [Playlist: 4.03 Bonus | Code: R64DD][extension]
 
 </note>
 
@@ -113,5 +113,5 @@ Each of you has discovered a different type of bug!” (Define bug and debug.)
 [worksheet]: https://drive.google.com/open?id=1jmXt4w6oVO_3FtWSTRilLGxl1K6OgVskJL2MAKp-Y0U
 [bugs]: https://drive.google.com/open?id=1UauKgtEJR8mYRoKNlV_jlZwlBU-MXHifmFI55VfTO40
 [practice]:http://www.pixelbots.io/4J2P6
-[exit]:http://www.pixelbots.io/R64DD
-[extension]: http://www.pixelbots.io/4JO27
+[exit]: http://www.pixelbots.io/4JO27
+[extension]: http://www.pixelbots.io/R64DD
