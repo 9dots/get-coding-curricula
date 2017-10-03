@@ -82,7 +82,7 @@ Follow up questions:
 <iconp type='question'>What did the PixelBot paint?</iconp>
 
 - [ ] **Model** solving challenge number 1.
->>"Let's see what the PixelBot paints. ________________________________"
+>>"Let's see what the PixelBot paints. The code says to move up and paint. Then it says to move up and paint again. Next, it says to move to the right and paint. Finally, it says to move down and paint. It looks like this code tells the PixelBot to paint a square."
 
 - [ ] **Unpack** the challenge 2 as a class.
 
@@ -105,6 +105,6 @@ Follow up questions:
 - [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 </notable>
 
-[slides]:
+[slides]: https://drive.google.com/open?id=1LutKKN8-DqBbBUF1imG7uPMeWcdXkSw2lLcBcTYwGeU
 [playlist]: http://www.pixelbots.io/POX53
 [extension]: http://www.pixelbots.io/GZYXF
