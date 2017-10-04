@@ -9,7 +9,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 - I can step through and act out code that contains a loop.
 - I can predict the effects of code that contains a loop.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
 
 1. **Engage:** Observe & Unpack (8 min)
 2. **Explore:** Try It Out (7 min)
