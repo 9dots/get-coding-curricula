@@ -12,10 +12,10 @@ Students learn to read code with loops by stepping through one block at a time. 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 1. **Engage:** Observe & Unpack (8 min)
-2. **Explore:** Try It Out (2 min)
+2. **Explore:** Try It Out (7 min)
 3. **Explain:** Loops (15 min)
 4. **Elaborate:** PixelBot Practice (20 min)
-5. **Evaluate:** Exit Challenge & Debrief (15 min)
+5. **Evaluate:** Exit Challenge & Debrief (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
