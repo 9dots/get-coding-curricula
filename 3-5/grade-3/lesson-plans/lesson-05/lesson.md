@@ -3,32 +3,33 @@
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students explore and predict how they can use loops to more efficiently write code. Allow students to discover the need for loops in the explore activity. Encourage students to make connections between loops and the real world in the elaborate activity.
+Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide a PixelBot's movements as it paints a grid.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-
-- I can rewrite a repeating sequence with a loop.
+- I can step through and act out code that contains a loop.
+- I can predict the effects of code that contains a loop.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** Multiple Solutions (3 min)
-2. **Explore:** Discovering Loops (12 min)
-3. **Explain:** Loops (5 min)
-4. **Elaborate:** Loops in the Real World (10 min)
-5. **Evaluate:** Exit Challenge (15 min)
+1. **Engage:** Observe & Unpack (8 min)
+2. **Explore:** Try It Out (2 min)
+3. **Explain:** Loops (15 min)
+4. **Elaborate:** PixelBot Practice (20 min)
+5. **Evaluate:** Exit Challenge & Debrief (15 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher Materials:
-- [ ] [Slide Show][slide-show]
+- [ ] Computer
 - [ ] Projector
-- [ ] Floor Grid
-- [ ] [Socrative Quiz][soc]
+- [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: getCoding 3.5 | Code: YZOWD][playlist]
+- [ ] [Playlist: 3.05 Practice| Code: YZOWD][playlist]
+- [ ] [Playlist: 3.05 Bonus| Code: 4QKKD][extension]
+- [ ] [Playlist: 3.05 Exit| Code: X2X2E][exit]
 
 </note>
 ## Room Design
@@ -41,74 +42,81 @@ Students explore and predict how they can use loops to more efficiently write co
 </note>
 
 <pagebreak/>
-## 1. Engage: Multiple Solutions (5 min)
-- [ ] **Challenge** the class to complete the first pixelBot challenge in the playlist.
->> “In today’s opening challenge we are going to code a sequence that paints the image you see on the board. You will have 1 minute to try to code your solution.”
+## 1. Engage: Observe & Unpack (8 min)
+- [ ] **Introduce** challenge 1 in the practice playlist.
+>> "Coders, today we are going to start with a new type of challenge. I want you to take the next 20 seconds to observe the challenge on the board. After the 20 seconds are up, I want you to raise your hand to share out anything you notice about it."
 
-<note>![challenge](./images/challenge.png)</note>
+- [ ] **Unpack** the challenge as a class by asking the questions below.
 
-- [ ] **Share:** Have a volunteer share his/her solution verbally and code it as he/she shares. Run the code to check if it is valid.
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What do you notice about the code?</iconp>
+  <iconp type='question'>What code blocks do you notice?</iconp>
+  <iconp type='question'>Where is the PixelBot located on the grid?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Are there any new buttons you notice?</iconp>
 
-## 2. Explore: Discovering Loops (10 min)
-- [ ] **Challenge** the class to solve the same coding challenge with only 4 lines of code.
->> “There are multiple ways to solve the same coding challenge. Try solving the same challenge you just solved using only 4 lines of code."
+<note type='tip'>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make relevant observations. Ideally, this process is being increasingly internalized by the students each time it is done.
 
-- [ ] **Share:** Students share problems they encountered while trying to come up with a solution.
+  By the end of this activity students should be aware of the:
+  - the loop block in the code
+  - the number in the argument attached to the loop block
+  - the argument found in the loop block
+  - location and orientation of the PixelBot on the grid
+  - presence of the read controls in below the grid</note>
 
-<iconp type='question'>What problems did you have while trying to complete the challenge with only 4 lines of code?</iconp>
+## 2. Explore: Try It Out (7 min)
+- [ ] **Explain** that the loop block repeats the code nested inside.
+>>"This new block repeats the code inside of it by the number you see next to it. This means that the code inside of this block will repeat 2 times. If I were to step through this code to act it out, I would step through it once and then go back to the top and do it all over again because the block says to that it should be acted out 2 times."
 
-- [ ] **Challenge** the class again to solve the challenge with only 4 lines of code. This time have them click *Next* to challenge number 2. Make no reference to the loop block found in this challenge. Students should discover this on their own and explore what it does.
->>"We are going to try to solve this challenge again using only 4 lines of code. Click *Next* to get to challenge number 2 and try to code a solution there."
+- [ ] **Challenge** the class to step through the code using the new controls under the grid.
+>>"In this challenge we are going to use the new controls under the grid to step through the code like we did with Rover a few lessons ago. We can use the purple buttons to the move our PixelBot. When the code says to paint we can paint by clicking the green paint bucket below the grid. Remember that this code should be stepped through 2 times. Let's give it a try to see what the PixelBot paints!"
 
-- [ ] **Turn and Talk:** Students discuss the approach they took to solve the challenge.
+## 3. Explain: Loops (15 min)
+- [ ] **Share Out:** Have student volunteers share out what they found the PixelBot painted.
+<iconp type='question'>What did the PixelBot paint?</iconp>
 
-<iconp type='question'>Were you able to find a solution? What did you try this time?</iconp>
 
-- [ ] **Share:** Volunteers share what they discussed during the Turn and Talk along with their code. Write the code that is shared in the pixelBot editor in order to validate it.
+- [ ] **Model** stepping through the code.
 
-## 3. Explain: Loops (5 min)
+- [ ] **Think, Pair, Share:** Have students discuss the question below.
+<iconp type='question'>Why do you think this type of code is useful?</iconp>
 
-- [ ] **Predict & Define:** Ask students for their prediction of what each loop does before you reveal its purpose.
 
-<iconp type='question'>For each loop: What do you think this loop will do?</iconp>
-![for-each](./images/for-each.png)
-<iconp type='answer'>Loop Forever: Repeats the nested sequence forever</iconp>
-<iconp type='answer'>Loop Until _____: Repeats the nested sequence until an action happens</iconp>
-<iconp type='answer'>Loop ____: Repeats the nested sequence that number of times</iconp>
-> > "These structures are called loops. Loops are powerful tools for coders! With loops we don’t have to write a sequence of code over and over to make it repeat. Everybody say 'loop'."
+- [ ] **Explain** that the new code block is called a loop and demonstrate why it is useful.
+>>"The new code block we discovered today is called a loop. Loop blocks help us code because they allow us to repeat code without having to write things over and over again. For example, if I wanted my PixelBot to move 10 times I would have to write 10 lines of code. With the loop block I can simply put a loop block around a move block and tell it to repeat 10 times. This shortens my code to 2 lines!"
 
-<note>![slides-loops](./images/loop.png)</note>
+- [ ] **Unpack** challenge 2 in the practice playlist as a class.
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What do you notice about the code?</iconp>
+  <iconp type='question'>What code blocks do you notice?</iconp>
+  <iconp type='question'>Where is the PixelBot located on the grid?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Are there any new buttons you notice?</iconp>
 
-## 3. Elaborate: Loops in the Real World (10 min)
+- [ ] **Challenge** the class to step through the code to see what it paints.
 
-- [ ] **Making Connections:** Have students identify the type of loop you would use for each of the examples below.
+- [ ] **Share Out:** Have student volunteers share out what they found the PixelBot painted.
+<iconp type='question'>What did the PixelBot paint?</iconp>
 
-> > "Loops are everywhere. Let's look at some examples from our life and identify which type of loop you could use to code each example."
+## 4. Elaborate: PixelBot Practice (20 min)
 
-| Example                                          | Loop                              |
-| -------------------------------------------------|-----------------------------------|
-| The School Week                                  | Repeat Until Summer Break         |
-| The Seasons                                      | Forever                           |
-| Washing Dishes                                   | Repeat Until No More Dirty Dishes |
-| Riding the Tower of Terror 5 Times               | Repeat 5                          |
-| Riding The Tower of Terror Until the Park Closes | Repeat Until Park Closes          |
+- [ ] **Challenge** the class to complete the PixelBot playlist.
 
-<note>![slides](./images/slide.png)</note>
+- [ ] **Monitor** the class to for students in need of additional assistance.
 
-- [ ] **Think Pair Share:** What other examples of loops can you come up with?
+- [ ] **Extension:** If students finish early, have them work on the bonus playlist.
 
-## 4. Evaluate: Exit Challenge (15 min)
+- [ ] **Review** challenges 3 and 5 as a class.
 
-- [ ] **Socrative:** Students independently complete an exit challenge on Socrative. Remember to give them the Room Name. If there is time, review the answers as a class.
+## 5. Evaluate: Exit Challenge & Debrief (10 min)
+- [ ] **Exit Challenge:** Have students complete the 2 challenges in the exit playlist.
 
-> > "For our closing challenge today we are going to login to Socrative to complete some challenge questions about Loops."
-
-<note> ![slides-soc1](./images/slides-soc1.png)
-</note>
+- [ ] **Debrief** the lesson as a class.
+<iconp type='question'>**What was challenging about reading code with loops?**</iconp>
 
 </notable>
 
-
-[slide-show]: https://docs.google.com/presentation/d/1jL7NYRgsPv6lLfbZWlGXswVTtAdwRlEmuKTKH4vvKok/edit?usp=sharing
+[slide-show]: https://drive.google.com/open?id=1DdSC3FRrS1O2TAaMJaQoWvUxRxFSsw6jGmjMwjyGrkA
 [playlist]: http://www.pixelbots.io/YZOWD
-[soc]: https://b.socrative.com/teacher/#import-quiz/28442633
+[extension]: http://www.pixelbots.io/4QKKD
+[exit]: http://www.pixelbots.io/X2X2E
