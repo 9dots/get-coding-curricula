@@ -9,13 +9,13 @@ Students learn to read code with loops by stepping through one block at a time. 
 - I can step through and act out code that contains a loop.
 - I can predict the effects of code that contains a loop.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
 
 1. **Engage:** Observe & Unpack (8 min)
-2. **Explore:** Try It Out (2 min)
+2. **Explore:** Try It Out (7 min)
 3. **Explain:** Loops (15 min)
 4. **Elaborate:** PixelBot Practice (20 min)
-5. **Evaluate:** Exit Challenge & Debrief (15 min)
+5. **Evaluate:** Exit Challenge & Debrief (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -83,7 +83,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 
 - [ ] **Explain** that the new code block is called a loop and demonstrate why it is useful.
->>"The new code block we discovered today is called a loop. Loop blocks help us code because they allow us to repeat code without having to write things over and over again. For example, if I wanted my PixelBot to move 10 times I would have to write 10 lines of code. With the loop block I can simply put a loop block around a move block and tell it to repeat 10 times. This shortens my code to 2 lines!"
+>>"The new code block we discovered today is called a loop. Loop blocks help us code because they allow us to repeat code without having to write things over and over again. For example, if I wanted my PixelBot to move 9 times I would have to write 9 lines of code. With the loop block I can simply put a loop block around a move block and tell it to repeat 10 times. This shortens my code to 3 lines!"
 
 - [ ] **Unpack** challenge 2 in the practice playlist as a class.
 <iconp type='question'>**What do you notice about this challenge?**</iconp>
