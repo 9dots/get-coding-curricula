@@ -55,14 +55,12 @@ Students learn to read code with loops by stepping through one block at a time. 
   <iconp type='question'>Which way is the PixelBot facing?</iconp>
   <iconp type='question'>Are there any new buttons you notice?</iconp>
 
-<note type='tip'>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make relevant observations. Ideally, this process is being increasingly internalized by the students each time it is done.
+<note type='tip'>Asking students what they notice about the challenge allows teachers to tap into a student’s previous knowledge and to help guide students in making relevant observations. This question is purposefully repeated in numerous getCoding lessons as students become more familiar with observing, reflecting, and sharing their ideas.
 
-  By the end of this activity students should be aware of the:
-  - the loop block in the code
-  - the number in the argument attached to the loop block
-  - the argument found in the loop block
-  - location and orientation of the PixelBot on the grid
-  - presence of the read controls in below the grid</note>
+By the end of this activity, students should be away of:
+  - the types of blocks found in the code
+  - the amount of code in the editor
+  - the location and orientation of the PixelBot</note>
 
 ## 2. Explore: Try It Out (7 min)
 - [ ] **Explain** that the loop block repeats the code nested inside.
@@ -83,7 +81,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 
 - [ ] **Explain** that the new code block is called a loop and demonstrate why it is useful.
->>"The new code block we discovered today is called a loop. Loop blocks help us code because they allow us to repeat code without having to write things over and over again. For example, if I wanted my PixelBot to move 9 times I would have to write 9 lines of code. With the loop block I can simply put a loop block around a move block and tell it to repeat 10 times. This shortens my code to 3 lines!"
+>>"The new code block we discovered today is called a loop. Loop blocks help us code because they allow us to repeat code without having to write things over and over again. For example, if I wanted my PixelBot to move 9 times I would have to write 9 lines of code. With the loop block I can simply put a loop block around a move block and tell it to repeat 9 times. This shortens my code to 3 lines!"
 
 - [ ] **Unpack** challenge 2 in the practice playlist as a class.
 <iconp type='question'>**What do you notice about this challenge?**</iconp>
