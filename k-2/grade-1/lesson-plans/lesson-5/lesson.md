@@ -102,6 +102,8 @@ In Lesson 5, students move on from deleting unwanted lines of code to adding in 
 
 - [ ] **Extension:** Have students who finish early work on the PixelBot bonus playlist.
 
+<note type='tip'>Check challenges 3 and 4 in the practice playlist to track student progress.</note>
+
 ## 5. Evaluate: Debrief (5 mins)
 - [ ] **Discuss** the question below as a class.
 

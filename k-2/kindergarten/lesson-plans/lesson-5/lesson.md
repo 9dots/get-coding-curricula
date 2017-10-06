@@ -103,6 +103,9 @@ Follow up questions:
 - [ ] **Monitor** the class for students in need of additional assistance.
 
 - [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
+
+<note type='tip'>Check challenges 3 and 4 in the practice playlist to track student progress.</note>
+
 </notable>
 
 [slides]: https://drive.google.com/open?id=1LutKKN8-DqBbBUF1imG7uPMeWcdXkSw2lLcBcTYwGeU
