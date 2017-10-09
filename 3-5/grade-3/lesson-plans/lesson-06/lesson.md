@@ -1,130 +1,103 @@
-<header class='header' title='Rover Paint' subtitle='Lesson 06'/>
+<header class='header' title='Coding Patterns' subtitle='Lesson 06'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide the Rover’s movements as it paints a grid.
+In lesson 6, students begin working towards writing code containing loops by learning to identify patterns in the actions their PixelBot should execute. The actions they identify are then translated into code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can step through and act out code that contains a loop.
-- I can predict the effects of code that contains a loop.
+
+- I can code solutions containing patterns.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: Why Loops (5 min)
-1. Explore: Loops in GIFS (5 min)
-1. Explain: Rover Paint (5 min)
-1. Elaborate: Practice (30 min)
-
+1. **Engage:** Observe & Unpack (8 min)
+2. **Explore:** Try It Out (7 min)
+3. **Explain:** Patterns in Code (15 min)
+4. **Elaborate:** PixelBot Practice (20 min)
+5. **Evaluate:** Reflect (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
-- [ ] Floor Grid
-- [ ] Construction Paper
-- [ ] [Large Rover][large-rover]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Index Cards
-- [ ] Pencils
 - [ ] Computers
-- [ ] [Lesson 6 Handout][lesson-6-handout]
-- [ ] [Rover Cutouts][rover-cutouts]
-- [ ] [Playlist: pixelBots 3.6 | Code: XP5KQ][playlist]
-
+- [ ] [Playlist: 3.06 Practice | Code: XP5KQ][playlist]
+- [ ] [Playlist: 3.06 Bonus | Code: 533FX][extension]
 </note>
 
 ## Room Design
 ![room](/images/layout-rows.png)
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
-- **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
-
+- **Code:** A set of instructions designed to be carried out by a computer.
+- **Sequence:** A set of actions that must be performed in the order they are written.
 </note>
 
-## 1. Engage: Why Loops? (5 min)
+## 1. Engage: Observe & Unpack (8 min)
+- [ ] **Introduce:** challenge 1 in the practice playlist.
+>>"Today, we are going to start with a PixelBot coding challenge. Take the next 20 seconds to observe the challenge on the board."
 
-- [ ] **Engaging Prior Knowledge:** Students connect loops from previous lesson to simplify a long sequence of code.
+- [ ] **Unpack** challenge number 1 as a class.
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What is the goal of the challenge?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Where is the PixelBot on the grid?</iconp>
+  <iconp type='question'>What code blocks are available for us to use?</iconp>
 
-> > “Let’s read Rover’s code together.”
+## 2. Explore: Try It Out (7 min)
+- [ ] **Challenge** the class to code a solution to the challenge.
 
-<iconp type="question">Is there another way to write this code? </iconp>
-<iconp type="answer"> Hint to last week’s lesson to get students to suggest using a repeat loop.</iconp>
-<iconp type="question">Do both set of instructions get Rover to the goal?  </iconp>
-<iconp type="answer">Yes </iconp>
-<iconp type="question">Then what is the benefit of using a loop to write this code?  </iconp>
-<iconp type="answer">A loop requires less lines of code. </iconp>
+- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
 
-<note>**Slides:** <br/>
-![slides](./images/slides-one.png)
-</note>
+- [ ] **Monitor** students as they work. Look for students who can be called on to share their code. Priority should be placed on finding a student who codes a solution containing a pattern.
 
-## 2. Explore: Loops in GIFs (5 min)
+<note type='tip'>If no students code a solution containing a pattern, the Explain phase of the lesson contains an opportunity to model a solution containing a pattern.</note>
 
-- [ ] **Making Connections:** Students see how loops apply to something they are familiar with: GIFs (an image format that repeats an animation).
+## 3. Explain: Patterns in Code (15 min)
+- [ ] **Share Out:** Have student volunteers share out their solutions with the class. As students share their solutions display their code on the board by accessing it through the PixelBot teacher interface.
 
-> > “Let’s look at some GIFs and see how loops are actually creating the animation we see.”
+- [ ] **Explain** that some challenges can be solved by identifying patterns in the actions the PixelBot should perform and then translating the actions into code.
+>>"Some coding challenges can be solved by coding patterns. This can be helpful when we code because we can simply repeat the code each time we want the PixelBot's actions to repeat."
 
-<iconp type="question">What might the code look like for this GIF?</iconp>
-<iconp type="answer">See code suggestions on slides. Students should nest the action they are seeing inside a loop block.</iconp>
+- [ ] **Model** solving challenge by identifying a pattern in the actions the PixelBot should perform and then coding the solution.
 
-![slides](./images/slides-two.png)
+- [ ] **Unpack** challenge number 2 as a class.
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What is the goal of the challenge?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Where is the PixelBot on the grid?</iconp>
+  <iconp type='question'>What code blocks are available for us to use?</iconp>
+  <iconp type='question'>What pattern do you see in the target grid?</iconp>
 
+- [ ] **Think-Pair-Share:** Have students discuss and share potential patterns in the actions the PixelBot can perform to solve the challenge.
 
-## 3. Explain: Rover Paints (5 min)
+<iconp type='question'>What pattern can the PixelBot perform to solve the challenge?</iconp>
 
-- [ ] **Model** the steps to read a chunk of code that contains a loop. Have students follow along on their handout. Uncover each line of code one at a time using an index card. Make a tally at the end of the sequence to keep track of how many times you’ve repeated the sequence.
+- [ ] **Model** solving the challenge by writing a pattern in the code.
 
-> > “Before we can write the code to make our enemies move like that, we need to know how to read the code. We are going to use our Rovers to practice reading loops. Today your Rover understands a new instruction - Paint. When your Rover sees a Paint block, it will color in the square it is on.”
+## 4. Elaborate: PixelBot Practice (20 min)
+<note type='tip'>Consider pulling a small group of students who need extra support for small group instruction. Use this time to provide extra guidance and solidify understanding.</note>
 
-> > “Use your index card to uncover each line of code one block at a time.”
-Narrate what you’re doing at each step.
-> > “Make a tally mark at the bottom of the loop.”
+- [ ] **Challenge** the class to complete the PixelBot playlist by coding patterns.
 
-<iconp type="question">How many times have I done this sequence? </iconp>
-<iconp type="answer">Read the tally marks </iconp>
-<iconp type="question">How many times do I need to repeat the sequence? </iconp>
-<iconp type="answer">4. </iconp>
-<iconp type="question">Am I done? </iconp>
-<iconp type="answer">yes/no.</iconp>
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-![loop](./images/read-loops.png)
+- [ ] **Extension:** If students finish early, have them work on the bonus playlist.
 
-<note>
-![slides](./images/slides-three.png)</note>
+<note type='tip'>Check challenges 3 and 4 in the practice playlist to track student progress.</note>
 
-## 4. Elaborate: Practice (10 min)
-
-- [ ] **Independent Practice:** Students step through the remaining chunks of code on their paper using the steps you modeled.
-
-- [ ] **Coder & Bot:** Have one coder and bot read and act out the code on the unplugged platform to check their work on each practice problem.
-
-> > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act it out on the foam tiles."
-
-![slides](./images/slides-four.png)
-
-- [ ] **Introduce** students to pixelBots reading challenges in order to continue to practicing stepping through code.
-
->>"Let's login to pixelBots to continue practicing reading code with loops."
-
-- [ ] **Point out** various parts of the platform for students:
->> “Take a look at the code that has already been provided for you. You’re going to use this 	to follow directions. Make sure to read through the number of times the code loops and the code inside the loop. Use your mouse to move the bot through the grid to follow and show the code.”
-
-- [ ] **Show** where to paint a block and where to turn the bot.
-
-- [ ] **Model** how to move the robot through the program using the slideshow. The slideshow will run through the entire first challenge for students.
-
-![elaborate](./images/elaborate-slides.png)
-
-- [ ] **Independent Practice:** Students practice stepping through code on pixelBots.
+## 5. Evaluate: Reflect (10 min)
+- [ ] **Discuss** the questions below as a class.
+<iconp type='question'>How do you feel about what you learned today?</iconp>
+<iconp type='question'>What was the most challenging part about finding patterns to code?</iconp>
 
 </notable>
 
-[large-rover]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view
-[lesson-6-handout]: https://drive.google.com/open?id=0B48_2vIyABioVnNiZHFBNzFNWG8
-[rover-cutouts]: https://drive.google.com/file/d/0B48_2vIyABioNG8tTWZNYmZocFE/view
-[slides]: https://docs.google.com/presentation/d/1k6bOri7DmqbrOy0RGKw3d-xcHLy2ehlLis0xi5iJ4e8/edit?usp=sharing
+[slides]: https://drive.google.com/open?id=11lgoXSSHADMjEmG3Ao6c2yV2p3gUdnBTtThs-a5mQD4
 [playlist]: http://www.pixelbots.io/XP5KQ
+[extension]: http://www.pixelbots.io/533FX
