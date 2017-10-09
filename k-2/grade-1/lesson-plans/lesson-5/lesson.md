@@ -43,7 +43,7 @@ In Lesson 5, students move on from deleting unwanted lines of code to adding in 
 
 - [ ] **Unpack** the challenge as a class.
 
-<iconp type='question'>What do you notice about this challenge?</iconp>
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
   <iconp type='question'>What is the PixelBot supposed to do?</iconp>
   <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
   <iconp type='question'>What color does it need to paint the square?</iconp>
@@ -64,7 +64,7 @@ In Lesson 5, students move on from deleting unwanted lines of code to adding in 
 
 - [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
 
-- [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity. Strategies include using the stepper tool (yellow block), inserting code instead of completely rewriting it, playing the code to see what happens first, planning out the code in the air, etc.
+- [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity. Strategies include using the stepper tool (yellow button), inserting code instead of completely rewriting it, playing the code to see what happens first, planning out the code in the air, etc.
 
 ## 3. Explain: Debugging (12 mins)
 - [ ] **Think, Pair, Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
@@ -80,7 +80,7 @@ In Lesson 5, students move on from deleting unwanted lines of code to adding in 
 
 - [ ] **Unpack** challenge number two as a class.
 
-<iconp type='question'>What do you notice about this challenge?</iconp>
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
   <iconp type='question'>What is the PixelBot supposed to do?</iconp>
   <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
   <iconp type='question'>What color does it need to paint the square?</iconp>
