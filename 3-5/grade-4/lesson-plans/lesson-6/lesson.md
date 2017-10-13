@@ -89,6 +89,6 @@ In this lesson, students will continue to build their code writing skills with m
 
 </notable>
 
-[slides]: https://drive.google.com/open?id=1KO2UgvrxEz52OK_fpMuDjJ4SDsZ0DAQNIgWlcNFuMyU
+[slides]: https://drive.google.com/open?id=1rrhvRzC2EMtH-8dWOcrUZmTMpr0wPQxlgXF_8fbzGXQ
 [practice]: http://www.pixelbots.io/OEM6J
 [extension]: http://www.pixelbots.io/ZNGZP
