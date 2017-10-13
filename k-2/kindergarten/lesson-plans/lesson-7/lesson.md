@@ -27,14 +27,13 @@ In lesson 7 students continue writing code. The complexity of the challenges is 
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: K.06 Practice | Code: QD8W6][playlist]
-- [ ] [Playlist: K.06 Bonus | Code: NQOW7][extension]
-- [ ] [Playlist: K.06 Exit Ticket | Code: MJ282][exit]
+- [ ] [Playlist: K.07 Practice | Code: QD8W6][playlist]
+- [ ] [Playlist: K.07 Bonus | Code: NQOW7][extension]
+- [ ] [Playlist: K.07 Exit Ticket | Code: MJ282][exit]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Sequence** - A set of actions that must be performed in the order they are written.
 - **Code:** A set of instructions designed to be carried out by a computer.
-
 </note>
 
 <pagebreak/>
