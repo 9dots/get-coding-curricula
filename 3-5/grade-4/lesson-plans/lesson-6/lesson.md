@@ -1,18 +1,18 @@
-<header class='header' title='Debugging Loops' subtitle='Lesson 06'/>
+<header class='header' title='In the Loop Part II' subtitle='Lesson 06'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In this lesson, students will begin by analyzing code with a loop to find and fix a bug. Students will then engage in a discussion sharing out the different strategies used. They will identify one bug that they’ve already been exposed to (unwanted code bug) and learn about a new bug (repeat bug). They will solidify the skill of debugging with loops by completing a PixelBots playlist and end the lesson by reflecting on their process of debugging.
+In this lesson, students will continue to build their code writing skills with more rigorous loop challenges. They will begin by identifying the pattern(s) repeated inside a loop block. In Lesson 4.05, student began learning how to read loops, in this lesson, students will begin mastering the skill of writing loops with tricky turns.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can debug a program containing a loop.
+- I can write a program with a loop.
 
 <iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
-1. Engage: Unpacking (8 min)
-1. Explore: Try It Out (7 min)
-1. Explain: Debugging Loops (15 min)
-1. Elaborate: PixelBot Practice (20 min)
-1. Evaluate: Reflection (10 min)
+1. Engage: Unpack (4 mins)
+1. Explore: In the Loop (8 mins)
+1. Explain: Write the Code (13 mins)
+1. Elaborate: PixelBots (20 mins)
+1. Evaluate: Reflection (15 mins)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -25,8 +25,8 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 - [ ] Computer
 - [ ] Pencils
 - [ ] Journals
-- [ ] [Playlist: 4.06 Practice | Code: M92P5][practice]
-- [ ] [Playlist: 4.06 Bonus | Code: M2M7T][extension]
+- [ ] [Playlist: 4.06 Practice | Code: OEM6J][practice]
+- [ ] [Playlist: 4.06 Bonus | Code: ZNGZP][extension]
 
 </note>
 
@@ -40,83 +40,55 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 
 <pagebreak/>
 
-## 1. Engage: Unpacking (8 min)
-- [ ] **Introduce** the first challenge of the day.
->>“Coders, our first challenge of the day is on the board. Take the next 20 seconds to observe the grid, the PixelBot, and the code.”
+## 1. Engage: Unpack (4 min)
+- [ ] **Introduce** today’s lesson and Challenge One by displaying it on the projector.
+>>“Coders, today is our second class writing code with loops. You did some awesome work last week and now it’s time to level up. Today we are going to write code not only with loops, but also with some pretty tricky turns. Take the next 20-30 seconds to observe Challenge One.”
 
-- [ ] **Unpack** the challenge as a class.
+- [ ] **Unpack** the challenge with the class.
 
-<iconp type='question'>**What do you notice about this challenge?**</iconp>
-  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
-  <iconp type='question'>What color does it need to paint the squares?</iconp>
-  <iconp type='question'>Which way is the PixelBot facing? (up, down, left, right)</iconp>
-  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
-  <iconp type='question'>What else do you notice?</iconp>
+<iconp type='question'>**What do you notice?**</iconp>
+<iconp type='question'>What is the goal?</iconp>
+<iconp type='question'>What do we want the pixelbot to do?</iconp>
+<iconp type='question'>What path should the pixelbot take?</iconp>
+<iconp type='question'>Do you see any patterns the pixelbot would have to perform as it paints the image?</iconp>
 
-- [ ] **Discuss** the questions below after executing the code.
+## 2. Explore: In the Loop (8 min)
+- [ ] **Guided Practice:** Have students suggest how to write the code for Challenge One with a loop. Code along on the projector in PixelBots as they share out.
+>>“One thing you should always do when you are writing code with a loop is to look at the PixelBot’s orientation. ‘Orientation’ means the way the PixelBot is facing. We need to make sure that when we get to the code at the end of our loop, the PixelBot is in the right position to start the code from the beginning of the loop again. In this case, the PixelBot needs to start by moving forward two steps at the beginning of each loop. Now let’s see if there is any code we need to add to the end of the loop to make that happen.”
 
-<iconp type='question'>**What did you notice about the PixelBot?**</iconp>
-  <iconp type='question'>What did you want the PixelBot to do?</iconp>
-  <iconp type='question'>What did the PixelBot do instead?</iconp>
+## 3. Explain: Write the Code (13 min)
+- [ ] **Unpack** Challenge Two.
 
-## 2. Explore: Try It Out (7 min)
-- [ ] **Challenge** the students to debug the code without deleting it and rewriting it.
->>“Your challenge in this activity is to fix the code by only changing the part that doesn’t work. You should not delete all of the code and rewrite it.”
+<iconp type='question'>**What do you notice?**</iconp>
+<iconp type='question'>What is the goal?</iconp>
+<iconp type='question'>What do we want the PixelBot to do?</iconp>
+<iconp type='question'>What path should the PixelBot take?</iconp>
 
-- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
+- [ ] **Independent Exploration:** Students log in to PixelBots and write the code for Challenge Two. The goal is for students to write the code with a loop.
 
-- [ ] **Monitor** students as they work. Look for students who can be called on to share their strategy for debugging in the next activity. See “Notes” as a reference for what types of strategies you might look for.
+- [ ] **Share Out:** Have students share their code as you display on the projector using the teacher PixelBots interface.
 
-## 3. Explain: In The Loop (15 min)
-- [ ] **Turn and Talk:** Students share their responses to the questions below with a partner. After each partner has shared, call on pre-selected students from the prior activity to share their strategies.
+<iconp type='question'>**Did you come across any bugs as you wrote the code?**</iconp>
+<iconp type='question'>What was the bug?</iconp>
+<iconp type='question'>How did you fix it?</iconp>
 
-<iconp type='question'>What changes did you make?</iconp>
-<iconp type='question'>How did you know to make those changes?</iconp>
+## 4. Elaborate: PixelBots (20 min)
+- [ ] **Independent Exploration:** Students complete 4.06 practice playlist on PixelBots.
 
-- [ ] **Introduce** the idea that there are multiple strategies students might use to solve a problem. Jot both shared strategies on a new anchor chart titled, “Debugging Strategies”.
->>“Student A and Student B both fixed the bug successfully. Even though they used different strategies to find and make changes,  they both got to the same solution. Let’s keep their strategies in mind because they might help you solve the problem, too!”
+- [ ] **Extension:** If students complete practice playlist, they can move on to the 4.06 bonus playlist.
 
-- [ ] **Explain** the new type of bug: Repeat Bug, and the purpose of debugging today.
->>“We’ve already learned about two types of bugs, and now we’ve encountered a new one! This is called a Repeat Bug (reveal on anchor chart). A Repeat Bug happens when the number of repeats for a loop is wrong and we have to fix it. Let’s keep practicing debugging, because sometimes bugs are going to be found inside of a loop.
+- [ ] **Monitor** students by walking around the room and checking student progress on the teacher interface.
 
-- [ ] **Introduce** Challenge Two.
->>“Here is our second challenge today. Take the next 20 seconds to observe the grid, the Pixelbot, and the code.”
+## 5. Evaluate: Reflection (15 min)
+- [ ] **Think-Write-Pair-Share:** Students reflect in their journals by using a hashtag and emoji. Then they share with their partners before sharing out whole group.
+>>“Today you will answer the following question in your journals. Take a minute to think about it: ‘How did you feel when you were coding today?’ I want you to write your answer by using a hashtag, here are some examples of hashtags (show slide). You can also be creative and come up with your own! Then draw an emoji to show how you felt today. We will share out in a few minutes.”
 
-- [ ] **Unpack** Challenge Two as a class.
-
-<iconp type='question'>**What do you notice about this challenge?**</iconp>
-<iconp type='question'>What is the PixelBot supposed to do?</iconp>
-<iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
-<iconp type='question'>What color does it need to paint the squares?</iconp>
-<iconp type='question'>Which way is the PixelBot facing? (up, down, left, right)</iconp>
-<iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
-<iconp type='question'>What else do you notice?</iconp>
-
-- [ ] **Model** debugging Challenge Two on PixelBots using the stepper tool.
->>“When I run the code, it starts by painting the correct squares, but then it keeps repeating on the same squares instead of going on to the next ones. To find the problem I can use the stepper tool. As I continue to click, I can see that when it goes back to the top, at line 2, the pixelbot turns right when it needs to stay in the direction it already was…”
-
-- [ ] **Identify** the type of bug.
->>“Sometimes with loops, we will come across a repeat bug, but other times, the bug might be within the loop. In this case, we found an Unwanted Code Bug within our loop. Have you seen this type of bug before?”
-
-## 4. Elaborate: PixelBot Practice (20 min)
-- [ ] **Independent Exploration:** Students work through the rest of the challenges in the PixelBots playlist.
-
-<note>Use challenges 3 and 4 for exit ticket data.</note>
-
-- [ ] **Monitor** the class for students in need of additional assistance.
-
-- [ ] **Extension:** Have students who finish early work on the Bonus playlist.
-
-<note type='tip'>As students gain comfort with the skill, consider pulling a small group of students who need extra support. Use this time to provide extra guidance and solidify understanding.</note>
-
-## 5. Evaluate: Reflection (10 min)
-- [ ] **Reflection:** Students answer the following reflection question in their journals.
-
-<iconp type='question'>How do you debug a program that has a loop?</iconp>
-<iconp type='question'>What types of bugs do you know about? Explain.</iconp>
+<iconp type='question'>**What did you learn today? How did you feel when you were coding?**</iconp>
+<iconp type='question'>What parts were challenging?</iconp>
+<iconp type='question'>What made it easy?</iconp>
 
 </notable>
 
 [slides]: https://drive.google.com/open?id=1KO2UgvrxEz52OK_fpMuDjJ4SDsZ0DAQNIgWlcNFuMyU
-[practice]: http://www.pixelbots.io/M92P5
-[extension]: http://www.pixelbots.io/M2M7T
+[practice]: http://www.pixelbots.io/OEM6J
+[extension]: http://www.pixelbots.io/ZNGZP
