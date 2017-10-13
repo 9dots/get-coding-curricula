@@ -112,5 +112,5 @@ In Lesson 5, students move on from deleting unwanted lines of code to adding in 
 </notable>
 
 [slides]: https://drive.google.com/open?id=1wc8G_kQAnjwilvbZUNbtmISOMsjxr9N6gNtesRXi7Hs
-[practice]:http://www.pixelbots.io/Q5EXW
-[extension]: http://www.pixelbots.io/P442H
+[practice]:http://www.pixelbots.io/JQ6E5
+[extension]: http://www.pixelbots.io/4JD69
