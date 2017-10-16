@@ -52,7 +52,7 @@ In lesson 6, students begin working towards writing code containing loops by lea
 ## 2. Explore: Try It Out (7 min)
 - [ ] **Challenge** the class to code a solution to the challenge.
 
-- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
+- [ ] **Independent Exploration:** Have students attempt to write the code on their own.
 
 - [ ] **Monitor** students as they work. Look for students who can be called on to share their code. Priority should be placed on finding a student who codes a solution containing a pattern.
 
