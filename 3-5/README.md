@@ -6,4 +6,4 @@ The 3-5 series features project and product based curricula designed to introduc
 
 ## Curriculum
 - [3rd Grade](../3-5/grade-3/index.html)
-- 4th Grade (Coming Soon!)
+- [4th Grade](../3-5/grade-4/index.html)

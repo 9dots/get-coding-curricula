@@ -1,35 +1,33 @@
-<header class='header' title='Decomposition I' subtitle='Lesson 13'/>
+<header class='header' title='Bug Detectives' subtitle='Lesson 13'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 13 is an introduction to the concept of decomposition. The lesson begins with a focus on students forming their own understanding of what it means to decompose an object. Students then gain experience decomposing tangible objects and documenting the results.
+In lesson 13 students practice debugging code by adding missing lines of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can decompose an object.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+- I can add a missing line of code to fix a 6-10 line sequence of code.
 
-1. Engage: Intro to Decomposition (8 min)
-1. Explore: Decomposing T's (2 min)
-1. Explain: Decomposing Letters (8 min)
-1. Elaborate: Independent Practice (12 min)
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
+
+1. Engage: Unpacking (10 min)
+1. Explore: Debug the Code (2 min)
+1. Explain: Debugging (8 min)
+1. Elaborate/Evaluate: PixelBots Playlist (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Computers
-- [ ] 6 Omnifix Cubes/Student
-- [ ] 1 Dry Erase Marker/Student
-- [ ] [Decomposition Worksheet][worksheet]
-- [ ] [Decomposing Playlist I][playlist]
+- [ ] [Playlist: K.12 Practice | Code: ][practice]
+- [ ] [Playlist: K.12 Bonus | Code: ][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Decompose** - To break something apart into smaller pieces.
+- **Bug** - An error in code.
+- **Debugging** - Finding and fixing errors in code
 
 </note>
 
@@ -49,73 +47,82 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 
 <pagebreak/>
 
-## 1. Engage: Intro to Decomposition (8 min)
-- [ ] **Introduce** the word decompose and have students practice pronouncing it. Slides 2-8
->> “Today we are going to learn a new word that is really important in coding. The word is decompose. Repeat after me, de-com-pose”
+## 1. Engage: Unpacking (10 min)
+**Location:** Rug
 
-- [ ] **Present** examples of decomposition. Slides 9-11
->> “Each of the following pictures is an example of something being decomposed. See if you can find what they all have in common.”
+- [ ] **Introduce** the first debugging challenge of the day.
+>> "Alright coders, today we are going to continue practicing our debugging skills by fixing a type of bug we saw in a previous lesson. Our first challenge of the day is on the board. Take the next 20 seconds to do your best to observe the grid, PixelBot and code."
 
-![decomposition](./images/decompose.png)
+- [ ] **Unpack** the challenge as a class.
 
-- [ ] **Discuss** the commonalities among the examples. Slide 12
-<iconp type='question'>What do all of the examples have in common?
-</iconp>
+<iconp type='question'>What do you notice about this challenge?</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the square?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
+  <iconp type='question'>What else do you notice?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
 
-- [ ] **Explain** how the examples are related to decomposition.
->> “Each of the examples you saw shows something being taken apart.”
+<note>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make the types of relevant observations they should make every time they approach a challenge. By the end of this activity students should be aware of the:
+  - goal of the challenge
+  - position of the PixelBot
+  - orientation of the PixelBot
+  - presence of starter code</note>
 
-- [ ] **Define** decomposition.
->> “Decomposition is the process of breaking something apart into smaller pieces. When we break an object apart into smaller pieces we say we decomposed the object. It is possible to decompose things like objects, pictures, and even ideas. In order to help us remember what decomposition means, we are going to use a hand signal.”
+## 2. Explore: Debug Code (2 min)
+**Location:** Desks
 
-- [ ] **Demonstrate** the decomposition hand signal while saying the word decompose.
-- [ ] **Practice:** Have students practice using the hand signal and while saying the word.
+- [ ] **Challenge** the class to fix the code without deleting everything and rewriting it.
+>>“Your challenge in this activity is to fix the code by only changing the part that doesn’t work. You should not delete all of the code and rewrite it.”
 
-## 2. Explore: Decomposing T's (2 min)
-- [ ] **Demonstrate** how the omnifix cubes stick together and build the letter T.
-- [ ] **Build:** Have students build the letter T using the omnifix cubes.
-- [ ] **Decompose:** Have students decompose the letter T into two pieces.
-- [ ] **Discuss** the approaches taken to decompose the letter T.
-<iconp type='question'>How did you decompose the letter T?
-</iconp>
+- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
 
-## 3. Explain: Decomposing Letters (8 min)
--  [ ] **Explain** that there are many different ways to decompose an object. Slide 13
->>“You may have decomposed the letter T into two or more pieces and that is ok.  There are many ways to decompose an object, some are more useful than others depending on what you are trying to do. When we decompose an object in this activity we are going to try to decompose it into lines and dots. A line is two or more blocks joined together and a dot is one block by itself.”
+- [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity.
 
-- [ ] **Model** how to decompose the letter T into lines and dots. Slides 14-15
->> “When I look to decompose an object like this I want to look for as many lines as possible before looking for dots. First I look for long lines. Then I look for short lines. If I can’t find any more lines, I look for dots. I want to have more lines than dots.”
+<note>Beginning coders tend to debug by deleting all of their code and starting all over again. Emphasis should be put on motivating students to fix the source of the issue rather than rewriting all of their code.</note>
 
-- [ ] **Model** using the worksheet to document the pieces produced from the decomposition of the letter T. Slides 16-17
->> “In order to show all of the pieces that make up the letter T, I put each piece on a separate grid in the same position it would be found in the letter. Then I color in the squares that are covered.”
+## 3. Explain: Debugging Code (8 min)
+**Location:** Desks
 
--  [ ] **Demonstrate** how to form the letter H with the omnifix cubes and have students copy.
+- [ ] **Think, Pair, Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
 
--  [ ] **Decompose:** Have students looks for long lines.
->> “We want to find as many long lines as possible.”
+<iconp type='question'>What changes did you make?</iconp>
+<iconp type='question'>How did you know to make those changes?</iconp>
 
-<iconp type='question'>How many long lines do we see?</iconp>
+- [ ] **Remind** students that one type of bug they will continue to encounter are extra lines of unwanted code.
 
-- [ ] **Explain** that there are three lines that are three blocks long, but they all can’t be produced together. Slides 18-23
->> “There are three long lines found in the letter H, but we can’t use them all. If I use the middle line it also makes four dots. If I use the two long lines on the end it also makes one dot. Since we want to make more lines than dots, we will use the two lines and one dot.”
+- [ ] **Introduce** challenge number two.
+>>"Here is our second challenge today. Take the next 20 seconds to observe the grid, PixelBot and the code."
 
-- [ ] **Demonstrate** how to decompose the letter H and document the results on the worksheet. Have students copy the process.
+- [ ] **Unpack** challenge number two as a class.
 
-![letter](./images/letter-h.png)
+<iconp type='question'>What do you notice about this challenge?</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the square?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing?</iconp>
+  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
+  <iconp type='question'>What else do you notice?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
 
-- [ ] **Review** the process used to decompose the letters.
-	1. Look for long lines.
-	1. Break the letter apart to make more lines than dots.
+  - [ ] **Model** debugging challenge number two.
 
+  ***>>"add scripting here after the playlist has been created"****
 
-## 4. Elaborate: Independent Practice (12 min)
-- [ ] **Challenge** the class to try to decompose the letters C and Y on their own.
-- [ ] **Review** how to decompose the letters C and Y.
-- [ ] **Independent Coding:** Students code independently using the [Decomposing Playlist I][playlist].
-- [ ] **Monitor** the room for students in need of additional assistance.
+## 4. Elaborate/Evaluate: PixelBot Playlist (10 min)
+**Location:** Desks
+- [ ] **Challenge** the class to debug the code in the playlist by adding lines of code that are missing.
+>>"Your challenge is to debug the code in each challenge by only adding code that is missing. You should not delete all of the code and start over again."
+
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
+
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
 </notable>
 
-[slides]:https://docs.google.com/presentation/d/13cMOHH1hZ03j9zT6KaRgBOnhhWSbg3umMvJTc6DkoQQ/edit#slide=id.g1c92ee6433_0_44
-[worksheet]: https://drive.google.com/file/d/0B48_2vIyABioNFplUUh2cERKanM/view
-[playlist]:http://www.pixelbots.io/J4376
+[slides]:
+[practice]:
+[extension]:

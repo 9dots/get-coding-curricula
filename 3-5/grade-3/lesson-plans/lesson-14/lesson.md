@@ -73,16 +73,7 @@ Students practice writing code with conditionals, first unplugged by choreograph
 - [ ] **Explain** how a pixelBot conditional challenge works using challenge number 1 in the playlist titled “getCoding 3.14”. This is the same challenge from the explore activity.
 >>“Notice the challengeBot that paints the grid we have to solve. In order to solve this challenge we have to read the directions. The directions say that if the challengeBot paints the square green I have to paint it yellow and if the square is blue it has to stay blue. My solution has to solve for both cases because sometimes the challengeBot will paint the square green and sometimes it will paint it blue.”
 
-- [ ] **Model** how to complete a conditionals challenge by solving pixelBot challenge number 1.
->>“To write a solution for this challenge I will use the plan, code, validate protocol.”
-
->>*Plan:* “My pixelBot should move two spaces forward in a straight line. Once it is on the square with the random color it should check if the color is green. If it is green, it should paint the square yellow. If the square is blue, it should do nothing.”
-
->>*Code:* “To code my solution I am selecting two forward blocks followed by a conditional. In the conditional I am selecting the color green. Since I want it to paint the square green I will place a paint yellow block inside the conditional.”
-<iconp type='question'>Why did I check if the color of the grid is green instead of blue?</iconp>
-<iconp type='answer'>Nothing should happen if the color is blue.</iconp>
-
->>*Validate:* “In order to validate my code I will click the run button to see if it does what I want it to do. My code is doing what I want it to do so I will click the check button to see if it is a valid solution. It looks like it works!”
+- [ ] **Code Along:** Play the code along video to show students how to solve challenge number 1 with the writing protocol. Have students code while following the steps in the video.
 
 ## 4. Elaborate: pixelBots Challenges (15 min)
 - [ ] **Guided Practice:** Have the class use the plan, code, validate protocol to solve challenge number 2.

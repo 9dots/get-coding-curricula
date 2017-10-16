@@ -67,8 +67,8 @@ Participation: Whole Class, Online
 <iconp type="answer"> It says "You Win!"</iconp>
 
 <note>**Slides:**
-![slides-challenge](./lesson-4/images/slides-challenge.jpeg)
-![slides-play](./lesson-4/images/slides-play.jpeg)
+![slides-challenge](./images/slides-challenge.jpeg)
+![slides-play](./images/slides-play.jpeg)
 </note>
 
 <pagebreak/>
@@ -82,7 +82,7 @@ Participation: Whole Class, Online
 <iconp type="question">What do you think this chunk of code does?</iconp>
 
 <note>
-![slides-code](./lesson-4/images/slides-code.png)
+![slides-code](./images/slides-code.png)
 </note>
 
 ## 3. Elaborate: Brainstorm (5 min)
@@ -100,7 +100,7 @@ Continue to prompt students with questions:
 <iconp type="question"> Think about the games you enjoy playing. What features make them challenging? </iconp>
 
 <note>
-![slides-brainstorm](./lesson-4/images/slides-brainstorm.jpeg)
+![slides-brainstorm](./images/slides-brainstorm.jpeg)
 </note>
 <pagebreak/>
 ## 4. Evaluate: Socrative (15 min)
@@ -111,14 +111,14 @@ Participation: Partners, Online
 > > “Now it’s your turn to explore the starter code in Escape the Maze. Let’s follow along with the video to answer some challenges using a new website called Socrative.”
 
 <note>
-![slides-code](./lesson-4/images/slides-code.jpeg)
-![slides-socrative](./lesson-4/images/slides-socrative.jpeg)
+![slides-code](./images/slides-code.jpeg)
+![slides-socrative](./images/slides-socrative.jpeg)
 </note>
 
 - [ ] **Closing:** If there is time you can review students’ answers as a class on Socrative. Make sure students log out of their accounts.
 
 <note>
-![slides-close](./lesson-4/images/slides-close.jpeg)
+![slides-close](./images/slides-close.jpeg)
 </note>
 
 </notable>

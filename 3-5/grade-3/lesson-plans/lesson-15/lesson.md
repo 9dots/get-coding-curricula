@@ -23,7 +23,8 @@ Students apply the debugging protocol to debug conditionals online and unplugged
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Playlist: getCoding 3.15 Demo | Code: ][demo]
+- [ ] Code Along Video
+- [ ] [Playlist: getCoding 3.15 Demo | Code: B2239][demo]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
@@ -64,22 +65,7 @@ Students apply the debugging protocol to debug conditionals online and unplugged
 - [ ] **Share Out:** Have 1-2 volunteers share out the their strategies with the class. Try out each student’s solution on the board.
 
 ## 3. Explain: Debugging Protocol (10 min)
-- [ ] **Model** using the debugging protocol to debug pixelBot challenge number 2.
->>“When we debug code we follow three basic steps: (1) Compare (2) Find (3) Try. Let's try it with this challenge. First Compare:"
-
-<iconp type='question'>What do we want our program to do?</iconp>
-<iconp type='answer'>We want the program to paint all of the yellow squares pink and to keep all of the green squares green.</iconp>
-<iconp type='question'>What does it do instead?</iconp>
-<iconp type='answer'>It is not painting yellow squares pink.</iconp>
-
->>"Step two, Find: We can use the yellow stepper tool to find where the bug might be."
-
-<iconp type='question'>Where in the code do you think the bug is located? Let’s click the yellow stepper tool until we get there.</iconp>
-<iconp type='answer'>On line 5 the code checks if the square is green and paints it green instead of checking if the square is yellow.</iconp>
-
->>“Step three, Try:"
-
-<iconp type='question'>What solution should we try? If the solution we try doesn’t work we choose another solution and try it out.</iconp>
+- [ ] **Code Along:** Play the code along video to show students how to use the debugging protocol on challenge number 2 in the playlist. Have students code while following the steps in the video.
 
 - [ ] **Guided Practice:** Have students attempt to debug challenge number 3 on their own.
 >>“You are going to try this next challenge on your own. Your goals is to find the bug and fix it by using the debugging protocol. ”
@@ -105,7 +91,7 @@ Students apply the debugging protocol to debug conditionals online and unplugged
 
 </notable>
 
-[demo]:
+[demo]: http://www.pixelbots.io/B2239
 [slides]: https://drive.google.com/open?id=161qjVHW5KRd2BE-oSWuvw1XX-JbvZUU98Xzqqt6tlTI
-[practice]:
-[exit]:
+[practice]: http://www.pixelbots.io/RJRJO
+[exit]: http://www.pixelbots.io/DXOPA

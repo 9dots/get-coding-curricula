@@ -1,20 +1,18 @@
-<header class='header' title='Summarizing II' subtitle='Lesson 12'/>
+<header class='header' title='Invisible Bugs' subtitle='Lesson 12'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn that in addition to summarizing a sequence of code as a whole, smaller chunks of code within that sequence can also be summarized.
+In lesson 12 students continue debugging by identifying locations where code is missing. Students step through the sequence of code, identify where a line of code is missing, and add the missing code.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can summarize a chunk of code.
+- I can add a missing line of code to debug a 2-5 line sequence of code.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
-
-1. Engage: Story Time (5 min)
-1. Explore: Step and Paint Summaries (3 min)
-1. Explain: Chunk Summaries (8 min)
-1. Elaborate: Chunking (10 min)
-1. Evaluate: Exit Ticket (4 min)
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
+1. Engage: Observations (10 min)
+1. Explore: Try It Out (2 min)
+1. Explain: Invisible Bugs (8 min)
+1. Elaborate/Evaluate: PixelBot Practice (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -24,21 +22,21 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] [Tokens][token]
-- [ ] [Exploration Worksheet][explore]
-- [ ] [Independent Practice Worksheet][practice]
-- [ ] [Exit Ticket][ticket]
+- [ ] Computers
+- [ ] [Playlist: K.08 Practice | Code: D936H][playlist]
+- [ ] [Playlist: K.08 Bonus | Code: 4J3K9][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Summary** - A short statement that gives the most important information about something.
-
+- **Bug** - A mistake in code.
+- **Debugging** - Finding and fixing mistakes in code.
 
 </note>
 
 <pagebreak/>
 
 ## Room Design
-![room](/images/layout-rows.png)
+
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -46,77 +44,78 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
-
 </note>
 
 <pagebreak/>
 
-## 1. Engage: Story Time (5 min)
-- [ ] **Read** *The Lion and the Mouse* to the class and have students summarize each chunk of the story.
+## 1. Engage: Observations (10 min)
+**Location:** Rug
 
-- [ ] Read the story by clicking the animations one line at a time until you arrive at the end of a chunk.
-- [ ] Ask students to summarize each chunk.
-	<iconp type='question'>What happened during lines _____ through _____ of the story?</iconp>
+- [ ] **Review** debugging by having students share what they remember from the previous lesson.
+>>"In our last lesson we learned about bugs and debugging. I'm looking for some coders to share what they remember from that lesson."
 
-- [ ] Click the slide to show the picture that summarizes the chunk of the story.
-- [ ] Repeat this process until students have summarized each chunk of the story.
+<iconp type='question'>What is a bug?</iconp>
+<iconp type='question'>What does it mean to debug code?</iconp>
 
--  [ ] **Explain** that chunks of code can be summarized just like parts of a story.
+- [ ] **Introduce** the first challenge of the day.
+>>"In our first challenge of the day we are going to practice our debugging skills."
 
-## 2. Explore: Step and Paint Summaries (3 min)
-- [ ] **Independent Exploration:** Students step through code and draw images produced by chunks of code. (2 min)
-- [ ] Direct students to step through a chunk of code and color the main grid left.
+- [ ] **Unpack** the challenge as a class by having students share out their observations about the goal and starting conditions of the grid.
+>> "Take a moment to observe the PixelBot, grid and code."
 
-- [ ] **Share Out:** Students share out their summary of the code. (1 min)
-	<iconp type='question'>What did the sequence direct the bot to paint?</iconp>
-	<iconp type='answer'>The sequence made the bot paint a happy face.</iconp>
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>How many squares does the PixelBot have to paint?</iconp>
+  <iconp type='question'>Which square on the grid needs to be painted?</iconp>
+  <iconp type='question'>Which square is the PixelBot standing on?</iconp>
 
-## 3. Explain: Chunk Summaries (8 min)
-- [ ] **Model** how to step through and summarize chunks of code. (2 min)
-- [ ] Project slide 3 on a whiteboard and step through lines 1-7 using the token. Color squares on the grid using a dry erase marker.
-- [ ] On the grid to the right of the sequence, color only the squares that were colored according to the chunk containing lines 1-7.
-- [ ] Continue this process until all three chunks are stepped through and colored.
+- [ ] **Execute** the code by clicking the run button and have students observe the PixelBot's actions.
+>>"I am going to run the code. When I click run I want you to do your best to observe what the PixelBot does. I am going to ask a few coders to share out what they saw."
 
-![explore](./images/explore.png)
+- [ ] **Share Out:** Have students share out their observations.
 
+<iconp type='question'>What did the PixelBot do?</iconp>
+<iconp type='question'>Did the PixelBot paint the correct square?</iconp>
+<iconp type='question'>Does this code contain a bug? How do you know?</iconp>
 
-- [ ] **Share Out:** Students summarize chunks of code. (1 min)
-	<iconp type='question'>What do lines 1 through 7 do?</iconp>
-	<iconp type='answer'>Lines 1 through 7 paint the happy face’s first eye.</iconp>
+## 2. Explore: Try It Out (2 min)
+**Location:** Desks
 
-	<iconp type='question'>What do lines 8 through 14 do?</iconp>
-	<iconp type='answer'>Lines 8 through 14 paint the happy face’s second eye.</iconp>
+- [ ] **Explain** that the goal of the challenge is to fix the bug without deleting the whole sequence and starting from the beginning.
+- [ ] **Independent Exploration:** Have students attempt to debug the code independently.
+- [ ] **Monitor** the class for students you can call on to share out their solution.
 
-	<iconp type='question'>What do lines 15 through 27 do?</iconp>
-	<iconp type='answer'>Lines 15 through 27 paint the happy face’s mouth.</iconp>
+## 3. Explain: Invisible Bugs (8 min)
+**Location:** Desks
 
--  [ ] **Explain** why it is useful to be able to summarize chunks of code. (1 min)
-	>> “Summarizing code is useful because it allows us to identify what each part of our code does.”
+- [ ] **Turn and Talk:** Have students discuss the question below with a classmate.
+<iconp type='question'>What did you do to fix your code?</iconp>
 
-- [ ] **Guided Practice:** Students summarize chunks of code with teacher assistance. (4 min)
-- [ ] Project slide 4 on a whiteboard.
-- [ ] Have students step through lines 1-7 and color the main grid.
-- [ ] Step through lines 1-7 on the board and have students compare their grid to yours.
-- [ ] Have students color the corresponding grid on the right to reflect the image that was produced by lines 1-7. Repeat this process for the last two chunks of code.
-			<iconp type='question'>What did lines 1 through 7 do?</iconp>
-			<iconp type='answer'>Lines 1 through 7 painted a square.</iconp>
+- [ ] **Share Out:** Have students share out what they did to fix their code.
+<iconp type='question'>What did you do to fix your code?</iconp>
+<iconp type='question'>Why did you try that?</iconp>
 
-- [ ] Repeat this process for the last two chunks.
+- [ ] **Explain** that missing lines of code are bugs.
+>>"In this challenge the bug was that a line of code was missing. The PixelBot was supposed to move up 2 times and paint, but it moved up 2 times and didn't paint the square. To fix it we had to add another paint block at the end. Missing lines of code are a common bug we will find in our PixelBot code."
 
-![explain](./images/explain.png)
+- [ ] **Introduce** the PixelBot Playlist.
+>>"In today's challenges we are going to debug by adding code that is missing. Just like you did in this first challenge."
 
+- [ ] **Model** debugging challenge 2 in the playlist by using the stepper tool to find the spot where code is missing.
+>>"This code is supposed to make the PixelBot paint a square 2 spaces to the right. When I run the code the PixelBot moves 2 spaces to the right but it does not paint. I can reset my PixelBot and use the yellow stepper button to step through my code one line at a time. It looks like each step works but there is a missing paint block at the end. To fix it I put my cursor at the end and add the paint block."
 
-## 4. Elaborate: Chunking (10 min)
-- [ ] **Independent Practice:** Have students complete the independent practice worksheet. (8 min)
-- [ ] **Review** problems 1 and 2 from the worksheet with the class. (2 min)
+## 4. Elaborate/Evaluate: PixelBot Playlist (10 min)
+**Location:** Desks
 
-## 5. Evaluate: Exit Ticket (4 min)
-- [ ] **Assess:** Students complete an exit ticket to show mastery of the day’s objective.
+- [ ] **Challenge** the class to debug the code in the playlist by adding the missing line of code in each challenge.
+>>"Your challenge is to debug the code in each challenge by only adding the line of code that is missing. You should not delete all of the code and start over again."
 
+- [ ] **Independent Coding:** Have students work through the challenges in the PixelBot playlist.
+
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1pkFN9tsmUkZ1pIPAlyNtKQRCqDSHKW_w3tCYqV89my0/edit#slide=id.g1c179522f9_0_53
-[token]: https://drive.google.com/open?id=0B48_2vIyABioeHdfMGQ0NzgxdXc
-[explore]: https://drive.google.com/open?id=0B48_2vIyABioRGFkaDB0bDBPbWM
-[practice]: https://drive.google.com/open?id=0B48_2vIyABioX1pkVFVYSV8wNUk
-[ticket]: https://drive.google.com/open?id=0B48_2vIyABioWkZObG1qQVF6a2s
+[slides]: https://drive.google.com/open?id=1IwVOHMYVf70ufkcV6VDYb_3zTMmmD_tub-2dxD98avY
+[playlist]: http://www.pixelbots.io/D936H
+[extension]: http://www.pixelbots.io/4J3K9

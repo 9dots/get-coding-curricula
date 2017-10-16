@@ -11,7 +11,7 @@ Students are introduced to “boolean” and practice identifying true/false sta
 1. Engage: Kids Code (5 min)
 1. Explore: True/False (10 min)
 1. Explain: Define (15 min)
-1. Elaborate: Boolean Code (10 min)
+1. Elaborate: Boolean Sort (10 min)
 1. Evaluate: Exit Challenge (5 min)
 
 
@@ -24,10 +24,11 @@ Students are introduced to “boolean” and practice identifying true/false sta
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Exit Challenges][exit-challenge]
-- [ ] [Boolean Cards][boolean-cards]
 - [ ] Pencils
-- [ ] Code Blocks
+- [ ] [Boolean Cards][boolean-cards]
+- [ ] [Boolean/Not Boolean Strips][strips]
+- [ ] [Exit Challenges][exit-challenge]
+
 
 </note>
 
@@ -106,13 +107,13 @@ Participation: Small Group Unplugged
 
 > > “On a blank page in your idea journal let’s write the definition of Boolean. Boolean - A statement that can either be "true" or "false".”
 
-<note>![slides-define1](./images/slides-define1.png)</note>
+<note>![slides-one](./images/slides-define1.png)</note>
 
 - [ ] **Contrasting Cases:** Review the contrasting cases from above.
 
 > > “You answered each of the statements on the left with “True” or “False”. It doesn’t make sense to answer the non-boolean statements with true/false. If I say “Draw a circle”, you would respond by drawing a circle. If you responded “false”, I would be very confused.”
 
-<note>![slides-define2](./images/slides-define2.png)</note>
+<note>![slides-two](./images/slides-define2.png)</note>
 <br/>
 - [ ] **Popcorn:** Students hold up Boolean or Not Boolean cards to respond to questions. Pop around the room to different students asking them to explain if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term.
 
@@ -141,20 +142,19 @@ Participation: Small Group Unplugged
 
 <pagebreak/>
 
-## 4. Elaborate: Boolean Code (10 min)    
+## 4. Elaborate: Boolean Sort (10 min)    
 Participation: Small Group, Partners, Unplugged
 
-- [ ] **Contrasting Cases:** Give students a series of Scratch blocks and have them work in partners to identify which are examples of Boolean statements.
+- [ ] **Contrasting Cases:** Give students a series of Boolean/Not Boolean statement strips and have them work in partners to identify which are examples of Boolean statements.
+>>“In your box you have a series of statement strips. Sort your statement strips into two piles: those that are boolean blocks and those that are not. If you’re having trouble, try answering the statements with true/false.”
 
-> > “In your box you have a series of code blocks. Sort your blocks into two piles: those that are boolean blocks and those that are not. Use your cards to label each group. If you’re having trouble, try answering the statements with true/false.”
+<iconp type='question'>What can you ask yourself to see if a statement is a Boolean statement?</iconp>
+<iconp type='answer'>You can ask yourself, “Can this be answered with a true or false?”</iconp>
 
-<iconp type="question"> What do you notice about the shape of boolean blocks? </iconp>
-<iconp type="answer">The ends of boolean blocks have points like triangles.</iconp>
-
-<note>![Boolean Code](./images/slides-bcode.png)</note>
+- [ ] **Extension:** Prompt students to whip around to state a Boolean or Not Boolean statement to the entire class. If the statement is Boolean, have students show a thumbs up. If the statement is Not Boolean, have the students show a thumbs down. Aim to have students each tell the class one statement and justify why the statement is Boolean or Not Boolean.
 
 ## 5. Evaluate: Exit Challenge (5 min)
-Participation: Small Group, Independent, Unplugged
+Participation: Independent, Unplugged
 
 - [ ] **Exit Challenge:** Students answer the [exit challenge][exit-challenge] on paper using pencil independently and turn it in.
 
@@ -169,3 +169,4 @@ Participation: Small Group, Independent, Unplugged
 [answer-key]: https://docs.google.com/document/d/1VCO5Z0fPzbgoiQgkzvngx9JP_BMw0xfmHmjADoLOyaY/edit?usp=sharing
 [exit-challenge]: https://docs.google.com/document/d/1Ep32lyMTvf5f5oCggVSgyIqNUWsAeefzj6zFtGm04J4/edit
 [boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
+[strips]: https://drive.google.com/open?id=0B48_2vIyABioLU9Vcm5YSlE0SWM

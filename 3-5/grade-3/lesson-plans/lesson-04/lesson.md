@@ -9,12 +9,13 @@ Students are introduced to the story of the first bug and practice using the deb
 - I can use the debugging protocol to debug my code.
 
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
 
 1. Engage: The First Bug (5 min)
 1. Explore: Challenge (10 min)
-1. Explain: Debugging Protocol (10 min)
-1. Elaborate: Independent Debugging (20 min)
+1. Explain: Debugging Protocol (15 min)
+1. Elaborate: Independent Debugging (25 min)
+1. Evaluate: Exit Challenge (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -80,9 +81,9 @@ Students are introduced to the story of the first bug and practice using the deb
 <iconp type='question'>What steps did you take to make sure the code did what it was supposed to do?</iconp>
 <note> ![Challenge](./images/pixelbots3.png)</note>
 
-## 3. Explain: Debugging Protocol (10 min)
+## 3. Explain: Debugging Protocol (15 min)
 
-- [ ] **Model** the debugging protocol and teach students the hand gestures for each step. 
+- [ ] **Model** the debugging protocol and teach students the hand gestures for each step.
 
 >> “When we debug code we follow three basic steps: (1) Compare (2) Find (3) Try. Let's try it with this challenge. First Compare:"
 
@@ -130,10 +131,10 @@ Students are introduced to the story of the first bug and practice using the deb
 <note type="tip">While students are sharing have them turn their screens away from them so they can track the student sharing. When students share have them respond to each other with "I agree because..." and "I disagree because..."
 ![Guided Practice](./images/guided.png)</note>
 
-## 4. Elaborate: Independent Debugging (20 min)
+## 4. Elaborate: Independent Debugging (25 min)
 - [ ] **Independent Practice:** Students apply the debugging protocol to a series of challenges. During this time circulate to assist students in need of additional help.
 
-> > "Alright coders, now it your turn. Continue to use our 3 steps to debug the remaining challenges."
+> > "Alright coders, now it's your turn. Continue to use our 3 steps to debug the remaining challenges."
 
 <note>![Independent Practice](./images/independent.png)</note>
 <br/>
@@ -146,7 +147,11 @@ Students are introduced to the story of the first bug and practice using the deb
 <br/>
 - [ ] **Closing:** Review the three steps to the debugging protocol with the hand gestures.
 
->>"As a coder you can follow those 3 steps anytime you find a bug. Bugs are a fact of being a coder. You probably run into bugs in your life all the time. For our next lesson I will ask you to share when you have had to debug a situation in your everyday life."
+>>"As a coder you can follow those 3 steps anytime you find a bug. Bugs are a fact of being a coder. You probably run into bugs in your life all the time."
+
+## 5. Evaluate: Exit Challenge (5 min)
+
+- [ ] **Exit Challenge:** Have students complete the exit challenge independently.
 
 </notable>
 

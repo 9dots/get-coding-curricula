@@ -15,8 +15,7 @@ We want to establish a coding learning culture where students identify as coders
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Set the Challenge (5 min)
-1. Explore/Explain: Model Question (5 min)
-1. Evaluate: Independent Coding Challenge (35 min)
+1. Evaluate: Independent Coding Challenge (40 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -26,7 +25,9 @@ We want to establish a coding learning culture where students identify as coders
 
 ###### Student Materials:
 - [ ] Pencil
-- [ ] [Independent Coding Challenge][icc]
+- [ ] [Independent Coding Challenge Unplugged][icc]
+- [ ] [Playlist: getCoding 3.10 ICC 1 | Code: 7KYKB][icc-online]
+- [ ] Computer
 - [ ] Index Cards (class set)
 - [ ] Rovers (class set)
 - [ ] Student Surveys (class set)
@@ -51,16 +52,7 @@ See all vocabulary from previous lessons.
 <note> **Slides:** ![slides-challenge](./images/slides-challenge.png)
 ![slides-set](./images/slides-set.png)</note>
 
-## 2. Explore/Explain: Model Question (5 min)
-
-- [ ] **Model**: Students may need you to walk them through a practice version of the first question:
-> > Let's try this first question together. It looks a lot like the first challenge on your Independent Coding Challenge.
-
-![slides-practice](./images/slides-practice.jpeg)
-
-<pagebreak/>
-
-## 3. Evaluate: Independent Coding Challenge (35 min)
+## 2. Evaluate: Independent Coding Challenge (40 min)
 
 - [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves.
 
@@ -71,7 +63,7 @@ See all vocabulary from previous lessons.
 
 <note>![slides-expectations](./images/slides-expectations.png)</note>
 
-- [ ] **Independent Coding Challenge:** Students work independently on the challenges. When students are finished encourage them to review and validate their answers. Then they can take the student survey and go to Code.org. If a student is stuck you can help them by:
+- [ ] **Independent Coding Challenge:** Students work independently on the online and unplugged challenges. When students are finished encourage them to review and validate their answers. Then they can take the student survey. If a student is stuck you can help them by:
     - Read the question out loud.
     - Ask guiding questions without giving away an answer:
         - Do you remember when we painted with Rover?
@@ -86,5 +78,6 @@ See all vocabulary from previous lessons.
 
 </notable>
 
-[icc]: https://docs.google.com/document/d/1Yf3NHLkcZu8F6c9p7GSH7QXo0dGf6nhD9HzYe7cweHE/edit?usp=sharing
+[icc]: https://drive.google.com/open?id=1AAGj8i51Nk8TlI_5u_6t25sw8kAVKqp9LaQyyPCFyec
+[icc-online]: http://www.pixelbots.io/7KYKB
 [slide-show]: https://docs.google.com/presentation/d/1wWEfQnDRTIRlo-bpjPrwkYIFHtrMS0tMUeSxnWW3MKw/edit?usp=sharing

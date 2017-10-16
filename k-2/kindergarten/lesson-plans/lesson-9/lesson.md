@@ -1,35 +1,33 @@
-<header class='header' title='Bug Catchers' subtitle='Lesson 09'/>
+<header class='header' title='Find the Bug' subtitle='Lesson 09'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 9 students apply the debugging protocol to increasingly complex sequences similar to the ones seen in lessons 7 and 8.
+In lesson 9 students are introduced to the concept of debugging. Students use the stepping skills practiced in a previous lesson to find and remove unwanted lines of code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-I can debug a 2-10 block sequence with more than one directional move.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+- I can find and remove a bug in a 2-5 line sequence of code.
 
-1. Engage: Debugging Analogy (3 min)
-1. Explore: Bug Catching (6 min)
-1. Explain: Debug the Bot (8 min)
-1. Elaborate: Independent Coding (10 min)
-1. Evaluate: Exit Ticket (3 min)
+<iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
+
+1. Engage: What is a Bug? (5 min)
+1. Explore: Try It Out (2 min)
+1. Explain: Debugging (8 min)
+1. Elaborate/Evaluate: PixelBots Practice (15 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] Computer
 - [ ] Projector
-- [ ] [Pixel Bot Token][token]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] Computers
-- [ ] [Lesson 9 Playlist][playlist]
+- [ ] [Playlist: K.07 Practice | Code: 7O6O6][practice]
+- [ ] [Playlist: K.07 Bonus | Code: QK96M][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Bug** - An error in code.
-- **Debugging** - Finding and fixing errors in code.
+- **Debugging** - Finding and fixing errors in code
 
 </note>
 
@@ -49,127 +47,61 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## 1. Engage: Debugging Analogies (3 min)
-- [ ] **Analogy:** Introduce the broken car and debugging scenarios. (1 min)
+## 1. Engage: What is a Bug? (5 min)
+**Location:** Rug
+- [ ] **Read** the story of the first bug.
+<iconp type='question'>Why was it important for the computer scientists not to give up?</iconp>
 
-“I’m going to share two quick stories with you. Your job is to try to find out how they are similar.”
+- [ ] **Define** bug and debugging.
+>> "A bug is an error found in code. Debugging is what we do when we find and fix bugs in our code."
 
-- [ ] **Read** slide two to the class.
+- [ ] **Explain** the importance of debugging.
+>> "Bugs happen all of the time when we code. Even the best coders in the world have bugs in their code. That means that to become good coders we have to be good at debugging. The most important thing to remember when we debug is not to give up just like the computer scientists didn't give up in the story."
 
-- [ ] **Discuss** how fixing a broken car is analogous to debugging code. (2 min)
+## 2. Explore: Try It Out (2 min)
+**Location:** Desks
+- [ ] **Introduce** students to the first debugging challenge in the playlist.
+>>"In our first challenge today our PixelBot is supposed to paint the square above it. This challenge already has code. When I run the code it paints the wrong square. That means it has a bug in it.
 
-<iconp type='question'>What did the man notice about his car? What did the woman notice about her code?</iconp>
-<iconp type='question'>What did the man and woman do after noticing there was a problem?
-</iconp>
-<iconp type='question'>When the man and woman thought they knew what was wrong, they each tried to do something to fix the problem. How did they each test if their solution was correct?</iconp>
-<iconp type='question'>How is fixing a car similar to debugging code?</iconp>
+- [ ] **Challenge** the class to fix the code without deleting the entire sequence.
+>>"Your challenge is to debug the code without deleting all of your code and starting all over again."
 
-![slide](./images/slide-two.png)
+- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
 
-## 2. Explore: Bug Catchers (6 min)
+- [ ] **Monitor** the class for students you can call on to share out their solution.
 
-- [ ] **Review** the debugging protocol with the class using problem number one in the Pixel Bot playlist. (4 min)
+## 3. Explain: Debugging Protocol (8 min)
+**Location:** Desks
 
-- *Compare* the code's objective to what it actually does.
+- [ ] **Turn and Talk:** Have students discuss the question below with a classmate.
+<iconp type='question'>What did you do to fix your code?</iconp>
 
-“The code is supposed to make the bot move one space to the right and paint the square. The bot should then move down one space, move one space to the left, and paint the square.”
+- [ ] **Share Out:** Have students share out what they did to fix their code.
+<iconp type='question'>What did you do to fix your code?</iconp>
+<iconp type='question'>Why did you try that?</iconp>
 
+- [ ] **Explain** that extra lines of code are bugs.
+>>"In this challenge the bug was that there was an extra line of code that we didn't need. The PixelBot was supposed to move up 1 time and paint, but it moved up 2 times before painting. To fix it we had to remove the extra up block. Extra lines of code are a common bug we will find in our PixelBot code."
 
-- [ ] Click run to show class what the code currently does.
+- [ ] **Introduce** the PixelBot Playlist.
+>>"In today's challenges we are going to debug by deleting extra lines of code. Just like you did in this first challenge."
 
-<iconp type='question'>Does the code do what we want it to do?</iconp>
-<iconp type='question'>What does it do incorrectly?</iconp>
+- [ ] **Model** debugging challenge 2 in the playlist by using the stepper tool to find the extra line of code.
+>>"This code is supposed to make the PixelBot paint 1 square to the right. When I run the code the PixelBot paints a square above the one it is supposed to paint. I can reset my PixelBot and use the yellow stepper button to step through my code one line at a time. It looks like each step works but there is an extra up block that we do not need before the paint block. If I delete that line and run the code the PixelBot paints the correct block."
 
+## 4. Elaborate/Evaluate: PixelBot Playlist (15 min)
+**Location:** Desks
+- [ ] **Challenge** the class to debug the code in the playlist by removing only the extra lines of code.
+>>"Your challenge is to debug the code in each challenge by only deleting the line of code that is not needed. You should not delete all of the code and start over again."
 
-- *Find* the bug(s).
+- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
-“Let’s step through the code to find what went wrong. Raise your hand when you notice a mistake and be ready to share out what you think the mistake is.”
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-- Using the Pixel Bot token, step through the code one block at a time.
-- Call on a student to share out the mistake he/she noticed.
+- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-
-- *Fix* the code.
-
-<iconp type='question'>What should we change in the code?</iconp>
-
-- Make the necessary changes and run the code.
-
-<iconp type='question'>Did the changes fix the problem?
-</iconp>
-
-- [ ] **Independent Exploration:** Students attempt to find and repair the bugs in a program. (2 min)
-
-- Have students attempt to use the debugging protocol to fix the second problem in the Pixel Bot playlist.
-
-## 3. Explain: Debug the Bot (8 min)
-
--  [ ] **Share Out:** Students share the bug they found in the code and how they tried to fix it. (2 min)
-
--  [ ] **Model** using the debugging protocol to fix the code in the independent exploration activity. (2 min)
-
-- *Compare* the code’s objective to what it actually does.
-
-“The code is supposed to move the bot one space to the right and paint the square. The bot should then move down one space, left one space, and paint the square.”
-
-- *Find* the bug(s).
-
-
-- Step through the code and have students raise their hands when they notice the program do something unexpected.
-
-- *Fix* the code.
-
-<iconp type='question'>The code doesn’t direct our bot to color the first square it moves to. What should we change so that it paints the square?</iconp>
-<iconp type='answer'>We should add a paint block after line 1.</iconp>
-
-- Make the necessary change and run the code.
-
-- [ ] **Code Along:** Perform a code along with the class using problem number 3 in the lesson 9 playlist. (4 min)
-
-- *Compare* the code’s objective to what it actually does.
-
-“The code is supposed to move the bot one space to the left and paint a square 3 times. Then it should move down one space and paint the final square.”
-
-- Have students run the code.
-
-<iconp type='question'>What does the code make the bot do?</iconp>
-
-- *Find* the bug(s).
-
-“The bot moves up instead of down.”
-
-<iconp type='question'>Which line of code makes the bot move in the wrong direction?</iconp>
-
-- *Fix* the code.
-
-“The code directs the bot to move up instead of down at line 9. Let’s delete the up arrow block from that line.”
-
-- Delete the incorrect block.
-
-<iconp type='question'>What should we replace this line with?</iconp>
-
-- Try out the ideas students share and have students do the same.
-- Continue until the class comes up with a solution.
-
-![problem](./images/L10.03 Explain.png)
-
-## 4. Elaborate: Independent Coding (8 min)
-
-- [ ] **Independent Coding:** Have students practice using the debugging protocol on the lesson 9 playlist and monitor the class for students in need of additional assistance. (7 min)
-
-- [ ] **Review** problem number 9 using the debugging protocol. (3 min)
-
-1. *Compare* the code’s objective to what it actually does.
-2. *Find* the bug(s).
-3. *Fix* the code.
-
-## 5. Evaluate: Exit Ticket (3 min)
-
-- [ ] **Assess:** Have students complete the exit ticket problem in the playlist. (2 min)
-
-- [ ] **Debrief:** Review the answer to the exit ticket problem. (1 min)
 </notable>
 
-[token]: https://drive.google.com/open?id=0B48_2vIyABiocXFmZ0pDdjczaUE
-[slides]: https://docs.google.com/presentation/d/1eOMB0H9RWLkP3c9yzgT251OvLwqoauNgk93UhlAHr8c/edit
-[playlist]: http://www.pixelbots.io/VP632
+[slides]: https://drive.google.com/open?id=1FCEnq0twinc7a30fRQPYCOOzMa9k9AXN_uJkPSGSuq0
+[practice]:http://www.pixelbots.io/7O6O6
+[extension]:  http://www.pixelbots.io/QK96M
