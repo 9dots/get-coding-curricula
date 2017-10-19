@@ -23,7 +23,7 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 ###### Student Materials:
 - [ ] Pencils
 - [ ] Computers
-- [ ] Unifix Cubes (4 colors: Color A: 4, Color B: 8, Color C: 6, Color D: 6)
+- [ ] Unifix Cubes (4 colors: 4 of color A, 8 of color B, 6 of color C, 6 of color D)
 - [ ] [Loops Handout][loops]
 - [ ] [Code Handouts][code-handouts]
 - [ ] [Exit Challenge][exit]
