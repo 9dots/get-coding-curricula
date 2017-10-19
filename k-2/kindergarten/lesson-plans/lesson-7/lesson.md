@@ -10,26 +10,21 @@ In lesson 7 students continue writing code. The complexity of the challenges is 
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Code a Friend (5 min)
-1. Explore: Challenge (3 min)
-1. Explain: Writing Code (7 min)
-1. Elaborate: PixelBot Practice (10 min)
-1. Evaluate: Exit Challenge (5 min)
+1. Engage/Explore: Unpack & Code (12 min)
+1. Explain: Writing Code (8 min)
+1. Elaborate/Evaluate: PixelBot Practice (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] Floor Grid
-- [ ] [Playlist: K.06 Demo | Code: 3DPGY][demonstration]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: K.07 Practice | Code: QD8W6][playlist]
-- [ ] [Playlist: K.07 Bonus | Code: NQOW7][extension]
-- [ ] [Playlist: K.07 Exit Ticket | Code: MJ282][exit]
+- [ ] [Playlist: K.07 Practice | Code: ENW2Z][playlist]
+- [ ] [Playlist: K.07 Bonus | Code: DG9J8][extension]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Sequence** - A set of actions that must be performed in the order they are written.
@@ -52,51 +47,59 @@ In lesson 7 students continue writing code. The complexity of the challenges is 
 
 <pagebreak/>
 
-## 1. Engage: Code a Friend (5 min)
-- [ ] **Introduce** the coding challenge in the demo playlist and invite a student to play the role of the PixelBot on the floor grid.
->> "Today we are going to continue to practice writing code on PixelBots. In our first challenge we need to move our PixelBot to the last square on right. We are going to complete this challenge as a class. I need a volunteer to come up to the rug and pretend to be our PixelBot. Would anyone like to be our PixelBot today?"
+## 1. Engage/Explore: Code a Friend (12 min)
+- [ ] **Introduce** challenge 1 from the practice playlist.
+>>"In our first challenge of the day we are going to try to write code just like we did in our last lesson. Take the next 15 seconds to look at the challenge on the board. Once you notice something, raise your hand to share it with the group."
 
-- [ ] **Share Out:** Have students help you write the code by volunteering to share one line at a time.
+- [ ] **Unpack** the challenge as a class.
 
-- [ ] **Stepping:** Have the student on the grid act out the code as you direct the class in reading the code out loud one line at a time.
+<iconp type='question'>**What do you notice about the challenge on the board?**</iconp>
+    <iconp type='question'>Where is the PixelBot on the grid?</iconp>
+    <iconp type='question'>Which way is the PixelBot facing?</iconp>
+    <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+    <iconp type='question'>Which square does the PixelBot have to paint?</iconp>
+    <iconp type='question'>Which way should the PixelBot move to get to the square?</iconp>
 
-- [ ] **Validate** the code by running it on PixelBots.
+- [ ] **Share Out and Model:** Have student share out their answers to the question below. Test their ideas by adding code in the editor clicking run. Continue asking the question and testing out their ideas until the group comes up with a solution to challenge 1.
 
-## 2. Explore: Challenge (3 min)
-- [ ] **Introduce** PixelBot challenge 1 from the practice playlist to the class.
->> "In our next challenge we need to paint the square in the middle of the grid. You are going to try to solve this challenge on your own."
+<iconp type='question'>Which code block on the board will get our PixelBot to move closer to the square it needs to paint?</iconp>
 
-- [ ] **Independent Exploration:** Have students attempt to code a solution to challenge 1.
+## 2. Explain: Writing Code (8 min)
+- [ ] **Explain** that the first step to coding a solution is to plan how the PixelBot should get to a square.
+>>"Before we begin coding our PixelBot, we always want to plan how it should move to the square it needs to paint. In our first challenge the PixelBot can move up and to the right to get to the square, or it can move to the right and then up. We always want to decide which way we want to go first. Let's try this in our next challenge."
 
-- [ ] **Monitor** the class to select two students who will share their code. Try to select two students with different solutions. If only one solution is found in the class prepare to share a different solution during the explain activity.
+- [ ] **Unpack** the challenge 2 as a class.
 
-## 3. Explain: Writing Code (7 min)
-- [ ] **Share Out:** Have students selected share their code. As they share, write the code in the editor and run it in order to validate the solution. If only one solution was found in the group share a different solution of your own.
+<iconp type='question'>**What do you notice about the challenge on the board?**</iconp>
+    <iconp type='question'>Where is the PixelBot on the grid?</iconp>
+    <iconp type='question'>Which way is the PixelBot facing?</iconp>
+    <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+    <iconp type='question'>Which square does the PixelBot have to paint?</iconp>
 
-- [ ] **Explain** that challenges usually have more than one solution and that it is important to know how you want to try to solve a challenge before beginning to code.
->> "Most of the challenges we will write code for have more than one solution. This is why it is important to plan which solution you are going to try before beginning to write code."
+- [ ] **Explain** that there are two different paths to get the PixelBot to the correct square.
+>>"In this challenge, the PixelBot can move up and then move left, or it can move to the left and then move up."
 
-- [ ] **Demonstrate** how to plan a path by tracing an imaginary line with your finger on the grid to solve challenge 2 in the playlist. Have students repeat after you.
->> "One way I like to plan my code is by tracing the path I want my PixelBot to take with my finger before I write my code. In challenge 2 our goal is to paint the square that is above on the left. I can trace a path with my finger that goes up one space and then left one space."
+- [ ] **Share Out:** Have the class decide which path to take.
 
-- [ ] **Model** how to solve the challenge after tracing out the path with your finger.
->>"Now that I chose my path, I can start to write my code. First I need to move up one space. Then I need to move one space to the left. Finally, I should have my PixelBot paint the square."
+<iconp type='question'>Which way should the PixelBot move to get to the square, path A or path B?</iconp>
 
-## 4. Elaborate: PixelBot Practice (10 min)
+- [ ] **Share Out and Model:** Have student share out their answers to the questions below. Test their ideas by adding code in the editor clicking run. Continue this process until the group comes up with a solution to challenge 2.
+
+<iconp type='question'>Which code block should we use first?</iconp>
+<iconp type='question'>Which code block should we use next?</iconp>
+<iconp type='question'>Which code block should we use last?</iconp>
+
+## 3. Elaborate/Evaluate: PixelBot Practice (10 min)
 - [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
 
 - [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
 
-## 5. Evaluate: Exit Challenge (5 min)
-
-- [ ] **Exit Challenge:** Have students complete the exit challenge playlist on PixelBots.
+<note type='tip'>Check challenges 3 and 4 in the practice playlist to track student progress.</note>
 
 </notable>
 
-[demonstration]: http://www.pixelbots.io/3DPGY
 [slides]: https://drive.google.com/open?id=1q2RgAFOG3bWN9o-oXZkFt4wCwmYTKUkRtgD4Wiife9c
-[playlist]: http://www.pixelbots.io/QD8W6
-[extension]:http://www.pixelbots.io/NQOW7
-[exit]: http://www.pixelbots.io/MJ282
+[playlist]: http://www.pixelbots.io/ENW2Z
+[extension]:http://www.pixelbots.io/DG9J8
