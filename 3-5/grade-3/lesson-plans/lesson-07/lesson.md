@@ -7,11 +7,12 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can rewrite a repeating sequence with a loop.
 
-<iconp src='/icons/agenda.png'>### Agenda</iconp>
+<iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
 1. Engage & Explore: Patterns (10 min)
 1. Explain: Translating Patterns to Loops (15 min)
 1. Elaborate: Practice (10 min)
 1. Evaluate: Exit Challenge (10 min)
+1. Extension: PixelBot Practice (15 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -22,10 +23,11 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 ###### Student Materials:
 - [ ] Pencils
 - [ ] Computers
-- [ ] Unifix Cubes
+- [ ] Unifix Cubes (4 colors: Color A: 4, Color B: 8, Color C: 6, Color D: 6)
 - [ ] [Loops Handout][loops]
 - [ ] [Code Handouts][code-handouts]
 - [ ] [Exit Challenge][exit]
+- [ ] [Playlist: 3.07 Bonus | Code: DQYJX][extension]
 
 </note>
 ### Room Design
@@ -63,7 +65,7 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 
 <br/>
 
-- [ ] **Build:** Students use the loops handout and cubes to build a loop that describes the pattern.
+- [ ] **Build:** In pairs, have students use the loops handout and cubes to build a loop that describes the pattern.
 
 <iconp type="question">How could you represent the pattern using fewer cubes and a loop block?</iconp>
 <iconp type="answer">Put one of the pattern pieces inside a loop. </iconp>
@@ -125,9 +127,16 @@ Students identify repeating patterns in a sequence and replace the repetition wi
 
 > > "I have a challenge for you! Complete the exit challenges independently on your paper."
 
+## 5. Extension: PixelBots (15 min)
+
+- [ ] **Extend:** If students finish the lesson early, have them attempt PixelBot playlist 3.07 Bonus.
+
+<note type='tip'>Consider using this time to pull a small group of students who may need additional instruction to master the day's objective.</note>
+
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1fZDfHDFEXsVilp4-Nxg4H_rs11rrtYyypJ6SL9wX0g4/edit?usp=sharing
 [loops]: https://drive.google.com/open?id=0B48_2vIyABioXy1ZcXFKZXk2X3M
 [code-handouts]: https://drive.google.com/open?id=0B48_2vIyABioSlRwNlFnSVluQWM
 [exit]: https://drive.google.com/open?id=0B48_2vIyABioSzFNSnRiaWdaV0k
+[extension]: http://www.pixelbots.io/DQYJX
