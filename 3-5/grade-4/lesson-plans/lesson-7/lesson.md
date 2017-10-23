@@ -25,7 +25,7 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 - [ ] Computer
 - [ ] Pencils
 - [ ] Journals
-- [ ] [Playlist: 4.07 Practice | Code: M92P5][practice]
+- [ ] [Playlist: 4.07 Practice | Code: 967PU][practice]
 - [ ] [Playlist: 4.07 Bonus | Code: M2M7T][extension]
 
 </note>
@@ -59,6 +59,8 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
   <iconp type='question'>What did you want the PixelBot to do?</iconp>
   <iconp type='question'>What did the PixelBot do instead?</iconp>
 
+<note type='tip'>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make the types of relevant observations they should make every time they approach a challenge. After playing the code for students, they should notice what the program did and what they want it to do instead.</note>
+
 ## 2. Explore: Try It Out (7 min)
 - [ ] **Challenge** the students to debug the code without deleting it and rewriting it.
 >>“Your challenge in this activity is to fix the code by only changing the part that doesn’t work. You should not delete all of the code and rewrite it.”
@@ -66,6 +68,11 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 - [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
 
 - [ ] **Monitor** students as they work. Look for students who can be called on to share their strategy for debugging in the next activity. See “Notes” as a reference for what types of strategies you might look for.
+
+<note type='tip'>As students work, circulate the room asking students, “What did you do to find the bug?” As students step you through their process, select 1 to 2 students who used different strategies to share out in the next activity. Possible strategies are:
+- Playing the code and first comparing what they wanted the code to do vs. what it actually did.
+- Stepping through each line of code.</note>
+
 
 ## 3. Explain: In The Loop (15 min)
 - [ ] **Turn and Talk:** Students share their responses to the questions below with a partner. After each partner has shared, call on pre-selected students from the prior activity to share their strategies.
@@ -98,6 +105,10 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 - [ ] **Identify** the type of bug.
 >>“Sometimes with loops, we will come across a repeat bug, but other times, the bug might be within the loop. In this case, we found an Unwanted Code Bug within our loop. Have you seen this type of bug before?”
 
+<note type='tip'>Put an emphasis on the strategies that students share out to give them voice and ownership in the classroom. As selected students share the changes they made and how they knew to make those changes, have the class give a thumbs up if they also used the same strategy allowing for all student voices to be heard.
+
+As a student shares out the strategy of stepping through each line of code, put a strong emphasis on the idea that they are not finished reading the code when they reach the bottom. If it repeats, they have to go back to the top of the loop to continue reading the code!</note>
+
 ## 4. Elaborate: PixelBot Practice (20 min)
 - [ ] **Independent Exploration:** Students work through the rest of the challenges in the PixelBots playlist.
 
@@ -118,5 +129,5 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 </notable>
 
 [slides]: https://drive.google.com/open?id=1KO2UgvrxEz52OK_fpMuDjJ4SDsZ0DAQNIgWlcNFuMyU
-[practice]: http://www.pixelbots.io/M92P5
+[practice]: http://www.pixelbots.io/967PU
 [extension]: http://www.pixelbots.io/M2M7T
