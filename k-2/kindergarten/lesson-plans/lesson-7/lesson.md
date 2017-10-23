@@ -47,7 +47,7 @@ In lesson 7 students continue writing code. The complexity of the challenges is 
 
 <pagebreak/>
 
-## 1. Engage/Explore: Code a Friend (12 min)
+## 1. Engage/Explore: Unpack & Code (12 min)
 - [ ] **Introduce** challenge 1 from the practice playlist.
 >>"In our first challenge of the day we are going to try to write code just like we did in our last lesson. Take the next 15 seconds to look at the challenge on the board. Once you notice something, raise your hand to share it with the group."
 
