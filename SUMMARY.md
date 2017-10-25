@@ -46,7 +46,7 @@
       * [Lesson 05: In the Loop](3-5/grade-3/lesson-plans/lesson-05/lesson.md)
       * [Lesson 06: Coding Patterns](3-5/grade-3/lesson-plans/lesson-06/lesson.md)
       * [Lesson 07: Write Loops](3-5/grade-3/lesson-plans/lesson-07/lesson.md)
-      * [Lesson 08: Debugging Loops](3-5/grade-3/lesson-plans/lesson-08/lesson.md)
+      * [Lesson 08: Write Loops II](3-5/grade-3/lesson-plans/lesson-08/lesson.md)
       * [Lesson 09: Review](3-5/grade-3/lesson-plans/lesson-09/lesson.md)
       * [Lesson 10: Independent Coding Challenges](3-5/grade-3/lesson-plans/lesson-10/lesson.md)
       * [Lesson 11: Boolean](3-5/grade-3/lesson-plans/lesson-11/lesson.md)

@@ -1,34 +1,30 @@
-<header class='header' title='Debugging Loops' subtitle='Lesson 08'/>
+<header class='header' title='Writing Loops II' subtitle='Lesson 08'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students apply the debugging protocol to debug loops online and unplugged.
+In Lesson 8 students use pattern recognition to write loops. Students practice identifying the core of a pattern and the number of times it repeats in order to rewrite a sequence of code with a loop.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can use the debugging protocol to debug my code.
 - I can rewrite a repeating sequence with a loop.
 
-
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-
-1. **Engage:** Predictions (5 min)
-1. **Explore:** Buggy Loop (10 min)
-1. **Explain:** Compare, Find, Try (10 min)
-1. **Elaborate:** Independent Debugging (15 min)
-1. **Evaluate:** Exit Challenge (5 min)
+1. Engage: Observe & Unpack (10 min)
+1. Explore: Try It Out (5 min)
+1. Explain: Repeat Your Code (10 min)
+1. Elaborate: PixelBot Practice (25 min)
+1. Evaluate: Reflect (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Playlist: getCoding 3.8 Demo | Code: 432JT][playlist]
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: getCoding 3.8 | Code: 7W2EZ][elaborate]
-- [ ] [Playlist: getCoding 3.8 Exit | Code: R57KK][exit]
+- [ ] [Playlist: 3.08 Practice | Code: 4DB86][elaborate]
+- [ ] [Playlist: 3.08 Bonus | Code: 5X6BG][extension]
 </note>
 
 ## Room Design
@@ -36,83 +32,84 @@ Students apply the debugging protocol to debug loops online and unplugged.
 
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Bug:** An error in code.
-- **Debugging:** Finding and fixing errors in code.
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 </note>
 
 <pagebreak/>
 
-## 1. Engage: Predictions (5 min)
-- [ ] **Think Pair Share:** Open the demo challenge on pixelBots and display the code. Ask the class to predict what the pixelBot will do when the run button is clicked.
->>“Take a close look at the pixelBot code. Before I run this code, make a prediction of what this code will do. Turn to your table partner and share your prediction. Then I will ask a few groups to share out.”
+## 1. Engage: Observe & Unpack (5 min)
+- [ ] **Introduce** challenge number 1 from the PixelBot playlist.
 
-<iconp type='question'>What do you think the pixelBot will paint when I press the run button?</iconp>
-<iconp type='question'>What makes you think that will happen?</iconp>
+- [ ] **Unpack** the challenge as a class.
 
-- [ ] **Discuss** the strategies students used to make their predictions using the question below.
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing? (up, down, left, right)</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the squares?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
+  <iconp type='question'>How many code blocks do we have to use?</iconp>
+  <iconp type='question'>Do you see any patterns</iconp>
+  <iconp type='question'>What is the core of the pattern?</iconp>
 
-<iconp type='question'>What did you see in the code that allowed you to make a prediction without stepping through the code?</iconp>
+## 2. Explore: Try It Out (5 min)
+- [ ] **Challenge** the class to rewrite the code to complete the challenge within the line limit stretch goal.
 
-## 2. Explore: Buggy Loops (10 min)
-- [ ] **Challenge** the class to debug the code in pixelBot challenges 1 and 2. Students work on the challenges without any teacher assistance.
->>“Coders, I have a challenge for you. Your goal is to make the code paint what you see in the target grid without deleting anything. Let’s open our computers and type in the code to today’s pixelBots playlist.”
+- [ ] **Independent Exploration:** Students rewrite the code to meet the line limit stretch goal.
 
-- [ ] **Turn and Talk:** Have students discuss the strategies they tried to find and fix bugs in the code.
+- [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity.
 
-<iconp type='question'>What steps did you take to make sure the code worked?</iconp>
+## 3. Explain: Repeat Your Code (10 min)
+- [ ]  **Pair-Share:** Students discuss the strategies they tried to meet the line limit stretch goal.
 
-- [ ] **Share Out:** Have volunteers share out the their strategies with the class and record their responses on the board.
-Categorize: Ask students to look at the strategies written on the board and categorize where they fall in the compare, find, try debugging protocol.
->>“The steps to our debugging protocol are compare, find, and try.”
+<iconp type='question'>How did you rewrite the code?</iconp>
 
-<iconp type='question'>Which of the strategies that we described fall under compare?</iconp>
-<iconp type='question'>Which of the strategies that we described fall under find?</iconp>
-<iconp type='question'>Which of the strategies that we described fall under try?</iconp>
+- [ ] **Review** repeating code with loops from the previous lesson.
+>>"In our last lesson we saw how we can loop the core of a pattern to shorten our code. In order to loop our code, we first find the core of the pattern and then count the number of times it repeats. We can then put the core in a loop and tell the computer to repeat it the number of times we counted."
 
+- [ ] **Model** rewriting the code to meet the line limit with loops.
+>>"In our first challenge, the core of the pattern is step and paint. This core repeats 4 times. In order to loop this code 4 times, I can select the two blocks that make up the core and click the loop block. Then I can change the number in the loop to 4 so that it repeats the sequence 4 times."
 
-## 3. Explain: Compare, Find, Try (10 min)
-- [ ] **Model** using the debugging protocol to debug pixelBot challenge number 3.
->>“When we debug code we follow three basic steps: (1) Compare (2) Find (3) Try. Let's try it with this challenge. First Compare:"
+- [ ] **Explain** how to wrap existing code within a loop.
+>>"We can put the core of a pattern in the loop by selecting the blocks that make up the core. After we have selected them we can click on the loop block to wrap them in a loop. Since we no longer need the rest of the code, we can just delete it."
 
-<iconp type='question'>What do we want our program to do?</iconp>
-<iconp type='answer'>We wanted it to paint the 4 gray squares to make one big square.</iconp>
-<iconp type='question'>What does it do instead?</iconp>
-<iconp type='answer'>It painted 4 squares to make a square in the wrong spot.</iconp>
+- [ ] **Unpack** challenge 2 as a class.
 
->>"Step two, Find: We can use the yellow stepper tool to find where the bug might be."
+<iconp type='question'>**What do you notice about this challenge?**</iconp>
+  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
+  <iconp type='question'>Which way is the PixelBot facing? (up, down, left, right)</iconp>
+  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
+  <iconp type='question'>What color does it need to paint the squares?</iconp>
+  <iconp type='question'>Do we have code to begin with?</iconp>
+  <iconp type='question'>How many code blocks do we have to use?</iconp>
+  <iconp type='question'>Do you see any patterns</iconp>
+  <iconp type='question'>What is the core of the pattern?</iconp>
 
-<iconp type='question'>Where in the code do you think the bug is located? Let’s click the yellow stepper tool until we get there.</iconp>
-<iconp type='answer'>On line 4 the bug turns left.</iconp>
+- [ ] **Guided Practice:** Solve challenge 2 as a class by having students respond to the questions below. As students share out, try their ideas from your computer until the group has solved the challenge.
 
->>“Step three, Try:"
+<iconp type='question'>Which part of the code should go in the loop? Why?</iconp>
+<iconp type='question'>How many times should the code repeat in the loop?</iconp>
+<iconp type='question'>How do I add the code to the loop?</iconp>
+<iconp type='question'>How do I get rid of the rest of the code?</iconp>
 
-<iconp type='question'>What solution should we try? If the solution we try doesn’t work we choose another solution and try it out.</iconp>
+## 4. Elaborate: PixelBot Practice (25 min)
+- [ ]  **Independent Coding:** Coders work through the rest of the challenges in the playlist.
 
-- [ ] **Guided Practice:** Have students attempt to debug pixelBot challenge number 4 on their own.
->> “You are going to try this next challenge on your own. Your goals is to find the bug and fix it by using the debugging protocol. ”
+- [ ]  **Ask** the following questions to guide students who are struggling
+  <iconp type='question'>What did you want your program to do?</iconp>
+  <iconp type='question'>What is it doing instead?</iconp>
+  <iconp type='question'>What have you tried? (Prompt students to use the stepper tool and talk through what's happening at each step.)</iconp>
 
-- [ ] **Share solutions:** Ask students how they answered each step of the debugging protocol to debug the challenge.
-<iconp type='question'>Compare: What do we want our code to do? What does it do instead?</iconp>
-<iconp type='question'>Find: Where in the code might the bug be located?</iconp>
-<iconp type='question'>Try: What solution did you try? Did it work?</iconp>
+- [ ] **Extension:** Have students who finish early work on the PixelBots bonus playlist.
 
-## 4. Elaborate: Independent Debugging (15 min)
-- [ ] **Independent Practice:** Students apply the debugging protocol to a series of challenges. During this time circulate to assist students in need of additional help.
->>“Alright coders, now it’s your turn. Continue to use our 3 steps to debug the remaining challenges.”
+## 5. Evaluate: Reflect  (10 min)
+-  [ ] **Reflect** on the question below in whole group
 
-- [ ] **Share solutions** for debugging challenge numbers 4 and 5 as a class. Have students project their solutions. Encourage the class to respond with "I agree because..." and "I disagree because..."
-
-<iconp type='question'>Compare: What do we want our code to do? What does it do instead?</iconp>
-<iconp type='question'>Find: Where in the code might the bug be located? I will give you a few minutes to step through the code and find what line you think has the bug.</iconp>
-<iconp type='question'>Try: What solution did you try? Did it work?</iconp>
-
-## 5. Evaluate ( min)
-- [ ] **Exit Challenge:** Students complete the exit challenge independently.
+  <iconp type='question'>How do you feel about coding class today?</iconp>
+  <iconp type='question'>When are loops useful in coding?</iconp>
 
 </notable>
 
-[playlist]: http://www.pixelbots.io/432JT
-[slides]: https://drive.google.com/open?id=1BAZ1gJPcXon2U6SnOQSRwEJ_la3CzX4JvbBsHRXkV3U
-[elaborate]: http://www.pixelbots.io/7W2EZ
-[exit]: http://www.pixelbots.io/R57KK
+[slides]: https://drive.google.com/open?id=1QiUZBbujvJ9AWZuZd7phI9JHCQFQNxqh4-FpWJSw-Kc
+[elaborate]: http://www.pixelbots.io/4DB86
+[extension]: http://www.pixelbots.io/5X6BG
