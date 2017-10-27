@@ -1,4 +1,4 @@
-<header class='header' title='In the Loop' subtitle='Lesson 05'/>
+<header class='header' title='In the Loop' subtitle='Lesson 3.05'/>
 
 <notable>
 
