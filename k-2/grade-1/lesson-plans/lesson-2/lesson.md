@@ -1,4 +1,4 @@
-<header class='header' title='Multiple Solutions' subtitle='Lesson 02'/>
+<header class='header' title='Multiple Solutions' subtitle='Lesson 1.02'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>

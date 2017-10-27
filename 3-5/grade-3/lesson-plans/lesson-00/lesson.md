@@ -1,4 +1,4 @@
-<header class='header' title='Digital Literacy' subtitle='Lesson 00'/>
+<header class='header' title='Digital Literacy' subtitle='Lesson 3.00'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>

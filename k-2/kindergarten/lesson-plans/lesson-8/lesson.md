@@ -1,4 +1,4 @@
-<header class='header' title='Code Your PixelBot II' subtitle='Lesson 08'/>
+<header class='header' title='Code Your PixelBot II' subtitle='Lesson K.08'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
