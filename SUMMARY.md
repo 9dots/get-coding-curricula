@@ -11,6 +11,7 @@
     * [Lesson 06: PixelBots](k-2/kindergarten/lesson-plans/lesson-6/lesson.md)
     * [Lesson 07: Code Your PixelBot](k-2/kindergarten/lesson-plans/lesson-7/lesson.md)
     * [Lesson 08: Code Your PixelBot II](k-2/kindergarten/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 09: Find the Bug](k-2/kindergarten/lesson-plans/lesson-9/lesson.md)
   * [1st Grade](k-2/grade-1/README.md)
     * [Lesson 01: Move Forward & Turn](k-2/grade-1/lesson-plans/lesson-1/lesson.md)
     * [Lesson 02: Multiple Solutions](k-2/grade-1/lesson-plans/lesson-2/lesson.md)
