@@ -96,12 +96,10 @@ Ask the follow up questions if the initial noticing question doesn’t drive stu
 <iconp type='answer'>I used the loop block to repeat the pattern to paint my goal.</iconp>
 
 - [ ] **Explain** how to find patterns by planning code while reviewing the first challenge.
-
-1. Plan the Code
->>“We need to know what the core of the pattern is. To find the core of the pattern, we first look at our goal. After we know our goal, we must plan how we would code it. As we plan, we can use our yellow stepper tool or our green run button to check our code.”
-
-1. Find the Core
->>“To find the core of our pattern, we need to know how many blocks make a pattern. We see that 2 blocks make a pattern. Our first block is Move 1 Step and our last block is Paint. Now we’ve found our core.”
+  1. **Plan the Code**
+  >>“We need to know what the core of the pattern is. To find the core of the pattern, we first look at our goal. After we know our goal, we must plan how we would code it. As we plan, we can use our yellow stepper tool or our green run button to check our code.”
+  2. **Find the Core**
+  >>“To find the core of our pattern, we need to know how many blocks make a pattern. We see that 2 blocks make a pattern. Our first block is Move 1 Step and our last block is Paint. Now we’ve found our core.”
 
 - [ ] **Introduce** Challenge 2.
 >>“Today’s challenges require you to identify a pattern in the goal and use the pattern to create loops that will reduce the number of code blocks we use to paint the goal.”
