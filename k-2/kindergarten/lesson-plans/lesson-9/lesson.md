@@ -81,7 +81,7 @@ Follow Up Questions
 <iconp type='question'>What should we try to do to fix it?</iconp>
 
 - [ ] **Explain** that the bug you found was an extra line of code that didn't belong where it was. Tell students that each challenge they will encounter in this lesson has a bug that is an extra line of code that needs to be removed.
->>"In our first challenge the bug was an extra line of code that needed to be removed. The PixelBot took an extra step that made it paint the wrong square. All of our challenges today have bugs that need to be removed. In each challenge there is one block of code that makes the PixelBot do the wrong thing. We have to find the block of code and delete it to debug the code."
+>>"In our first challenge the PixelBot took an extra step that made it paint the wrong square. All of our challenges today have bugs that need to be removed. In each challenge there is one block of code that makes the PixelBot do the wrong thing. We have to find the block of code and delete it to debug the code."
 
 ## 2. Explain: Debugging (8 min)
 **Location:** Rug
