@@ -38,9 +38,9 @@ In Lesson 8 students use pattern recognition to write loops. Students practice i
 <pagebreak/>
 
 ## 1. Engage: Observe & Unpack (5 min)
-- [ ] **Introduce** challenge number 1 from the PixelBot playlist.
+- [ ] **Introduce and Unpack** the challenge as a class.
 
-- [ ] **Unpack** the challenge as a class.
+<note type='tip'>By the end of the unpacking process students should be aware of the goal of the challenge and pattern in the starter code.</note>
 
 <iconp type='question'>**What do you notice about this challenge?**</iconp>
   <iconp type='question'>What is the PixelBot supposed to do?</iconp>
@@ -51,6 +51,9 @@ In Lesson 8 students use pattern recognition to write loops. Students practice i
   <iconp type='question'>How many code blocks do we have to use?</iconp>
   <iconp type='question'>Do you see any patterns</iconp>
   <iconp type='question'>What is the core of the pattern?</iconp>
+
+
+- [ ] **Explain** that the Line Limit is the number of lines students can use to solve the challenge.
 
 ## 2. Explore: Try It Out (5 min)
 - [ ] **Challenge** the class to rewrite the code to complete the challenge within the line limit stretch goal.
@@ -67,8 +70,8 @@ In Lesson 8 students use pattern recognition to write loops. Students practice i
 - [ ] **Review** repeating code with loops from the previous lesson.
 >>"In our last lesson we saw how we can loop the core of a pattern to shorten our code. In order to loop our code, we first find the core of the pattern and then count the number of times it repeats. We can then put the core in a loop and tell the computer to repeat it the number of times we counted."
 
-- [ ] **Model** rewriting the code to meet the line limit with loops.
->>"In our first challenge, the core of the pattern is step and paint. This core repeats 4 times. In order to loop this code 4 times, I can select the two blocks that make up the core and click the loop block. Then I can change the number in the loop to 4 so that it repeats the sequence 4 times."
+- [ ] **Model and Explain** rewriting the code to meet the line limit with loops.
+>>"In our first challenge, the core of the pattern is step and paint. This core repeats 4 times. In order to loop this code 4 times, I can select the two blocks that make up the core and click the loop block. Then I can change the number in the loop to 4 so that it repeats the sequence 4 times. We can put the core of a pattern in the loop by selecting the blocks that make up the core. After we have selected them we can click on the loop block to wrap them in a loop. Since we no longer need the rest of the code, we can just delete it."
 
 - [ ] **Explain** how to wrap existing code within a loop.
 >>"We can put the core of a pattern in the loop by selecting the blocks that make up the core. After we have selected them we can click on the loop block to wrap them in a loop. Since we no longer need the rest of the code, we can just delete it."
