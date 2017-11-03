@@ -73,10 +73,6 @@ In lesson 8 students continue to practice writing code to solve challenges that 
     <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
     <iconp type='question'>Which square does the PixelBot have to paint?</iconp>
 
-- [ ] **Share Out:** Have the class decide which path to take.
-
-<iconp type='question'>Which way should the PixelBot move to get to the square, path A or path B?</iconp>
-
 - [ ] **Share Out and Model:** Have student share out their answers to the questions below. Test their ideas by adding code in the editor clicking run. Continue this process until the group comes up with a solution to challenge 2.
 
 <iconp type='question'>Which code block should we use first?</iconp>
@@ -85,6 +81,8 @@ In lesson 8 students continue to practice writing code to solve challenges that 
 
 ## 3. Elaborate/Evaluate: PixelBot Practice (10 min)
 - [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
+
+<note type='tip'>Consider pausing during independent work time to give students a helpful tip or inspirational message.</note>
 
 - [ ] **Monitor** the class for students in need of additional assistance.
 

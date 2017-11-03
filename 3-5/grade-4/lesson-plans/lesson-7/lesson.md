@@ -98,9 +98,8 @@ In this lesson, students will begin by analyzing code with a loop to find and fi
 <iconp type='question'>Which way is the PixelBot facing? (up, down, left, right)</iconp>
 <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
 <iconp type='question'>What else do you notice?</iconp>
-
-- [ ] **Model** debugging Challenge Two on PixelBots using the stepper tool.
->>“When I run the code, it starts by painting the correct squares, but then it keeps repeating on the same squares instead of going on to the next ones. To find the problem I can use the stepper tool. As I continue to click, I can see that when it goes back to the top, at line 2, the pixelbot turns right when it needs to stay in the direction it already was…”
+<br></br>
+- [ ] **Model** debugging Challenge Two on PixelBots by playing the Code Along video.
 
 - [ ] **Identify** the type of bug.
 >>“Sometimes with loops, we will come across a repeat bug, but other times, the bug might be within the loop. In this case, we found an Unwanted Code Bug within our loop. Have you seen this type of bug before?”
