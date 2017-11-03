@@ -156,7 +156,7 @@ I remember that I have trouble with remember this turn block sometimes, but this
 
 </notable>
 
-[tracker]: https://docs.google.com/document/d/1d6WrJcPMLjaFe5Q9y1ukDvSg9SXnZ-ulkcYrdQl8ELE/edit#
-[slides]: https://drive.google.com/open?id=1soexXuRMkowtw9FKn8EjBhdPJmawVh39mfLzcbm0d70
+[tracker]: https://drive.google.com/open?id=1d6WrJcPMLjaFe5Q9y1ukDvSg9SXnZ-ulkcYrdQl8ELE
+[slides]: https://drive.google.com/open?id=1KzmfNiyjQQqUQzox2JTT9FqA2lWxrbzjVAhoYFiLoyg
 [practice]: http://www.pixelbots.io/D6WN5
 [extension]: http://www.pixelbots.io/8QMXQ
