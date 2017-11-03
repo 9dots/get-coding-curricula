@@ -146,14 +146,6 @@ Ask the following questions to guide students who are struggling
 
 - [ ] **Extension:** Have students who finish early work on the PixelBots bonus playlist.
 
-<note type='tip'>Consider pulling small group for coders who need extra support.
-
-When facilitating debugging:
-1. Allow coders to find the bug themselves.
-1. Only the coders control the mouse.
-1. Teacher models debugging process and asks coders questions to find the solution together.
-1. Coders know that it's okay if they don't know the bug or how to solve it!</note>
-
 ## 5. Evaluate: Reflect (5 min)
 **Location:** Rug
 
