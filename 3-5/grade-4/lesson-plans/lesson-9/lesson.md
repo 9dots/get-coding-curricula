@@ -43,7 +43,7 @@ In this lesson, students learn how to write a program with a conditional stateme
 
 <pagebreak/>
 
-## 1. Engage: Lights On (60 mins)
+## 1. Engage: Lights On (5 mins)
 - [ ] **Introduce** students to today’s robot scenario.
 >>“Today, I want you to imagine you are writing the directions for a robot to turn ALL the lights on in a building. The only direction we can give the robot is to flip a switch. When you see the light in a room is off, I want you to call out ‘Switch!’ and we will use this switch block to give the robot directions to flip the switch on. (Use slideshow to show visual of new switch block)”
 

@@ -62,7 +62,7 @@ Follow up questions:
 
 <note type='tip'>Aim to have students guide the conversation and answer all of the questions in the suggested list themselves, interjecting when necessary to guide them to the key points. </note>
 
-## 2. Explore: Try It Out (2 mins)
+## 2. Explore: Try It Out (4 mins)
 **Location:** Rug/Desks
 
 - [ ] **Challenge** the class to write the code for the challenge within the line limit.
@@ -82,7 +82,7 @@ Follow up questions:
 
 - [ ] **Monitor** the class to find students who can be called on to share their strategies in the next activity. Strategies might include highlighting the core of a pattern and placing a loop  around it, using the layover button, etc.
 
-## 3. Explain: Try It With Loops (12 min)
+## 3. Explain: Try It With Loops (10 min)
 **Location:** Rug
 
 - [ ] **Debrief** challenge one as a class.

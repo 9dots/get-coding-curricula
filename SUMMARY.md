@@ -44,6 +44,7 @@
       * [Lesson 07: Debugging Loops](3-5/grade-4/lesson-plans/lesson-7/lesson.md)
       * [Lesson 08: Reading Conditionals](3-5/grade-4/lesson-plans/lesson-8/lesson.md)
       * [Lesson 09: Coding Conditionals](3-5/grade-4/lesson-plans/lesson-9/lesson.md)
+      * [Lesson 10: Multiple Solutions](3-5/grade-4/lesson-plans/lesson-10/lesson.md)
 * [Archived](archived/README.md)
   * [2016-2017 3rd Grade](archived/grade-3-archived/README.md)
       * [Lesson 1: I am a Coder](archived/grade-3-archived/lesson-plans/lesson-1.md)
