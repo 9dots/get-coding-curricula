@@ -1,4 +1,4 @@
-<header class='header' title='Review ' subtitle='Lesson 09'/>
+<header class='header' title='Multiple Solutions ' subtitle='Lesson 3.10'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -40,6 +40,12 @@ In lesson 10, coders use the coding skills they’ve learned to create multiple 
 
 <pagebreak/>
 
+## 1. Engage: Unpack (5 min)
+- **Location:** Rug
+
+- [ ] **Explain** the purpose of today’s lesson. Begin by using the slideshow to review some of the blocks and tools that coders have learned to use so far.
+>>“Today we are going to use everything we have learned so far and focus on just two different challenges. You are going to have an opportunity to solve Challenge 1 in more than just one way with a team of coders. Then, we will share out the different code solutions you came up with. Afterward, we will independently try Challenge 2 to solve it with different code solutions.”
+
 <note type='tip'>
 Ensure that coders  are contributing to the conversation with any and all observations to guide them to the:
 
@@ -56,17 +62,13 @@ This helps to make coders feel comfortable with contributing while still refrain
 Ask the follow up questions if the initial noticing question doesn’t drive students to think deeper about the challenge.
 </note>
 
-## 1. Engage: Unpack (5 min)
-- **Location:** Rug
-
-- [ ] **Explain** the purpose of today’s lesson. Begin by using the slideshow to review some of the blocks and tools that coders have learned to use so far.
->>“Today we are going to use everything we have learned so far and focus on just two different challenges. You are going to have an opportunity to solve Challenge 1 in more than just one way with a team of coders. Then, we will share out the different code solutions you came up with. Afterward, we will independently try Challenge 2 to solve it with different code solutions.”
-
 - [ ] **Unpack** Challenge One as a whole class.
 
-<iconp type='question'>What do you notice?</iconp>
-- What do we want the pixelbot to do?
-- Do you see any patterns?
+<iconp type='question'>**What do you notice?**</iconp>
+<iconp type='question'>What do we want the pixelbot to do?</iconp>
+<iconp type='question'>Do you see any patterns?</iconp>
+<br/>
+
 
 - [ ] **Think-Pair-Share:** Have coders think for 20 seconds and then turn to their partner to discuss the path they plan on coding for the pixelbot. Then share out whole group.
 
@@ -98,34 +100,44 @@ Examples:
 - [ ] **Model** what it looks like to explain your code. Do this by sharing one solution for Challenge One. First, code your solution in PixelBots (ex. Move 1 step, paint, turn right, move 1 step.) Then use the following steps to model your explanation and guide students in explaining their own process:
 
 <iconp type='question'>What was the goal? What picture did you want your PixelBot to paint?</iconp>
-- (“I know that I want my PixelBot to move in the shape of a square, so I need to figure out where to move first.”)
+<iconp type='answer'>“I know that I want my PixelBot to move in the shape of a square, so I need to figure out where to move first.”</iconp>
 <iconp type='question'>What plan did you write for the PixelBot to follow?</iconp>
-- (“I knew I needed to move 1 step to get to the next square. Now that I'm here, I see I need to paint. Then, I see that PixelBot needs to go this way, which means I need a turn block.”)
+<iconp type='answer'>“I knew I needed to move 1 step to get to the next square. Now that I'm here, I see I need to paint. Then, I see that PixelBot needs to go this way, which means I need a turn block.”</iconp>
 <iconp type='question'>Does your code have a pattern? What is being repeated?</iconp>
-- (“The pattern is move 1 step, paint, and turn.”)
+<iconp type='answer'>“The pattern is move 1 step, paint, and turn.”</iconp>
 <iconp type='question'>What types of code blocks did you use after you found the pattern?</iconp>
-- (“I used a loop because I saw that I could repeat a pattern 3 times. I used turn, step and paint inside of the loop.”)
-<iconp type='question'>Run the code and see what it does.</iconp>
+<iconp type='answer'>“I used a loop because I saw that I could repeat a pattern 3 times. I used turn, step and paint inside of the loop.”</iconp>
+<br/>
+
+- [ ] **Run** the code and show what it does.
 
 - [ ] **Share Out:** Display two solutions that the team of coders from the Explore section wrote. Have the team decide two coders to be their speakers to explain their code to the class.
 
 <iconp type='question'>Explain your code. How did you solve the challenge in this way?</iconp>
+<br/>
 
 - [ ] **Think-Pair-Share:** Display two of the solutions in different windows, so coders can see them side by side. Have coders turn and talk to compare the various solutions.
 
 <iconp type='question'>Which solution do you like? Why?</iconp>
+<br/>
 
 - [ ] **Unpack** Challenge Two as a whole class.
 
-<iconp type='question'>What do you notice?</iconp>
-- What is the goal?
-- What do we want the pixelbot to do?
-- Do you see any patterns?
+<iconp type='question'>**What do you notice?**</iconp>
+<iconp type='question'>What is the goal?</iconp>
+<iconp type='question'>What do we want the pixelbot to do?</iconp>
+<iconp type='question'>Do you see any patterns?</iconp>
+<br/>
 
 - [ ] **Think-Pair-Share:** Have coders think for 20 seconds and then turn to their partner to discuss the path they plan on coding for the pixelbot. Then share out whole group.
 
 <iconp type='question'>What is your plan?</iconp>
-- What would you do first? What else could you do first?
+<iconp type='question'>What would you do first? What else could you do first?</iconp>
+
+## 4. Elaborate: Write the Code! Round II (10 min)
+- **Location:** Desks
+- [ ] **Independent Exploration:** Coders login to PixelBots and solve Challenge Two in two different ways. (They will complete Challenge Two, A and B).
+>>“This time you are going to try and write the code for Challenge Two independently. You will have 15 minutes to try to come up with two different solutions. Each solution should be written on separate Challenges: Challenge 2A, Challenge 2B.""
 
 <note type='tip'>
 Consider pulling small group for coders who need extra support.
@@ -137,11 +149,6 @@ When facilitating debugging:
 - Coders know that it's okay if they don't know the bug or how to solve it!
 </note>
 
-## 4. Elaborate: Write the Code! Round II (10 min)
-- **Location:** Desks
-- [ ] **Independent Exploration:** Coders login to PixelBots and solve Challenge Two in two different ways. (They will complete Challenge Two, A and B).
->>“This time you are going to try and write the code for Challenge Two independently. You will have 15 minutes to try to come up with two different solutions. Each solution should be written on separate Challenges: Challenge 2A, Challenge 2B.""
-
 - [ ] **Monitor** coders as they work. Look for coders who used different solutions and jot their names down, so you can display their code during the follow up discussion.
 
 ## 5. Evaluate: Wrapping Up (15 min)
@@ -150,12 +157,14 @@ When facilitating debugging:
 
 <iconp type='question'>Explain your code. How did you solve the challenge in this way?</iconp>
 <iconp type='question'>What other ways did you try? (Pull up a different challenge on their playlist and have them explain their code.)</iconp>
+<br/>
 
 - [ ] **Whole Group Discussion:** Display the solutions in different windows, so coders can see them all. Have coders engage in discussion to compare the various solutions just as they did with Challenge One.
 
 <iconp type='question'>How are these solutions different?</iconp>
 <iconp type='question'>How are they the same?</iconp>
 <iconp type='question'>Which solution do you like? Why?</iconp>
+<br/>
 
 - [ ] **Reflect** on the questions below in whole group.
 
