@@ -12,6 +12,7 @@
     * [Lesson 07: Code Your PixelBot](k-2/kindergarten/lesson-plans/lesson-7/lesson.md)
     * [Lesson 08: Code Your PixelBot II](k-2/kindergarten/lesson-plans/lesson-8/lesson.md)
     * [Lesson 09: Find the Bug](k-2/kindergarten/lesson-plans/lesson-9/lesson.md)
+    * [Lesson 10: Where is the Bug?](k-2/kindergarten/lesson-plans/lesson-10/lesson.md)
   * [1st Grade](k-2/grade-1/README.md)
     * [Lesson 01: Move Forward & Turn](k-2/grade-1/lesson-plans/lesson-1/lesson.md)
     * [Lesson 02: Multiple Solutions](k-2/grade-1/lesson-plans/lesson-2/lesson.md)
@@ -20,6 +21,8 @@
     * [Lesson 05: Bug Catchers](k-2/grade-1/lesson-plans/lesson-5/lesson.md)
     * [Lesson 06: Bug Out](k-2/grade-1/lesson-plans/lesson-6/lesson.md)
     * [Lesson 07: Step Through the Loop](k-2/grade-1/lesson-plans/lesson-7/lesson.md)
+    * [Lesson 08: Loops](k-2/grade-1/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 09: Loops II](k-2/grade-1/lesson-plans/lesson-9/lesson.md)
 * [Grades 3-5](3-5/README.md)
   * [3rd Grade](3-5/grade-3/README.md)
       * [Lesson 00: Digital Literacy](3-5/grade-3/lesson-plans/lesson-00/lesson.md)
@@ -32,7 +35,10 @@
       * [Lesson 07: Write Loops](3-5/grade-3/lesson-plans/lesson-07/lesson.md)
       * [Lesson 08: Write Loops II](3-5/grade-3/lesson-plans/lesson-08/lesson.md)
       * [Lesson 09: Write Loops III](3-5/grade-3/lesson-plans/lesson-09/lesson.md)
+<<<<<<< HEAD
       * [Lesson 10: Multiple Solutions](3-5/grade-3/lesson-plans/lesson-10/lesson.md)
+=======
+>>>>>>> 990fd79e5f6b96a981f41f18c5a1b1553819f5fa
   * [4th Grade](3-5/grade-4/README.md)
       * [Lesson 01: Writing Code](3-5/grade-4/lesson-plans/lesson-1/lesson.md)
       * [Lesson 02: Reading Code](3-5/grade-4/lesson-plans/lesson-2/lesson.md)
@@ -43,6 +49,7 @@
       * [Lesson 07: Debugging Loops](3-5/grade-4/lesson-plans/lesson-7/lesson.md)
       * [Lesson 08: Reading Conditionals](3-5/grade-4/lesson-plans/lesson-8/lesson.md)
       * [Lesson 09: Coding Conditionals](3-5/grade-4/lesson-plans/lesson-9/lesson.md)
+      * [Lesson 10: Multiple Solutions](3-5/grade-4/lesson-plans/lesson-10/lesson.md)
 * [Archived](archived/README.md)
   * [2016-2017 3rd Grade](archived/grade-3-archived/README.md)
       * [Lesson 1: I am a Coder](archived/grade-3-archived/lesson-plans/lesson-1.md)
