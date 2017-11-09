@@ -23,6 +23,7 @@
     * [Lesson 07: Step Through the Loop](k-2/grade-1/lesson-plans/lesson-7/lesson.md)
     * [Lesson 08: Loops](k-2/grade-1/lesson-plans/lesson-8/lesson.md)
     * [Lesson 09: Loops II](k-2/grade-1/lesson-plans/lesson-9/lesson.md)
+    * [Lesson 10: Bug Catchers II](k-2/grade-1/lesson-plans/lesson-10/lesson.md)
 * [Grades 3-5](3-5/README.md)
   * [3rd Grade](3-5/grade-3/README.md)
       * [Lesson 00: Digital Literacy](3-5/grade-3/lesson-plans/lesson-00/lesson.md)
