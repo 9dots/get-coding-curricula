@@ -35,6 +35,7 @@
       * [Lesson 07: Write Loops](3-5/grade-3/lesson-plans/lesson-07/lesson.md)
       * [Lesson 08: Write Loops II](3-5/grade-3/lesson-plans/lesson-08/lesson.md)
       * [Lesson 09: Write Loops III](3-5/grade-3/lesson-plans/lesson-09/lesson.md)
+      * [Lesson 10: Multiple Solutions](3-5/grade-3/lesson-plans/lesson-10/lesson.md)
   * [4th Grade](3-5/grade-4/README.md)
       * [Lesson 01: Writing Code](3-5/grade-4/lesson-plans/lesson-1/lesson.md)
       * [Lesson 02: Reading Code](3-5/grade-4/lesson-plans/lesson-2/lesson.md)
