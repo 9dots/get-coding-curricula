@@ -20,7 +20,7 @@ In lesson 10 students continue practicing their debugging skills by removing unw
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] [Playlist: K.11 Practice | Code: WWGK5][practice]
+- [ ] [Playlist: K.10 Practice | Code: WWGK5][practice]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Bug** - An error in code.

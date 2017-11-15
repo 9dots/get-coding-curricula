@@ -2,7 +2,11 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
+<<<<<<< HEAD
 This lesson takes students’ prior knowledge about types of bugs (unwanted code, missing code, two-step bugs) and combines it with what they have learned about loops. This lesson specifically focuses just on bugs of unwanted code and bugs that are caused when a loop doesn’t run the correct amount of times. Lesson 12 will add on bugs with missing code.
+=======
+This lesson takes students’ prior knowledge about types of bugs (unwanted code, missing code, two-step bugs) and combines it with what they have learned about loops. This lesson specifically focuses just on bugs of unwanted code and bugs that are caused when a loop doesn’t run the correct amount of times. Lesson 11 will add on bugs with missing code.
+>>>>>>> a0c84221c5dad06819959b7a7a09c91240ae89de
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can debug a loop with repeat bugs.

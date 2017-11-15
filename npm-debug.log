@@ -7,6 +7,7 @@
 3 info using node@v8.9.0
 4 info git [ 'status', '--porcelain' ]
 <<<<<<< HEAD
+<<<<<<< HEAD
 5 info lifecycle get-coding-curricula@0.1.231~preversion: get-coding-curricula@0.1.231
 6 silly lifecycle get-coding-curricula@0.1.231~preversion: no script for preversion, continuing
 7 verbose version.write data { name: 'get-coding-curricula',
@@ -17,6 +18,12 @@
 7 verbose version.write data { name: 'get-coding-curricula',
 7 verbose version.write   version: '0.1.230',
 >>>>>>> cf0a18869aa6186e0ed3363a43d23c7dfe03c161
+=======
+5 info lifecycle get-coding-curricula@0.1.233~preversion: get-coding-curricula@0.1.233
+6 silly lifecycle get-coding-curricula@0.1.233~preversion: no script for preversion, continuing
+7 verbose version.write data { name: 'get-coding-curricula',
+7 verbose version.write   version: '0.1.233',
+>>>>>>> a0c84221c5dad06819959b7a7a09c91240ae89de
 7 verbose version.write   description: 'get coding curricula',
 7 verbose version.write   main: 'index.js',
 7 verbose version.write   scripts:
@@ -42,6 +49,7 @@
 7 verbose version.write      'gitbook-plugin-tasklist': '^0.5.12',
 7 verbose version.write      'gitbook-plugin-toggle-chapters': '^0.0.3' },
 7 verbose version.write   devDependencies: { 'firebase-tools': '^3.2.0', 'gitbook-cli': '^2.3.0' } } to package.json
+<<<<<<< HEAD
 <<<<<<< HEAD
 8 info lifecycle get-coding-curricula@0.1.231~version: get-coding-curricula@0.1.231
 9 silly lifecycle get-coding-curricula@0.1.231~version: no script for version, continuing
@@ -71,18 +79,22 @@
 =======
 8 info lifecycle get-coding-curricula@0.1.230~version: get-coding-curricula@0.1.230
 9 silly lifecycle get-coding-curricula@0.1.230~version: no script for version, continuing
+=======
+8 info lifecycle get-coding-curricula@0.1.233~version: get-coding-curricula@0.1.233
+9 silly lifecycle get-coding-curricula@0.1.233~version: no script for version, continuing
+>>>>>>> a0c84221c5dad06819959b7a7a09c91240ae89de
 10 info git [ 'add',
 10 info git   '/Users/Oscar/Documents/get-coding-curricula/package.json' ]
-11 info git [ 'commit', '-m', '0.1.230' ]
-12 info git [ 'tag', 'v0.1.230', '-am', '0.1.230' ]
-13 info lifecycle get-coding-curricula@0.1.230~postversion: get-coding-curricula@0.1.230
-14 verbose lifecycle get-coding-curricula@0.1.230~postversion: unsafe-perm in lifecycle true
-15 verbose lifecycle get-coding-curricula@0.1.230~postversion: PATH: /Users/Oscar/Documents/get-coding-curricula/node_modules/npm/bin/node-gyp-bin:/Users/Oscar/Documents/get-coding-curricula/node_modules/.bin:/usr/local/Cellar/node/7.0.0/bin:/Users/Oscar/Documents/get-coding-curricula/node_modules/.bin:/Users/Oscar/.yarn-config/link/node_modules/.bin:/Users/Oscar/Documents/get-coding-curricula/node_modules/.bin:/Users/Oscar/.yarn-config/link/node_modules/.bin:/Users/Oscar/Documents/get-coding-curricula/bower_components/.bin:/Users/Oscar/.yarn-config/link/bower_components/.bin:/usr/local/Cellar/yarn/0.16.1/libexec/lib/node_modules/yarn/bin/node-gyp-bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
-16 verbose lifecycle get-coding-curricula@0.1.230~postversion: CWD: /Users/Oscar/Documents/get-coding-curricula
-17 silly lifecycle get-coding-curricula@0.1.230~postversion: Args: [ '-c', 'git push && git push --tags' ]
-18 silly lifecycle get-coding-curricula@0.1.230~postversion: Returned: code: 1  signal: null
-19 info lifecycle get-coding-curricula@0.1.230~postversion: Failed to exec postversion script
-20 verbose stack Error: get-coding-curricula@0.1.230 postversion: `git push && git push --tags`
+11 info git [ 'commit', '-m', '0.1.233' ]
+12 info git [ 'tag', 'v0.1.233', '-am', '0.1.233' ]
+13 info lifecycle get-coding-curricula@0.1.233~postversion: get-coding-curricula@0.1.233
+14 verbose lifecycle get-coding-curricula@0.1.233~postversion: unsafe-perm in lifecycle true
+15 verbose lifecycle get-coding-curricula@0.1.233~postversion: PATH: /Users/Oscar/Documents/get-coding-curricula/node_modules/npm/bin/node-gyp-bin:/Users/Oscar/Documents/get-coding-curricula/node_modules/.bin:/usr/local/Cellar/node/7.0.0/bin:/Users/Oscar/Documents/get-coding-curricula/node_modules/.bin:/Users/Oscar/.yarn-config/link/node_modules/.bin:/Users/Oscar/Documents/get-coding-curricula/node_modules/.bin:/Users/Oscar/.yarn-config/link/node_modules/.bin:/Users/Oscar/Documents/get-coding-curricula/bower_components/.bin:/Users/Oscar/.yarn-config/link/bower_components/.bin:/usr/local/Cellar/yarn/0.16.1/libexec/lib/node_modules/yarn/bin/node-gyp-bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+16 verbose lifecycle get-coding-curricula@0.1.233~postversion: CWD: /Users/Oscar/Documents/get-coding-curricula
+17 silly lifecycle get-coding-curricula@0.1.233~postversion: Args: [ '-c', 'git push && git push --tags' ]
+18 silly lifecycle get-coding-curricula@0.1.233~postversion: Returned: code: 1  signal: null
+19 info lifecycle get-coding-curricula@0.1.233~postversion: Failed to exec postversion script
+20 verbose stack Error: get-coding-curricula@0.1.233 postversion: `git push && git push --tags`
 20 verbose stack Exit status 1
 20 verbose stack     at EventEmitter.<anonymous> (/Users/Oscar/Documents/get-coding-curricula/node_modules/npm/lib/utils/lifecycle.js:239:16)
 20 verbose stack     at emitTwo (events.js:106:13)
@@ -92,7 +104,7 @@
 20 verbose stack     at ChildProcess.emit (events.js:191:7)
 20 verbose stack     at maybeClose (internal/child_process.js:877:16)
 20 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
-21 verbose pkgid get-coding-curricula@0.1.230
+21 verbose pkgid get-coding-curricula@0.1.233
 22 verbose cwd /Users/Oscar/Documents/get-coding-curricula
 >>>>>>> cf0a18869aa6186e0ed3363a43d23c7dfe03c161
 23 error Darwin 16.7.0
@@ -100,6 +112,7 @@
 25 error node v8.9.0
 26 error npm  v3.7.5
 27 error code ELIFECYCLE
+<<<<<<< HEAD
 <<<<<<< HEAD
 28 error get-coding-curricula@0.1.231 postversion: `git push && git push --tags`
 28 error Exit status 128
@@ -109,6 +122,11 @@
 28 error Exit status 1
 29 error Failed at the get-coding-curricula@0.1.230 postversion script 'git push && git push --tags'.
 >>>>>>> cf0a18869aa6186e0ed3363a43d23c7dfe03c161
+=======
+28 error get-coding-curricula@0.1.233 postversion: `git push && git push --tags`
+28 error Exit status 1
+29 error Failed at the get-coding-curricula@0.1.233 postversion script 'git push && git push --tags'.
+>>>>>>> a0c84221c5dad06819959b7a7a09c91240ae89de
 29 error Make sure you have the latest version of node.js and npm installed.
 29 error If you do, this is most likely a problem with the get-coding-curricula package,
 29 error not with npm itself.
