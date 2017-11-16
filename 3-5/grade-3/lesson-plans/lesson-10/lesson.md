@@ -47,7 +47,7 @@ In lesson 10, coders use the coding skills they’ve learned to create multiple 
 >>“Today we are going to use everything we have learned so far and focus on just two different challenges. You are going to have an opportunity to solve Challenge 1 in more than just one way with a team of coders. Then, we will share out the different code solutions you came up with. Afterward, we will independently try Challenge 2 to solve it with different code solutions.”
 
 <note type='tip'>
-Ensure that coders  are contributing to the conversation with any and all observations to guide them to the:
+Guide them to the:
 
 - Goal of the challenge
 - Position of the PixelBot
@@ -55,17 +55,13 @@ Ensure that coders  are contributing to the conversation with any and all observ
 - Presence of starter code
 - Code blocks available
 
-As coders are making observations, validate their noticings with a “Thank you” or nod of the head to avoid evaluating with “Correct” or “Incorrect”. You can also write student noticings on the board as a means to validate coders.
-
-This helps to make coders feel comfortable with contributing while still refraining from validating just one way of thinking or solution
-
-Ask the follow up questions if the initial noticing question doesn’t drive students to think deeper about the challenge.
+As coders are making observations, validate their noticings with a “Thank you” and avoid evaluating with “Correct” or “Incorrect”. Validate coders by writing their noticing on your copied slide/white board. Ask the follow up questions if the initial noticing question doesn’t drive students to think deeper about the challenge.
 </note>
 
 - [ ] **Unpack** Challenge One as a whole class.
 
-<iconp type='question'>**What do you notice?**</iconp>
-<iconp type='question'>What do we want the pixelbot to do?</iconp>
+<iconp type='question'>What do you notice?</iconp>
+<iconp type='question'>What do we want the PixelBot to do?</iconp>
 <iconp type='question'>Do you see any patterns?</iconp>
 <br/>
 
@@ -73,10 +69,10 @@ Ask the follow up questions if the initial noticing question doesn’t drive stu
 - [ ] **Think-Pair-Share:** Have coders think for 20 seconds and then turn to their partner to discuss the path they plan on coding for the pixelbot. Then share out whole group.
 
 <iconp type='question'>What is your plan?</iconp>
-- What would you do first? What else could you do first?
+<iconp type='question'>What would you do first? What else could you do first?</iconp>
 
 <note type='tip'>
-As you look for different solutions around the class, it helps to do a little pre-work. Before the lesson, jot down as many solutions that you can come up with for Challenge 1. Then look for coders around the classroom that have used these solutions.
+Pre-work: Before the lesson, jot down as many solutions that you can come up with for Challenge 1. Then look for coders around the classroom that have used these solutions.
 
 As you identify coders who can share their solutions, prepare them by asking them questions to explain their code. The goal is to get coders to explain their code in more detail.
 Examples:
@@ -88,7 +84,7 @@ Examples:
 ## 2. Explore: Multiple Solutions (10 min)
 - **Location:** Desks
 - [ ] **Team Exploration:** Coders login to PixelBots and solve the first challenge three different ways in teams. (They will complete Challenge One A, B and C).
-  - Assign coders to teams of 2 - 4 students and have them sit in a group table together.
+  - Assign coders to teams of 2 - 4 students and have them sit in a group table together. To encourage coders to work together, you can have them pair up at one computer.
 
 - [ ] **Explain** where coders will write their code, showing them the playlist on the main screen as you explain.
 >>“Okay coders, it’s time to login and write the code for Challenge One. You are going to have 10 minutes to solve the challenge in 3 different ways with your team. You will work together to show 3 different solutions on Challenge 1A, 1B, and 1C.”
@@ -113,17 +109,17 @@ Examples:
 
 - [ ] **Share Out:** Display two solutions that the team of coders from the Explore section wrote. Have the team decide two coders to be their speakers to explain their code to the class.
 
-<iconp type='question'>Explain your code. How did you solve the challenge in this way?</iconp>
+<iconp type='question'>Explain how you solved your challenge.</iconp>
 <br/>
 
 - [ ] **Think-Pair-Share:** Display two of the solutions in different windows, so coders can see them side by side. Have coders turn and talk to compare the various solutions.
 
-<iconp type='question'>Which solution do you like? Why?</iconp>
+<iconp type='question'>If you were to code this only one time, which solution would you code? Why?</iconp>
 <br/>
 
 - [ ] **Unpack** Challenge Two as a whole class.
 
-<iconp type='question'>**What do you notice?**</iconp>
+<iconp type='question'>What do you notice?</iconp>
 <iconp type='question'>What is the goal?</iconp>
 <iconp type='question'>What do we want the pixelbot to do?</iconp>
 <iconp type='question'>Do you see any patterns?</iconp>
@@ -155,7 +151,7 @@ When facilitating debugging:
 - **Location:** Rug
 - [ ] **Share Out:** Display the various solutions that pre-selected coders from the Elaborate section used. Have each coder explain their code to the class.
 
-<iconp type='question'>Explain your code. How did you solve the challenge in this way?</iconp>
+<iconp type='question'>Explain how you solved your challenge.</iconp>
 <iconp type='question'>What other ways did you try? (Pull up a different challenge on their playlist and have them explain their code.)</iconp>
 <br/>
 
