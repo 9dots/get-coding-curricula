@@ -67,7 +67,7 @@ In Lesson 5, students move on from deleting unwanted lines of code to adding in 
 - [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity. Strategies include using the stepper tool (yellow button), inserting code instead of completely rewriting it, playing the code to see what happens first, planning out the code in the air, etc.
 
 ## 3. Explain: Debugging (12 mins)
-- [ ] **Think, Pair, Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
+- [ ] **Think, Pair, Share:** Students share responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
 
 <iconp type='question'>What changes did you make?</iconp>
 <iconp type='question'>How did you know to make those changes?</iconp>
