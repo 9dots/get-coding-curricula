@@ -13,7 +13,7 @@ In lesson 3.11, students will be reviewing the objectives learned in lessons 1-1
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. **Review:** (5 min)
+1. **Review** (5 min)
 1. **Independent Practice** (45 mins)
 1. **Reflection** (10 mins)
 
