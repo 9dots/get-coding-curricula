@@ -14,6 +14,7 @@
     * [Lesson 09: Find the Bug](k-2/kindergarten/lesson-plans/lesson-9/lesson.md)
     * [Lesson 10: Where is the Bug?](k-2/kindergarten/lesson-plans/lesson-10/lesson.md)
     * [Lesson 11: Code-a-thon](k-2/kindergarten/lesson-plans/lesson-11/lesson.md)
+    * [Lesson 12: Review](k-2/kindergarten/lesson-plans/lesson-12/lesson.md)
   * [1st Grade](k-2/grade-1/README.md)
     * [Lesson 01: Move Forward & Turn](k-2/grade-1/lesson-plans/lesson-1/lesson.md)
     * [Lesson 02: Multiple Solutions](k-2/grade-1/lesson-plans/lesson-2/lesson.md)
