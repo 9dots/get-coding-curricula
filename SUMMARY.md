@@ -56,6 +56,7 @@
       * [Lesson 10: Multiple Solutions](3-5/grade-4/lesson-plans/lesson-10/lesson.md)
       * [Lesson 11: Review](3-5/grade-4/lesson-plans/lesson-11/lesson.md)
       * [Lesson 12: Independent Coding Challenge](3-5/grade-4/lesson-plans/lesson-12/lesson.md)
+      * [Lesson 13: Discovering Functions](3-5/grade-4/lesson-plans/lesson-13/lesson.md)
 * [Archived](archived/README.md)
   * [2016-2017 3rd Grade](archived/grade-3-archived/README.md)
       * [Lesson 1: I am a Coder](archived/grade-3-archived/lesson-plans/lesson-1.md)
