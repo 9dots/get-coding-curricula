@@ -27,6 +27,7 @@
     * [Lesson 10: Bug Catchers II](k-2/grade-1/lesson-plans/lesson-10/lesson.md)
     * [Lesson 11: Bug Catchers III](k-2/grade-1/lesson-plans/lesson-11/lesson.md)
     * [Lesson 12: Review](k-2/grade-1/lesson-plans/lesson-12/lesson.md)
+    * [Lesson 13: ICC](k-2/grade-1/lesson-plans/lesson-13/lesson.md)
 * [Grades 3-5](3-5/README.md)
   * [3rd Grade](3-5/grade-3/README.md)
       * [Lesson 00: Digital Literacy](3-5/grade-3/lesson-plans/lesson-00/lesson.md)
