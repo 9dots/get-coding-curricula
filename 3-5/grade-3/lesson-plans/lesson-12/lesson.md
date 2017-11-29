@@ -27,7 +27,7 @@ In lesson 3.12, students will be independently completing a playlist based on th
 - [ ] Pencils
 - [ ] Computers
 - [ ] Journals
-- [ ] [3th Grade ICC I Playlist | Code: 2GQQI][playlist]
+- [ ] [3rd Grade ICC I Playlist | Code: 2GQQI][playlist]
 - [ ] Survey: [tinyurl.com/coders17][survey]
 </note>
 
@@ -47,7 +47,7 @@ In lesson 3.12, students will be independently completing a playlist based on th
 
 ## 1. Introduction (5 min)
 - [ ] **Motivate** students for today’s challenge.
->>““Today is an exciting day! Last week we reviewed our coding superpowers and strengthened them.”
+>>“Today is an exciting day! Last week we reviewed our coding superpowers and strengthened them.”
 
 - [ ] **Identify** challenge types by looking at the icons on the top left hand corner of the page, next to the Challenge title. Coder should also notice changes in buttons or additions in code blocks.
 >>“So far, you learned how to read, write, and debug your code. Today, you will get to use those superpowers to do an Independent Coding Challenge!”
