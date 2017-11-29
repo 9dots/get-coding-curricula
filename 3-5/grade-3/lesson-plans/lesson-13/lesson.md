@@ -23,9 +23,7 @@ In lesson 3.13, students will be introduced to conditionals. They will explore c
 - [ ] [Playlist: 3.13 Demo | Code: YXY2N][demo]
 
 ###### Student Materials:
-- [ ] Pencils
 - [ ] Computers
-- [ ] Journals
 - [ ] [Playlist: 3.13 Practice | Code: WYBQZ][playlist]
 </note>
 
@@ -154,6 +152,6 @@ When facilitating debugging:
 
 </notable>
 
-[slides]: https://docs.google.com/presentation/d/1gAdQkcAZ1zomocPzuNGeTfswf8xA-euA_XG7MgNeMDc/edit#slide=id.g250f5b3ef1_0_342
+[slides]: https://docs.google.com/presentation/d/1gAdQkcAZ1zomocPzuNGeTfswf8xA-euA_XG7MgNeMDc/edit?usp=sharing
 [demo]: https://www.pixelbots.io/playlist/-Kz1CuQ3yRUDNn1m5YBT/edit
 [playlist]: http://www.pixelbots.io/WYBQZ

@@ -18,6 +18,7 @@ In this lesson, students start by making predictions about a sequence of code wi
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
+- [ ] [Code Along Video][video] (linked in slideshow)
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
@@ -93,4 +94,5 @@ In this lesson, students start by making predictions about a sequence of code wi
 </notable>
 
 [slides]: https://docs.google.com/presentation/d/1Lfcmsq1cXu2kRZPxjMrBSv4k-tOFzib6u-2raWe6tTQ/edit?usp=sharing
+[video]: https://www.dropbox.com/s/eccuhbcomquowb4/4.13%20Code%20Along.mp4?dl=0
 [playlist]: http://www.pixelbots.io/7W6O2
