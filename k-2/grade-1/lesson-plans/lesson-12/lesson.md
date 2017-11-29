@@ -104,21 +104,24 @@ Circulate heavily in this lesson and use the teacher PixelBots platform to both 
 >>“In this part of the lesson, you must read the code and step through it using the buttons below the grid. You are only completing Challenge One and Two.”
 
 <br/>
+- [ ] **Independent Practice** Release students to complete Challenges One and Two independently.
+
 <note type='tip'>
 TIP: When using the teacher computer to review skills on the board, consider having all students sit on a rug to hold their attention. Direct students to move back to computers once they are ready to proceed to independent work.
 </note>
-- [ ] **Independent Practice** Release students to complete Challenges One and Two independently.
 
 **PART TWO:** Writing Loops
 
 *(Suggested Time: 14 minutes)*
 <br/>
 - [ ] **Review** how to complete writing challenges with students.
+
 >>“Coders, the second type of challenge that we have learned how to do is writing code. Let’s remind ourselves how to complete writing code challenges (have students read from the slide):
 
 - There is no code already written for you.
 - Look at the goal to see what you need to paint.
 - Use the code blocks to write code, and press play.
+
 >>“Your next four challenges will be all about writing code! The last two will be writing loops. Let’s quickly review how to write loops so you can be prepared!”
 
 - [ ] **Review** writing loops by looking ahead to Challenge Five.
@@ -150,11 +153,13 @@ TIP: When using the teacher computer to review skills on the board, consider hav
 *(Suggested Time: 10 minutes)*
 <br/>
 - [ ] **Review** how to complete debugging challenges with students.
+
 >>“Coders, the last type of challenge that we have learned how to do is debugging code. Let’s remind ourselves how to complete debugging code challenges (have students read from the slide):
 
--  There is code already written for you with a bug in it.
+- There is code already written for you with a bug in it.
 - Use the yellow stepper tool to go through code one step at a time.
 - Add code, delete code, or replace code.
+
 >>“Your next four challenges will be all about debugging code! You may see all types of bugs in your playlist, and it’s your job to figure out the best way to solve each challenge. Let’s take a look at Challenge Seven for an example.”
 
 - [ ]**Reveal** the bug in the Challenge by playing the code line-by-line using the yellow button.
@@ -163,6 +168,7 @@ TIP: When using the teacher computer to review skills on the board, consider hav
 </iconp>
 <iconp type='answer'>The bug is on line three! You need to delete the extra turn.
 </iconp>
+
 >>“Great job finding the bug! This time, we had unwanted code. But that might not be the case every time! Make sure to use the yellow stepper tool to read code line-by-line and find each bug.”
 
 - [ ]**Independent Practice:** After reviewing Challenge Seven, release students to complete Challenges Seven through Ten independently.

@@ -6,17 +6,10 @@
 2 info using npm@3.7.5
 3 info using node@v8.9.0
 4 info git [ 'status', '--porcelain' ]
-<<<<<<< HEAD
 5 info lifecycle get-coding-curricula@0.1.237~preversion: get-coding-curricula@0.1.237
 6 silly lifecycle get-coding-curricula@0.1.237~preversion: no script for preversion, continuing
 7 verbose version.write data { name: 'get-coding-curricula',
 7 verbose version.write   version: '0.1.237',
-=======
-5 info lifecycle get-coding-curricula@0.1.234~preversion: get-coding-curricula@0.1.234
-6 silly lifecycle get-coding-curricula@0.1.234~preversion: no script for preversion, continuing
-7 verbose version.write data { name: 'get-coding-curricula',
-7 verbose version.write   version: '0.1.234',
->>>>>>> bb6a69a082a56e2d1502d425af3a8b8b4affc2f7
 7 verbose version.write   description: 'get coding curricula',
 7 verbose version.write   main: 'index.js',
 7 verbose version.write   scripts:
