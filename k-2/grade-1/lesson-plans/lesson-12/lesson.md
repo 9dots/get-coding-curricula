@@ -73,9 +73,10 @@ In Lesson 12, students prepare for their Independent Coding Challenge in the nex
 <br/>
 - [ ] **Define** the three different types of challenges by having students read their descriptions.
 
-- **Reading challenges:** Read the code line-by-line and act it out.
-- **Writing challenges:** Look at the target grid and plan how to paint. Write the code and check it.
-- **Debugging challenges:** Check the already-written code to find the bug. Fix it and check.
+  - **Reading challenges:** Read the code line-by-line and act it out.
+  - **Writing challenges:** Look at the target grid and plan how to paint. Write the code and check it.
+  - **Debugging challenges:** Check the already-written code to find the bug. Fix it and check.
+
 >>“We are going to begin our review day. But before you begin, I want to show you how you can find what type of challenge you are working on. (Point to the icon in the upper left-hand corner of each challenge.) I’ve noticed so many of you are looking closely at exactly what kinds of challenges you are completing, and those are practices good coders do!”
 
 <note type='tip'>The Explore section of the lesson is split into three parts based on skills:
@@ -97,6 +98,7 @@ In Lesson 12, students prepare for their Independent Coding Challenge in the nex
 - There is no goal for the PixelBot to paint.
 - Read the code top to bottom.
 - Use the controls below the grid to walk through the code.
+
 <note type='tip'>
 Circulate heavily in this lesson and use the teacher PixelBots platform to both target student misconceptions and judge when to move on as the entire class progresses through the playlist.
 </note>
@@ -109,7 +111,7 @@ Circulate heavily in this lesson and use the teacher PixelBots platform to both 
 <note type='tip'>
 TIP: When using the teacher computer to review skills on the board, consider having all students sit on a rug to hold their attention. Direct students to move back to computers once they are ready to proceed to independent work.
 </note>
-
+<br/>
 **PART TWO:** Writing Loops
 
 *(Suggested Time: 14 minutes)*
@@ -118,13 +120,14 @@ TIP: When using the teacher computer to review skills on the board, consider hav
 
 >>“Coders, the second type of challenge that we have learned how to do is writing code. Let’s remind ourselves how to complete writing code challenges (have students read from the slide):
 
-- There is no code already written for you.
-- Look at the goal to see what you need to paint.
-- Use the code blocks to write code, and press play.
+  - There is no code already written for you.
+  - Look at the goal to see what you need to paint.
+  - Use the code blocks to write code, and press play.
 
 >>“Your next four challenges will be all about writing code! The last two will be writing loops. Let’s quickly review how to write loops so you can be prepared!”
 
 - [ ] **Review** writing loops by looking ahead to Challenge Five.
+
 >>“In Challenge Five, we see that we have a goal grid, which is blue and brown. Now, I could code this without a loop, but I see at the top of the grid that I must stay within seven lines of code, meaning I should likely use a loop.”
 
 <note type='tip'>If a large portion of the class still struggles with writing loops in Challenge Six, review the challenge before moving on to the next portion of the lesson.
@@ -156,13 +159,14 @@ TIP: When using the teacher computer to review skills on the board, consider hav
 
 >>“Coders, the last type of challenge that we have learned how to do is debugging code. Let’s remind ourselves how to complete debugging code challenges (have students read from the slide):
 
-- There is code already written for you with a bug in it.
-- Use the yellow stepper tool to go through code one step at a time.
-- Add code, delete code, or replace code.
+  - There is code already written for you with a bug in it.
+  - Use the yellow stepper tool to go through code one step at a time.
+  - Add code, delete code, or replace code.
 
 >>“Your next four challenges will be all about debugging code! You may see all types of bugs in your playlist, and it’s your job to figure out the best way to solve each challenge. Let’s take a look at Challenge Seven for an example.”
 
 - [ ]**Reveal** the bug in the Challenge by playing the code line-by-line using the yellow button.
+
 - [ ]**Think-Pair-Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
 <iconp type='question'>What line is the bug on? What should we do?
 </iconp>

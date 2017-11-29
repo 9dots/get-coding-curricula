@@ -31,7 +31,7 @@ In Lesson 13, students put together everything they have learned about coding so
 - [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slides]
-- [ ] [Engage Video][Engage Video]
+- [ ] [Engage Video][video]
 
 ###### Student Materials:
 - [ ] Computers
@@ -119,8 +119,9 @@ TIP: If students need dividers to keep from letting their eyes stray, feel free 
 - Look at the goal to see what you need to paint.
 - Use the code blocks to write code, and press play.
 
->>““Your next two challenges will be all about writing code!”
+>>“Your next two challenges will be all about writing code!”
 
+<br/>
 - [ ] **Explain** to students how to go back to the challenge if they finish early.
 >>“If you ever need to go back to see the whole playlist, you can always click the challenge name at the top left. In this case, you would click 1st Grade ICC 1 and it will show you all the challenges.”
 
@@ -160,6 +161,7 @@ TIP: When students struggle, support them in the mechanics for completing a chal
 <iconp type='question'>**Have you used the yellow stepper tool to go one step at a time?**</iconp>
 <iconp type='question'>**Can you delete some code? Can you add code?**</iconp>
 
+<br/>
 - [ ]**Extension:** If students complete the ICC, they can go back to work on any of the bonus playlists from Lesson 1-11.
 
 ## 3. Evaluate:  Reflection (5 min)
@@ -174,5 +176,5 @@ TIP: When students struggle, support them in the mechanics for completing a chal
 </notable>
 
 [slides]: https://docs.google.com/presentation/d/1R8D8d4iYUVdoz5Nggv-JKEOuYiYVGBWtUJk-lvOGWEs/edit?usp=sharing
+[video]: https://www.dropbox.com/s/a046ld1ouwv9mfr/ZoraBall-7yo-videogame.mp4?dl=0
 [practice]: http://www.pixelbots.io/GDD3Y
-[Engage Video]:https://drive.google.com/file/d/0B2wBzr9vcXjPdEppeUN2aV9KbFk/view?usp=sharing

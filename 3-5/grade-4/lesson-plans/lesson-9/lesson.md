@@ -11,7 +11,7 @@ In this lesson, students learn how to write a program with a conditional stateme
 <iconp src='/icons/agenda.png'>### Agenda (60 min)</iconp>
 1. Engage: Lights On (5 mins)
 1. Explore: Write the Code (10 mins)
-1. Explain: Conditions (10 mins)
+1. Explain: Conditionals (10 mins)
 1. Elaborate: PixelBots (20 mins)
 1. Evaluate: Exit Ticket/Reflection (15 mins)
 
