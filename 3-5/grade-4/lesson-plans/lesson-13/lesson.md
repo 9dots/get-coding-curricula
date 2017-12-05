@@ -50,8 +50,8 @@ In this lesson, students start by making predictions about a sequence of code wi
 
 - [ ] **Revising predictions:** Have students share out how their thinking has changed now that they’ve seen the code run.
 <iconp type='question'>What did you notice?</iconp>
-<iconp type='question'>What did you notice?</iconp>
-<iconp type='question'>What did you notice?</iconp>
+<iconp type='question'>Why do you think it did that?</iconp>
+<iconp type='question'>Why do you think functions are useful?</iconp>
 
 ## 2. Explore/Explain: Reading Code (17 mins)
 
