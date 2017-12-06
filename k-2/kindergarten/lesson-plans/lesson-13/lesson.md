@@ -1,33 +1,37 @@
-<header class='header' title='Bug Detectives' subtitle='Lesson 13'/>
+<header class='header' title='Independent Coding Challenge' subtitle='Lesson K.13'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 13 students practice debugging code by adding missing lines of code.
+Lesson 13 is an opportunity for students to show what they have learned by taking the Independent Coding Challenge. Students work through a series of reading, writing, and debugging challenges.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-- I can add a missing line of code to fix a 6-10 line sequence of code.
+- I can step through a 2-5 line sequence of code.
+- I can step through a 6-10 line sequence of code.
+- I can write a 2-5 line sequence of code.
+- I can write a 6-10 line sequence of code.
+- I can find and remove a bug in a 2-5 line sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda (30 min)</iconp>
 
-1. Engage: Unpacking (10 min)
-1. Explore: Debug the Code (2 min)
-1. Explain: Debugging (8 min)
-1. Elaborate/Evaluate: PixelBots Playlist (10 min)
+1. **Elaborate:** Independent Coding Challenge (25 mins)
+1. **Evaluate:** Reflect (5 mins)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] [Playlist: K.12 Practice | Code: ][practice]
-- [ ] [Playlist: K.12 Bonus | Code: ][extension]
+- [ ] [Playlist: Kinder ICC I | Code: ERN8M][playlist]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Bug** - An error in code.
-- **Debugging** - Finding and fixing errors in code
+- **Code:** A set of instructions designed to be carried out by a computer.
+- **Sequence:** A set of actions that must be performed in the order they are written.
+- **Bug:** A mistake in code.
+- **Debugging:** Finding and fixing mistakes in code.
 
 </note>
 
@@ -47,82 +51,27 @@ In lesson 13 students practice debugging code by adding missing lines of code.
 
 <pagebreak/>
 
-## 1. Engage: Unpacking (10 min)
+## 1. Elaborate: Independent Coding Challenge (25 min)
+**Location:** Desks
+
+- [ ] **Introduce** the lesson.
+>> "In today's class  we are going to get a chance to show what we have learned by taking the Independent Coding Challenge!"
+
+- [ ] **Explain** that the class will be doing a mixture of reading, writing, and debugging challenges. Then show students how to identify the type of challenge in the playlist.
+>> "Just like in our last lesson, the playlist today will include reading, writing, and debugging challenges. When we start a challenge, we should always look at the picture in the corner to know what we should do in the challenge. When we see the yellow book it means that we will read the code and make our PixelBot move using the buttons below. When we see the blue pencil and paper it means that we will write code to solve the challenge and when we see the red square with the bug inside it means we will have to debug the code we are given.
+
+- [ ] **Independent Practice:** Students work through the Independent Coding Challenge.
+
+- [ ] **Monitor** the class for students in need of additional help. Student progress may be monitored through [schools.pixelbots.io][schools].
+
+## 2. Evaluate: Reflect (5 mins)
 **Location:** Rug
 
-- [ ] **Introduce** the first debugging challenge of the day.
->> "Alright coders, today we are going to continue practicing our debugging skills by fixing a type of bug we saw in a previous lesson. Our first challenge of the day is on the board. Take the next 20 seconds to do your best to observe the grid, PixelBot and code."
+- [ ] **Reflect:** Students reflect on how they feel about coding class.
 
-- [ ] **Unpack** the challenge as a class.
-
-<iconp type='question'>What do you notice about this challenge?</iconp>
-  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
-  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
-  <iconp type='question'>What color does it need to paint the square?</iconp>
-  <iconp type='question'>Which way is the PixelBot facing?</iconp>
-  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
-  <iconp type='question'>What else do you notice?</iconp>
-  <iconp type='question'>Do we have code to begin with?</iconp>
-
-<note>The first question in the engage activity is meant to give students the opportunity to call out anything they notice about the challenge. The subsequent questions are follow-ups that are meant to guide students to make the types of relevant observations they should make every time they approach a challenge. By the end of this activity students should be aware of the:
-  - goal of the challenge
-  - position of the PixelBot
-  - orientation of the PixelBot
-  - presence of starter code</note>
-
-## 2. Explore: Debug Code (2 min)
-**Location:** Desks
-
-- [ ] **Challenge** the class to fix the code without deleting everything and rewriting it.
->>“Your challenge in this activity is to fix the code by only changing the part that doesn’t work. You should not delete all of the code and rewrite it.”
-
-- [ ] **Independent Exploration:** Have students attempt to debug the code on their own.
-
-- [ ] **Monitor** the class to find students that can be called on to share their strategies in the next activity.
-
-<note>Beginning coders tend to debug by deleting all of their code and starting all over again. Emphasis should be put on motivating students to fix the source of the issue rather than rewriting all of their code.</note>
-
-## 3. Explain: Debugging Code (8 min)
-**Location:** Desks
-
-- [ ] **Think, Pair, Share:** Students share their responses to the questions below with a partner. After each partner has shared, call on students to share with the rest of the class.
-
-<iconp type='question'>What changes did you make?</iconp>
-<iconp type='question'>How did you know to make those changes?</iconp>
-
-- [ ] **Remind** students that one type of bug they will continue to encounter are extra lines of unwanted code.
-
-- [ ] **Introduce** challenge number two.
->>"Here is our second challenge today. Take the next 20 seconds to observe the grid, PixelBot and the code."
-
-- [ ] **Unpack** challenge number two as a class.
-
-<iconp type='question'>What do you notice about this challenge?</iconp>
-  <iconp type='question'>What is the PixelBot supposed to do?</iconp>
-  <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
-  <iconp type='question'>What color does it need to paint the square?</iconp>
-  <iconp type='question'>Which way is the PixelBot facing?</iconp>
-  <iconp type='question'>Is the PixelBot facing the square it needs to paint?</iconp>
-  <iconp type='question'>What else do you notice?</iconp>
-  <iconp type='question'>Do we have code to begin with?</iconp>
-
-  - [ ] **Model** debugging challenge number two.
-
-  ***>>"add scripting here after the playlist has been created"****
-
-## 4. Elaborate/Evaluate: PixelBot Playlist (10 min)
-**Location:** Desks
-- [ ] **Challenge** the class to debug the code in the playlist by adding lines of code that are missing.
->>"Your challenge is to debug the code in each challenge by only adding code that is missing. You should not delete all of the code and start over again."
-
-- [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
-
-- [ ] **Monitor** the class for students in need of additional assistance.
-
-- [ ] **Extension:** Have students who finish early work on the PixelBot extension playlist.
-
+<iconp type='question'>How did you feel about coding class today?</iconp>
 </notable>
 
-[slides]:
-[practice]:
-[extension]:
+[slides]: https://drive.google.com/open?id=1E6X5r-TAJrD0dh_ebB7jMzwht6uK4baPHSF9vZGmqE4
+[playlist]: http://www.pixelbots.io/ERN8M
+[schools]: http://www.schools.pixelbots.io
