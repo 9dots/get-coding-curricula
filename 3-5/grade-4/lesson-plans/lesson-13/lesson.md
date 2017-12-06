@@ -39,7 +39,7 @@ In this lesson, students start by making predictions about a sequence of code wi
 
 <pagebreak/>
 
-## 1. Engage:What is a Function? (8 min)
+## 1. Engage: What is a Function? (8 min)
 - [ ] **Making Predictions** Show students Challenge One. Have them make predictions about what the code will do. Document their predictions on the blank slide with their names.
 
 <iconp type='question'>What do you think this code will do?</iconp>
