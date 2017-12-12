@@ -160,8 +160,7 @@ For example:
 **Location:** Desks
 
 - [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
-- [ ] **Monitor** the class for students in need of additional assistance. If time permits, review
-- [ ] **Challenges** 4 and 5 with students by allowing them to share their coding process.
+- [ ] **Monitor** the class for students in need of additional assistance. If time permits, review challenges 4 and 5 with students by allowing them to share their coding process.
 - [ ] **Extension:** Have students who finish early work on the PixelBot bonus challenges.
 
 <note type='tip'>
