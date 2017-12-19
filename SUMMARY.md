@@ -31,6 +31,7 @@
     * [Lesson 13: ICC](k-2/grade-1/lesson-plans/lesson-13/lesson.md)
     * [Lesson 14: More Loops](k-2/grade-1/lesson-plans/lesson-14/lesson.md)
     * [Lesson 15: Loop and Loop Again](k-2/grade-1/lesson-plans/lesson-15/lesson.md)
+    * [Lesson 16: Loop and Loop Again II](k-2/grade-1/lesson-plans/lesson-16/lesson.md)
 * [Grades 3-5](3-5/README.md)
   * [3rd Grade](3-5/grade-3/README.md)
       * [Lesson 00: Digital Literacy](3-5/grade-3/lesson-plans/lesson-00/lesson.md)
