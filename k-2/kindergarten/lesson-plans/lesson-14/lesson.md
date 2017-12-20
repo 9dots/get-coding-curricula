@@ -95,17 +95,17 @@ The purpose of running the code is for students to notice that there is a bug in
 <iconp type='question'>How many squares does the PixelBot need to paint?</iconp>
 <iconp type='question'>Do we have code to begin with?</iconp>
 <iconp type='question'>What else do you notice?</iconp>
-
+<br/>
 - [ ] **Reveal** the bug to students by running the code.
 <iconp type='question'>What did the PixelBot do?</iconp>
 <iconp type='question'>What was the PixelBot supposed to do?</iconp>
 <br/>
 
-- [ ] **Model** debugging Challenge 2 in the playlist by using the stepper tool to find the extra line of code.
+- [ ] **Model** debugging Challenge 2 in the playlist by using the stepper tool to find the missing line of code.
 >>“When I step through the code with the yellow stepper button the PixelBot moves one step to the right and then it paints. This is not where I want it to paint. This means that this is where the bug is. If I add an ‘up’ block after the ‘move right’ block the PixelBot will be on the correct square when it paints.”
 
 ## 3. Elaborate/Evaluate: Debug (10 min)
-- [ ] **Challenge** the class to debug the code in the playlist by removing only the extra lines of code.
+- [ ] **Challenge** the class to debug the code in the playlist by adding the missing code.
 
 - [ ] **Independent Coding:** Students work through the rest of the challenges in the PixelBot playlist.
 

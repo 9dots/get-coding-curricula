@@ -211,15 +211,15 @@ As students gain comfort with the skill, consider pulling a small group of stude
 </note>
 <br/>
 
-## 5. Evaluate. Debrief (5 mins)
+## 5. Evaluate: Debrief (5 mins)
 **Location:** Desks
 - [ ] **Discuss** the question below as a class.
 <iconp type='question'>How did you feel while coding today and why?</iconp>
 <iconp type='question'>What did you learn today?</iconp>
 
 <note type='tip'>
-This debrief question aims to show the teacher more about students’ comfort and enjoyment with debugging. The purpose of asking students how they feel when coding is to allow students to reflect on their learning process. Allowing students a safe space to express their ideas with each other and with the teacher helps validate their thinking and feelings. As the teacher, make sure that all students have a chance to share their thinking and feelings with the class throughout the year.
-
+This debrief question aims to show the teacher more about students’ comfort and enjoyment with coding. The purpose of asking students how they feel when coding is to allow students to reflect on their learning process. Allowing students a safe space to express their ideas with each other and with the teacher helps validate their thinking and feelings. As the teacher, make sure that all students have a chance to share their thinking and feelings with the class throughout the year.
+<br/>
 The slideshow includes an array of emotions as a bank for students to choose from to support their answers to the debrief question.
 </note>
 <br/>
