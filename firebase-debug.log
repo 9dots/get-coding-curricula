@@ -1,0 +1,29 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /Users/Amanda_Trock/.nvm/versions/node/v8.9.0/bin/node /Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/.bin/firebase deploy
+[debug] CLI Version:  3.2.0
+[debug] Platform:     darwin
+[debug] Node Version: v8.9.0
+[debug] Time:         Fri Jan 12 2018 16:29:26 GMT-0800 (PST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/teach-get-coding 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/teach-get-coding/tokens 
+[debug] <<< HTTP RESPONSE 200
+[debug] Error: Firebase.authWithCustomToken failed: First argument must be a valid credential (a string).
+    at ng (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/firebase/lib/firebase-node.js:129:313)
+    at X.gg (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/firebase/lib/firebase-node.js:266:131)
+    at /Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/firebase-tools/lib/acquireRefs.js:14:19
+    at initializePromise (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/rsvp/dist/rsvp.js:588:5)
+    at new Promise (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/rsvp/dist/rsvp.js:1076:31)
+    at /Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/firebase-tools/lib/acquireRefs.js:12:12
+    at tryCatch (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/rsvp/dist/rsvp.js:538:12)
+    at invokeCallback (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/rsvp/dist/rsvp.js:553:13)
+    at publish (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/rsvp/dist/rsvp.js:521:7)
+    at flush (/Users/Amanda_Trock/Repositories/get-coding-curricula/node_modules/rsvp/dist/rsvp.js:2373:5)
+[error] 
+[error] Error: An unexpected error has occurred.
