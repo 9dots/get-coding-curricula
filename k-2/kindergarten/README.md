@@ -1,63 +1,19 @@
-# Kindergarten
+# Kindergarten Sequence
 
-![Kindergarten](../../images/precoder-two.jpg)
-
-## Purpose
-1. Empower students to use computational thinking practices to analyze problems, build solutions, and be creative.
-2. Empower teachers to teach coding / best practices in computational thinking instruction.
-3. Empowering students to share code to communicate their thinking , open their thinking up to critique, and revise their thinking.
-
-
-## Big Goals
-- Students will identify as coders.
-- Students will experience mistakes as learning opportunities.
-- Students will apply core computational thinking concepts (algorithms, pattern recognition, control, and abstraction) to problem solving.
-- Students will be fluent in reading, writing, and debugging code.
-- Students will share, defend, and revise their thinking based on evidence.
-
-## Understandings
-Students will understand that...
-
-1. Programs can be shared, discuss, critiqued, and revised.
-2. Programs are built iteratively and collaboratively through a cycle of planning, coding, and validating.
-3. Bugs in programs are inevitable and can be fixed
-systematically by comparing, finding, and fixing.
-4. Coders fearlessly take on problems and challenges and view mistakes as opportunities for reflection and learning.
-
-## Essential Questions
-1. How are algorithms, patterns and loops used to solve problems?
-2. What is the most efficient way to fix a bug in my code?
-3. How do I learn from a mistake?
-
-
-## Sequence
-
-| Title             | Description        | Objectives |Practice|
-| ------------------|--------------------| -----------|--------|
-| [Lesson 01: Mystery Robot](../kindergarten/lesson-plans/lesson-1/lesson.html)| In lesson 1 students are introduced to the concept of productive failure through a story about a little girl and her quest to build a magnificent machine. Students discuss their takeaways from the story and apply the productive failure mindset to solve a mystery.| I can identify what I learned from my mistakes.|Debugging |
-| [Lesson 02: pixelBotGo](../kindergarten/lesson-plans/lesson-2/lesson.html) |In lesson 2 students develop a set of commands to communicate with their pixelBot. The commands are then used to code solutions for a series of navigation challenges that require a single line of code.|I can develop and use a set of commands to direct my pixelBot’s movements.|Write|
-| [Lesson 03: Multiple Steps](../kindergarten/lesson-plans/lesson-3/lesson.html)|In lesson 3 students use multiple commands to direct their pixelBot’s movement.|I can use more than one command to move my pixelBot.|Write|
-| [Lesson 04: Step-By-Step](../kindergarten/lesson-plans/lesson-4/lesson.html)|In lesson 4 students practice reading code by stepping one line at a time in an unplugged space.|I can step through a 2-5 line sequence of code.|Read|
-| [Lesson 05: PixelBots](../kindergarten/lesson-plans/lesson-5/lesson.html)|In lesson 5 students begin writing code on the the PixelBot platform.|I can control the actions of my PixelBot with code.|Write|
-| [Lesson 06: Code Your PixelBot](../kindergarten/lesson-plans/lesson-6/lesson.html)|In lesson 6 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.|I can write a 2-5 line sequence of code.|Write|
-| [Lesson 07: Find the Bug](../kindergarten/lesson-plans/lesson-7/lesson.html)|In lesson 7 students are introduced to the concept of debugging. Students use the stepping skills practiced in the previous lesson to find and remove unwanted lines of code.|I can find and remove a bug in a 2-5 line sequence of code.|Debug|
-| [Lesson 08: Invisible Bugs](../kindergarten/lesson-plans/lesson-8/lesson.html)|In lesson 8 students continue debugging by identifying locations where code is missing. Students step through the sequence of code, identify where a line of code is missing, and add the missing code.|I can add a missing line of code to fix a 2-5 line sequence of code.|Debug|
-| [Lesson 09: Code-A-Thon](../kindergarten/lesson-plans/lesson-9/lesson.html)|In lesson 9 students tackle increasingly complex coding challenges by using the plan, code, validate protocol.|I can write a 6-10 line sequence of code. |Write|
-| [Lesson 10: Step-It-Up](../kindergarten/lesson-plans/lesson-10/lesson.html)|In lesson 10 students practice stepping through increasingly complex code.|I can step through a 6-10 line sequence of code.|Read|
-| [Lesson 11: Where is the Bug?](../kindergarten/lesson-plans/lesson-11/lesson.html)|In lesson 11 students use the compare, find, fix, debugging protocol to identify and remove bugs in increasingly complex code.|I can find and remove a bug in a 6-10 line sequence of code.|Debug|
-| [Lesson 12: Bug Detectives](../kindergarten/lesson-plans/lesson-12/lesson.html)|In lesson 12 students use the compare, find, fix debugging protocol to add missing lines of code to increasingly complex code.|I can add a missing line of code to fix a 6-10 line sequence of code.|Debug|
-| Lesson 13: Review|In lesson 13 students review in preparation for Independent Coding Challenge I. |I can write 2-10 line sequences of code. I can step through 2-10 line sequences of code. I can find and remove bugs in 2-10 line sequences of code. |Review|
-| Lesson 14: Independent Coding Challenge I|In lesson 14 students take the Independent Coding Challenge I.|I can write 2-10 line sequences of code. I can step through 2-10 line sequences of code. I can find and remove bugs in 2-10 line sequences of code. |Assessment|
-| Lesson 15: Patterns|In lesson 15 students learn how to identify the core of a pattern and the number of times it repeats. The lesson begins with an introduction to patterns in which students examine a series of color, number, shape, and animal patterns in order to develop a definition of a pattern as a class. Students then learn to continue existing patterns as a way to identify the core of a pattern.|I can identify the core of a pattern and the number of times it repeats.|Read|
-| Lesson 16: Patterns in Code|In lesson 16 students apply their ability to identify the core of a pattern and the number of times it repeats in the context of pixelBot code.|I can identify the core of a pattern and the number of times it repeats in a sequence of code|Read|
-| Lesson 17: Repeat It|In lesson 17 students apply their ability to identify the core of a pattern and the number of times it repeats to refactor sequences of pixelBot code with loops.|I can repeat a sequence of code.|Write|
-| Lesson 18: Looping Back|In lesson 18 students learn how to read loops and practice stepping through them.|I can step through a loop of code.|Read|
-| Lesson 19: Loopy Bugs|In lesson 19 students apply their ability to step through loops to find and remove bugs.|I can find and remove a bug in a loop of code.|Debug|
-| Lesson 20: Buggy Loops|In lesson 20 students apply their ability to step through loops to add missing lines of code to loops.|I can add a missing line of code to a loop.|Debug|
-| [Lesson 21: Decomposing Letters](../kindergarten/lesson-plans/lesson-21/lesson.html)|In lesson 21 students are introduced to decomposition. Students develop their own definition and learn to produce usable decompositions.|I can decompose an image into smaller, usable pieces.|Write|
-| [Lesson 22: Decompose and Code](../kindergarten/lesson-plans/lesson-22/lesson.html)|In lesson 22 students code images by using decomposition in the planning phase.|I can code a decomposed image.|Write|
-| [Lesson 23: Summarizing Sequences](../kindergarten/lesson-plans/lesson-23/lesson.html)| In lesson 23 students are introduced to summaries. Students practice summarizing code by stepping through pixelBot sequences that produce images on a grid. Students use the images and summarize them verbally using sentence stems.|I can summarize a sequence of code.|Read|
-| [Lesson 24: Summarizing Chunks]((../kindergarten/lesson-plans/lesson-24/lesson.html))|Lesson 24 builds on lesson 23’s introduction to summarizing. Students learn that in addition to summarizing a sequence of code as a whole, smaller chunks of code within that sequence can also be summarized.|I can summarize a chunk of code.|Read|
-| Lesson 25: Review|In lesson 25 students review in preparation for Independent Coding Challenge II.|I can write 2-10 line sequences of code. I can step through 2-10 line sequences of code. I can find and remove bugs in 2-10 line sequences of code. I can loop a sequence of code. I can step through a loop of code. I can find and remove a bug in a loop of code. I can add a missing line of code to a loop.|Review|
-| Lesson 26: Independent Coding Challenge II|In lesson 26 students take Independent Coding Challenge 2.|I can write 2-10 line sequences of code. I can step through 2-10 line sequences of code. I can find and remove bugs in 2-10 line sequences of code. I can loop a sequence of code. I can step through a loop of code. I can find and remove a bug in a loop of code. I can add a missing line of code to a loop.|Assess|
-| Lesson 27: Hackathon|In lesson 27 students practice their coding skills by working through a series of challenges. The day ends with a celebration of accomplishments.|I can use my coding skills to solve challenges.|Write|
+| Title             | Description        | Objectives |
+| ------------------|--------------------| -----------|
+|[Lesson 01: Mystery Robot](https://drive.google.com/open?id=1uZr3fvwxrdBftFL0jbRY1EaM9r5j-bC9XG1LCo0MJXk)|In lesson 1 students are introduced to the concept of productive failure through a story about a little girl and her quest to build a magnificent machine. Students discuss their takeaways from the story and apply the productive failure mindset to solve a mystery.|I can identify what I learned from my mistakes.|
+|[Lesson 02: PixelBot Go](https://drive.google.com/open?id=1CebXDU3qMrx2H1cx7Vw9juabUVq6f-PzXsqRNJyIl88) |In lesson 2 students develop a set of commands to communicate with their PixelBot. The commands are then used to code solutions for a series of navigation challenges that require a single line of code.|I can develop and use a set of commands to direct my PixelBot’s movements.|
+|[Lesson 03: Multiple Steps](https://drive.google.com/open?id=1nz95hjmBjFBcR0PVlhFFkXCb4H2rT14YqZ_od4XHFws)|In lesson 3 students use multiple commands to direct their PixelBot’s movement.|I can use more than one command to move my PixelBot.|
+|[Lesson 04: Step-By-Step](https://drive.google.com/open?id=1ZjKL3lwZmdnrzsJj5FDhGGg9hvYhF6gpbW9gtD-ntcQ)|In lesson 4 students practice reading code by stepping through it one line at a time on PixelBots.|I can step through a 2-5 line sequence of code.|
+|[Lesson 05: Step it Up](https://drive.google.com/open?id=180gTeHo3T4pv9_dRdilUq405yk2C3AchXk_PefHQXN8)|In lesson 5 students practice reading code by stepping through it one line at a time on PixelBots.|I can step through a 6-10 line sequence of code.|
+|[Lesson 06: PixelBots](https://drive.google.com/open?id=1Ko-CXrYpCt_eqVvZpb4t9zAbVVWzDiCtlS3xBu3vi4I)|In lesson 6, students learn to how to use commands to control the actions of a PixelBot. Students then apply this skill to write 2-5 line sequences of code.|I can control the actions of my PixelBot with code.|
+|[Lesson 07: Code Your PixelBot](https://drive.google.com/open?id=1-nrZucBrq6EMnCzjSFfjY2CZNuR6JC8Y9r9SorvDjXM)|In lesson 7 students continue writing code. The complexity of the challenges is increased by the minimum number of lines of code needed in the solution.|I can write a 2-5 line sequence of code.|
+|[Lesson 08: Code Your PixelBot II](https://drive.google.com/open?id=1J_muEjOCS_Ubd0PdBKfw1hKwYbJ9D5LCGBKK30G3XSg)|In lesson 8 students continue to practice writing code to solve challenges that are similar to those in lesson 7.|I can write a 2-5 line sequence of code.|
+|[Lesson 09: Find the Bug](https://drive.google.com/open?id=1so_ufRCu6WpzeIFavgvGRZmZj0FTrqG5TzrcZWtmGGE)|In lesson 9 students are introduced to the concept of debugging. Students use the stepping skills practiced in a previous lesson to find and remove unwanted lines of code.|I can find and remove a bug in a 2-5 line sequence of code.|
+|[Lesson 10: Where is the Bug?](https://drive.google.com/open?id=1RfCevwYTecDksz_w6haIoL48SKvPJXFvTunrEpbTnqo)|In lesson 10 students continue practicing their debugging skills by removing unwanted lines of code.|I can find and remove a bug in a 2-5 line sequence of code.|
+|[Lesson 11: Code-a-thon](https://drive.google.com/open?id=11b0Jk8TbD97xmpsKN5Ytkmu3dJctv92-aWYV4qJzlC0)|In lesson 11 students tackle increasingly complex coding challenges that require writing longer solutions.|I can write a 6-10 line sequence of code.|
+|[Lesson 12: Review](https://drive.google.com/open?id=1Gg1wXeQYsodPqoq4fr_ICjiA6U-zuLz4i6l8d4xUmKw)|In lesson 12 students review the concepts and skills covered in lessons 1-11 in preparation for the Independent Coding Challenge (ICC) in Lesson 13. Students practice by working through a PixelBot playlist that is aligned to the first ICC.|All objectives from lessons 1-11.|
+|[Lesson 13: Independent Coding Challenge I](https://drive.google.com/open?id=1flV6YZyhnV2NgOVdQu7D56GF32ZRbGBTvgGrQl9fLyY)|Lesson 13 is an opportunity for students to show what they have learned by taking the Independent Coding Challenge. Students work through a series of reading, writing, and debugging challenges.|All objectives from lessons 1-11.|
+|[Lesson 14: Invisible Bugs](https://drive.google.com/open?id=1Z4h3fpgVI4XJ23DlRn5-KBKZfuRm4XQ8YEGlg1fZbeA)|In lesson 14 students are introduced to a new type of bug. Students apply their debugging skills to fix code that is missing blocks.|I can add a missing line of code to fix a 2-5 line sequence of code.|
+|[Lesson 15: Bug Detectives](https://drive.google.com/open?id=1TDY0iQjCywXWo4jHg_6QUT-Xp2ounYjqOSzgVpr58sk)|In lesson 15 students continue debugging code with missing blocks. Students practice applying their debugging skills to challenges with increased line counts.|I can add a missing line of code to fix a 6-10 line sequence of code.|
