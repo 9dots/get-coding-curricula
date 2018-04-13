@@ -29,6 +29,7 @@
     * [Lesson 24: Writing Loops II](https://drive.google.com/open?id=1jEdLpwdwy11ETW8m3IpzG1itSuxlpD9_M0HNyMMynO4)
     * [Lesson 25: Review](https://drive.google.com/open?id=1cbLT5OFn0wyGqAagC6hJ1iLysFXt_q202-y713KHqw4)
     * [Lesson 26: Independent Coding Challenge II](https://drive.google.com/open?id=1tMhQHogopuL4vN_fmFgELdOFatjYmryLlJqmbXTgm-w)
+    * [Lesson 27: RainbowBot](https://drive.google.com/open?id=12edWl7ULrhwex7_rvlR_pCUnP8asPdP2BHWywe6DUII)
   * [1st Grade](k-2/grade-1/README.md)
     * [Lesson 01: Move Forward & Turn](https://drive.google.com/open?id=14lrCU5BHW6BbTqfSkd9BJXk60CwQI1uXUDSmwETQ-xQ)
     * [Lesson 02: Multiple Solutions](https://drive.google.com/open?id=1X9WrjHhupnZG1lJJsNP3FIlx-vNaFhHI-Ls4yX8XPkY)
